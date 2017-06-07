@@ -11,6 +11,7 @@
     <extensionMap>
       <mapping ext="gtpl" type="HTML" />
       <mapping pattern="conf" type="PLAIN_TEXT" />
+      <mapping ext="eex" type="XML" />
     </extensionMap>
   </component>
 </application>
