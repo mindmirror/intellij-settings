@@ -266,6 +266,12 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/hello/web/views/hello_view.ex" timestamp="1496886786161">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" timestamp="1485221306263">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -527,6 +533,12 @@
         <mark key="." line="51" column="60" />
         <mark key="^" line="51" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/hello/web/templates/hello/world.html.eex" timestamp="1496886741195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" timestamp="1485252579975">
         <mark key="'" line="117" column="0" />
         <mark key="[" line="7" column="12" />
@@ -742,8 +754,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/elixir/hello/web/router.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -758,19 +770,19 @@
         <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAjIE90aGVyIHNjb3BlcyBtYXkgdXNlIGN1c3RvbSBzdGFja3MuCiAgIyBzY29wZSAiL2FwaSIsIEhlbGxvIGRvCiAgIyAgIHBpcGVfdGhyb3VnaCA6YXBpCiAgIyBlbmQK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBkZWYgd29ybGQoY29ubiwgJXsibmFtZSIgPT4gbmFtZX0pIGRvCiAgICByZW5kZXIgY29ubiwgIndvcmxkLmh0bWwiLCBuYW1lOiBuYW1lCiAgZW5k</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAjIE90aGVyIHNjb3BlcyBtYXkgdXNlIGN1c3RvbSBzdGFja3MuCiAgIyBzY29wZSAiL2FwaSIsIEhlbGxvIGRvCiAgIyAgIHBpcGVfdGhyb3VnaCA6YXBpCiAgIyBlbmQK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIE90aGVyIHNjb3BlcyBtYXkgdXNlIGN1c3RvbSBzdGFja3MuCiAgIyBzY29wZSAiL2FwaSIsIEhlbGxvIGRvCiAgIyAgIHBpcGVfdGhyb3VnaCA6YXBpCiAgIyBlbmQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -778,13 +790,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">eyJhYmMifQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CXZhciAoCgkJY291bnRyeSBzdHJpbmcKCQlkYXRlIHN0cmluZwoJCXRpbWUgc3RyaW5nCgkJYXJlYSBzdHJpbmcKCQl0ZW1wIGZsb2F0MzIKCQlodW1pZCBpbnQKCQl1diBpbnQKCQlkZXNjIHN0cmluZwoJKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
