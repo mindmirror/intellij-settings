@@ -50,6 +50,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="18" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" timestamp="1496930846417">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="42" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
         <mark key="[" line="27" column="0" />
@@ -84,12 +90,25 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks3/main.go" timestamp="1484279869448">
         <mark key="'" line="39" column="33" />
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="11" />
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/router.ex" timestamp="1496930709556">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="19" column="42" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/server1/main.go" timestamp="1480910639076">
         <mark key="[" line="15" column="39" />
@@ -618,7 +637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/golang/src/gopl/ch06/intset/main.go" />
       <jump line="15" column="0" filename="$USER_HOME$/golang/src/gowiki/simpleserver.go" />
       <jump line="0" column="0" filename="$USER_HOME$/golang/src/gowiki/simpleserver.go" />
       <jump line="1" column="0" filename="$USER_HOME$/golang/src/gowiki/simpleserver.go" />
@@ -718,13 +736,14 @@
       <jump line="48" column="20" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="65" column="8" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/router.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/router.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SGVsbG8gPCU9IFN0cmluZy5jYXBpdGFsaXplIEBuYW1lICU+IQ==</text>
+        <text>@moduledoc false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SGVsbG8gPCU9IFN0cmluZy5jYXBpdGFsaXplIEBuYW1lICU+IQ==</text>
+        <text>@moduledoc false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoa293ZWF0aGVyXD4=</text>
@@ -732,37 +751,37 @@
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBkZWYgd29ybGQoY29ubiwgJXsibmFtZSIgPT4gbmFtZX0pIGRvCiAgICByZW5kZXIgY29ubiwgIndvcmxkLmh0bWwiLCBuYW1lOiBuYW1lCiAgZW5k</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIE90aGVyIHNjb3BlcyBtYXkgdXNlIGN1c3RvbSBzdGFja3MuCiAgIyBzY29wZSAiL2FwaSIsIEhlbGxvIGRvCiAgIyAgIHBpcGVfdGhyb3VnaCA6YXBpCiAgIyBlbmQK</text>
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBSdW1ibCBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBkZWYgd29ybGQoY29ubiwgJXsibmFtZSIgPT4gbmFtZX0pIGRvCiAgICByZW5kZXIgY29ubiwgIndvcmxkLmh0bWwiLCBuYW1lOiBuYW1lCiAgZW5k</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyJhYmMifQo=</text>
+        <text encoding="base64">ICAjIE90aGVyIHNjb3BlcyBtYXkgdXNlIGN1c3RvbSBzdGFja3MuCiAgIyBzY29wZSAiL2FwaSIsIEhlbGxvIGRvCiAgIyAgIHBpcGVfdGhyb3VnaCA6YXBpCiAgIyBlbmQK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CXZhciAoCgkJY291bnRyeSBzdHJpbmcKCQlkYXRlIHN0cmluZwoJCXRpbWUgc3RyaW5nCgkJYXJlYSBzdHJpbmcKCQl0ZW1wIGZsb2F0MzIKCQlodW1pZCBpbnQKCQl1diBpbnQKCQlkZXNjIHN0cmluZwoJKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyJhYmMifQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CXZhciAoCgkJY291bnRyeSBzdHJpbmcKCQlkYXRlIHN0cmluZwoJCXRpbWUgc3RyaW5nCgkJYXJlYSBzdHJpbmcKCQl0ZW1wIGZsb2F0MzIKCQlodW1pZCBpbnQKCQl1diBpbnQKCQlkZXNjIHN0cmluZwoJKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbih3KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJvcyIK</text>
+        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
