@@ -50,11 +50,11 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" timestamp="1496930846417">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="5" column="42" />
-        <mark key="^" line="5" column="42" />
-        <mark key="." line="5" column="42" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" timestamp="1496932636324">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -89,6 +89,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" timestamp="1496932357400">
+        <mark key="'" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
         <mark key="[" line="6" column="24" />
@@ -637,13 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/golang/src/gowiki/simpleserver.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/golang/src/gowiki/simpleserver.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/golang/src/gowiki/simpleserver.go" />
-      <jump line="6" column="0" filename="$USER_HOME$/golang/src/gowiki/simpleserver.go" />
-      <jump line="41" column="4" filename="$USER_HOME$/golang/src/gowiki/part2.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/golang/src/gowiki/part2.go" />
-      <jump line="10" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="0" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="0" column="0" filename="$USER_HOME$/golang/src/gowiki/part2.go" />
       <jump line="1" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
@@ -737,6 +733,13 @@
       <jump line="65" column="8" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/router.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/router.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" />
+      <jump line="4" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" />
+      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" />
+      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
