@@ -326,6 +326,13 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="3" />
@@ -652,7 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/golang/src/gowiki/simpleserver.go" />
       <jump line="6" column="0" filename="$USER_HOME$/golang/src/gowiki/simpleserver.go" />
       <jump line="41" column="4" filename="$USER_HOME$/golang/src/gowiki/part2.go" />
       <jump line="1" column="0" filename="$USER_HOME$/golang/src/gowiki/part2.go" />
@@ -752,10 +758,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/Projects/elixir/hello/web/router.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/hello/web/router.ex" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/elixir/hello/web/router.ex" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>z</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>z</text>
@@ -773,16 +780,16 @@
         <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAjIE90aGVyIHNjb3BlcyBtYXkgdXNlIGN1c3RvbSBzdGFja3MuCiAgIyBzY29wZSAiL2FwaSIsIEhlbGxvIGRvCiAgIyAgIHBpcGVfdGhyb3VnaCA6YXBpCiAgIyBlbmQK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBkZWYgd29ybGQoY29ubiwgJXsibmFtZSIgPT4gbmFtZX0pIGRvCiAgICByZW5kZXIgY29ubiwgIndvcmxkLmh0bWwiLCBuYW1lOiBuYW1lCiAgZW5k</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAjIE90aGVyIHNjb3BlcyBtYXkgdXNlIGN1c3RvbSBzdGFja3MuCiAgIyBzY29wZSAiL2FwaSIsIEhlbGxvIGRvCiAgIyAgIHBpcGVfdGhyb3VnaCA6YXBpCiAgIyBlbmQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -790,13 +797,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIE90aGVyIHNjb3BlcyBtYXkgdXNlIGN1c3RvbSBzdGFja3MuCiAgIyBzY29wZSAiL2FwaSIsIEhlbGxvIGRvCiAgIyAgIHBpcGVfdGhyb3VnaCA6YXBpCiAgIyBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyJhYmMifQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CXZhciAoCgkJY291bnRyeSBzdHJpbmcKCQlkYXRlIHN0cmluZwoJCXRpbWUgc3RyaW5nCgkJYXJlYSBzdHJpbmcKCQl0ZW1wIGZsb2F0MzIKCQlodW1pZCBpbnQKCQl1diBpbnQKCQlkZXNjIHN0cmluZwoJKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">eyJhYmMifQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
