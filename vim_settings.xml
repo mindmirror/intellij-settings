@@ -50,11 +50,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1496907201270">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1496910100980">
+        <mark key="'" line="15" column="48" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="15" column="48" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -90,11 +91,12 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1496901059486">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="39" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1496909781733">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+        <mark key="^" line="17" column="48" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks3/main.go" timestamp="1484279869448">
         <mark key="'" line="39" column="33" />
@@ -108,6 +110,12 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="15" column="39" />
         <mark key="^" line="16" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/templates/user/index.html.eex" timestamp="1496909606085">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/shopping/pricecheck.go" timestamp="1460623340719">
         <mark key="[" line="3" column="5" />
@@ -200,10 +208,11 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" timestamp="1485156410850">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/templates/user/user.html.eex" timestamp="1496909425161">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/github/github2.go" timestamp="1484008649911">
         <mark key="[" line="29" column="5" />
@@ -292,11 +301,6 @@
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" timestamp="1485221306263">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -702,17 +706,8 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch08/du3/du3.go" timestamp="1495502808915">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="72" column="48" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="70" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="58" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="49" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="54" column="31" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="64" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
@@ -809,19 +804,23 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
+      <jump line="3" column="17" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
+      <jump line="15" column="48" filename="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>timestamps</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoa293ZWF0aGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
+      <register name="0" type="4">
+        <text>timestamps</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgZGVmIGFsbChSdW1ibC5Vc2VyKSBkbwogICAgWyVSdW1ibC5Vc2Vye2lkOiAiMSIsIG5hbWU6ICJKb3PDqSIsIHVzZXJuYW1lOiAiam9zZXZhbGltIiwgcGFzc3dvcmQ6ICJlbGl4aXIifSwKICAgICAlUnVtYmwuVXNlcntpZDogIjIiLCBuYW1lOiAiQnJ1Y2UiLCB1c2VybmFtZTogInJlZHJhcGlkcyIsIHBhc3N3b3JkOiAiN2xhbmdzIn0sCiAgICAgJVJ1bWJsLlVzZXJ7aWQ6ICIzIiwgbmFtZTogIkNocmlzIiwgdXNlcm5hbWU6ICJjaHJpc21jY29yZCIsIHBhc3N3b3JkOiAicGh4In1dCiAgZW5kCiAgZGVmIGFsbChfbW9kdWxlKSwgZG86IFtdCgogIGRlZiBnZXQobW9kdWxlLCBpZCkgZG8KICAgIEVudW0uZmluZCBhbGwobW9kdWxlKSwgZm4gbWFwIC0+IG1hcC5pZCA9PSBpZCBlbmQKICBlbmQKCiAgZGVmIGdldF9ieShtb2R1bGUsIHBhcmFtcykgZG8KICAgIEVudW0uZmluZCBhbGwobW9kdWxlKSwgZm4gbWFwIC0+CiAgICAgIEVudW0uYWxsPyhwYXJhbXMsIGZuIHtrZXksIHZhbH0gLT4gTWFwLmdldChtYXAsIGtleSkgPT0gdmFsIGVuZCkKICAgIGVuZAogIGVuZAo=</text>
