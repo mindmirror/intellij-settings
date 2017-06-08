@@ -50,11 +50,11 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1496892431950">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="44" />
-        <mark key="^" line="1" column="44" />
-        <mark key="." line="1" column="44" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1496905008878">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -397,11 +397,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl/repo.ex" timestamp="1496894449952">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-        <mark key="^" line="8" column="48" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl/repo.ex" timestamp="1496904906570">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
         <mark key="[" line="8" column="23" />
@@ -429,7 +429,7 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl.ex" timestamp="1496894343175">
+      <file name="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl.ex" timestamp="1496904822939">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="6" />
@@ -805,11 +805,11 @@
       <jump line="70" column="6" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>defstruct [:id, :name, :username, :password]</text>
       </register>
       <register name="-" type="4">
-        <text>Rumbl.</text>
+        <text>defstruct [:id, :name, :username, :password]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoa293ZWF0aGVyXD4=</text>
@@ -818,30 +818,30 @@
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">CiAgZGVmIGFsbChSdW1ibC5Vc2VyKSBkbwogICAgWyVSdW1ibC5Vc2Vye2lkOiAiMSIsIG5hbWU6ICJKb3PDqSIsIHVzZXJuYW1lOiAiam9zZXZhbGltIiwgcGFzc3dvcmQ6ICJlbGl4aXIifSwKICAgICAlUnVtYmwuVXNlcntpZDogIjIiLCBuYW1lOiAiQnJ1Y2UiLCB1c2VybmFtZTogInJlZHJhcGlkcyIsIHBhc3N3b3JkOiAiN2xhbmdzIn0sCiAgICAgJVJ1bWJsLlVzZXJ7aWQ6ICIzIiwgbmFtZTogIkNocmlzIiwgdXNlcm5hbWU6ICJjaHJpc21jY29yZCIsIHBhc3N3b3JkOiAicGh4In1dCiAgZW5kCiAgZGVmIGFsbChfbW9kdWxlKSwgZG86IFtdCgogIGRlZiBnZXQobW9kdWxlLCBpZCkgZG8KICAgIEVudW0uZmluZCBhbGwobW9kdWxlKSwgZm4gbWFwIC0+IG1hcC5pZCA9PSBpZCBlbmQKICBlbmQKCiAgZGVmIGdldF9ieShtb2R1bGUsIHBhcmFtcykgZG8KICAgIEVudW0uZmluZCBhbGwobW9kdWxlKSwgZm4gbWFwIC0+CiAgICAgIEVudW0uYWxsPyhwYXJhbXMsIGZuIHtrZXksIHZhbH0gLT4gTWFwLmdldChtYXAsIGtleSkgPT0gdmFsIGVuZCkKICAgIGVuZAogIGVuZAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBAbW9kdWxlZG9jICIiIgogIEluIG1lbW9yeSByZXBvc2l0b3J5LgogICIiIg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBSdW1ibCBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBkZWYgYWxsKF9tb2R1bGUpIGRvCiAgICAKICBlbmQ=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBSdW1ibCBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBkZWYgYWxsKF9tb2R1bGUpIGRvCiAgICAKICBlbmQ=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
