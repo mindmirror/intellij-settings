@@ -122,11 +122,11 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496884857705">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-        <mark key="." line="4" column="27" />
+      <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/itoa/main.go" timestamp="1481251533576">
         <mark key="'" line="15" column="0" />
@@ -430,11 +430,11 @@
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/page_controller.ex" timestamp="1496883574875">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/page_controller.ex" timestamp="1496884969850">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
+      <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/page_controller.ex" timestamp="1496887391316">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/playsync.clj" timestamp="1434705309625">
         <mark key="[" line="1" column="32" />
@@ -533,11 +533,11 @@
         <mark key="." line="51" column="60" />
         <mark key="^" line="51" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/templates/hello/world.html.eex" timestamp="1496886741195">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/elixir/hello/web/templates/hello/world.html.eex" timestamp="1496887510855">
+        <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" timestamp="1485252579975">
         <mark key="'" line="117" column="0" />
@@ -589,12 +589,12 @@
         <mark key="^" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496885028537">
+      <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="17" column="0" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/db/db.go" timestamp="1460621726031">
         <mark key="[" line="4" column="1" />
@@ -754,11 +754,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/elixir/hello/web/router.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>z</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>z</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoa293ZWF0aGVyXD4=</text>
