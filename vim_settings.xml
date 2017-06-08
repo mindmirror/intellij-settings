@@ -91,12 +91,12 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1496915797049">
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1496917209116">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="20" column="43" />
-        <mark key="." line="20" column="43" />
-        <mark key="^" line="26" column="41" />
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks3/main.go" timestamp="1484279869448">
         <mark key="'" line="39" column="33" />
@@ -811,10 +811,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>= Repo.insert(changeset)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoa293ZWF0aGVyXD4=</text>
@@ -823,22 +823,22 @@
         <text>timestamps</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgZGVmIGFsbChSdW1ibC5Vc2VyKSBkbwogICAgWyVSdW1ibC5Vc2Vye2lkOiAiMSIsIG5hbWU6ICJKb3PDqSIsIHVzZXJuYW1lOiAiam9zZXZhbGltIiwgcGFzc3dvcmQ6ICJlbGl4aXIifSwKICAgICAlUnVtYmwuVXNlcntpZDogIjIiLCBuYW1lOiAiQnJ1Y2UiLCB1c2VybmFtZTogInJlZHJhcGlkcyIsIHBhc3N3b3JkOiAiN2xhbmdzIn0sCiAgICAgJVJ1bWJsLlVzZXJ7aWQ6ICIzIiwgbmFtZTogIkNocmlzIiwgdXNlcm5hbWU6ICJjaHJpc21jY29yZCIsIHBhc3N3b3JkOiAicGh4In1dCiAgZW5kCiAgZGVmIGFsbChfbW9kdWxlKSwgZG86IFtdCgogIGRlZiBnZXQobW9kdWxlLCBpZCkgZG8KICAgIEVudW0uZmluZCBhbGwobW9kdWxlKSwgZm4gbWFwIC0+IG1hcC5pZCA9PSBpZCBlbmQKICBlbmQKCiAgZGVmIGdldF9ieShtb2R1bGUsIHBhcmFtcykgZG8KICAgIEVudW0uZmluZCBhbGwobW9kdWxlKSwgZm4gbWFwIC0+CiAgICAgIEVudW0uYWxsPyhwYXJhbXMsIGZuIHtrZXksIHZhbH0gLT4gTWFwLmdldChtYXAsIGtleSkgPT0gdmFsIGVuZCkKICAgIGVuZAogIGVuZAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBAbW9kdWxlZG9jICIiIgogIEluIG1lbW9yeSByZXBvc2l0b3J5LgogICIiIg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBSdW1ibCBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -846,13 +846,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBSdW1ibCBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICBkZWYgYWxsKF9tb2R1bGUpIGRvCiAgICAKICBlbmQ=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
