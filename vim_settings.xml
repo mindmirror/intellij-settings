@@ -50,11 +50,11 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1496905008878">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1496905973031">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -140,8 +140,8 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" timestamp="1496900768048">
-        <mark key="'" line="70" column="6" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" timestamp="1496905691342">
+        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/itoa/main.go" timestamp="1481251533576">
         <mark key="'" line="15" column="0" />
@@ -600,7 +600,7 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496894429220">
+      <file name="/Dummy.txt" timestamp="1496906219517">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -791,11 +791,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
@@ -803,6 +798,11 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
       <jump line="70" column="6" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
