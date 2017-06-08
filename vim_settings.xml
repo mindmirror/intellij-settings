@@ -50,11 +50,11 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1496905973031">
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1496907201270">
         <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -397,10 +397,10 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl/repo.ex" timestamp="1496904906570">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl/repo.ex" timestamp="1496906961613">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
@@ -520,6 +520,12 @@
         <mark key="]" line="23" column="24" />
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170608073526_create_user.exs" timestamp="1496907447710">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/golang/src/myapp/app/views/flash.html" timestamp="1480578625315">
         <mark key="'" line="20" column="0" />
@@ -806,10 +812,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>defstruct [:id, :name, :username, :password]</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>defstruct [:id, :name, :username, :password]</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoa293ZWF0aGVyXD4=</text>
