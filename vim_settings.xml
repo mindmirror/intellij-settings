@@ -183,6 +183,13 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input/login.gtpl" timestamp="1466411906270">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="32" />
@@ -597,7 +604,7 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497017426490">
+      <file name="/Dummy.txt" timestamp="1497063609720">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -695,7 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="45" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="36" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="21" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
@@ -795,6 +801,7 @@
       <jump line="28" column="33" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
       <jump line="27" column="15" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
       <jump line="22" column="35" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
