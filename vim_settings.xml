@@ -440,11 +440,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/controllers/page_controller.ex" timestamp="1497173449932">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="4" column="54" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/controllers/page_controller.ex" timestamp="1497175104254">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch06/intset/main.go" timestamp="1484551321492">
         <mark key="'" line="11" column="0" />
@@ -609,12 +609,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497171975748">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497175069711">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="32" />
+        <mark key="[" line="41" column="56" />
+        <mark key="]" line="41" column="75" />
+        <mark key="." line="41" column="75" />
+        <mark key="^" line="41" column="75" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" timestamp="1485252579975">
         <mark key="'" line="117" column="0" />
@@ -830,10 +830,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>redirect_test</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>redirect_test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
@@ -841,14 +841,14 @@
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoImFkbWluLmh0bWwiKQogICAgfD4gcmVuZGVyKCJpbmRleC5odG1sIik=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIldlbGNvbWUgdG8gUGhvZW5peCwgZnJvbSBmbGFzaCBpbmZvISIpCiAgICB8PiBwdXRfZmxhc2goOmVycm9yLCAiTGV0J3MgcHJldGVuZHdlIGhhdmUgYW4gZXJyb3IuIikK</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIldlbGNvbWUgdG8gUGhvZW5peCwgZnJvbSBmbGFzaCBpbmZvISIpCiAgICB8PiBwdXRfZmxhc2goOmVycm9yLCAiTGV0J3MgcHJldGVuZHdlIGhhdmUgYW4gZXJyb3IuIikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
@@ -857,7 +857,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -865,13 +865,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
