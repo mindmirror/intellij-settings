@@ -199,6 +199,12 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="49" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/shared_view.ex" timestamp="1497194856188">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input/login.gtpl" timestamp="1466411906270">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="32" />
@@ -279,12 +285,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl.ex" timestamp="1497011718256">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo1/main.go" timestamp="1460716275439">
         <mark key="[" line="9" column="12" />
@@ -869,11 +869,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbm4sICJub3RfZm91bmQuaHRtbCI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbm4sICJub3RfZm91bmQuaHRtbCI=</text>
+        <text>@moduledoc false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
@@ -882,22 +882,22 @@
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3Rlc3QoY29ubiwgX3BhcmFtcykgZG8KICAgIHRleHQgY29ubiwgIlJlZGlyZWN0ISIKICBlbmQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3Rlc3QoY29ubiwgX3BhcmFtcykgZG8KICAgIHRleHQgY29ubiwgIlJlZGlyZWN0ISIKICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzY29wZSAiLyIsIEhlbGxvUGhvZW5peCBkbwogICAgZ2V0ICIvcmVkaXJlY3RfdGVzdCIsIFBhZ2VDb250cm9sbGVyLCA6cmVkaXJlY3RfdGVzdCwgYXM6IDpyZWRpcmVjdF90ZXN0CiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBzY29wZSAiLyIsIEhlbGxvUGhvZW5peCBkbwogICAgZ2V0ICIvcmVkaXJlY3RfdGVzdCIsIFBhZ2VDb250cm9sbGVyLCA6cmVkaXJlY3RfdGVzdCwgYXM6IDpyZWRpcmVjdF90ZXN0CiAgZW5kCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoImFkbWluLmh0bWwiKQogICAgfD4gcmVuZGVyKCJpbmRleC5odG1sIik=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIldlbGNvbWUgdG8gUGhvZW5peCwgZnJvbSBmbGFzaCBpbmZvISIpCiAgICB8PiBwdXRfZmxhc2goOmVycm9yLCAiTGV0J3MgcHJldGVuZHdlIGhhdmUgYW4gZXJyb3IuIikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -905,7 +905,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIldlbGNvbWUgdG8gUGhvZW5peCwgZnJvbSBmbGFzaCBpbmZvISIpCiAgICB8PiBwdXRfZmxhc2goOmVycm9yLCAiTGV0J3MgcHJldGVuZHdlIGhhdmUgYW4gZXJyb3IuIikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
