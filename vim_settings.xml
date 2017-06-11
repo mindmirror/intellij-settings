@@ -440,11 +440,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/controllers/page_controller.ex" timestamp="1497171746354">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/controllers/page_controller.ex" timestamp="1497173449932">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="4" column="54" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch06/intset/main.go" timestamp="1484551321492">
         <mark key="'" line="11" column="0" />
@@ -829,11 +829,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIldlbGNvbWUgdG8gUGhvZW5peCwgZnJvbSBmbGFzaCBpbmZvISIpCiAgICB8PiBwdXRfZmxhc2goOmVycm9yLCAiTGV0J3MgcHJldGVuZHdlIGhhdmUgYW4gZXJyb3IuIikK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
@@ -841,11 +841,11 @@
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIldlbGNvbWUgdG8gUGhvZW5peCwgZnJvbSBmbGFzaCBpbmZvISIpCiAgICB8PiBwdXRfZmxhc2goOmVycm9yLCAiTGV0J3MgcHJldGVuZHdlIGhhdmUgYW4gZXJyb3IuIikK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoImFkbWluLmh0bWwiKQogICAgfD4gcmVuZGVyKCJpbmRleC5odG1sIik=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIldlbGNvbWUgdG8gUGhvZW5peCwgZnJvbSBmbGFzaCBpbmZvISIpCiAgICB8PiBwdXRfZmxhc2goOmVycm9yLCAiTGV0J3MgcHJldGVuZHdlIGhhdmUgYW4gZXJyb3IuIikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
@@ -854,10 +854,10 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -865,13 +865,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbm4KICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIiN7dXNlci5uYW1lfSBjcmVhdGVkISIpCiAgICB8PiByZWRpcmVjdCh0bzogdXNlcl9wYXRoKGNvbm4sIDppbmRleCkpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
