@@ -91,9 +91,6 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" timestamp="1496932357400">
-        <mark key="'" line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="7" column="15" />
@@ -144,6 +141,12 @@
         <mark key="]" line="18" column="14" />
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/templates/layout/app.html.eex" timestamp="1497191812986">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -453,6 +456,12 @@
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/config/dev.exs" timestamp="1497191765092">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/charcount/main.go" timestamp="1481536623895">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="45" column="61" />
@@ -498,6 +507,13 @@
         <mark key="]" line="27" column="13" />
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" timestamp="1497192326729">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" timestamp="1485250274094">
         <mark key="'" line="31" column="0" />
@@ -700,6 +716,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="33" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/templates/page/test.html.eex" timestamp="1497191803523">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/login.gtpl" timestamp="1466411429418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -738,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="48" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="70" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="58" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="49" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
@@ -838,13 +859,14 @@
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redirect</text>
+        <text encoding="base64">IGNvbm4sICJub3RfZm91bmQuaHRtbCI=</text>
       </register>
       <register name="-" type="4">
-        <text>redirect</text>
+        <text encoding="base64">IGNvbm4sICJub3RfZm91bmQuaHRtbCI=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
