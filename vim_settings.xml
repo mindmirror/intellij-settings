@@ -50,12 +50,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1496910100980">
-        <mark key="'" line="15" column="48" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="15" column="48" />
-        <mark key="." line="15" column="48" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" timestamp="1497024013719">
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="8" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -91,12 +91,14 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1496917209116">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" timestamp="1496932357400">
+        <mark key="'" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks3/main.go" timestamp="1484279869448">
         <mark key="'" line="39" column="33" />
@@ -105,17 +107,18 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/router.ex" timestamp="1497015001597">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="19" column="75" />
+        <mark key="." line="19" column="75" />
+        <mark key="^" line="19" column="75" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/server1/main.go" timestamp="1480910639076">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="15" column="39" />
         <mark key="." line="15" column="39" />
         <mark key="^" line="16" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/templates/user/index.html.eex" timestamp="1496909606085">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="5" column="40" />
-        <mark key="^" line="5" column="46" />
-        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/shopping/pricecheck.go" timestamp="1460623340719">
         <mark key="[" line="3" column="5" />
@@ -147,9 +150,6 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" timestamp="1496905691342">
-        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/itoa/main.go" timestamp="1481251533576">
         <mark key="'" line="15" column="0" />
@@ -208,12 +208,6 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/templates/user/user.html.eex" timestamp="1496909425161">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/github/github2.go" timestamp="1484008649911">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="31" column="22" />
@@ -258,6 +252,12 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl.ex" timestamp="1497011718256">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo1/main.go" timestamp="1460716275439">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
@@ -269,12 +269,6 @@
         <mark key="]" line="50" column="15" />
         <mark key="." line="50" column="15" />
         <mark key="^" line="50" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/views/user_view.ex" timestamp="1496895953057">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/helloworld/main.go" timestamp="1480327358623">
         <mark key="[" line="0" column="12" />
@@ -401,12 +395,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl/repo.ex" timestamp="1496906961613">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="31" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="32" />
@@ -433,26 +421,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl.ex" timestamp="1496904822939">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch06/intset/main.go" timestamp="1484551321492">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="68" column="27" />
         <mark key="]" line="71" column="36" />
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" timestamp="1496913120858">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="19" column="74" />
-        <mark key="." line="19" column="74" />
-        <mark key="^" line="19" column="74" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/charcount/main.go" timestamp="1481536623895">
         <mark key="[" line="43" column="5" />
@@ -525,12 +499,6 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170608073526_create_user.exs" timestamp="1496907447710">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="41" />
-      </file>
       <file name="$USER_HOME$/golang/src/myapp/app/views/flash.html" timestamp="1480578625315">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="16" column="9" />
@@ -544,6 +512,19 @@
         <mark key="]" line="26" column="47" />
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/priv/repo/migrations/20170609124523_create_user.exs" timestamp="1497012857101">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl/repo.ex" timestamp="1497011706326">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issueshtml/main.go" timestamp="1484014525836">
         <mark key="'" line="30" column="0" />
@@ -571,6 +552,12 @@
         <mark key="]" line="35" column="44" />
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/models/user.ex" timestamp="1497014610197">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="48" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input.go" timestamp="1466411191079">
         <mark key="'" line="25" column="4" />
@@ -610,7 +597,7 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496916469159">
+      <file name="/Dummy.txt" timestamp="1497017426490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -708,6 +695,17 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="48" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="45" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="36" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="30" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="39" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="72" column="48" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
+      <jump line="58" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="49" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="54" column="31" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="64" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
@@ -786,59 +784,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/hello/web/router.ex" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/elixir/hello/web/router.ex" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl.ex" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/lib/rumbl.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="70" column="6" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" />
-      <jump line="3" column="17" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
-      <jump line="15" column="48" filename="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" />
+      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl/repo.ex" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl/repo.ex" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl.ex" />
+      <jump line="8" column="33" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
+      <jump line="3" column="17" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
+      <jump line="21" column="21" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
+      <jump line="28" column="33" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
+      <jump line="27" column="15" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
+      <jump line="22" column="35" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>= Repo.insert(changeset)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoa293ZWF0aGVyXD4=</text>
+        <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>timestamps</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGVmIGFsbChSdW1ibC5Vc2VyKSBkbwogICAgWyVSdW1ibC5Vc2Vye2lkOiAiMSIsIG5hbWU6ICJKb3PDqSIsIHVzZXJuYW1lOiAiam9zZXZhbGltIiwgcGFzc3dvcmQ6ICJlbGl4aXIifSwKICAgICAlUnVtYmwuVXNlcntpZDogIjIiLCBuYW1lOiAiQnJ1Y2UiLCB1c2VybmFtZTogInJlZHJhcGlkcyIsIHBhc3N3b3JkOiAiN2xhbmdzIn0sCiAgICAgJVJ1bWJsLlVzZXJ7aWQ6ICIzIiwgbmFtZTogIkNocmlzIiwgdXNlcm5hbWU6ICJjaHJpc21jY29yZCIsIHBhc3N3b3JkOiAicGh4In1dCiAgZW5kCiAgZGVmIGFsbChfbW9kdWxlKSwgZG86IFtdCgogIGRlZiBnZXQobW9kdWxlLCBpZCkgZG8KICAgIEVudW0uZmluZCBhbGwobW9kdWxlKSwgZm4gbWFwIC0+IG1hcC5pZCA9PSBpZCBlbmQKICBlbmQKCiAgZGVmIGdldF9ieShtb2R1bGUsIHBhcmFtcykgZG8KICAgIEVudW0uZmluZCBhbGwobW9kdWxlKSwgZm4gbWFwIC0+CiAgICAgIEVudW0uYWxsPyhwYXJhbXMsIGZuIHtrZXksIHZhbH0gLT4gTWFwLmdldChtYXAsIGtleSkgPT0gdmFsIGVuZCkKICAgIGVuZAogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBAbW9kdWxlZG9jICIiIgogIEluIG1lbW9yeSByZXBvc2l0b3J5LgogICIiIg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbm4KICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIiN7dXNlci5uYW1lfSBjcmVhdGVkISIpCiAgICB8PiByZWRpcmVjdCh0bzogdXNlcl9wYXRoKGNvbm4sIDppbmRleCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBAbW9kdWxlZG9jICIiIgogIEluIG1lbW9yeSByZXBvc2l0b3J5LgogICIiIgoKICBkZWYgYWxsKFJ1bWJsLlVzZXIpIGRvCiAgICBbJVJ1bWJsLlVzZXJ7aWQ6ICIxIiwgbmFtZTogIkpvc8OpIiwgdXNlcm5hbWU6ICJqb3NldmFsaW0iLCBwYXNzd29yZDogImVsaXhpciJ9LAogICAgICVSdW1ibC5Vc2Vye2lkOiAiMiIsIG5hbWU6ICJCcnVjZSIsIHVzZXJuYW1lOiAicmVkcmFwaWRzIiwgcGFzc3dvcmQ6ICI3bGFuZ3MifSwKICAgICAlUnVtYmwuVXNlcntpZDogIjMiLCBuYW1lOiAiQ2hyaXMiLCB1c2VybmFtZTogImNocmlzbWNjb3JkIiwgcGFzc3dvcmQ6ICJwaHgifV0KICBlbmQKICBkZWYgYWxsKF9tb2R1bGUpLCBkbzogW10KCiAgZGVmIGdldChtb2R1bGUsIGlkKSBkbwogICAgRW51bS5maW5kIGFsbChtb2R1bGUpLCBmbiBtYXAgLT4gbWFwLmlkID09IGlkIGVuZAogIGVuZAoKICBkZWYgZ2V0X2J5KG1vZHVsZSwgcGFyYW1zKSBkbwogICAgRW51bS5maW5kIGFsbChtb2R1bGUpLCBmbiBtYXAgLT4KICAgICAgRW51bS5hbGw/KHBhcmFtcywgZm4ge2tleSwgdmFsfSAtPiBNYXAuZ2V0KG1hcCwga2V5KSA9PSB2YWwgZW5kKQogICAgZW5kCiAgZW5k</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -846,22 +833,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBSdW1ibCBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBkZWYgYWxsKF9tb2R1bGUpIGRvCiAgICAKICBlbmQ=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoa293ZWF0aGVyXD4=</last-search>
+      <last-search encoding="base64">XDxjaGFuZ2VzZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoa293ZWF0aGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFuZ2VzZXRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -882,6 +869,7 @@
         <entry encoding="base64">XDxkYXRlU3RyXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
+        <entry encoding="base64">XDxjaGFuZ2VzZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
