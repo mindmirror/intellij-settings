@@ -233,12 +233,12 @@
         <mark key="." line="95" column="54" />
         <mark key="^" line="95" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/socket.js" timestamp="1497231627943">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="68" column="57" />
-        <mark key="]" line="69" column="43" />
-        <mark key="." line="69" column="43" />
-        <mark key="^" line="69" column="43" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/socket.js" timestamp="1497236002900">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="69" column="11" />
+        <mark key="]" line="69" column="11" />
+        <mark key="." line="69" column="11" />
+        <mark key="^" line="69" column="11" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv0/main.go" timestamp="1481017632184">
         <mark key="[" line="0" column="8" />
@@ -320,11 +320,11 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/channels/room_channel.ex" timestamp="1497231734393">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="17" column="20" />
-        <mark key="^" line="17" column="20" />
-        <mark key="." line="17" column="20" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/channels/room_channel.ex" timestamp="1497236086932">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/treesort/main.go" timestamp="1481677906382">
         <mark key="[" line="21" column="5" />
@@ -602,11 +602,11 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/app.js" timestamp="1497230855561">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/app.js" timestamp="1497235949619">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" timestamp="1485252579975">
         <mark key="'" line="117" column="0" />
@@ -719,11 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="30" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="35" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="41" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="39" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="72" column="48" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="70" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="58" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
@@ -819,37 +814,42 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/app.js" />
       <jump line="27" column="12" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/socket.js" />
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/socket.js" />
+      <jump line="57" column="4" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/socket.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/channels/room_channel.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/channels/room_channel.ex" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/channels/room_channel.ex" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/channels/room_channel.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
+        <text encoding="base64">XDxtZXNzYWdlc0NvbnRhaW5lclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gTm93IHRoYXQgeW91IGFyZSBjb25uZWN0ZWQsIHlvdSBjYW4gam9pbiBjaGFubmVscyB3aXRoIGEgdG9waWM6CmxldCBjaGFubmVsID0gc29ja2V0LmNoYW5uZWwoInRvcGljOnN1YnRvcGljIiwge30pCmNoYW5uZWwuam9pbigpCiAgLnJlY2VpdmUoIm9rIiwgcmVzcCA9PiB7IGNvbnNvbGUubG9nKCJKb2luZWQgc3VjY2Vzc2Z1bGx5IiwgcmVzcCkgfSkKICAucmVjZWl2ZSgiZXJyb3IiLCByZXNwID0+IHsgY29uc29sZS5sb2coIlVuYWJsZSB0byBqb2luIiwgcmVzcCkgfSk=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpbnRlcmNlcHQgWyJ1c2VyX2pvaW5lZCJdCgogIGRlZiBoYW5kbGVfb3V0KCJ1c2VyX2pvaW4iLCBtc2csIHNvY2tldCkgZG8KICAgIGlmIFVzZXIuaWdub3Jpbmc/KHNvY2tldC5hc3NpZ25zWzp1c2VyXSwgbXNnLnVzZXJfaWQpIGRvCiAgICAgIHs6bm9yZXBseSwgc29ja2V0fQogICAgZWxzZQogICAgICBwdXNoIHNvY2tldCwgInVzZXJfam9pbmVkIiwgbXNnCiAgICAgIHs6bm9yZXBseSwgc29ja2V0fQogICAgZW5kCiAgZW5kCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHNvY2tldCBmCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gTm93IHRoYXQgeW91IGFyZSBjb25uZWN0ZWQsIHlvdSBjYW4gam9pbiBjaGFubmVscyB3aXRoIGEgdG9waWM6CmxldCBjaGFubmVsID0gc29ja2V0LmNoYW5uZWwoInRvcGljOnN1YnRvcGljIiwge30pCmNoYW5uZWwuam9pbigpCiAgLnJlY2VpdmUoIm9rIiwgcmVzcCA9PiB7IGNvbnNvbGUubG9nKCJKb2luZWQgc3VjY2Vzc2Z1bGx5IiwgcmVzcCkgfSkKICAucmVjZWl2ZSgiZXJyb3IiLCByZXNwID0+IHsgY29uc29sZS5sb2coIlVuYWJsZSB0byBqb2luIiwgcmVzcCkgfSk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbm4KICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIiN7dXNlci5uYW1lfSBjcmVhdGVkISIpCiAgICB8PiByZWRpcmVjdCh0bzogdXNlcl9wYXRoKGNvbm4sIDppbmRleCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -857,24 +857,24 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBAbW9kdWxlZG9jICIiIgogIEluIG1lbW9yeSByZXBvc2l0b3J5LgogICIiIgoKICBkZWYgYWxsKFJ1bWJsLlVzZXIpIGRvCiAgICBbJVJ1bWJsLlVzZXJ7aWQ6ICIxIiwgbmFtZTogIkpvc8OpIiwgdXNlcm5hbWU6ICJqb3NldmFsaW0iLCBwYXNzd29yZDogImVsaXhpciJ9LAogICAgICVSdW1ibC5Vc2Vye2lkOiAiMiIsIG5hbWU6ICJCcnVjZSIsIHVzZXJuYW1lOiAicmVkcmFwaWRzIiwgcGFzc3dvcmQ6ICI3bGFuZ3MifSwKICAgICAlUnVtYmwuVXNlcntpZDogIjMiLCBuYW1lOiAiQ2hyaXMiLCB1c2VybmFtZTogImNocmlzbWNjb3JkIiwgcGFzc3dvcmQ6ICJwaHgifV0KICBlbmQKICBkZWYgYWxsKF9tb2R1bGUpLCBkbzogW10KCiAgZGVmIGdldChtb2R1bGUsIGlkKSBkbwogICAgRW51bS5maW5kIGFsbChtb2R1bGUpLCBmbiBtYXAgLT4gbWFwLmlkID09IGlkIGVuZAogIGVuZAoKICBkZWYgZ2V0X2J5KG1vZHVsZSwgcGFyYW1zKSBkbwogICAgRW51bS5maW5kIGFsbChtb2R1bGUpLCBmbiBtYXAgLT4KICAgICAgRW51bS5hbGw/KHBhcmFtcywgZm4ge2tleSwgdmFsfSAtPiBNYXAuZ2V0KG1hcCwga2V5KSA9PSB2YWwgZW5kKQogICAgZW5kCiAgZW5k</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGNvbm4KICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIiN7dXNlci5uYW1lfSBjcmVhdGVkISIpCiAgICB8PiByZWRpcmVjdCh0bzogdXNlcl9wYXRoKGNvbm4sIDppbmRleCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VzZXRcPg==</last-search>
+      <last-search encoding="base64">XDxtZXNzYWdlc0NvbnRhaW5lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VzZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtZXNzYWdlc0NvbnRhaW5lclw+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -894,6 +894,7 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VzZXRcPg==</entry>
+        <entry encoding="base64">XDxtZXNzYWdlc0NvbnRhaW5lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
