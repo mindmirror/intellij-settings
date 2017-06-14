@@ -745,6 +745,13 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/channels/user_socket.ex" timestamp="1497422589140">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/append/append.go" timestamp="1481527008354">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="18" column="11" />
@@ -753,8 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" />
-      <jump line="68" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="16" column="68" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
       <jump line="40" column="56" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
       <jump line="4" column="24" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" />
@@ -853,6 +858,8 @@
       <jump line="29" column="54" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" />
       <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
       <jump line="19" column="46" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/channels/user_socket.ex" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/channels/user_socket.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
