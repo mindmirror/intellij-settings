@@ -57,6 +57,13 @@
         <mark key="." line="22" column="8" />
         <mark key="^" line="22" column="8" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.exs" timestamp="1497428624697">
+        <mark key="'" line="42" column="32" />
+        <mark key="[" line="40" column="80" />
+        <mark key="]" line="42" column="32" />
+        <mark key="^" line="42" column="32" />
+        <mark key="." line="42" column="32" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/home/hello_phoenix/web/models/user.ex" timestamp="1497316752565">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="39" />
@@ -183,6 +190,12 @@
         <mark key="]" line="16" column="49" />
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/views/user_view.ex" timestamp="1497428880652">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="8" column="68" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/one_ns.clj" timestamp="1423445564804">
         <mark key="[" line="5" column="22" />
@@ -432,11 +445,12 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.ex" timestamp="1497426823941">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="62" />
-        <mark key="." line="20" column="62" />
-        <mark key="^" line="20" column="62" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.ex" timestamp="1497427720392">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/controllers/user_controller.ex" timestamp="1497410128954">
         <mark key="'" line="62" column="20" />
@@ -467,6 +481,12 @@
         <mark key="]" line="71" column="36" />
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/controllers/user_controller.ex" timestamp="1497428739382">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="12" column="49" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="12" column="49" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/charcount/main.go" timestamp="1481536623895">
         <mark key="[" line="43" column="5" />
@@ -664,6 +684,13 @@
       <file name="/Dummy.txt" timestamp="1497017426490">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/router.ex" timestamp="1497427985791">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
         <mark key="[" line="28" column="69" />
         <mark key="]" line="28" column="77" />
@@ -766,16 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="68" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
-      <jump line="40" column="56" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
-      <jump line="4" column="24" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" />
-      <jump line="65" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="96" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="71" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="77" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="87" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="91" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="17" column="27" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="14" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" />
       <jump line="6" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="2" column="111" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
@@ -866,38 +883,47 @@
       <jump line="19" column="46" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/channels/user_socket.ex" />
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/channels/user_socket.ex" />
+      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.ex" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.exs" />
+      <jump line="12" column="6" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.exs" />
+      <jump line="13" column="23" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.exs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/router.ex" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/router.ex" />
+      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/router.ex" />
+      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/router.ex" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/router.ex" />
+      <jump line="42" column="32" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">CiAgZGVmIHJlbmRlcigidXNlci5qc29uIiwgJXt1c2VyOiB1c2VyfSkgZG8KICAgICV7bmFtZTogdXNlci5uYW1lLCBlbWFpbDogdXNlci5lbWFpbH0KICBlbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>some content</text>
+        <text>name: user.name, email: user.email</text>
       </register>
       <register name="/" type="4">
-        <text>user_path</text>
+        <text encoding="base64">XDxidWlsZF9jb25uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">CiAgZGVmIHJlbmRlcigidXNlci5qc29uIiwgJXt1c2VyOiB1c2VyfSkgZG8KICAgICV7bmFtZTogdXNlci5uYW1lLCBlbWFpbDogdXNlci5lbWFpbH0KICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX2Zvcm1hdCg6ZW1haWwsIH5yL0AvKQo=</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX2Zvcm1hdCg6ZW1haWwsIH5yL0AvKQo=</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX2Zvcm1hdCg6ZW1haWwsIH5yL0AvKQo=</text>
+        <text encoding="base64">CiAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>changeset = User.changeset(%User{}, attrs)
-    refute changeset.valid?</text>
+        <text encoding="base64">ICAjIE90aGVyIHNjb3BlcyBtYXkgdXNlIGN1c3RvbSBzdGFja3MuCiAgIyBzY29wZSAiL2FwaSIsIEhlbGxvQ29udHJvbGxlclRlc3QgZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgdGVzdCAiY2hhbmdlc2V0IHdpdGggdmFsaWQgYXR0cmlidXRlcyIgZG8KICAgIGNoYW5nZXNldCA9IFVzZXIuY2hhbmdlc2V0KCVVc2Vye30sIEB2YWxpZF9hdHRycykKICAgIGFzc2VydCBjaGFuZ2VzZXQudmFsaWQ/CiAgZW5kCgogIHRlc3QgImNoYW5nZXNldCB3aXRoIGludmFsaWQgYXR0cmlidXRlcyIgZG8KICAgIGNoYW5nZXNldCA9IFVzZXIuY2hhbmdlc2V0KCVVc2Vye30sIEBpbnZhbGlkX2F0dHJzKQogICAgcmVmdXRlIGNoYW5nZXNldC52YWxpZD8KICBlbmQK</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -905,22 +931,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Rlc3QgZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX2Zvcm1hdCg6ZW1haWwsIH5yL0AvKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAdGFnIGluZGl2aWR1YWxfdGVzdDogIm5vcGUiCg==</text>
+        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX2Zvcm1hdCg6ZW1haWwsIH5yL0AvKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAdGFnIGluZGl2aWR1YWxfdGVzdDogInl1cCIK</text>
+        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX2Zvcm1hdCg6ZW1haWwsIH5yL0AvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>user_path</last-search>
+      <last-search encoding="base64">XDxidWlsZF9jb25uXD4=</last-search>
       <last-offset />
-      <last-pattern>user_path</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZF9jb25uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -944,6 +970,7 @@
         <entry encoding="base64">XDxjaGFuZ2VzZXRcPg==</entry>
         <entry encoding="base64">XDxtZXNzYWdlc0NvbnRhaW5lclw+</entry>
         <entry>user_path</entry>
+        <entry encoding="base64">XDxidWlsZF9jb25uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
