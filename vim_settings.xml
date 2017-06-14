@@ -63,6 +63,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" timestamp="1497413354252">
+        <mark key="[" line="5" column="98" />
+        <mark key="]" line="5" column="96" />
+        <mark key="." line="5" column="96" />
+        <mark key="^" line="5" column="96" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
         <mark key="[" line="27" column="0" />
@@ -489,12 +495,10 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" timestamp="1497410638779">
-        <mark key="'" line="13" column="31" />
-        <mark key="[" line="13" column="55" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" timestamp="1497412774679">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/playsync.clj" timestamp="1434705309625">
         <mark key="[" line="1" column="32" />
@@ -746,14 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="95" column="54" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="91" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="80" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="31" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="21" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="10" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="14" column="40" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="25" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="27" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="72" column="4" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -846,13 +842,21 @@
       <jump line="47" column="24" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/controllers/user_controller.ex" />
       <jump line="62" column="20" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/controllers/user_controller.ex" />
       <jump line="13" column="31" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
+      <jump line="49" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
+      <jump line="43" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
+      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
+      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
+      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Rlc3QgZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>user_path</text>
@@ -861,22 +865,22 @@
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Rlc3QgZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+        <text encoding="base64">CiAgdGVzdCAiY2hhbmdlc2V0IHdpdGggdmFsaWQgYXR0cmlidXRlcyIgZG8KICAgIGNoYW5nZXNldCA9IFVzZXIuY2hhbmdlc2V0KCVVc2Vye30sIEB2YWxpZF9hdHRycykKICAgIGFzc2VydCBjaGFuZ2VzZXQudmFsaWQ/CiAgZW5kCgogIHRlc3QgImNoYW5nZXNldCB3aXRoIGludmFsaWQgYXR0cmlidXRlcyIgZG8KICAgIGNoYW5nZXNldCA9IFVzZXIuY2hhbmdlc2V0KCVVc2Vye30sIEBpbnZhbGlkX2F0dHJzKQogICAgcmVmdXRlIGNoYW5nZXNldC52YWxpZD8KICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAdGFnIGluZGl2aWR1YWxfdGVzdDogIm5vcGUiCg==</text>
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Rlc3QgZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAdGFnIGluZGl2aWR1YWxfdGVzdDogInl1cCIK</text>
+        <text encoding="base64">ICBAdGFnIGluZGl2aWR1YWxfdGVzdDogIm5vcGUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAdGFnIGluZGl2aWR1YWxfdGVzdDogInl1cCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAbW9kdWxldGFnIDplcnJvcl92aWV3X2Nhc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAbW9kdWxldGFnIDplcnJvcl92aWV3X2Nhc2UK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -884,16 +888,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnRlcmNlcHQgWyJ1c2VyX2pvaW5lZCJdCgogIGRlZiBoYW5kbGVfb3V0KCJ1c2VyX2pvaW4iLCBtc2csIHNvY2tldCkgZG8KICAgIGlmIFVzZXIuaWdub3Jpbmc/KHNvY2tldC5hc3NpZ25zWzp1c2VyXSwgbXNnLnVzZXJfaWQpIGRvCiAgICAgIHs6bm9yZXBseSwgc29ja2V0fQogICAgZWxzZQogICAgICBwdXNoIHNvY2tldCwgInVzZXJfam9pbmVkIiwgbXNnCiAgICAgIHs6bm9yZXBseSwgc29ja2V0fQogICAgZW5kCiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICBpbnRlcmNlcHQgWyJ1c2VyX2pvaW5lZCJdCgogIGRlZiBoYW5kbGVfb3V0KCJ1c2VyX2pvaW4iLCBtc2csIHNvY2tldCkgZG8KICAgIGlmIFVzZXIuaWdub3Jpbmc/KHNvY2tldC5hc3NpZ25zWzp1c2VyXSwgbXNnLnVzZXJfaWQpIGRvCiAgICAgIHs6bm9yZXBseSwgc29ja2V0fQogICAgZWxzZQogICAgICBwdXNoIHNvY2tldCwgInVzZXJfam9pbmVkIiwgbXNnCiAgICAgIHs6bm9yZXBseSwgc29ja2V0fQogICAgZW5kCiAgZW5kCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHNvY2tldCBmCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8gTm93IHRoYXQgeW91IGFyZSBjb25uZWN0ZWQsIHlvdSBjYW4gam9pbiBjaGFubmVscyB3aXRoIGEgdG9waWM6CmxldCBjaGFubmVsID0gc29ja2V0LmNoYW5uZWwoInRvcGljOnN1YnRvcGljIiwge30pCmNoYW5uZWwuam9pbigpCiAgLnJlY2VpdmUoIm9rIiwgcmVzcCA9PiB7IGNvbnNvbGUubG9nKCJKb2luZWQgc3VjY2Vzc2Z1bGx5IiwgcmVzcCkgfSkKICAucmVjZWl2ZSgiZXJyb3IiLCByZXNwID0+IHsgY29uc29sZS5sb2coIlVuYWJsZSB0byBqb2luIiwgcmVzcCkgfSk=</text>
-      </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -932,8 +936,8 @@
         <entry>f</entry>
         <entry>{w</entry>
         <entry>wf</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
