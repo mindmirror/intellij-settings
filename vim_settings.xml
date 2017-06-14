@@ -63,12 +63,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" timestamp="1497419348042">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" timestamp="1497420499284">
         <mark key="'" line="29" column="54" />
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="9" />
-        <mark key="." line="34" column="9" />
-        <mark key="^" line="34" column="9" />
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+        <mark key="^" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -860,10 +860,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assert</text>
+        <text>should be at most 140 character(s)</text>
       </register>
       <register name="-" type="4">
-        <text>assert</text>
+        <text>should be at most 140 character(s)</text>
       </register>
       <register name="/" type="4">
         <text>user_path</text>
