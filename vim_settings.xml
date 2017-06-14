@@ -63,12 +63,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" timestamp="1497416838625">
-        <mark key="'" line="27" column="2" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="81" />
-        <mark key="." line="25" column="81" />
-        <mark key="^" line="25" column="81" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" timestamp="1497419348042">
+        <mark key="'" line="29" column="54" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="9" />
+        <mark key="." line="34" column="9" />
+        <mark key="^" line="34" column="9" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -395,11 +395,11 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/models/user.ex" timestamp="1497416981185">
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="19" column="34" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/models/user.ex" timestamp="1497419319267">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/golang/src/myapp/app/controllers/app.go" timestamp="1480578393981">
         <mark key="[" line="17" column="31" />
@@ -757,7 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="72" column="4" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="37" column="20" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="1" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" />
@@ -857,14 +856,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
       <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" />
       <jump line="22" column="2" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" />
+      <jump line="29" column="54" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>changeset = User.changeset(%User{}, attrs)
-    refute changeset.valid?</text>
+        <text>assert</text>
       </register>
       <register name="-" type="4">
-        <text>number_of_pets</text>
+        <text>assert</text>
       </register>
       <register name="/" type="4">
         <text>user_path</text>
