@@ -28,9 +28,6 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1485306417106">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/ch05.clj" timestamp="1423097954526">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="9" column="2" />
@@ -482,11 +479,23 @@
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_phoenix/config/prod.exs" timestamp="1497488870622">
+        <mark key="[" line="16" column="52" />
+        <mark key="]" line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/controllers/user_controller.ex" timestamp="1497430525243">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="12" column="57" />
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_phoenix/mix.exs" timestamp="1497488623196">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="40" column="19" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/charcount/main.go" timestamp="1481536623895">
         <mark key="[" line="43" column="5" />
@@ -512,9 +521,6 @@
         <mark key="]" line="41" column="11" />
         <mark key="." line="41" column="11" />
         <mark key="^" line="41" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/page_controller.ex" timestamp="1496883574875">
-        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/page_controller.ex" timestamp="1496887391316">
         <mark key="[" line="4" column="29" />
@@ -680,9 +686,6 @@
         <mark key="]" line="9" column="46" />
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1497017426490">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/router.ex" timestamp="1497427985791">
         <mark key="'" line="18" column="0" />
