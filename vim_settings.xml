@@ -479,11 +479,11 @@
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_phoenix/config/prod.exs" timestamp="1497488870622">
-        <mark key="[" line="16" column="52" />
-        <mark key="]" line="18" column="37" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_phoenix/config/prod.exs" timestamp="1497489802436">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
         <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/controllers/user_controller.ex" timestamp="1497430525243">
         <mark key="[" line="11" column="30" />
@@ -898,11 +898,11 @@
       <jump line="42" column="32" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgZGVmIHJlbmRlcigidXNlci5qc29uIiwgJXt1c2VyOiB1c2VyfSkgZG8KICAgICV7bmFtZTogdXNlci5uYW1lLCBlbWFpbDogdXNlci5lbWFpbH0KICBlbmQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>name: user.name, email: user.email</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZF9jb25uXD4=</text>
