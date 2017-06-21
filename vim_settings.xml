@@ -126,9 +126,6 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/web.ex" timestamp="1496932357400">
-        <mark key="'" line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="7" column="15" />
@@ -229,6 +226,12 @@
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/mix.exs" timestamp="1498035146875">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv0/tempconv.go" timestamp="1481072949090">
         <mark key="[" line="1" column="16" />
@@ -504,9 +507,6 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/controllers/user_controller.ex" timestamp="1497410128954">
-        <mark key="'" line="62" column="20" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo2/main.go" timestamp="1480662997491">
         <mark key="'" line="5" column="7" />
