@@ -67,11 +67,11 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1498027960330">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="34" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1498036154729">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/home/hello_phoenix/web/models/user.ex" timestamp="1497316752565">
         <mark key="[" line="8" column="0" />
@@ -994,10 +994,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>empty</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>empty</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
