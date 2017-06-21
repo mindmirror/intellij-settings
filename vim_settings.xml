@@ -15,6 +15,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/.gitignore" timestamp="1498025733670">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="26" column="8" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv/conv.go" timestamp="1481073514767">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="6" column="68" />
@@ -992,7 +998,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>@moduledoc false</text>
@@ -1004,36 +1010,36 @@
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3Rlc3QoY29ubiwgX3BhcmFtcykgZG8KICAgIHRleHQgY29ubiwgIlJlZGlyZWN0ISIKICBlbmQK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3Rlc3QoY29ubiwgX3BhcmFtcykgZG8KICAgIHRleHQgY29ubiwgIlJlZGlyZWN0ISIKICBlbmQK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzY29wZSAiLyIsIEhlbGxvUGhvZW5peCBkbwogICAgZ2V0ICIvcmVkaXJlY3RfdGVzdCIsIFBhZ2VDb250cm9sbGVyLCA6cmVkaXJlY3RfdGVzdCwgYXM6IDpyZWRpcmVjdF90ZXN0CiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoKQo=</text>
+        <text encoding="base64">ICBzY29wZSAiLyIsIEhlbGxvUGhvZW5peCBkbwogICAgZ2V0ICIvcmVkaXJlY3RfdGVzdCIsIFBhZ2VDb250cm9sbGVyLCA6cmVkaXJlY3RfdGVzdCwgYXM6IDpyZWRpcmVjdF90ZXN0CiAgZW5kCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoKQo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoImFkbWluLmh0bWwiKQogICAgfD4gcmVuZGVyKCJpbmRleC5odG1sIik=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIldlbGNvbWUgdG8gUGhvZW5peCwgZnJvbSBmbGFzaCBpbmZvISIpCiAgICB8PiBwdXRfZmxhc2goOmVycm9yLCAiTGV0J3MgcHJldGVuZHdlIGhhdmUgYW4gZXJyb3IuIikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIldlbGNvbWUgdG8gUGhvZW5peCwgZnJvbSBmbGFzaCBpbmZvISIpCiAgICB8PiBwdXRfZmxhc2goOmVycm9yLCAiTGV0J3MgcHJldGVuZHdlIGhhdmUgYW4gZXJyb3IuIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
