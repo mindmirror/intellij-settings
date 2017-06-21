@@ -330,12 +330,6 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl.ex" timestamp="1497011718256">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo1/main.go" timestamp="1460716275439">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
@@ -347,6 +341,12 @@
         <mark key="]" line="50" column="15" />
         <mark key="." line="50" column="15" />
         <mark key="^" line="50" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/shlack/config/config.exs" timestamp="1498017869830">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/helloworld/main.go" timestamp="1480327358623">
         <mark key="[" line="0" column="12" />
@@ -391,12 +391,6 @@
         <mark key="]" line="12" column="9" />
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/channels/room_channel.ex" timestamp="1497236086932">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/treesort/main.go" timestamp="1481677906382">
         <mark key="[" line="21" column="5" />
@@ -747,12 +741,6 @@
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/app.js" timestamp="1497235949619">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
