@@ -133,12 +133,12 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1498120236630">
-        <mark key="'" line="7" column="36" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="11" column="46" />
-        <mark key="." line="11" column="46" />
-        <mark key="^" line="11" column="46" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1498121400131">
+        <mark key="'" line="33" column="7" />
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
         <mark key="[" line="6" column="24" />
@@ -917,8 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="95" column="54" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="91" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="80" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="31" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
@@ -1017,37 +1015,39 @@
       <jump line="39" column="14" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
       <jump line="7" column="36" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth_controller.ex" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
+      <jump line="33" column="7" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
+        <text encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgYXV0aGVudGljYXRpb24oY29ubikgZG8KICAgICAgJVBsdWcuQ29ubntoYWx0ZWQ6IHRydWV9ID0gY29ubiAtPgogICAgICAgIGNvbm4KICAgICAgY29ubiAtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+        <text encoding="base64">ICAgIHVzZXJzID0gUmVwby5hbGwoUnVtYmwuVXNlcikKICAgIHJlbmRlciBjb25uLCAiaW5kZXguaHRtbCIsIHVzZXJzOiB1c2Vycwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3Rlc3QoY29ubiwgX3BhcmFtcykgZG8KICAgIHRleHQgY29ubiwgIlJlZGlyZWN0ISIKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1055,23 +1055,23 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzY29wZSAiLyIsIEhlbGxvUGhvZW5peCBkbwogICAgZ2V0ICIvcmVkaXJlY3RfdGVzdCIsIFBhZ2VDb250cm9sbGVyLCA6cmVkaXJlY3RfdGVzdCwgYXM6IDpyZWRpcmVjdF90ZXN0CiAgZW5kCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoKQo=</text>
+        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3Rlc3QoY29ubiwgX3BhcmFtcykgZG8KICAgIHRleHQgY29ubiwgIlJlZGlyZWN0ISIKICBlbmQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoImFkbWluLmh0bWwiKQogICAgfD4gcmVuZGVyKCJpbmRleC5odG1sIik=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VzZXRcPg==</last-search>
+      <last-search encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VzZXRcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1095,6 +1095,7 @@
         <entry encoding="base64">XDxtZXNzYWdlc0NvbnRhaW5lclw+</entry>
         <entry>user_path</entry>
         <entry encoding="base64">XDxidWlsZF9jb25uXD4=</entry>
+        <entry encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
@@ -1104,8 +1105,8 @@
         <entry>f</entry>
         <entry>{w</entry>
         <entry>wf</entry>
-        <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
