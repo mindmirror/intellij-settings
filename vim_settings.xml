@@ -86,6 +86,13 @@
         <mark key="." line="39" column="68" />
         <mark key="^" line="39" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth_controller.ex" timestamp="1498120419572">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
         <mark key="[" line="27" column="0" />
@@ -126,11 +133,12 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1498038822589">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="42" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1498120236630">
+        <mark key="'" line="7" column="36" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+        <mark key="^" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
         <mark key="[" line="6" column="24" />
@@ -396,11 +404,11 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" timestamp="1498118074833">
-        <mark key="[" line="9" column="51" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="10" column="35" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" timestamp="1498120504256">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/home/hello_phoenix/web/router.ex" timestamp="1497275451233">
         <mark key="[" line="18" column="35" />
@@ -558,6 +566,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="^" line="18" column="37" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" timestamp="1498119955035">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/controllers/user_controller.ex" timestamp="1497430525243">
         <mark key="[" line="11" column="30" />
@@ -903,10 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="58" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="49" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
-      <jump line="54" column="31" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="64" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="95" column="54" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
       <jump line="91" column="0" filename="$USER_HOME$/golang/src/gowiki/wiki.go" />
@@ -1003,13 +1013,17 @@
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" />
+      <jump line="21" column="42" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
+      <jump line="39" column="14" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
+      <jump line="7" column="36" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>changeset</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
