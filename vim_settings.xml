@@ -410,12 +410,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" timestamp="1498127828348">
-        <mark key="'" line="2" column="62" />
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="31" column="32" />
-        <mark key="." line="2" column="39" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" timestamp="1498183759922">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/home/hello_phoenix/web/router.ex" timestamp="1497275451233">
         <mark key="[" line="18" column="35" />
@@ -479,12 +479,12 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/session_controller.ex" timestamp="1498127914011">
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/session_controller.ex" timestamp="1498183947275">
         <mark key="'" line="16" column="26" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+        <mark key="^" line="23" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
         <mark key="[" line="5" column="0" />
@@ -820,7 +820,7 @@
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498126175637">
+      <file name="/Dummy.txt" timestamp="1498183761848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -937,7 +937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="40" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="25" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="27" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="72" column="4" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -1037,6 +1036,7 @@
       <jump line="2" column="62" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/templates/session/new.html.eex" />
       <jump line="16" column="26" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/session_controller.ex" />
+      <jump line="16" column="33" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
