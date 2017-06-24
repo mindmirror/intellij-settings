@@ -50,12 +50,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" timestamp="1498273179693">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" timestamp="1498294881830">
         <mark key="'" line="22" column="35" />
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="42" />
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+        <mark key="^" line="38" column="20" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -891,11 +891,11 @@
       <jump line="14" column="37" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/models/user.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>)changeset</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
