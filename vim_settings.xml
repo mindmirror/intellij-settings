@@ -337,6 +337,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/.gitignore" timestamp="1498373362445">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="9" />
+        <mark key="^" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/home/hello_phoenix/web/router.ex" timestamp="1497275451233">
         <mark key="[" line="18" column="35" />
         <mark key="]" line="19" column="37" />
@@ -587,6 +593,12 @@
       <file name="vim_settings.xml" timestamp="1497961959859">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/config/config.exs" timestamp="1498374455723">
+        <mark key="[" line="29" column="89" />
+        <mark key="]" line="30" column="70" />
+        <mark key="^" line="30" column="70" />
+        <mark key="." line="30" column="70" />
+      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input/form-input.go" timestamp="1466411744856">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="26" column="37" />
@@ -700,6 +712,12 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/mix.exs" timestamp="1498374402725">
+        <mark key="[" line="50" column="27" />
+        <mark key="]" line="51" column="33" />
+        <mark key="^" line="51" column="33" />
+        <mark key="." line="51" column="33" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/wait/main.go" timestamp="1484210540968">
         <mark key="[" line="22" column="5" />
@@ -910,11 +928,11 @@
       <jump line="2" column="60" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/auth.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgZGVmIGxvZ291dChjb25uKSBkbwogICAgY29uZmlndXJlX3Nlc3Npb24oY29ubiwgZHJvcDogdHJ1ZSkKICBlbmQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
