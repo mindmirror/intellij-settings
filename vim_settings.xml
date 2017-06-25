@@ -776,6 +776,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="33" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueberauth_example/config/dev.exs" timestamp="1498379181924">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="14" column="85" />
+        <mark key="^" line="14" column="85" />
+        <mark key="." line="14" column="85" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/templates/page/test.html.eex" timestamp="1497191803523">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="33" />
