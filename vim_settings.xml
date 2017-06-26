@@ -69,12 +69,12 @@
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/mix.exs" timestamp="1498466321843">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/mix.exs" timestamp="1498467534977">
         <mark key="'" line="20" column="45" />
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="32" column="4" />
-        <mark key="." line="32" column="4" />
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="31" column="7" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="31" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.exs" timestamp="1497430735085">
         <mark key="'" line="42" column="32" />
@@ -793,6 +793,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/ueber_user/web/models/user.ex" timestamp="1498467283394">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issueshtml/main.go" timestamp="1484014525836">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="28" column="0" />
@@ -921,6 +927,12 @@
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/ueber_user/priv/repo/migrations/20170626085502_create_user.exs" timestamp="1498467371000">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/macros.clj" timestamp="1429836516506">
         <mark key="[" line="21" column="22" />
@@ -1119,11 +1131,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/deps/ecto/lib/ecto/migration/runner.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIAo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -1132,22 +1144,22 @@
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgZGVmIGxvZ291dChjb25uKSBkbwogICAgY29uZmlndXJlX3Nlc3Npb24oY29ubiwgZHJvcDogdHJ1ZSkKICBlbmQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZpZWxkIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgZGVmIGxvZ291dChjb25uKSBkbwogICAgY29uZmlndXJlX3Nlc3Npb24oY29ubiwgZHJvcDogdHJ1ZSkKICBlbmQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3Rlc3QoY29ubiwgX3BhcmFtcykgZG8KICAgIHRleHQgY29ubiwgIlJlZGlyZWN0ISIKICBlbmQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1155,13 +1167,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3Rlc3QoY29ubiwgX3BhcmFtcykgZG8KICAgIHRleHQgY29ubiwgIlJlZGlyZWN0ISIKICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzY29wZSAiLyIsIEhlbGxvUGhvZW5peCBkbwogICAgZ2V0ICIvcmVkaXJlY3RfdGVzdCIsIFBhZ2VDb250cm9sbGVyLCA6cmVkaXJlY3RfdGVzdCwgYXM6IDpyZWRpcmVjdF90ZXN0CiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoKQo=</text>
+        <text encoding="base64">ICBzY29wZSAiLyIsIEhlbGxvUGhvZW5peCBkbwogICAgZ2V0ICIvcmVkaXJlY3RfdGVzdCIsIFBhZ2VDb250cm9sbGVyLCA6cmVkaXJlY3RfdGVzdCwgYXM6IDpyZWRpcmVjdF90ZXN0CiAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
