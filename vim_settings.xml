@@ -347,11 +347,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/mix.exs" timestamp="1498469757649">
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="43" column="24" />
-        <mark key="^" line="43" column="24" />
-        <mark key="." line="43" column="24" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/mix.exs" timestamp="1498472043981">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="32" column="4" />
+        <mark key="^" line="32" column="4" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/models/item.go" timestamp="1460691336914">
         <mark key="[" line="3" column="9" />
@@ -610,6 +610,12 @@
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/.gitignore" timestamp="1498472253120">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/models/user.ex" timestamp="1498468885719">
         <mark key="'" line="0" column="10" />
