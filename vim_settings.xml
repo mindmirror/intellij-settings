@@ -593,8 +593,8 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/models/user.ex" timestamp="1498465280120">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/models/user.ex" timestamp="1498468885719">
+        <mark key="'" line="0" column="10" />
         <mark key="[" line="3" column="32" />
         <mark key="]" line="4" column="1" />
         <mark key="." line="4" column="1" />
@@ -1036,7 +1036,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="16" column="68" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
       <jump line="40" column="56" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
       <jump line="4" column="24" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" />
@@ -1136,6 +1135,7 @@
       <jump line="20" column="45" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/mix.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/deps/ecto/lib/ecto/migration/runner.ex" />
       <jump line="40" column="23" filename="$USER_HOME$/Projects/elixir/playground/ueber_user/mix.exs" />
+      <jump line="0" column="10" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/models/user.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1145,7 +1145,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwwXD4=</text>
+        <text encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
@@ -1183,21 +1183,20 @@
         <text encoding="base64">ICBzY29wZSAiLyIsIEhlbGxvUGhvZW5peCBkbwogICAgZ2V0ICIvcmVkaXJlY3RfdGVzdCIsIFBhZ2VDb250cm9sbGVyLCA6cmVkaXJlY3RfdGVzdCwgYXM6IDpyZWRpcmVjdF90ZXN0CiAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwwXD4=</last-search>
+      <last-search encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>foo</entry>
         <entry>L</entry>
         <entry>l</entry>
         <entry encoding="base64">XDxmb29cPg==</entry>
@@ -1217,6 +1216,7 @@
         <entry>Bcr</entry>
         <entry>:</entry>
         <entry encoding="base64">XDwwXD4=</entry>
+        <entry encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
@@ -1230,8 +1230,8 @@
         <entry encoding="base64">JzwsJz5zLzovXG4vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzovXG5ccjovZw==</entry>
         <entry encoding="base64">JzwsJz5zLzovXHI6L2c=</entry>
-        <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
