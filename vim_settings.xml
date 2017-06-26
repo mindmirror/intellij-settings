@@ -46,6 +46,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/templates/user/show.html.eex" timestamp="1498469508567">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/priv/repo/migrations/20170626082133_create_user.exs" timestamp="1498465472570">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="14" column="38" />
@@ -341,6 +347,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/mix.exs" timestamp="1498469757649">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="43" column="24" />
+      </file>
       <file name="$USER_HOME$/golang/src/shopping/models/item.go" timestamp="1460691336914">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="8" />
@@ -592,6 +604,12 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/templates/user/index.html.eex" timestamp="1498469546791">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/models/user.ex" timestamp="1498468885719">
         <mark key="'" line="0" column="10" />
@@ -1139,10 +1157,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</text>
@@ -1183,7 +1201,7 @@
         <text encoding="base64">ICBzY29wZSAiLyIsIEhlbGxvUGhvZW5peCBkbwogICAgZ2V0ICIvcmVkaXJlY3RfdGVzdCIsIFBhZ2VDb250cm9sbGVyLCA6cmVkaXJlY3RfdGVzdCwgYXM6IDpyZWRpcmVjdF90ZXN0CiAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1230,8 +1248,8 @@
         <entry encoding="base64">JzwsJz5zLzovXG4vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzovXG5ccjovZw==</entry>
         <entry encoding="base64">JzwsJz5zLzovXHI6L2c=</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
