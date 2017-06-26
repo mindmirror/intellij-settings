@@ -793,11 +793,11 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/ueber_user/web/models/user.ex" timestamp="1498467283394">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/Projects/elixir/playground/ueber_user/web/models/user.ex" timestamp="1498468543685">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issueshtml/main.go" timestamp="1484014525836">
         <mark key="'" line="30" column="0" />
@@ -805,6 +805,13 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="34" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/ueber_user/mix.exs" timestamp="1498468229993">
+        <mark key="'" line="40" column="23" />
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="43" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/main/main.go" timestamp="1460621986432">
         <mark key="[" line="5" column="1" />
@@ -1029,7 +1036,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" />
       <jump line="68" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="16" column="68" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
       <jump line="40" column="56" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
@@ -1129,6 +1135,7 @@
       <jump line="21" column="90" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/mix.exs" />
       <jump line="20" column="45" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/mix.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/deps/ecto/lib/ecto/migration/runner.ex" />
+      <jump line="40" column="23" filename="$USER_HOME$/Projects/elixir/playground/ueber_user/mix.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1138,7 +1145,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text encoding="base64">XDwwXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
@@ -1180,17 +1187,16 @@
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search encoding="base64">XDwwXD4=</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern encoding="base64">XDwwXD4=</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>4</entry>
         <entry>foo</entry>
         <entry>L</entry>
         <entry>l</entry>
@@ -1210,6 +1216,7 @@
         <entry encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</entry>
         <entry>Bcr</entry>
         <entry>:</entry>
+        <entry encoding="base64">XDwwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
