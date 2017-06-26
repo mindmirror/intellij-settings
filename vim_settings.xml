@@ -46,6 +46,9 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498457365462">
+        <mark key="'" line="30" column="36" />
+      </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
         <mark key="[" line="26" column="18" />
@@ -820,7 +823,7 @@
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498189527231">
+      <file name="/Dummy.txt" timestamp="1498458161558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -937,7 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="27" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="72" column="4" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="37" column="20" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
@@ -1037,6 +1039,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/templates/session/new.html.eex" />
       <jump line="16" column="26" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/session_controller.ex" />
       <jump line="16" column="33" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" />
+      <jump line="30" column="36" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1046,7 +1049,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</text>
+        <text>Bcr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
@@ -1088,15 +1091,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-search>
+      <last-search>Bcr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>Bcr</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxteVw+</entry>
         <entry encoding="base64">XDxqYXZhXD4=</entry>
         <entry>4</entry>
         <entry>foo</entry>
@@ -1116,6 +1118,7 @@
         <entry>user_path</entry>
         <entry encoding="base64">XDxidWlsZF9jb25uXD4=</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</entry>
+        <entry>Bcr</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
