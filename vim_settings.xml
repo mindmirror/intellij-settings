@@ -34,6 +34,9 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="/a.dummy" timestamp="1485306417106">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/ch05.clj" timestamp="1423097954526">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="9" column="2" />
@@ -58,8 +61,8 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498457365462">
-        <mark key="'" line="30" column="36" />
+      <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498474919329">
+        <mark key="'" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498472772122">
         <mark key="[" line="21" column="5" />
@@ -743,6 +746,9 @@
         <mark key="." line="4" column="60" />
         <mark key="^" line="4" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/page_controller.ex" timestamp="1496883574875">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/playsync.clj" timestamp="1434705309625">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="31" />
@@ -802,6 +808,9 @@
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1497961959859">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input/form-input.go" timestamp="1466411744856">
         <mark key="'" line="43" column="0" />
@@ -927,6 +936,9 @@
         <mark key="]" line="13" column="57" />
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498474871665">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
         <mark key="[" line="28" column="69" />
@@ -1072,9 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="68" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
-      <jump line="40" column="56" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
-      <jump line="4" column="24" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" />
       <jump line="65" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="96" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="71" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
@@ -1172,6 +1181,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/deps/ecto/lib/ecto/migration/runner.ex" />
       <jump line="40" column="23" filename="$USER_HOME$/Projects/elixir/playground/ueber_user/mix.exs" />
       <jump line="0" column="10" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/models/user.ex" />
+      <jump line="135" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
+      <jump line="119" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
+      <jump line="8" column="30" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1181,7 +1193,7 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</text>
+        <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgY2hhbmdlIGRvCiAgICBjcmVhdGUgdGFibGUoOnVzZXJzKSBkbwogICAgICBjcmVhdGUgdGFibGUoOnVzZXJzKSBkbwogICAgICAgIGFkZCA6Zmlyc3RfbmFtZSwgOnN0cmluZwogICAgICAgIGFkZCA6bGFzdF9uYW1lLCA6c3RyaW5nCiAgICAgICAgYWRkIDplbWFpbCwgOnN0cmluZywgbnVsbDogZmFsc2UKCiAgICAgICAgdGltZXN0YW1wcygpCiAgICAgIGVuZAogICAgZW5kCgogICAgY3JlYXRlIHVuaXF1ZV9pbmRleCg6dXNlcnMsIFs6ZW1haWxdKQogIGVuZAplbmQK</text>
@@ -1223,18 +1235,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</last-search>
+      <last-search encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>L</entry>
-        <entry>l</entry>
         <entry encoding="base64">XDxmb29cPg==</entry>
         <entry>Jos</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
@@ -1253,6 +1263,8 @@
         <entry>:</entry>
         <entry encoding="base64">XDwwXD4=</entry>
         <entry encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</entry>
+        <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
+        <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
