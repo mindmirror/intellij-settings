@@ -311,11 +311,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1498550953742">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1498553697562">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
         <mark key="'" line="0" column="0" />
@@ -1230,11 +1230,11 @@
       <jump line="3" column="36" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3NpZ251cCIsIFVzZXJDb250cm9sbGVyLCA6c2lnbl91cAo=</text>
+      <register name="&quot;" type="4">
+        <text>, current_user: current_user</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>, current_user: current_user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
