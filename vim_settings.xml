@@ -64,11 +64,11 @@
       <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498525784485">
         <mark key="'" line="56" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498472772122">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="28" column="63" />
-        <mark key="^" line="28" column="63" />
-        <mark key="." line="28" column="63" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498537447123">
+        <mark key="[" line="28" column="64" />
+        <mark key="]" line="29" column="45" />
+        <mark key="^" line="29" column="45" />
+        <mark key="." line="29" column="45" />
       </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
@@ -492,6 +492,13 @@
         <mark key="]" line="19" column="37" />
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498537721814">
+        <mark key="'" line="3" column="36" />
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -1097,7 +1104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="27" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="14" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" />
       <jump line="6" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="2" column="111" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
@@ -1197,6 +1203,7 @@
       <jump line="56" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/playground/ueberauth_example/config/dev.exs" />
       <jump line="38" column="22" filename="$USER_HOME$/Projects/elixir/playground/ueberauth_example/config/dev.exs" />
+      <jump line="3" column="36" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
