@@ -64,11 +64,11 @@
       <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498525784485">
         <mark key="'" line="56" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498547934781">
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="28" column="56" />
-        <mark key="^" line="28" column="56" />
-        <mark key="." line="28" column="56" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498551353494">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
@@ -311,6 +311,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1498550953742">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="23" />
@@ -499,12 +505,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498546179188">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498550767525">
         <mark key="'" line="3" column="36" />
-        <mark key="[" line="19" column="65" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="31" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -1224,11 +1230,11 @@
       <jump line="3" column="36" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdldCAiL3NpZ251cCIsIFVzZXJDb250cm9sbGVyLCA6c2lnbl91cAo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
@@ -1237,22 +1243,22 @@
         <text>import_config dev.secret.exs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0X2NvbmZpZyBkZXYuc2VjcmV0LmV4cwo=</text>
+        <text encoding="base64">ICAgIGdldCAiL3NpZ251cCIsIFVzZXJDb250cm9sbGVyLCA6c2lnbl91cAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uZmlnIDoK</text>
+        <text encoding="base64">aW1wb3J0X2NvbmZpZyBkZXYuc2VjcmV0LmV4cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Y29uZmlnIDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlIHRhYmxlKDp1c2VycykgZG8K</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlIHRhYmxlKDp1c2VycykgZG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1260,13 +1266,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZGVmIGxvZ291dChjb25uKSBkbwogICAgY29uZmlndXJlX3Nlc3Npb24oY29ubiwgZHJvcDogdHJ1ZSkKICBlbmQK</text>
+        <text encoding="base64">ICAgIGZpZWxkIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">CiAgZGVmIGxvZ291dChjb25uKSBkbwogICAgY29uZmlndXJlX3Nlc3Npb24oY29ubiwgZHJvcDogdHJ1ZSkKICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
