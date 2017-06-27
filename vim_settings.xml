@@ -61,8 +61,8 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498474919329">
-        <mark key="'" line="8" column="30" />
+      <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498525784485">
+        <mark key="'" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498472772122">
         <mark key="[" line="21" column="5" />
@@ -158,7 +158,7 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/shlack/mix.exs" timestamp="1498017527424">
+      <file name="$USER_HOME$/Projects/aims/shlack/mix.exs" timestamp="1498526287710">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
         <mark key="^" line="12" column="15" />
@@ -222,6 +222,7 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/shlack/web/controllers/auth_controller.ex" timestamp="1498526305711" />
       <file name="$USER_HOME$/golang/src/gopl/ch01/lissajous/main.go" timestamp="1480670363415">
         <mark key="'" line="32" column="61" />
         <mark key="[" line="47" column="44" />
@@ -937,7 +938,7 @@
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498474871665">
+      <file name="/Dummy.txt" timestamp="1498525695131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1084,10 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="96" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="71" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="77" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="87" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="91" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="17" column="27" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
@@ -1184,6 +1181,10 @@
       <jump line="135" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="119" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="8" column="30" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
+      <jump line="192" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
+      <jump line="159" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
+      <jump line="98" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
+      <jump line="56" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1240,14 +1241,11 @@
       <last-pattern encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb29cPg==</entry>
-        <entry>Jos</entry>
-        <entry encoding="base64">XDxmaWxlXD4=</entry>
         <entry encoding="base64">XDxzbGFja0FQSUljb25VcmxcPg==</entry>
         <entry encoding="base64">XDxzbGFja0FwaUljb25VcmxcPg==</entry>
         <entry>fmt</entry>
@@ -1264,6 +1262,9 @@
         <entry encoding="base64">XDwwXD4=</entry>
         <entry encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</entry>
         <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
+        <entry encoding="base64">XDx0b2tlbl9mcm9tX2F1dGhcPg==</entry>
+        <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
       </history-search>
       <history-cmd>
