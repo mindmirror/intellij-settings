@@ -379,6 +379,12 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/views/auth_view.ex" timestamp="1498544715464">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/views/session_view.ex" timestamp="1498127483575">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="21" />
@@ -493,12 +499,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498537721814">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498544372982">
         <mark key="'" line="3" column="36" />
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -1213,10 +1219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>request</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
