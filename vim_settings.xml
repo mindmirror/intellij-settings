@@ -589,6 +589,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/ueberauth_example/web/models/user_from_auth.ex" timestamp="1498534637736" />
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" timestamp="1485255713264">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="4" column="0" />
@@ -938,7 +939,7 @@
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498530091822">
+      <file name="/Dummy.txt" timestamp="1498534638766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
