@@ -517,6 +517,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/phoenix_guardian/mix.exs" timestamp="1498567715991">
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="61" column="27" />
+        <mark key="^" line="61" column="27" />
+        <mark key="." line="61" column="27" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/charcount/main.go" timestamp="1481536623895">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="45" column="61" />
