@@ -505,12 +505,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498550767525">
-        <mark key="'" line="3" column="36" />
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="10" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="10" column="10" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498554694227">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="29" />
+        <mark key="^" line="24" column="29" />
+        <mark key="." line="24" column="29" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -1128,8 +1128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" />
-      <jump line="6" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="2" column="111" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="17" column="34" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="12" column="25" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
@@ -1228,6 +1226,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/playground/ueberauth_example/config/dev.exs" />
       <jump line="38" column="22" filename="$USER_HOME$/Projects/elixir/playground/ueberauth_example/config/dev.exs" />
       <jump line="3" column="36" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
+      <jump line="23" column="6" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
+      <jump line="17" column="6" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1237,7 +1237,7 @@
         <text>, current_user: current_user</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
+        <text encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</text>
       </register>
       <register name="0" type="4">
         <text>import_config dev.secret.exs</text>
@@ -1279,17 +1279,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-search>
+      <last-search encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbGFja0FQSUljb25VcmxcPg==</entry>
         <entry encoding="base64">XDxzbGFja0FwaUljb25VcmxcPg==</entry>
         <entry>fmt</entry>
         <entry encoding="base64">XDxkYXRlU3RyXD4=</entry>
@@ -1309,6 +1308,7 @@
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
+        <entry encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
