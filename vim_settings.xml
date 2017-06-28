@@ -61,8 +61,8 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498621687947">
-        <mark key="'" line="98" column="7" />
+      <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498621803384">
+        <mark key="'" line="67" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498551353494">
         <mark key="[" line="18" column="0" />
@@ -535,6 +535,12 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/mix.exs" timestamp="1498623191624">
+        <mark key="[" line="64" column="26" />
+        <mark key="]" line="64" column="27" />
+        <mark key="^" line="59" column="24" />
+        <mark key="." line="64" column="27" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/shopping.go" timestamp="1460622840255">
         <mark key="[" line="10" column="5" />
@@ -1128,7 +1134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="34" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="12" column="25" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="7" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="9" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
@@ -1228,16 +1233,17 @@
       <jump line="56" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="109" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="98" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
+      <jump line="67" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, current_user: current_user</text>
+        <text>, override: true</text>
       </register>
       <register name="-" type="4">
-        <text>, current_user: current_user</text>
+        <text>, override: true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</text>
+        <text encoding="base64">XDxyZXBsYWNlX2F1dGhvcml6YXRpb25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>import_config dev.secret.exs</text>
@@ -1279,9 +1285,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</last-search>
+      <last-search encoding="base64">XDxyZXBsYWNlX2F1dGhvcml6YXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBsYWNlX2F1dGhvcml6YXRpb25cPg==</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>-1</last-dir>
@@ -1289,7 +1295,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fmt</entry>
         <entry encoding="base64">XDxkYXRlU3RyXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
@@ -1309,6 +1314,7 @@
         <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
+        <entry encoding="base64">XDxyZXBsYWNlX2F1dGhvcml6YXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
