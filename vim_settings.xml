@@ -965,8 +965,11 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" timestamp="1498638073210">
-        <mark key="'" line="53" column="7" />
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" timestamp="1498639516943">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="9" />
+        <mark key="." line="55" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -1148,9 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
-      <jump line="9" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
-      <jump line="16" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="19" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="2" column="105" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" />
       <jump line="23" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" />
@@ -1248,6 +1248,9 @@
       <jump line="98" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="67" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="53" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" />
+      <jump line="22" column="42" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" />
+      <jump line="55" column="4" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1257,7 +1260,7 @@
         <text>Model.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoc1w+</text>
+        <text>Ecto.</text>
       </register>
       <register name="0" type="4">
         <text>import_config dev.secret.exs</text>
@@ -1299,17 +1302,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoc1w+</last-search>
+      <last-search>Ecto.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoc1w+</last-pattern>
+      <last-pattern>Ecto.</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VzZXRcPg==</entry>
         <entry encoding="base64">XDxtZXNzYWdlc0NvbnRhaW5lclw+</entry>
@@ -1329,6 +1331,7 @@
         <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxyZXBsYWNlX2F1dGhvcml6YXRpb25cPg==</entry>
         <entry encoding="base64">XDxhdXRoc1w+</entry>
+        <entry>Ecto.</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
