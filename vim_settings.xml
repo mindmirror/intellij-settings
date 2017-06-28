@@ -64,11 +64,11 @@
       <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498621803384">
         <mark key="'" line="67" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498551353494">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498638373907">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
       </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
@@ -292,9 +292,6 @@
         <mark key="]" line="40" column="24" />
         <mark key="^" line="40" column="24" />
         <mark key="." line="40" column="24" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/deps/ecto/lib/ecto/migration/runner.ex" timestamp="1498466933392">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/one_ns.clj" timestamp="1423445564804">
         <mark key="[" line="5" column="22" />
@@ -815,9 +812,6 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/templates/session/new.html.eex" timestamp="1498127766143">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" timestamp="1497192326729">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="4" column="10" />
@@ -971,7 +965,7 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" timestamp="1498636885459">
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" timestamp="1498638073210">
         <mark key="'" line="53" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
@@ -1001,7 +995,7 @@
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498630367771">
+      <file name="/Dummy.txt" timestamp="1498638261083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
