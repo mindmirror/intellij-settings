@@ -779,6 +779,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/authorization_controller.ex" timestamp="1498630436870">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/page_controller.ex" timestamp="1496887391316">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="40" />
@@ -928,6 +933,7 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/models/user.ex" timestamp="1498630367037" />
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input.go" timestamp="1466411191079">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="0" column="8" />
@@ -986,7 +992,7 @@
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498628208190">
+      <file name="/Dummy.txt" timestamp="1498630367771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1241,11 +1247,11 @@
       <jump line="67" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICB7Om9hdXRoMiwgIn4+IDAuNi4wIn0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>Model.</text>
       </register>
       <register name="-" type="4">
-        <text>github: &quot;ueberauth/ueberauth&quot;, override: true}</text>
+        <text>Model.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBsYWNlX2F1dGhvcml6YXRpb25cPg==</text>
