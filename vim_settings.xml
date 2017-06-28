@@ -61,7 +61,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498525784485">
+      <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498609620002">
         <mark key="'" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498551353494">
@@ -1222,12 +1222,12 @@
       <jump line="192" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="159" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="98" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
-      <jump line="56" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/playground/ueberauth_example/config/dev.exs" />
       <jump line="38" column="22" filename="$USER_HOME$/Projects/elixir/playground/ueberauth_example/config/dev.exs" />
       <jump line="3" column="36" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
       <jump line="23" column="6" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
       <jump line="17" column="6" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
+      <jump line="56" column="7" filename="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1237,7 +1237,7 @@
         <text>, current_user: current_user</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</text>
+        <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
       </register>
       <register name="0" type="4">
         <text>import_config dev.secret.exs</text>
@@ -1279,13 +1279,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</last-search>
+      <last-search encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1307,8 +1307,8 @@
         <entry encoding="base64">XDx0b2tlbl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
-        <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</entry>
+        <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
