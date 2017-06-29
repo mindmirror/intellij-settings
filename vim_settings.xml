@@ -863,11 +863,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498733284360">
-        <mark key="[" line="19" column="59" />
-        <mark key="]" line="19" column="103" />
-        <mark key="^" line="19" column="103" />
-        <mark key="." line="19" column="103" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498734888943">
+        <mark key="'" line="13" column="63" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="77" />
+        <mark key="^" line="9" column="77" />
+        <mark key="." line="9" column="77" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
         <mark key="[" line="12" column="4" />
@@ -1178,8 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="36" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="84" column="27" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="43" column="19" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="41" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="37" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -1278,13 +1277,15 @@
       <jump line="24" column="11" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="198" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="199" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="24" column="3" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="13" column="63" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>identity_</text>
+        <text>%Auth{provider: :identity} = auth</text>
       </register>
       <register name="-" type="4">
-        <text>identity_</text>
+        <text>%Auth{provider: :identity} = auth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</text>
