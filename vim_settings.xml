@@ -295,12 +295,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498726508365">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498728515256">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="75" />
-        <mark key="]" line="26" column="74" />
-        <mark key="." line="26" column="74" />
-        <mark key="^" line="26" column="74" />
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="95" />
+        <mark key="." line="24" column="95" />
+        <mark key="^" line="24" column="95" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -521,7 +521,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498698574483">
+      <file name="/Dummy.txt" timestamp="1498727227330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1037,6 +1037,12 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/web.ex" timestamp="1498727539466">
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="34" column="42" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="4" column="22" />
@@ -1271,11 +1277,11 @@
       <jump line="2" column="24" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Invalid username/password combination</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Invalid username/password combination</text>
       </register>
       <register name="/" type="4">
         <text>Authorization</text>
