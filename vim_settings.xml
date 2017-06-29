@@ -27,11 +27,11 @@
       <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498621803384">
         <mark key="'" line="67" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498722071395">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="65" />
-        <mark key="^" line="26" column="3" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498724289095">
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="21" column="42" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="21" column="42" />
       </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
@@ -295,11 +295,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498722131353">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498724167159">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="26" column="75" />
+        <mark key="]" line="26" column="74" />
+        <mark key="." line="26" column="74" />
+        <mark key="^" line="26" column="74" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -1271,12 +1272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>def for_token(user = %User{}) do
-    
-  end</text>
+        <text encoding="base64">ICMgVXNlIHRoZSBkZWZhdWx0IGJyb3dzZXIgc3RhY2s=</text>
       </register>
       <register name="-" type="4">
-        <text>identity_</text>
+        <text encoding="base64">ICMgVXNlIHRoZSBkZWZhdWx0IGJyb3dzZXIgc3RhY2s=</text>
       </register>
       <register name="/" type="4">
         <text>Authorization</text>
