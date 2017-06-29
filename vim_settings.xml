@@ -295,12 +295,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498728515256">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="24" column="95" />
-        <mark key="." line="24" column="95" />
-        <mark key="^" line="24" column="95" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498731162511">
+        <mark key="'" line="11" column="92" />
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="6" />
+        <mark key="." line="27" column="6" />
+        <mark key="^" line="42" column="28" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -627,6 +627,9 @@
         <mark key="]" line="19" column="42" />
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="42" />
+      </file>
+      <file name="/fragment.java" timestamp="1498730343142">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/bytecounter/bytecounter.go" timestamp="1484621363137">
         <mark key="[" line="0" column="19" />
@@ -1175,7 +1178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="11" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="52" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="51" column="5" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="29" column="57" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -1275,13 +1277,14 @@
       <jump line="9" column="6" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="2" column="24" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="11" column="92" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Invalid username/password combination</text>
+        <text>identity_</text>
       </register>
       <register name="-" type="4">
-        <text>Invalid username/password combination</text>
+        <text>identity_</text>
       </register>
       <register name="/" type="4">
         <text>Authorization</text>
@@ -1290,24 +1293,24 @@
         <text>import_config dev.secret.exs</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24oZHJvcDogdHJ1ZSkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>def for_token(user = %User{}) do
     
   end</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgZGVmIGlkZW50aXR5X2NhbGxiYWNrKGNvbm4sIHBhcmFtcykgZG8KICAgIHJlbmRlciBjb25uLCAic2lnbmluLmh0bWwiCiAgZW5kCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHBvc3QgIi9pZGVudGl0eS9jYWxsYmFjayIsIEF1dGhDb250cm9sbGVyLCA6aWRlbnRpdHlfY2FsbGJhY2sK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIGNhbGxiYWNrKGNvbm4sIF9wYXJhbXMpIGRvCiAgICByZW5kZXIgY29ubiwgInNpZ25pbi5odG1sIgogIGVuZAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBVZWJlckd1YXJkaWFuMiBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
+        <text encoding="base64">CiAgZGVmIGNhbGxiYWNrKGNvbm4sIF9wYXJhbXMpIGRvCiAgICByZW5kZXIgY29ubiwgInNpZ25pbi5odG1sIgogIGVuZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1315,13 +1318,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3NpZ25pbiIsIEF1dGhDb250cm9sbGVyLCA6c2lnbl9pbiAjIMOcZWJlcmF1dGggcmVxdWVzdAo=</text>
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBVZWJlckd1YXJkaWFuMiBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSAiL3NpZ25vdXQiLCBBdXRoQ29udHJvbGxlciwgOnNpZ25fb3V0Cg==</text>
+        <text encoding="base64">ICAgIGdldCAiL3NpZ25pbiIsIEF1dGhDb250cm9sbGVyLCA6c2lnbl9pbiAjIMOcZWJlcmF1dGggcmVxdWVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICB7Om9hdXRoMiwgIn4+IDAuNi4wIn0sCg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSAiL3NpZ25vdXQiLCBBdXRoQ29udHJvbGxlciwgOnNpZ25fb3V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
