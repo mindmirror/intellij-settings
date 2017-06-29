@@ -9,45 +9,8 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch07/bytecounter/bytecounter.go" timestamp="1484621363137">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/.gitignore" timestamp="1498025733670">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="26" column="8" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv/conv.go" timestamp="1481073514767">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="6" column="68" />
-        <mark key="]" line="9" column="56" />
-        <mark key="^" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/go-project/go-hello/src/main.go" timestamp="1460619678768">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-      </file>
       <file name="/a.dummy" timestamp="1485306417106">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/clojure-playground/src/playground/ch05.clj" timestamp="1423097954526">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="9" column="2" />
-        <mark key="^" line="9" column="2" />
-        <mark key="." line="9" column="2" />
-      </file>
-      <file name="$USER_HOME$/golang/src/test/test.go" timestamp="1464866212805">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/templates/user/show.html.eex" timestamp="1498469508567">
         <mark key="[" line="1" column="39" />
@@ -64,11 +27,11 @@
       <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498621803384">
         <mark key="'" line="67" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498698574164">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498722071395">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="65" />
         <mark key="^" line="26" column="3" />
-        <mark key="." line="40" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
@@ -91,38 +54,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.exs" timestamp="1497430735085">
-        <mark key="'" line="42" column="32" />
-        <mark key="[" line="47" column="28" />
-        <mark key="]" line="47" column="32" />
-        <mark key="^" line="47" column="32" />
-        <mark key="." line="47" column="32" />
-      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1498200900558">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
         <mark key="^" line="14" column="36" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/home/hello_phoenix/web/models/user.ex" timestamp="1497316752565">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="39" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="39" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" timestamp="1497421290513">
-        <mark key="'" line="29" column="54" />
-        <mark key="[" line="38" column="53" />
-        <mark key="]" line="39" column="68" />
-        <mark key="." line="39" column="68" />
-        <mark key="^" line="39" column="68" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth_controller.ex" timestamp="1498120419572">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -138,25 +74,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/golang/src/concurrency-t1/main.go" timestamp="1460714347207">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/pricecheck.go" timestamp="1460622036902">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
-      </file>
-      <file name="$USER_HOME$/golang/src/shopping/pricecheck.go" timestamp="1460709380687">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/shlack/mix.exs" timestamp="1498526287710">
         <mark key="[" line="12" column="15" />
@@ -164,31 +86,11 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1498125981393">
-        <mark key="'" line="34" column="7" />
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-        <mark key="^" line="26" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/config/config.exs" timestamp="1498472658781">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="28" column="29" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="7" column="15" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks3/main.go" timestamp="1484279869448">
-        <mark key="'" line="39" column="33" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/router.ex" timestamp="1498301563199">
         <mark key="'" line="0" column="0" />
@@ -210,11 +112,11 @@
         <mark key="." line="15" column="39" />
         <mark key="^" line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/go-project/shopping/pricecheck.go" timestamp="1460623340719">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="5" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/guardian_serializer.ex" timestamp="1498722544064">
+        <mark key="[" line="10" column="62" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+        <mark key="^" line="11" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/.gitignore" timestamp="1498462861999">
         <mark key="[" line="24" column="0" />
@@ -230,29 +132,11 @@
         <mark key="." line="47" column="44" />
         <mark key="^" line="32" column="61" />
       </file>
-      <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
-        <mark key="[" line="3" column="89" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/outline2/main.go" timestamp="1484212085642">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="18" column="14" />
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/templates/layout/app.html.eex" timestamp="1497191812986">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/auth.ex" timestamp="1498303973061">
         <mark key="'" line="2" column="60" />
@@ -299,12 +183,6 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/mix.exs" timestamp="1498035146875">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="54" />
-        <mark key="^" line="21" column="54" />
-        <mark key="." line="21" column="54" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv0/tempconv.go" timestamp="1481072949090">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="15" />
@@ -318,30 +196,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="25" column="30" />
-        <mark key="^" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/controllers/hello_controller.ex" timestamp="1497065757094">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="8" column="49" />
-        <mark key="^" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/shared_view.ex" timestamp="1497194856188">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="1" column="28" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/golang/src/simple-web-server/form-input/login.gtpl" timestamp="1466411906270">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/hello_view.ex" timestamp="1497065372543">
         <mark key="[" line="2" column="0" />
@@ -349,35 +208,11 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
-        <mark key="[" line="47" column="6" />
-        <mark key="]" line="47" column="39" />
-        <mark key="^" line="47" column="39" />
-        <mark key="." line="47" column="39" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/issues/main.go" timestamp="1484009582875">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/templates/session/new.html.eex" timestamp="1498303537093">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/mix.exs" timestamp="1498628045099">
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="50" column="26" />
-        <mark key="^" line="50" column="26" />
-        <mark key="." line="50" column="26" />
-      </file>
-      <file name="$USER_HOME$/golang/src/shopping/models/item.go" timestamp="1460691336914">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/graph/main.go" timestamp="1481537397184">
         <mark key="'" line="12" column="0" />
@@ -392,13 +227,6 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/views/session_view.ex" timestamp="1498127483575">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1498719503785" />
       <file name="$USER_HOME$/golang/src/gopl/ch04/github/github2.go" timestamp="1484008649911">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="31" column="22" />
@@ -410,19 +238,6 @@
         <mark key="]" line="41" column="20" />
         <mark key="." line="41" column="20" />
         <mark key="^" line="41" column="20" />
-      </file>
-      <file name="$USER_HOME$/golang/src/playground/main.go" timestamp="1481071306569">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gowiki/wiki.go" timestamp="1486458782670">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="95" column="54" />
-        <mark key="." line="95" column="54" />
-        <mark key="^" line="95" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_channel/web/static/js/socket.js" timestamp="1497236002900">
         <mark key="'" line="57" column="4" />
@@ -436,19 +251,6 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/clojure/mastering-clojure-macros/src/mastering_clojure_macros/ch02.clj" timestamp="1435539746518">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="43" column="10" />
-        <mark key="^" line="43" column="10" />
-        <mark key="." line="43" column="10" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks1/main.go" timestamp="1484184387739">
-        <mark key="'" line="20" column="44" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo1/main.go" timestamp="1460716275439">
         <mark key="[" line="9" column="12" />
@@ -474,26 +276,6 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch01/server2/main.go" timestamp="1480911910444">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="31" column="14" />
-        <mark key="." line="31" column="14" />
-        <mark key="^" line="31" column="14" />
-      </file>
-      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_model.go" timestamp="1485252365691">
-        <mark key="'" line="16" column="28" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/views/hello_view.ex" timestamp="1496886786161">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/config/config.exs" timestamp="1498717493839">
         <mark key="[" line="48" column="41" />
         <mark key="]" line="48" column="104" />
@@ -513,12 +295,11 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498698606711">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498722131353">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="32" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -526,46 +307,17 @@
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/treesort/main.go" timestamp="1481677906382">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/session_view.ex" timestamp="1498303307799">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/mix.exs" timestamp="1498628144118">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/golang/src/shopping/shopping.go" timestamp="1460622840255">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="11" column="26" />
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/templates/hello/world.html.eex" timestamp="1496845680680">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="40" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/nonempty/main.go" timestamp="1481528687808">
         <mark key="'" line="21" column="56" />
@@ -580,37 +332,12 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="44" />
-        <mark key="^" line="1" column="44" />
-        <mark key="." line="1" column="44" />
-      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/session_controller.ex" timestamp="1498183947275">
         <mark key="'" line="16" column="26" />
         <mark key="[" line="18" column="5" />
         <mark key="]" line="23" column="41" />
         <mark key="." line="23" column="41" />
         <mark key="^" line="23" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/autoescape/main.go" timestamp="1484016091015">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/ueberauth_example/web/controllers/auth_controller.ex" timestamp="1498541833597">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="11" column="36" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="36" />
       </file>
       <file name="$USER_HOME$/golang/src/myapp/app/controllers/app.go" timestamp="1480578393981">
         <mark key="[" line="17" column="31" />
@@ -624,14 +351,6 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/ueberauth_example/web/models/user_from_auth.ex" timestamp="1498534637736" />
-      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" timestamp="1485255713264">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="39" column="33" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/golang/src/shopping/main/main.go" timestamp="1460690515714">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="8" column="41" />
@@ -644,30 +363,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.ex" timestamp="1497427720392">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/templates/user/index.html.eex" timestamp="1498469546791">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/.gitignore" timestamp="1498472253120">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/models/user.ex" timestamp="1498468885719">
         <mark key="'" line="0" column="10" />
@@ -702,67 +402,17 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch06/intset/main.go" timestamp="1484551321492">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="68" column="27" />
-        <mark key="]" line="71" column="36" />
-        <mark key="." line="71" column="36" />
-        <mark key="^" line="71" column="36" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_phoenix/config/prod.exs" timestamp="1497489802436">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" timestamp="1498126754815">
         <mark key="[" line="20" column="76" />
         <mark key="]" line="21" column="75" />
         <mark key="^" line="21" column="75" />
         <mark key="." line="21" column="75" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/controllers/user_controller.ex" timestamp="1497430525243">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="12" column="57" />
-        <mark key="^" line="12" column="57" />
-        <mark key="." line="12" column="57" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_phoenix/mix.exs" timestamp="1497488623196">
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="40" column="19" />
-        <mark key="^" line="40" column="19" />
-        <mark key="." line="40" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/config/dev.exs" timestamp="1497191765092">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/ueberauth_example/config/dev.exs" timestamp="1498535704697">
-        <mark key="'" line="38" column="22" />
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="29" />
-        <mark key="^" line="44" column="29" />
-        <mark key="." line="44" column="29" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/charcount/main.go" timestamp="1481536623895">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="45" column="61" />
-        <mark key="." line="45" column="61" />
-        <mark key="^" line="45" column="61" />
-      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/func_prog.clj" timestamp="1429578070856">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/controllers/hello_controller.ex" timestamp="1496845641160">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" timestamp="1485314050703">
         <mark key="'" line="31" column="0" />
@@ -777,42 +427,11 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/ueberauth_example/config/prod.secret.exs" timestamp="1498535607499">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/authorization_controller.ex" timestamp="1498630436870">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/page_controller.ex" timestamp="1496887391316">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" timestamp="1497422084027">
-        <mark key="'" line="19" column="46" />
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="4" column="60" />
-        <mark key="." line="4" column="60" />
-        <mark key="^" line="4" column="60" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/page_controller.ex" timestamp="1496883574875">
-        <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/clojure-playground/src/playground/playsync.clj" timestamp="1434705309625">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch06/geometry/geometry.go" timestamp="1484538407410">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="27" column="13" />
-        <mark key="^" line="27" column="13" />
-        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" timestamp="1497192326729">
         <mark key="'" line="17" column="0" />
@@ -821,78 +440,17 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" timestamp="1485250274094">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="49" column="25" />
-        <mark key="^" line="49" column="25" />
-        <mark key="." line="49" column="25" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch01/fetchall/main.go" timestamp="1480909364077">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="39" column="54" />
-        <mark key="." line="39" column="54" />
-        <mark key="^" line="39" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch02/boiling/main.go" timestamp="1480927566995">
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/outline/main.go" timestamp="1484100747677">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="23" column="24" />
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/golang/src/myapp/app/views/flash.html" timestamp="1480578625315">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="17" column="10" />
-        <mark key="^" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1498551624821">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/golang/src/simple-web-server/form-input/form-input.go" timestamp="1466411744856">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="26" column="47" />
-        <mark key="^" line="26" column="47" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/priv/repo/migrations/20170609124523_create_user.exs" timestamp="1497012857101">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl/repo.ex" timestamp="1497011706326">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/router.ex" timestamp="1497410192791">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/ueber_user/web/models/user.ex" timestamp="1498468543685">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issueshtml/main.go" timestamp="1484014525836">
         <mark key="'" line="30" column="0" />
@@ -943,18 +501,6 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/auth/signin.html.eex" timestamp="1498550092417">
-        <mark key="[" line="2" column="66" />
-        <mark key="]" line="2" column="68" />
-        <mark key="^" line="2" column="68" />
-        <mark key="." line="2" column="68" />
-      </file>
-      <file name="$USER_HOME$/golang/src/pixels/weather-go/.gitignore" timestamp="1484720964803">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-      </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoutil/util.go" timestamp="1485996637310">
         <mark key="[" line="51" column="59" />
         <mark key="]" line="51" column="60" />
@@ -967,38 +513,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" timestamp="1498639516943">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="55" column="9" />
-        <mark key="]" line="55" column="9" />
-        <mark key="." line="55" column="9" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="28" column="35" />
         <mark key="]" line="29" column="37" />
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
-      </file>
-      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" timestamp="1485252579975">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch01/echo3/main.go" timestamp="1480663318159">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="9" column="46" />
-        <mark key="." line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/router.ex" timestamp="1497427985791">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="13" column="57" />
-        <mark key="." line="13" column="57" />
-        <mark key="^" line="13" column="57" />
       </file>
       <file name="/Dummy.txt" timestamp="1498698574483">
         <mark key="[" line="0" column="0" />
@@ -1040,30 +560,11 @@
         <mark key="." line="24" column="41" />
         <mark key="^" line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/views/user_view.ex" timestamp="1498464188469">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/ueber_user/priv/repo/migrations/20170626085502_create_user.exs" timestamp="1498467371000">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="37" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/macros.clj" timestamp="1429836516506">
         <mark key="[" line="21" column="22" />
         <mark key="]" line="23" column="12" />
         <mark key="^" line="23" column="12" />
         <mark key="." line="23" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/db/db.go" timestamp="1460621726031">
         <mark key="[" line="4" column="1" />
@@ -1102,29 +603,555 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/mix.exs" timestamp="1498272172497">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="54" />
-        <mark key="^" line="21" column="54" />
-        <mark key="." line="21" column="54" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/mandelbrot/main.go" timestamp="1481179732314">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="27" column="54" />
         <mark key="." line="27" column="54" />
         <mark key="^" line="27" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/router.ex" timestamp="1496845427047">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-      </file>
       <file name="$USER_HOME$/golang/src/gowiki/test.txt" timestamp="1484640869215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/page_view.ex" timestamp="1497193571703">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/router.ex" timestamp="1498464287905">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch07/bytecounter/bytecounter.go" timestamp="1484621363137">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/.gitignore" timestamp="1498025733670">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv/conv.go" timestamp="1481073514767">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="6" column="68" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/go-project/go-hello/src/main.go" timestamp="1460619678768">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/clojure-playground/src/playground/ch05.clj" timestamp="1423097954526">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+      </file>
+      <file name="$USER_HOME$/golang/src/test/test.go" timestamp="1464866212805">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.exs" timestamp="1497430735085">
+        <mark key="'" line="42" column="32" />
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="32" />
+        <mark key="^" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/home/hello_phoenix/web/models/user.ex" timestamp="1497316752565">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/models/user_test.exs" timestamp="1497421290513">
+        <mark key="'" line="29" column="54" />
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="39" column="68" />
+        <mark key="." line="39" column="68" />
+        <mark key="^" line="39" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth_controller.ex" timestamp="1498120419572">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/golang/src/concurrency-t1/main.go" timestamp="1460714347207">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/golang/src/shopping/pricecheck.go" timestamp="1460709380687">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1498125981393">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/config/config.exs" timestamp="1498472658781">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks3/main.go" timestamp="1484279869448">
+        <mark key="'" line="39" column="33" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/go-project/shopping/pricecheck.go" timestamp="1460623340719">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
+        <mark key="[" line="3" column="89" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/models/authorization.ex" timestamp="1498723180726">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/templates/layout/app.html.eex" timestamp="1497191812986">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/mix.exs" timestamp="1498035146875">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/controllers/hello_controller.ex" timestamp="1497065757094">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+      </file>
+      <file name="$USER_HOME$/golang/src/simple-web-server/form-input/login.gtpl" timestamp="1466411906270">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
+        <mark key="[" line="47" column="6" />
+        <mark key="]" line="47" column="39" />
+        <mark key="^" line="47" column="39" />
+        <mark key="." line="47" column="39" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch04/issues/main.go" timestamp="1484009582875">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/mix.exs" timestamp="1498628045099">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="50" column="26" />
+        <mark key="^" line="50" column="26" />
+        <mark key="." line="50" column="26" />
+      </file>
+      <file name="$USER_HOME$/golang/src/shopping/models/item.go" timestamp="1460691336914">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/views/session_view.ex" timestamp="1498127483575">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1498722683641">
+        <mark key="'" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/golang/src/playground/main.go" timestamp="1481071306569">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gowiki/wiki.go" timestamp="1486458782670">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="95" column="54" />
+        <mark key="." line="95" column="54" />
+        <mark key="^" line="95" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/clojure/mastering-clojure-macros/src/mastering_clojure_macros/ch02.clj" timestamp="1435539746518">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="43" column="10" />
+        <mark key="^" line="43" column="10" />
+        <mark key="." line="43" column="10" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks1/main.go" timestamp="1484184387739">
+        <mark key="'" line="20" column="44" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch01/server2/main.go" timestamp="1480911910444">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+      </file>
+      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_model.go" timestamp="1485252365691">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/hello/web/views/hello_view.ex" timestamp="1496886786161">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498722634942">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch04/treesort/main.go" timestamp="1481677906382">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/mix.exs" timestamp="1498628144118">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/templates/hello/world.html.eex" timestamp="1496845680680">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch04/autoescape/main.go" timestamp="1484016091015">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/ueberauth_example/web/controllers/auth_controller.ex" timestamp="1498541833597">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/ueberauth_example/web/models/user_from_auth.ex" timestamp="1498534637736" />
+      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" timestamp="1485255713264">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="39" column="33" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/test/controllers/user_controller_test.ex" timestamp="1497427720392">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/.gitignore" timestamp="1498472253120">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch06/intset/main.go" timestamp="1484551321492">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="68" column="27" />
+        <mark key="]" line="71" column="36" />
+        <mark key="." line="71" column="36" />
+        <mark key="^" line="71" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_phoenix/config/prod.exs" timestamp="1497489802436">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/controllers/user_controller.ex" timestamp="1497430525243">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="12" column="57" />
+        <mark key="^" line="12" column="57" />
+        <mark key="." line="12" column="57" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_phoenix/mix.exs" timestamp="1497488623196">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/config/dev.exs" timestamp="1497191765092">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/ueberauth_example/config/dev.exs" timestamp="1498535704697">
+        <mark key="'" line="38" column="22" />
+        <mark key="[" line="44" column="29" />
+        <mark key="]" line="44" column="29" />
+        <mark key="^" line="44" column="29" />
+        <mark key="." line="44" column="29" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch04/charcount/main.go" timestamp="1481536623895">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="45" column="61" />
+        <mark key="." line="45" column="61" />
+        <mark key="^" line="45" column="61" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/controllers/hello_controller.ex" timestamp="1496845641160">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/authorization_controller.ex" timestamp="1498630436870">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/test/controllers/user_controller_test.exs" timestamp="1497422084027">
+        <mark key="'" line="19" column="46" />
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="60" />
+        <mark key="." line="4" column="60" />
+        <mark key="^" line="4" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/page_controller.ex" timestamp="1496883574875">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/clojure-playground/src/playground/playsync.clj" timestamp="1434705309625">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch06/geometry/geometry.go" timestamp="1484538407410">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="27" column="13" />
+        <mark key="^" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" timestamp="1485250274094">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="49" column="25" />
+        <mark key="^" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch01/fetchall/main.go" timestamp="1480909364077">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="39" column="54" />
+        <mark key="." line="39" column="54" />
+        <mark key="^" line="39" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch02/boiling/main.go" timestamp="1480927566995">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+      </file>
+      <file name="$USER_HOME$/golang/src/myapp/app/views/flash.html" timestamp="1480578625315">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1498551624821">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/simple-web-server/form-input/form-input.go" timestamp="1466411744856">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl/repo.ex" timestamp="1497011706326">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/router.ex" timestamp="1497410192791">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/ueber_user/web/models/user.ex" timestamp="1498468543685">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/auth/signin.html.eex" timestamp="1498550092417">
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="2" column="68" />
+        <mark key="^" line="2" column="68" />
+        <mark key="." line="2" column="68" />
+      </file>
+      <file name="$USER_HOME$/golang/src/pixels/weather-go/.gitignore" timestamp="1484720964803">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" timestamp="1498639516943">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="9" />
+        <mark key="." line="55" column="9" />
+      </file>
+      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" timestamp="1485252579975">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopl/ch01/echo3/main.go" timestamp="1480663318159">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_controller_test/web/router.ex" timestamp="1497427985791">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/views/user_view.ex" timestamp="1498464188469">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/ueber_user/priv/repo/migrations/20170626085502_create_user.exs" timestamp="1498467371000">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/mix.exs" timestamp="1498272172497">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/router.ex" timestamp="1496845427047">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/office/hello_test/web/channels/user_socket.ex" timestamp="1497422589140">
         <mark key="'" line="2" column="0" />
@@ -1133,29 +1160,14 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/page_view.ex" timestamp="1497193571703">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/append/append.go" timestamp="1481527008354">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="18" column="11" />
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian1/web/router.ex" timestamp="1498464287905">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="42" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
-      <jump line="30" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" />
-      <jump line="6" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="63" column="11" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="52" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="51" column="5" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -1253,37 +1265,44 @@
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" />
       <jump line="27" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
+      <jump line="9" column="6" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="2" column="24" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>System.get_env(&quot;GOOGLE_CLIENT_SECRET&quot;)</text>
+        <text>def for_token(user = %User{}) do
+    
+  end</text>
       </register>
       <register name="-" type="4">
-        <text>System.get_env(&quot;GOOGLE_CLIENT_SECRET&quot;)</text>
+        <text>identity_</text>
       </register>
       <register name="/" type="4">
-        <text>Ecto.</text>
+        <text>Authorization</text>
       </register>
       <register name="0" type="4">
         <text>import_config dev.secret.exs</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBVZWJlckd1YXJkaWFuMiBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
+      <register name="1" type="4">
+        <text>def for_token(user = %User{}) do
+    
+  end</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3NpZ25pbiIsIEF1dGhDb250cm9sbGVyLCA6c2lnbl9pbiAjIMOcZWJlcmF1dGggcmVxdWVzdAo=</text>
+        <text encoding="base64">CiAgZGVmIGlkZW50aXR5X2NhbGxiYWNrKGNvbm4sIHBhcmFtcykgZG8KICAgIHJlbmRlciBjb25uLCAic2lnbmluLmh0bWwiCiAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSAiL3NpZ25vdXQiLCBBdXRoQ29udHJvbGxlciwgOnNpZ25fb3V0Cg==</text>
+        <text encoding="base64">ICAgIHBvc3QgIi9pZGVudGl0eS9jYWxsYmFjayIsIEF1dGhDb250cm9sbGVyLCA6aWRlbnRpdHlfY2FsbGJhY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICB7Om9hdXRoMiwgIn4+IDAuNi4wIn0sCg==</text>
+        <text encoding="base64">CiAgZGVmIGNhbGxiYWNrKGNvbm4sIF9wYXJhbXMpIGRvCiAgICByZW5kZXIgY29ubiwgInNpZ25pbi5odG1sIgogIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3NpZ251cCIsIFVzZXJDb250cm9sbGVyLCA6c2lnbl91cAo=</text>
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBVZWJlckd1YXJkaWFuMiBkbwogICMgICBwaXBlX3Rocm91Z2ggOmFwaQogICMgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0X2NvbmZpZyBkZXYuc2VjcmV0LmV4cwo=</text>
+        <text encoding="base64">ICAgIGdldCAiL3NpZ25pbiIsIEF1dGhDb250cm9sbGVyLCA6c2lnbl9pbiAjIMOcZWJlcmF1dGggcmVxdWVzdAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1291,22 +1310,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uZmlnIDoK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSAiL3NpZ25vdXQiLCBBdXRoQ29udHJvbGxlciwgOnNpZ25fb3V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICB7Om9hdXRoMiwgIn4+IDAuNi4wIn0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlIHRhYmxlKDp1c2VycykgZG8K</text>
+        <text encoding="base64">ICAgIGdldCAiL3NpZ251cCIsIFVzZXJDb250cm9sbGVyLCA6c2lnbl91cAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ecto.</last-search>
+      <last-search>Authorization</last-search>
       <last-offset />
-      <last-pattern>Ecto.</last-pattern>
+      <last-pattern>Authorization</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1314,9 +1333,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
-        <entry encoding="base64">XDxjaGFuZ2VzZXRcPg==</entry>
-        <entry encoding="base64">XDxtZXNzYWdlc0NvbnRhaW5lclw+</entry>
         <entry>user_path</entry>
         <entry encoding="base64">XDxidWlsZF9jb25uXD4=</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</entry>
@@ -1334,6 +1350,9 @@
         <entry encoding="base64">XDxyZXBsYWNlX2F1dGhvcml6YXRpb25cPg==</entry>
         <entry encoding="base64">XDxhdXRoc1w+</entry>
         <entry>Ecto.</entry>
+        <entry>identity_callback</entry>
+        <entry encoding="base64">XDxBdXRob3JpemF0aW9uXD4=</entry>
+        <entry>Authorization</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
