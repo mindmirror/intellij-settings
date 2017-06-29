@@ -814,8 +814,8 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1498733373834">
-        <mark key="'" line="199" column="7" />
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1498735798650">
+        <mark key="'" line="155" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/playground/main.go" timestamp="1481071306569">
         <mark key="[" line="17" column="4" />
@@ -863,12 +863,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498734888943">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498735480396">
         <mark key="'" line="13" column="63" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="77" />
-        <mark key="^" line="9" column="77" />
-        <mark key="." line="9" column="77" />
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="48" column="3" />
+        <mark key="^" line="48" column="3" />
+        <mark key="." line="48" column="3" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
         <mark key="[" line="12" column="4" />
@@ -1179,8 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="19" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
-      <jump line="41" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="37" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="30" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="13" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -1279,6 +1277,8 @@
       <jump line="199" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="24" column="3" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="13" column="63" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="19" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="155" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1288,7 +1288,7 @@
         <text>%Auth{provider: :identity} = auth</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</text>
+        <text encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</text>
       </register>
       <register name="0" type="4">
         <text>import_config dev.secret.exs</text>
@@ -1332,24 +1332,22 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</last-search>
+      <last-search encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZF9jb25uXD4=</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</entry>
         <entry>Bcr</entry>
         <entry>:</entry>
         <entry encoding="base64">XDwwXD4=</entry>
         <entry encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</entry>
         <entry encoding="base64">XDx0b2tlbl9mcm9tX2F1dGhcPg==</entry>
-        <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlclw+</entry>
@@ -1362,6 +1360,8 @@
         <entry>Authorization</entry>
         <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
         <entry encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZV9hdXRoX2Zvcl9yZWdpc3RyYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
