@@ -64,7 +64,7 @@
       <file name="$USER_HOME$/Projects/aims/shlack/web/auth/user_from_auth.ex" timestamp="1498621803384">
         <mark key="'" line="67" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498697714663">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1498698574164">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="26" column="3" />
@@ -311,7 +311,8 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1498553697562">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1498698590439">
+        <mark key="'" line="18" column="0" />
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
@@ -511,8 +512,8 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498637260698">
-        <mark key="'" line="17" column="6" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1498698606711">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="32" />
         <mark key="^" line="6" column="32" />
@@ -998,7 +999,7 @@
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498645645407">
+      <file name="/Dummy.txt" timestamp="1498698574483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1151,9 +1152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
-      <jump line="2" column="105" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" />
-      <jump line="23" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" />
       <jump line="30" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="30" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" />
       <jump line="6" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -1251,6 +1249,9 @@
       <jump line="22" column="42" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" />
       <jump line="55" column="4" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/controllers/auth_controller.ex" />
+      <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
