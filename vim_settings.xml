@@ -863,12 +863,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498794616721">
-        <mark key="'" line="101" column="7" />
-        <mark key="[" line="102" column="24" />
-        <mark key="]" line="102" column="34" />
-        <mark key="." line="102" column="34" />
-        <mark key="^" line="102" column="34" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498796321159">
+        <mark key="'" line="7" column="3" />
+        <mark key="[" line="120" column="40" />
+        <mark key="]" line="120" column="33" />
+        <mark key="." line="120" column="33" />
+        <mark key="^" line="120" column="33" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
         <mark key="[" line="12" column="4" />
@@ -1179,9 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="38" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="4" column="27" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="42" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="48" column="20" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="65" column="8" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/router.ex" />
@@ -1279,16 +1276,19 @@
       <jump line="13" column="10" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="75" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="101" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="122" column="54" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="120" column="39" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="7" column="3" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgZW5k</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</text>
+        <text encoding="base64">XDxwYXNzd29yZF9taW5pbXVtX2xlbmd0aFw+</text>
       </register>
       <register name="0" type="4">
         <text>import_config dev.secret.exs</text>
@@ -1330,17 +1330,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</last-search>
+      <last-search encoding="base64">XDxwYXNzd29yZF9taW5pbXVtX2xlbmd0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXNzd29yZF9taW5pbXVtX2xlbmd0aFw+</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</entry>
         <entry>Bcr</entry>
         <entry>:</entry>
         <entry encoding="base64">XDwwXD4=</entry>
@@ -1360,6 +1359,7 @@
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxyZXBsYWNlX2F1dGhvcml6YXRpb25cPg==</entry>
         <entry encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</entry>
+        <entry encoding="base64">XDxwYXNzd29yZF9taW5pbXVtX2xlbmd0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
