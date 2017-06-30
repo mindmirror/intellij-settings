@@ -863,12 +863,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498784051794">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498785582048">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="47" column="3" />
-        <mark key="^" line="47" column="3" />
-        <mark key="." line="47" column="3" />
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="61" column="33" />
+        <mark key="^" line="61" column="33" />
+        <mark key="." line="61" column="33" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
         <mark key="[" line="12" column="4" />
