@@ -869,12 +869,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498803237992">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498806349146">
         <mark key="'" line="7" column="3" />
-        <mark key="[" line="120" column="39" />
-        <mark key="]" line="120" column="38" />
-        <mark key="." line="120" column="38" />
-        <mark key="^" line="120" column="38" />
+        <mark key="[" line="120" column="19" />
+        <mark key="]" line="120" column="16" />
+        <mark key="." line="120" column="16" />
+        <mark key="^" line="120" column="16" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
         <mark key="[" line="12" column="4" />
@@ -888,11 +888,6 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/mix.exs" timestamp="1498628144118">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="19" column="27" />
@@ -905,12 +900,24 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/lib/mix/tasks/play.ex" timestamp="1498805424542">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="44" />
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/playground/lib/play2.ex" timestamp="1498805307011">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
         <mark key="[" line="5" column="0" />
@@ -1039,6 +1046,12 @@
         <mark key="]" line="27" column="13" />
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/playground/lib/mix/tasks/play.ex" timestamp="1498806323820">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" timestamp="1485250274094">
         <mark key="'" line="31" column="0" />
@@ -1293,11 +1306,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/Projects/elixir/playground/playground/lib/playground.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbW9kOiB7UGxheWdyb3VuZCwgW119LAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>mod: {Playground, []},</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZF9taW5pbXVtX2xlbmd0aFw+</text>
@@ -1306,22 +1319,22 @@
         <text>import_config dev.secret.exs</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgZW5kCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgbW9kOiB7UGxheWdyb3VuZCwgW119LAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICBAbW9kdWxlZG9jICIiIgogIERvY3VtZW50YXRpb24gZm9yIFBsYXlncm91bmQuCiAgIiIiCgogIEBkb2MgIiIiCiAgSGVsbG8gd29ybGQuCgogICMjIEV4YW1wbGVzCgogICAgICBpZXg+IFBsYXlncm91bmQuaGVsbG8KICAgICAgOndvcmxkCgogICIiIgogIGRlZiBoZWxsbyBkbwogICAgOndvcmxkCiAgZW5k</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgU3BlY2lmeSBleHRyYSBhcHBsaWNhdGlvbnMgeW91J2xsIHVzZSBmcm9tIEVybGFuZy9FbGl4aXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgU3BlY2lmeSBleHRyYSBhcHBsaWNhdGlvbnMgeW91J2xsIHVzZSBmcm9tIEVybGFuZy9FbGl4aXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogIGVuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1329,13 +1342,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWZwIHJlZ2lzdGVyX3VzZXJfZnJvbV9hdXRoKGF1dGgsIGN1cnJlbnRfdXNlciwgcmVwbykgZG8KICAgIHdpdGggOm9rIDwtIHZhbGlkYXRlX2F1dGhfZm9yX3JlZ2lzdHJhdGlvbihhdXRoKSBkbwogICAgICAgICB7Om9rLCByZXNwb25zZX0gPC0gcmVwby50cmFuc2FjdGlvbihmbiAtPiBjcmVhdGVfdXNlcl9mcm9tX2F1dGgoYXV0aCwgY3VycmVudF91c2VyLCByZXBvKSBlbmQpIGRvCiAgICAgIHJlc3BvbnNlCiAgICBlbHNlCiAgICAgIHs6ZXJyb3IsIHJlYXNvbn0gLT4gezplcnJvciwgcmVhc29ufQogICAgZW5kCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIAogIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWZwIHJlcGxhY2VfYXV0aG9yaXphdGlvbihhdXRob3JpemF0aW9uLCBhdXRoLCBjdXJyZW50X3VzZXIsIHJlcG8pIGRvCiAgICB3aXRoIDpvayA8LSB2YWxpZGF0ZV9hdXRoX2Zvcl9yZWdpc3RyYXRpb24oYXV0aCkKICAgICAgICAgezpvaywgdXNlcn0gPC0gdXNlcl9mcm9tX2F1dGhvcml6YXRpb24oYXV0aG9yaXphdGlvbiwgY3VycmVudF91c2VyLCByZXBvKQogICAgICAgICB7Om9rLCB1c2VyfSA8LSByZXBvLnRyYW5zYWN0aW9uKGZuIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgcmVwby5kZWxldGUoYXV0aG9yaXphdGlvbikKICAgICAgICAgICAgICAgICAgICAgICAgICBhdXRob3JpemF0aW9uX2Zyb21fYXV0aCh1c2VyLCBhdXRoLCByZXBvKQogICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXIKICAgICAgICAgICAgICAgICAgICAgICAgZW5kKSBkbwogICAgICB7Om9rLCB1c2VyfQogICAgZWxzZQogICAgICB7OmVycm9yLCByZWFzb259IC0+IHs6ZXJyb3IsIHJlYXNvbn0KICAgIGVuZAogIGVuZAo=</text>
+        <text encoding="base64">ICBkZWZwIHJlZ2lzdGVyX3VzZXJfZnJvbV9hdXRoKGF1dGgsIGN1cnJlbnRfdXNlciwgcmVwbykgZG8KICAgIHdpdGggOm9rIDwtIHZhbGlkYXRlX2F1dGhfZm9yX3JlZ2lzdHJhdGlvbihhdXRoKSBkbwogICAgICAgICB7Om9rLCByZXNwb25zZX0gPC0gcmVwby50cmFuc2FjdGlvbihmbiAtPiBjcmVhdGVfdXNlcl9mcm9tX2F1dGgoYXV0aCwgY3VycmVudF91c2VyLCByZXBvKSBlbmQpIGRvCiAgICAgIHJlc3BvbnNlCiAgICBlbHNlCiAgICAgIHs6ZXJyb3IsIHJlYXNvbn0gLT4gezplcnJvciwgcmVhc29ufQogICAgZW5kCiAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWZwIHJlZ2lzdGVyX3VzZXJfZnJvbV9hdXRoKGF1dGgsIGN1cnJlbnRfdXNlciwgcmVwbykgZG8KICAgIHdpdGggOm9rIDwtIHZhbGlkYXRlX2F1dGhfZm9yX3JlZ2lzdHJhdGlvbihhdXRoKSBkbwogICAgICAgICB7Om9rLCByZXNwb25zZX0gPC0gcmVwby50cmFuc2FjdGlvbihmbiAtPiBjcmVhdGVfdXNlcl9mcm9tX2F1dGgoYXV0aCwgY3VycmVudF91c2VyLCByZXBvKSBlbmQpIGRvCiAgICAgIHJlc3BvbnNlCiAgICBlbHNlCiAgICAgIHs6ZXJyb3IsIHJlYXNvbn0gLT4gezplcnJvciwgcmVhc29ufQogICAgZW5kCiAgZW5kCgogIGRlZnAgcmVwbGFjZV9hdXRob3JpemF0aW9uKGF1dGhvcml6YXRpb24sIGF1dGgsIGN1cnJlbnRfdXNlciwgcmVwbykgZG8KICAgIHdpdGggOm9rIDwtIHZhbGlkYXRlX2F1dGhfZm9yX3JlZ2lzdHJhdGlvbihhdXRoKQogICAgICAgICB7Om9rLCB1c2VyfSA8LSB1c2VyX2Zyb21fYXV0aG9yaXphdGlvbihhdXRob3JpemF0aW9uLCBjdXJyZW50X3VzZXIsIHJlcG8pCiAgICAgICAgIHs6b2ssIHVzZXJ9IDwtIHJlcG8udHJhbnNhY3Rpb24oZm4gLT4KICAgICAgICAgICAgICAgICAgICAgICAgICByZXBvLmRlbGV0ZShhdXRob3JpemF0aW9uKQogICAgICAgICAgICAgICAgICAgICAgICAgIGF1dGhvcml6YXRpb25fZnJvbV9hdXRoKHVzZXIsIGF1dGgsIHJlcG8pCiAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcgogICAgICAgICAgICAgICAgICAgICAgICBlbmQpIGRvCiAgICAgIHs6b2ssIHVzZXJ9CiAgICBlbHNlCiAgICAgIHs6ZXJyb3IsIHJlYXNvbn0gLT4gezplcnJvciwgcmVhc29ufQogICAgZW5kCiAgZW5kCg==</text>
+        <text encoding="base64">ICBkZWZwIHJlcGxhY2VfYXV0aG9yaXphdGlvbihhdXRob3JpemF0aW9uLCBhdXRoLCBjdXJyZW50X3VzZXIsIHJlcG8pIGRvCiAgICB3aXRoIDpvayA8LSB2YWxpZGF0ZV9hdXRoX2Zvcl9yZWdpc3RyYXRpb24oYXV0aCkKICAgICAgICAgezpvaywgdXNlcn0gPC0gdXNlcl9mcm9tX2F1dGhvcml6YXRpb24oYXV0aG9yaXphdGlvbiwgY3VycmVudF91c2VyLCByZXBvKQogICAgICAgICB7Om9rLCB1c2VyfSA8LSByZXBvLnRyYW5zYWN0aW9uKGZuIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgcmVwby5kZWxldGUoYXV0aG9yaXphdGlvbikKICAgICAgICAgICAgICAgICAgICAgICAgICBhdXRob3JpemF0aW9uX2Zyb21fYXV0aCh1c2VyLCBhdXRoLCByZXBvKQogICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXIKICAgICAgICAgICAgICAgICAgICAgICAgZW5kKSBkbwogICAgICB7Om9rLCB1c2VyfQogICAgZWxzZQogICAgICB7OmVycm9yLCByZWFzb259IC0+IHs6ZXJyb3IsIHJlYXNvbn0KICAgIGVuZAogIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
