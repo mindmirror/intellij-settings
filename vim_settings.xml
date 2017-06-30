@@ -863,12 +863,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498735480396">
-        <mark key="'" line="13" column="63" />
-        <mark key="[" line="45" column="5" />
-        <mark key="]" line="48" column="3" />
-        <mark key="^" line="48" column="3" />
-        <mark key="." line="48" column="3" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498784051794">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="47" column="3" />
+        <mark key="^" line="47" column="3" />
+        <mark key="." line="47" column="3" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
         <mark key="[" line="12" column="4" />
@@ -1179,21 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="30" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="13" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="43" column="16" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="39" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="35" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="36" column="18" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="34" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="26" column="16" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="21" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="17" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="10" column="29" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="12" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="15" column="30" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="19" column="35" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="22" column="21" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="23" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="31" column="38" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -1275,10 +1260,25 @@
       <jump line="24" column="11" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="198" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="199" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
-      <jump line="24" column="3" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="13" column="63" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="19" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="155" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="46" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="42" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="38" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
