@@ -825,8 +825,8 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1498819970739">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1498822896527">
+        <mark key="'" line="58" column="36" />
       </file>
       <file name="$USER_HOME$/golang/src/playground/main.go" timestamp="1481071306569">
         <mark key="[" line="17" column="4" />
@@ -874,12 +874,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498820021576">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="102" column="32" />
-        <mark key="]" line="102" column="39" />
-        <mark key="." line="102" column="39" />
-        <mark key="^" line="102" column="39" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498823155195">
+        <mark key="'" line="66" column="7" />
+        <mark key="[" line="141" column="79" />
+        <mark key="]" line="141" column="79" />
+        <mark key="." line="141" column="79" />
+        <mark key="^" line="141" column="79" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
         <mark key="[" line="12" column="4" />
@@ -1203,10 +1203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
-      <jump line="21" column="21" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
-      <jump line="28" column="33" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
-      <jump line="27" column="15" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
       <jump line="22" column="35" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
@@ -1303,16 +1299,20 @@
       <jump line="56" column="19" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="31" column="59" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="97" column="7" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="58" column="36" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="130" column="15" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="66" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nil</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>nil</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>auth_and_validate</text>
+        <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
       </register>
       <register name="0" type="4">
         <text>import_config dev.secret.exs</text>
@@ -1354,12 +1354,12 @@
       </register>
     </registers>
     <search>
-      <last-search>auth_and_validate</last-search>
+      <last-search encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-search>
       <last-offset />
-      <last-pattern>auth_and_validate</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-pattern>
       <last-replace>\r:</last-replace>
       <last-substitute>:</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1367,9 +1367,7 @@
         <entry encoding="base64">XDxVZWJlckd1YXJkaWFuMVw+</entry>
         <entry encoding="base64">XDx0b2tlbl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxpZGVudGl0eV9jYWxsYmFja1w+</entry>
-        <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlclw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxhdXRoc1w+</entry>
         <entry>Ecto.</entry>
         <entry>identity_callback</entry>
@@ -1384,6 +1382,8 @@
         <entry encoding="base64">XDx1c2VyX2Zyb21fYXV0aG9yaXphdGlvblw+</entry>
         <entry>auth_and</entry>
         <entry>auth_and_validate</entry>
+        <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
+        <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
