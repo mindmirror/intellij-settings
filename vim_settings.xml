@@ -187,6 +187,9 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1498983505084">
+        <mark key="'" line="178" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/one_ns.clj" timestamp="1423445564804">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="6" column="1" />
@@ -343,11 +346,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498981793089">
-        <mark key="[" line="142" column="22" />
-        <mark key="]" line="145" column="45" />
-        <mark key="^" line="145" column="45" />
-        <mark key="." line="145" column="45" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1498983521780">
+        <mark key="'" line="150" column="7" />
+        <mark key="[" line="134" column="45" />
+        <mark key="]" line="135" column="13" />
+        <mark key="^" line="135" column="13" />
+        <mark key="." line="135" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/.gitignore" timestamp="1498373362445">
         <mark key="[" line="24" column="0" />
@@ -867,12 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
-      <jump line="14" column="40" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="25" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="27" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="72" column="4" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
-      <jump line="37" column="20" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="1" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" />
       <jump line="68" column="13" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="16" column="68" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
@@ -967,6 +965,12 @@
       <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/auth.ex" />
       <jump line="21" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/auth.ex" />
       <jump line="2" column="60" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/auth.ex" />
+      <jump line="67" column="16" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="116" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="104" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="76" column="16" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="178" column="7" filename="$USER_HOME$/Projects/elixir/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="150" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -976,7 +980,7 @@
         <text>Model.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VzZXRcPg==</text>
+        <text encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
@@ -1018,10 +1022,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VzZXRcPg==</last-search>
+      <last-search encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VzZXRcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1042,6 +1046,9 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VzZXRcPg==</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZV9hdXRoX2Zvcl9yZWdpc3RyYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</entry>
+        <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
