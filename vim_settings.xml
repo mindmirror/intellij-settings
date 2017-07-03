@@ -371,7 +371,8 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499088053490">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499088717552">
+        <mark key="'" line="33" column="37" />
         <mark key="[" line="68" column="39" />
         <mark key="]" line="68" column="39" />
         <mark key="^" line="68" column="39" />
@@ -533,11 +534,11 @@
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/user/signup.html.eex" timestamp="1499087887415">
-        <mark key="[" line="2" column="46" />
-        <mark key="]" line="2" column="57" />
-        <mark key="^" line="2" column="57" />
-        <mark key="." line="2" column="57" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/user/signup.html.eex" timestamp="1499088981847">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/config/dev.exs" timestamp="1497191765092">
         <mark key="[" line="10" column="16" />
@@ -702,6 +703,13 @@
         <mark key="]" line="35" column="44" />
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/models/user.ex" timestamp="1498272452036">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input.go" timestamp="1466411191079">
         <mark key="'" line="25" column="4" />
@@ -888,7 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="56" filename="$USER_HOME$/golang/src/gopl/ch07/sorting/main.go" />
       <jump line="4" column="24" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_json.go" />
       <jump line="65" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
       <jump line="96" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" />
@@ -988,6 +995,7 @@
       <jump line="138" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="130" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="66" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="33" column="37" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -997,7 +1005,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
+        <text encoding="base64">XDx1ZWJlcmF1dGhfYXV0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
@@ -1039,15 +1047,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-search>
+      <last-search encoding="base64">XDx1ZWJlcmF1dGhfYXV0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDx1ZWJlcmF1dGhfYXV0aFw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>4</entry>
         <entry>foo</entry>
         <entry>L</entry>
         <entry>l</entry>
@@ -1067,6 +1074,7 @@
         <entry encoding="base64">XDxjcmVhdGVfdXNlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
+        <entry encoding="base64">XDx1ZWJlcmF1dGhfYXV0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
