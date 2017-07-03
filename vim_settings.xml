@@ -49,6 +49,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1499087334944">
+        <mark key="[" line="37" column="71" />
+        <mark key="]" line="38" column="3" />
+        <mark key="^" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+      </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
         <mark key="[" line="26" column="18" />
@@ -365,11 +371,11 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499086750116">
-        <mark key="[" line="51" column="38" />
-        <mark key="]" line="51" column="37" />
-        <mark key="^" line="51" column="37" />
-        <mark key="." line="51" column="37" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499088053490">
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="39" />
+        <mark key="^" line="68" column="39" />
+        <mark key="." line="68" column="39" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -526,6 +532,12 @@
         <mark key="]" line="71" column="36" />
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/user/signup.html.eex" timestamp="1499087887415">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="57" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/config/dev.exs" timestamp="1497191765092">
         <mark key="[" line="10" column="16" />
@@ -697,6 +709,12 @@
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/auth/signin.html.eex" timestamp="1499087878991">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="57" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/.gitignore" timestamp="1484720964803">
         <mark key="[" line="0" column="0" />
@@ -973,10 +991,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>authenticate</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>authenticate</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
