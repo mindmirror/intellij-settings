@@ -663,6 +663,7 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/priv/repo/migrations/20151128192049_create_user.exs" timestamp="1499048641057" />
       <file name="$USER_HOME$/golang/src/gopl/ch04/issueshtml/main.go" timestamp="1484014525836">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="28" column="0" />
