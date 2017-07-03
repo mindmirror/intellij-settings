@@ -351,12 +351,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1499050168482">
-        <mark key="'" line="161" column="7" />
-        <mark key="[" line="142" column="79" />
-        <mark key="]" line="143" column="44" />
-        <mark key="." line="143" column="44" />
-        <mark key="^" line="143" column="44" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1499051652743">
+        <mark key="'" line="138" column="7" />
+        <mark key="[" line="162" column="57" />
+        <mark key="]" line="162" column="57" />
+        <mark key="." line="162" column="57" />
+        <mark key="^" line="162" column="57" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/.gitignore" timestamp="1498373362445">
         <mark key="[" line="24" column="0" />
@@ -974,40 +974,40 @@
       <jump line="101" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="102" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="150" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="138" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="161" column="44" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="160" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
+      <jump line="138" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgSU8ucHV0cyByZXN1bHQK</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</text>
+        <text encoding="base64">XDxjcmVhdGVfdXNlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBuYW1lX2Zyb21fYXV0aChhdXRoKQo=</text>
+        <text encoding="base64">ICAgICAgSU8ucHV0cyByZXN1bHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBuYW1lX2Zyb21fYXV0aChhdXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGVmcCBuYW1lX2Zyb21fYXV0aChhdXRoKSBkbwogICAgaWYgYXV0aC5pbmZvLm5hbWUgZG8KICAgICAgYXV0aC5pbmZvLm5hbWUKICAgIGVsc2UKICAgICAgW2F1dGguaW5mby5maXJzdF9uYW1lLCBhdXRoLmluZm8ubGFzdF9uYW1lXQogICAgICB8PiBFbnVtLmZpbHRlcigmKCYxICE9IG5pbCBhbmQgU3RyaW5nLnN0cmlwKCYxKSAhPSAiIikpCiAgICAgIHw+IEVudW0uam9pbigiICIpCiAgICBlbmQKICBlbmQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICB7OmVjdG8sICJ+PiAxLjEuNiJ9LAo=</text>
+        <text encoding="base64">CiAgZGVmcCBuYW1lX2Zyb21fYXV0aChhdXRoKSBkbwogICAgaWYgYXV0aC5pbmZvLm5hbWUgZG8KICAgICAgYXV0aC5pbmZvLm5hbWUKICAgIGVsc2UKICAgICAgW2F1dGguaW5mby5maXJzdF9uYW1lLCBhdXRoLmluZm8ubGFzdF9uYW1lXQogICAgICB8PiBFbnVtLmZpbHRlcigmKCYxICE9IG5pbCBhbmQgU3RyaW5nLnN0cmlwKCYxKSAhPSAiIikpCiAgICAgIHw+IEVudW0uam9pbigiICIpCiAgICBlbmQKICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICB7OnBvaXNvbiwgIn4+IGRkIn0K</text>
+        <text encoding="base64">ICAgICB7OmVjdG8sICJ+PiAxLjEuNiJ9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZGVmIGxvZ291dChjb25uKSBkbwogICAgY29uZmlndXJlX3Nlc3Npb24oY29ubiwgZHJvcDogdHJ1ZSkKICBlbmQK</text>
+        <text encoding="base64">ICAgICB7OnBvaXNvbiwgIn4+IGRkIn0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1015,22 +1015,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">CiAgZGVmIGxvZ291dChjb25uKSBkbwogICAgY29uZmlndXJlX3Nlc3Npb24oY29ubiwgZHJvcDogdHJ1ZSkKICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfdXNlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfdXNlclw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1053,9 +1053,9 @@
         <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</entry>
         <entry encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVfdXNlclw+</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uXD4=</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfdXNlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
