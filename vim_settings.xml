@@ -365,6 +365,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499086750116">
+        <mark key="[" line="51" column="38" />
+        <mark key="]" line="51" column="37" />
+        <mark key="^" line="51" column="37" />
+        <mark key="." line="51" column="37" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="23" column="26" />
@@ -685,13 +691,6 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/models/user.ex" timestamp="1498272452036">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
-      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input.go" timestamp="1466411191079">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="0" column="8" />
@@ -973,11 +972,11 @@
       <jump line="66" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICB7OmVjdG8sICJ+PiAxLjEuNiJ9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>authenticate</text>
       </register>
       <register name="-" type="4">
-        <text>Model.</text>
+        <text>authenticate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</text>
