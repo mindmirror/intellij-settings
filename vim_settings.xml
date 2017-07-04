@@ -213,11 +213,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1499158399332">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="4" column="109" />
-        <mark key="^" line="4" column="109" />
-        <mark key="." line="4" column="109" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1499162030194">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
         <mark key="'" line="0" column="0" />
@@ -782,7 +782,7 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499128739454">
+      <file name="/Dummy.txt" timestamp="1499161616110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1019,10 +1019,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>write</text>
+        <text>authorized</text>
       </register>
       <register name="-" type="4">
-        <text>write</text>
+        <text>authorized</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
