@@ -390,11 +390,10 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499138383632">
-        <mark key="[" line="47" column="15" />
-        <mark key="]" line="47" column="5" />
-        <mark key="." line="47" column="5" />
-        <mark key="^" line="47" column="5" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499139802189">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="59" column="5" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -552,11 +551,12 @@
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/user/signup.html.eex" timestamp="1499138141923">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/user/signup.html.eex" timestamp="1499139560758">
+        <mark key="'" line="2" column="59" />
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="59" />
+        <mark key="^" line="2" column="59" />
+        <mark key="." line="2" column="59" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/config/dev.exs" timestamp="1497191765092">
         <mark key="[" line="10" column="16" />
@@ -915,7 +915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="2" column="111" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="17" column="34" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
       <jump line="12" column="25" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
@@ -1015,10 +1014,11 @@
       <jump line="104" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="16" column="4" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="121" column="24" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
+      <jump line="2" column="59" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/user/signup.html.eex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVmIGNhbGxiYWNrKCV7YXNzaWduczogJXt1ZWJlcmF1dGhfYXV0aDogYXV0aH19ID0gY29ubiwgX3BhcmFtcywgY3VycmVudF91c2VyLCBfY2xhaW1zKSBkbwogICAgY2FzZSBVc2VyRnJvbUF1dGguc2lnbmluX29yX3NpZ251cF9pZGVudGl0eShhdXRoLCBjdXJyZW50X3VzZXIsIFJlcG8pIGRvCiAgICAgIHs6b2ssIHVzZXJ9IC0+CiAgICAgICAgY29ubgogICAgICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIlNpZ25lZCBpbiBhcyAje3VzZXIuZmlyc3RfbmFtZX0gI3t1c2VyLmxhc3RfbmFtZX0iKQogICAgICAgIHw+IEd1YXJkaWFuLlBsdWcuc2lnbl9pbih1c2VyLCA6YWNjZXNzLCBwZXJtczogJXtkZWZhdWx0OiBHdWFyZGlhbi5QZXJtaXNzaW9ucy5tYXh9KQogICAgICAgIHw+IHJlZGlyZWN0KHRvOiAiLyIpCiAgICAgIHs6ZXJyb3IsIHJlYXNvbn0gLT4KICAgICAgICBjb25uCiAgICAgICAgfD4gcHV0X2ZsYXNoKDplcnJvciwgIkNvdWxkIG5vdCBhdXRoZW50aWNhdGUuIEVycm9yOiAje3JlYXNvbn0iKQogICAgICAgIHw+IHJlbmRlcigic2lnbmluLmh0bWwiLCBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlciwgY3VycmVudF9hdXRoczogYXV0aHMoY3VycmVudF91c2VyKSkKICAgIGVuZAogIGVuZAo=</text>
       </register>
       <register name="-" type="4">
         <text>signup_</text>
@@ -1030,38 +1030,38 @@
         <text encoding="base64">ICAgIGNhc2UgVXNlckZyb21BdXRoLnNpZ25fdXAoYXV0aCwgY3VycmVudF91c2VyLCBSZXBvKSBkbwogICAgICB7Om9rLCB1c2VyfSAtPgogICAgICAgIGNvbm4KICAgICAgICB8PiBwdXRfZmxhc2goOmluZm8sICJTaWduZWQgdXAgYXMgI3t1c2VyLmZpcnN0X25hbWV9ICN7dXNlci5sYXN0X25hbWV9IikKICAgICAgICB8PiBHdWFyZGlhbi5QbHVnLnNpZ25faW4odXNlciwgOmFjY2VzcywgcGVybXM6ICV7ZGVmYXVsdDogR3VhcmRpYW4uUGVybWlzc2lvbnMubWF4fSkKICAgICAgICB8PiByZWRpcmVjdCh0bzogIi8iKQogICAgICB7OmVycm9yLCByZWFzb259IC0+CiAgICAgICAgY29ubgogICAgICAgIHw+IHB1dF9mbGFzaCg6ZXJyb3IsICJDb3VsZCBub3Qgc2lnbiB1cCwgRXJyb3I6ICN7cmVhc29ufSIpCiAgICAgICAgfD4gcmVkaXJlY3QodG86ICIvc2lnbnVwIikKICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVmIGNhbGxiYWNrKCV7YXNzaWduczogJXt1ZWJlcmF1dGhfYXV0aDogYXV0aH19ID0gY29ubiwgX3BhcmFtcywgY3VycmVudF91c2VyLCBfY2xhaW1zKSBkbwogICAgY2FzZSBVc2VyRnJvbUF1dGguc2lnbmluX29yX3NpZ251cF9pZGVudGl0eShhdXRoLCBjdXJyZW50X3VzZXIsIFJlcG8pIGRvCiAgICAgIHs6b2ssIHVzZXJ9IC0+CiAgICAgICAgY29ubgogICAgICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIlNpZ25lZCBpbiBhcyAje3VzZXIuZmlyc3RfbmFtZX0gI3t1c2VyLmxhc3RfbmFtZX0iKQogICAgICAgIHw+IEd1YXJkaWFuLlBsdWcuc2lnbl9pbih1c2VyLCA6YWNjZXNzLCBwZXJtczogJXtkZWZhdWx0OiBHdWFyZGlhbi5QZXJtaXNzaW9ucy5tYXh9KQogICAgICAgIHw+IHJlZGlyZWN0KHRvOiAiLyIpCiAgICAgIHs6ZXJyb3IsIHJlYXNvbn0gLT4KICAgICAgICBjb25uCiAgICAgICAgfD4gcHV0X2ZsYXNoKDplcnJvciwgIkNvdWxkIG5vdCBhdXRoZW50aWNhdGUuIEVycm9yOiAje3JlYXNvbn0iKQogICAgICAgIHw+IHJlbmRlcigic2lnbmluLmh0bWwiLCBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlciwgY3VycmVudF9hdXRoczogYXV0aHMoY3VycmVudF91c2VyKSkKICAgIGVuZAogIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvc3QgIi9pZGVudGl0eS9jYWxsYmFjayIsIEF1dGhDb250cm9sbGVyLCA6aWRlbnRpdHlfY2FsbGJhY2sK</text>
+        <text encoding="base64">CiAgZGVmIGNhbGxiYWNrKCV7YXNzaWduczogJXt1ZWJlcmF1dGhfYXV0aDogYXV0aCwgYXV0aF90eXBlOiA6c2lnbl91cH19ID0gY29ubiwgX3BhcmFtcywgY3VycmVudF91c2VyLCBfY2xhaW1zKSBkbwogICAgY2FzZSBVc2VyRnJvbUF1dGguc2lnbl91cChhdXRoLCBjdXJyZW50X3VzZXIsIFJlcG8pIGRvCiAgICAgIHs6b2ssIHVzZXJ9IC0+CiAgICAgICAgY29ubgogICAgICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIlNpZ25lZCB1cCBhcyAje3VzZXIuZmlyc3RfbmFtZX0gI3t1c2VyLmxhc3RfbmFtZX0iKQogICAgICAgIHw+IEd1YXJkaWFuLlBsdWcuc2lnbl9pbih1c2VyLCA6YWNjZXNzLCBwZXJtczogJXtkZWZhdWx0OiBHdWFyZGlhbi5QZXJtaXNzaW9ucy5tYXh9KQogICAgICAgIHw+IHJlZGlyZWN0KHRvOiAiLyIpCiAgICAgIHs6ZXJyb3IsIHJlYXNvbn0gLT4KICAgICAgICBjb25uCiAgICAgICAgfD4gcHV0X2ZsYXNoKDplcnJvciwgIkNvdWxkIG5vdCBzaWduIHVwLCBFcnJvcjogI3tyZWFzb259IikKICAgICAgICB8PiByZWRpcmVjdCh0bzogIi9zaWdudXAiKQogICAgZW5kCiAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvc3QgIi9pZGVudGl0eS9jYWxsYmFjayIsIEF1dGhDb250cm9sbGVyLCA6c2lnbmluX2NhbGxiYWNrCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBvc3QgIi9pZGVudGl0eS9jYWxsYmFjayIsIEF1dGhDb250cm9sbGVyLCA6aWRlbnRpdHlfY2FsbGJhY2sK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc3QgIi86cHJvdmlkZXIvc2lnbmluX2NhbGxiYWNrIiwgQXV0aENvbnRyb2xsZXIsIDpzaWduaW5fY2FsbGJhY2sK</text>
+        <text encoding="base64">ICAgIHBvc3QgIi9pZGVudGl0eS9jYWxsYmFjayIsIEF1dGhDb250cm9sbGVyLCA6c2lnbmluX2NhbGxiYWNrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmlyc3RfbmFtZTogYXV0aC5pbmZvLmZpcnN0X25hbWUsCiAgICAgIGxhc3RfbmFtZTogYXV0aC5pbmZvLmxhc3RfbmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBvc3QgIi86cHJvdmlkZXIvc2lnbmluX2NhbGxiYWNrIiwgQXV0aENvbnRyb2xsZXIsIDpzaWduaW5fY2FsbGJhY2sK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZmlyc3RfbmFtZTogYXV0aC5pbmZvLmZpcnN0X25hbWUsCiAgICAgIGxhc3RfbmFtZTogYXV0aC5pbmZvLmxhc3RfbmFtZQo=</text>
+      </register>
+      <register name="9" type="4">
         <text>email: auth.info.email,
                                              first_name: auth.info.first_name,
                                              last_name: auth.info.last_name</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcG8uaW5zZXJ0KHJlc3VsdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
