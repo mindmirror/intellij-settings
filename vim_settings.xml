@@ -102,11 +102,11 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/config/config.exs" timestamp="1499150239748">
-        <mark key="[" line="38" column="6" />
-        <mark key="]" line="38" column="6" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="38" column="6" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/config/config.exs" timestamp="1499158166766">
+        <mark key="[" line="61" column="17" />
+        <mark key="]" line="61" column="17" />
+        <mark key="^" line="61" column="17" />
+        <mark key="." line="61" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
         <mark key="[" line="6" column="24" />
@@ -213,11 +213,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1499148861118">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1499158399332">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="4" column="109" />
+        <mark key="^" line="4" column="109" />
+        <mark key="." line="4" column="109" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
         <mark key="'" line="0" column="0" />
@@ -1018,11 +1018,11 @@
       <jump line="153" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWZwIG5hbWVfZnJvbV9hdXRoKGF1dGgpIGRvCiAgICBpZiBhdXRoLmluZm8ubmFtZSBkbwogICAgICBhdXRoLmluZm8ubmFtZQogICAgZWxzZQogICAgICBbYXV0aC5pbmZvLmZpcnN0X25hbWUsIGF1dGguaW5mby5sYXN0X25hbWVdCiAgICAgIHw+IEVudW0uZmlsdGVyKCYoJjEgIT0gbmlsIGFuZCBTdHJpbmcuc3RyaXAoJjEpICE9ICIiKSkKICAgICAgfD4gRW51bS5qb2luKCIgIikKICAgIGVuZAogIGVuZAoK</text>
+      <register name="&quot;" type="4">
+        <text>write</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>write</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
