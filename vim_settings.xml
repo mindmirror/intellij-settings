@@ -49,6 +49,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1499131491962">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="16" />
+        <mark key="." line="36" column="16" />
+        <mark key="^" line="36" column="16" />
+      </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
         <mark key="[" line="26" column="18" />
@@ -379,11 +385,11 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499067075362">
-        <mark key="[" line="56" column="72" />
-        <mark key="]" line="57" column="93" />
-        <mark key="." line="57" column="93" />
-        <mark key="^" line="57" column="93" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499131515633">
+        <mark key="[" line="47" column="96" />
+        <mark key="]" line="47" column="72" />
+        <mark key="." line="47" column="72" />
+        <mark key="^" line="47" column="72" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -540,6 +546,12 @@
         <mark key="]" line="71" column="36" />
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/user/signup.html.eex" timestamp="1499131057079">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/config/dev.exs" timestamp="1497191765092">
         <mark key="[" line="10" column="16" />
@@ -719,6 +731,12 @@
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/auth/signin.html.eex" timestamp="1499131064505">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/.gitignore" timestamp="1484720964803">
         <mark key="[" line="0" column="0" />
@@ -995,10 +1013,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>identity</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>identity</text>
       </register>
       <register name="/" type="4">
         <text>Bcrypt</text>
@@ -1007,24 +1025,24 @@
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHBvc3QgIi86cHJvdmlkZXIvc2lnbmluX2NhbGxiYWNrIiwgQXV0aENvbnRyb2xsZXIsIDpzaWduaW5fY2FsbGJhY2sK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgZmlyc3RfbmFtZTogYXV0aC5pbmZvLmZpcnN0X25hbWUsCiAgICAgIGxhc3RfbmFtZTogYXV0aC5pbmZvLmxhc3RfbmFtZQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>email: auth.info.email,
                                              first_name: auth.info.first_name,
                                              last_name: auth.info.last_name</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJlcG8uaW5zZXJ0KHJlc3VsdCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSU8ucHV0cyByZXN1bHQK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBuYW1lX2Zyb21fYXV0aChhdXRoKQo=</text>
+        <text encoding="base64">ICAgICAgSU8ucHV0cyByZXN1bHQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1032,13 +1050,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBuYW1lX2Zyb21fYXV0aChhdXRoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgZGVmcCBuYW1lX2Zyb21fYXV0aChhdXRoKSBkbwogICAgaWYgYXV0aC5pbmZvLm5hbWUgZG8KICAgICAgYXV0aC5pbmZvLm5hbWUKICAgIGVsc2UKICAgICAgW2F1dGguaW5mby5maXJzdF9uYW1lLCBhdXRoLmluZm8ubGFzdF9uYW1lXQogICAgICB8PiBFbnVtLmZpbHRlcigmKCYxICE9IG5pbCBhbmQgU3RyaW5nLnN0cmlwKCYxKSAhPSAiIikpCiAgICAgIHw+IEVudW0uam9pbigiICIpCiAgICBlbmQKICBlbmQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICB7OmVjdG8sICJ+PiAxLjEuNiJ9LAo=</text>
+        <text encoding="base64">CiAgZGVmcCBuYW1lX2Zyb21fYXV0aChhdXRoKSBkbwogICAgaWYgYXV0aC5pbmZvLm5hbWUgZG8KICAgICAgYXV0aC5pbmZvLm5hbWUKICAgIGVsc2UKICAgICAgW2F1dGguaW5mby5maXJzdF9uYW1lLCBhdXRoLmluZm8ubGFzdF9uYW1lXQogICAgICB8PiBFbnVtLmZpbHRlcigmKCYxICE9IG5pbCBhbmQgU3RyaW5nLnN0cmlwKCYxKSAhPSAiIikpCiAgICAgIHw+IEVudW0uam9pbigiICIpCiAgICBlbmQKICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
