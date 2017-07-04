@@ -49,11 +49,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1499131491962">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1499136052147">
         <mark key="[" line="36" column="11" />
-        <mark key="]" line="36" column="16" />
-        <mark key="." line="36" column="16" />
-        <mark key="^" line="36" column="16" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="36" column="18" />
       </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
@@ -385,11 +385,11 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499131515633">
-        <mark key="[" line="47" column="96" />
-        <mark key="]" line="47" column="72" />
-        <mark key="." line="47" column="72" />
-        <mark key="^" line="47" column="72" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499136239610">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="7" />
+        <mark key="." line="47" column="7" />
+        <mark key="^" line="47" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -1013,10 +1013,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>identity</text>
+        <text>signup</text>
       </register>
       <register name="-" type="4">
-        <text>identity</text>
+        <text>signup</text>
       </register>
       <register name="/" type="4">
         <text>Bcrypt</text>
