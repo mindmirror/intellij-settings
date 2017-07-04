@@ -102,11 +102,11 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/config/config.exs" timestamp="1499128981344">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/config/config.exs" timestamp="1499150239748">
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="38" column="6" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="38" column="6" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
         <mark key="[" line="6" column="24" />
@@ -371,6 +371,7 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/config/config.exs" timestamp="1499150249826" />
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1499147460147">
         <mark key="'" line="107" column="7" />
         <mark key="[" line="28" column="0" />
@@ -1018,11 +1019,11 @@
       <jump line="2" column="59" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/user/signup.html.eex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbm4KICAgIHw+IFBsdWcuQ29ubi5hc3NpZ24oOmF1dGhfdHlwZSwgOnNpZ25fdXApCiAgICB8PiByZW5kZXIoInNpZ251cC5odG1sIikK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>Bcrypt</text>
