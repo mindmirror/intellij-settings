@@ -56,12 +56,11 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" timestamp="1498301109651">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" timestamp="1499265957239">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-        <mark key="^" line="26" column="31" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -97,7 +96,7 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1499266307303">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="7" column="15" />
         <mark key="^" line="7" column="15" />
@@ -697,12 +696,12 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/models/user.ex" timestamp="1498272452036">
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/models/user.ex" timestamp="1499266501028">
         <mark key="'" line="14" column="37" />
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input.go" timestamp="1466411191079">
         <mark key="'" line="25" column="4" />
@@ -992,7 +991,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgZGVmIHNpZ251cF9jYWxsYmFjayhjb25uLCBfcGFyYW1zLCBjdXJyZW50X3VzZXIsIF9jbGFpbXMpIGRvCiAgICB7Om9rfQogIGVuZAo=</text>
+        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX3JlcXVpcmVkKDp1c2VybmFtZSkK</text>
       </register>
       <register name="-" type="4">
         <text>identity</text>
@@ -1004,22 +1003,22 @@
         <text encoding="base64">CWZvciBfLCB3IDo9IHJhbmdlIGN1cnJlbnRXZWF0aGVyLldlYXRoZXJSZXBvcnQgewoJCWlmIHcuVWx0cmF2aW9sZXRJbmZvcm1hdGlvbiAhPSAoaGtvd2VhdGhlci5VbHRyYXZpb2xldEluZm9ybWF0aW9ue30pIHsKCQkJdXYgPSB3LlVsdHJhdmlvbGV0SW5mb3JtYXRpb24KCQkJYnJlYWsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIHNpZ251cF9jYWxsYmFjayhjb25uLCBfcGFyYW1zLCBjdXJyZW50X3VzZXIsIF9jbGFpbXMpIGRvCiAgICB7Om9rfQogIGVuZAo=</text>
+        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX3JlcXVpcmVkKDp1c2VybmFtZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldCAiLzpwcm92aWRlci9zaWdudXBfY2FsbGJhY2siLCBBdXRoQ29udHJvbGxlciwgOnNpZ251cF9jYWxsYmFjawo=</text>
+        <text encoding="base64">ICBwbHVnIDpzY3J1Yl9wYXJhbXMsICJ1c2VybmFtZSIgd2hlbiBhY3Rpb24gaW4gWzpjcmVhdGVdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICB7OmVjdG8sICJ+PiAxLjEuNiJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICB7OnBvaXNvbiwgIn4+IGRkIn0K</text>
+        <text encoding="base64">ICBwbHVnIDpzY3J1Yl9wYXJhbXMsICJwb3N0IiB3aGVuIGFjdGlvbiBpbiBbOmNyZWF0ZV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIGxvZ291dChjb25uKSBkbwogICAgY29uZmlndXJlX3Nlc3Npb24oY29ubiwgZHJvcDogdHJ1ZSkKICBlbmQK</text>
+        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX3JlcXVpcmVkKDp1c2VybmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">CiAgZGVmIHNpZ251cF9jYWxsYmFjayhjb25uLCBfcGFyYW1zLCBjdXJyZW50X3VzZXIsIF9jbGFpbXMpIGRvCiAgICB7Om9rfQogIGVuZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1027,13 +1026,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgIyBPdGhlciBzY29wZXMgbWF5IHVzZSBjdXN0b20gc3RhY2tzLgogICMgc2NvcGUgIi9hcGkiLCBIZWxsb1Bob2VuaXggZG8KICAjICAgcGlwZV90aHJvdWdoIDphcGkKICAjIGVuZAo=</text>
+        <text encoding="base64">ICAgIGdldCAiLzpwcm92aWRlci9zaWdudXBfY2FsbGJhY2siLCBBdXRoQ29udHJvbGxlciwgOnNpZ251cF9jYWxsYmFjawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICB7OmVjdG8sICJ+PiAxLjEuNiJ9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3Rlc3QoY29ubiwgX3BhcmFtcykgZG8KICAgIHRleHQgY29ubiwgIlJlZGlyZWN0ISIKICBlbmQK</text>
+        <text encoding="base64">ICAgICB7OnBvaXNvbiwgIn4+IGRkIn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
