@@ -184,6 +184,12 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/category.ex" timestamp="1499311399352">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="23" column="41" />
+        <mark key="^" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/outline2/main.go" timestamp="1484212085642">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="18" column="14" />
@@ -241,9 +247,6 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1498983505084">
-        <mark key="'" line="178" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/one_ns.clj" timestamp="1423445564804">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="6" column="1" />
@@ -287,12 +290,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" timestamp="1499253384039">
-        <mark key="'" line="20" column="5" />
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-        <mark key="." line="28" column="36" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" timestamp="1499311533821">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="84" column="29" />
+        <mark key="]" line="91" column="39" />
+        <mark key="^" line="91" column="39" />
+        <mark key="." line="91" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/hello_view.ex" timestamp="1497065372543">
         <mark key="[" line="2" column="0" />
@@ -330,9 +333,6 @@
         <mark key="]" line="14" column="25" />
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1499053754331">
-        <mark key="'" line="121" column="24" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/github/github2.go" timestamp="1484008649911">
         <mark key="[" line="29" column="5" />
@@ -967,7 +967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="9" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="16" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
       <jump line="19" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" />
@@ -1067,6 +1066,7 @@
       <jump line="153" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" />
       <jump line="15" column="5" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
