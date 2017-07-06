@@ -69,11 +69,11 @@
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1499302049440">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="24" column="33" />
-        <mark key="^" line="24" column="33" />
-        <mark key="." line="24" column="33" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1499321337195">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="18" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706023050_create_category.exs" timestamp="1499308686826">
         <mark key="[" line="9" column="0" />
