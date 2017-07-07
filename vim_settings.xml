@@ -704,11 +704,11 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" timestamp="1499415778103">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-        <mark key="." line="15" column="24" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" timestamp="1499417581139">
+        <mark key="[" line="53" column="12" />
+        <mark key="]" line="53" column="46" />
+        <mark key="^" line="53" column="46" />
+        <mark key="." line="53" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" timestamp="1497192326729">
         <mark key="'" line="17" column="0" />
@@ -1105,11 +1105,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSB1c2VyX2lkICYmIHJlcG8uZ2V0KFJ1bWJsLlVzZXIsIHVzZXJfaWQpCiAgICBhc3NpZ24oY29ubiwgOmN1cnJlbnRfdXNlciwgdXNlcikK</text>
+      <register name="&quot;" type="4">
+        <text>Repo.insert! %Video{}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Repo.insert! %Video{}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
