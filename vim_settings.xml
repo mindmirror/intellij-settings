@@ -184,6 +184,12 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/test/support/test_helpers.ex" timestamp="1499412467063">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/category.ex" timestamp="1499311399352">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="23" column="41" />
@@ -296,12 +302,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" timestamp="1499311533821">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="84" column="29" />
-        <mark key="]" line="91" column="39" />
-        <mark key="^" line="91" column="39" />
-        <mark key="." line="91" column="39" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" timestamp="1499413174747">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/hello_view.ex" timestamp="1497065372543">
         <mark key="[" line="2" column="0" />
@@ -570,6 +576,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="81" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/test/support/conn_case.ex" timestamp="1499412310529">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="32" />
@@ -691,6 +703,12 @@
         <mark key="]" line="27" column="13" />
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" timestamp="1499412764544">
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="4" />
+        <mark key="^" line="77" column="23" />
+        <mark key="." line="78" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" timestamp="1497192326729">
         <mark key="'" line="17" column="0" />
@@ -1088,10 +1106,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Phoenix</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Phoenix</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
