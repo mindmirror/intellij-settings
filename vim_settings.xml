@@ -704,12 +704,12 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" timestamp="1499422121720">
-        <mark key="'" line="86" column="65" />
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="33" />
+      <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" timestamp="1499423798486">
+        <mark key="'" line="88" column="65" />
+        <mark key="[" line="146" column="39" />
+        <mark key="]" line="147" column="49" />
+        <mark key="^" line="147" column="49" />
+        <mark key="." line="147" column="49" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" timestamp="1497192326729">
         <mark key="'" line="17" column="0" />
@@ -1107,10 +1107,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>some contendt</text>
+        <text>max</text>
       </register>
       <register name="-" type="4">
-        <text>some contendt</text>
+        <text>max</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
