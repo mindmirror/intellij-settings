@@ -582,6 +582,12 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/page_controller_test.exs" timestamp="1499411314791">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+        <mark key="^" line="5" column="58" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo2/main.go" timestamp="1480662997491">
         <mark key="'" line="5" column="7" />
         <mark key="[" line="13" column="5" />
@@ -1082,10 +1088,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>Phoenix</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>Phoenix</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
