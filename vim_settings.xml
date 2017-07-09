@@ -260,6 +260,12 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/home/rumbl/web/controllers/video_controller.ex" timestamp="1499600383702">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/github/github2.go" timestamp="1484008649911">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="31" column="22" />
@@ -998,11 +1004,11 @@
       <jump line="33" column="37" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfD4gcHV0X2Fzc29jKDpjYXRlZ29yeSwgdmlkZW9fcGFyYW1zLmNhdGVnb3J5X2lkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>user_videos</text>
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text>user_videos</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1ZWJlcmF1dGhfYXV0aFw+</text>
