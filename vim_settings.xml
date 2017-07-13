@@ -346,6 +346,12 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/office/rumbl/web/controllers/video_controller.ex" timestamp="1499939819893">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="71" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/github/github2.go" timestamp="1484008649911">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="31" column="22" />
@@ -1112,11 +1118,11 @@
       <jump line="81" column="65" filename="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHdoZW4gYWN0aW9uIGluIFs6aW5kZXgsIDpuZXcsIDpjcmVhdGUsIDpzaG93LCA6ZWRpdCwgOnVwZGF0ZV0=</text>
       </register>
       <register name="-" type="4">
-        <text>max</text>
+        <text encoding="base64">IHdoZW4gYWN0aW9uIGluIFs6aW5kZXgsIDpuZXcsIDpjcmVhdGUsIDpzaG93LCA6ZWRpdCwgOnVwZGF0ZV0=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
