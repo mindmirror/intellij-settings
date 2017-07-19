@@ -88,6 +88,12 @@
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/layout/app.html.eex" timestamp="1500448604216">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
         <mark key="[" line="27" column="0" />
@@ -1161,10 +1167,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;QIN&quot;</text>
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;QIN&quot;</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
@@ -1172,37 +1178,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vZGVsCiAgICB8PiBjYXN0KHBhcmFtcywgQHJlcXVpcmVkX2ZpZWxkcyArKyBAb3B0aW9uYWxfZmllbGRzKQogICAgfD4gdmFsaWRhdGVfcmVxdWlyZWQoQHJlcXVpcmVkX2ZpZWxkcykKICAgIHw+IHZhbGlkYXRlX2Zvcm1hdCg6ZW1haWwsIH5yL0AvKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PG5hdiByb2xlPSJuYXZpZ2F0aW9uIj4KICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdi1waWxscyBwdWxsLXJpZ2h0Ij4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucGhvZW5peGZyYW1ld29yay5vcmcvZG9jcyI+R2V0IFN0YXJ0ZWQ8L2E+PC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9uYXY+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgIGRvCiAgCmVuZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aWYgIGRvCiAgCmVuZAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bW9kZWwKICAgIHw+IGNhc3Q=</text>
+      <register name="4" type="2">
+        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">bW9kZWwKICAgIHw+IGNhc3Q=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBTdHJpbmcuY29udGFpbnM/KGNvbm4ucmVzcF9ib2R5LCB1c2VyX3ZpZGVvLnRpdGxlKQogICAgcmVmdXRlIFN0cmluZy5jb250YWlucz8oY29ubi5yZXNwX2JvZHksIG90aGVyX3ZpZGVvLnRpdGxlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElPLnB1dHMgY29ubi5yZXNwX2JvZHkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBTdHJpbmcuY29udGFpbnM/KGNvbm4ucmVzcF9ib2R5LCB1c2VyX3ZpZGVvLnRpdGxlKQogICAgcmVmdXRlIFN0cmluZy5jb250YWlucz8oY29ubi5yZXNwX2JvZHksIG90aGVyX3ZpZGVvLnRpdGxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
