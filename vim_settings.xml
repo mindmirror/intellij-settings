@@ -88,11 +88,11 @@
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/layout/app.html.eex" timestamp="1500448853421">
-        <mark key="[" line="19" column="67" />
-        <mark key="]" line="19" column="91" />
-        <mark key="." line="19" column="91" />
-        <mark key="^" line="19" column="91" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/layout/app.html.eex" timestamp="1500451670839">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -259,6 +259,13 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1500451965035">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/echo4/main.go" timestamp="1480997689772">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="16" column="20" />
@@ -308,6 +315,12 @@
         <mark key="]" line="8" column="49" />
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/user/index.html.eex" timestamp="1500452276450">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/shared_view.ex" timestamp="1497194856188">
         <mark key="[" line="2" column="0" />
@@ -370,6 +383,12 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/auth/signup.html.eex" timestamp="1500452258314">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/graph/main.go" timestamp="1481537397184">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="11" column="1" />
@@ -382,6 +401,12 @@
         <mark key="]" line="6" column="25" />
         <mark key="^" line="6" column="71" />
         <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/page_controller.ex" timestamp="1500452823472">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+        <mark key="." line="5" column="56" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/models/user.ex" timestamp="1500441618702">
         <mark key="[" line="30" column="0" />
@@ -507,11 +532,11 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1500450315928">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="10" column="50" />
-        <mark key="^" line="10" column="50" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1500451644868">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
@@ -797,6 +822,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/page/index.html.eex" timestamp="1500452088313">
+        <mark key="[" line="2" column="101" />
+        <mark key="]" line="2" column="73" />
+        <mark key="." line="2" column="73" />
+        <mark key="^" line="2" column="73" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/boiling/main.go" timestamp="1480927566995">
         <mark key="[" line="10" column="42" />
         <mark key="]" line="13" column="1" />
@@ -864,6 +895,12 @@
         <mark key="]" line="40" column="35" />
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/user/user.html.eex" timestamp="1500452298169">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="71" />
+        <mark key="^" line="0" column="71" />
+        <mark key="." line="0" column="71" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" timestamp="1485312479795">
         <mark key="'" line="31" column="0" />
@@ -963,6 +1000,12 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/user/show.html.eex" timestamp="1500452287780">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="48" />
+        <mark key="^" line="1" column="48" />
+        <mark key="." line="1" column="48" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/dedup/main.go" timestamp="1481534574697">
         <mark key="'" line="20" column="17" />
         <mark key="[" line="17" column="5" />
@@ -1026,6 +1069,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/auth/signin.html.eex" timestamp="1500452249125">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/login.gtpl" timestamp="1466411429418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1070,9 +1119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" />
-      <jump line="30" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" />
-      <jump line="30" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" />
       <jump line="6" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="63" column="11" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="52" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -1170,13 +1216,16 @@
       <jump line="73" column="2" filename="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" />
       <jump line="81" column="65" filename="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="16" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/page/index.html.eex" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/page/index.html.eex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2UgR3VhcmRpYW4uUGhvZW5peC5Db250cm9sbGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>Phoenix!</text>
       </register>
       <register name="-" type="4">
-        <text>current_user</text>
+        <text>Phoenix!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
@@ -1184,37 +1233,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICB1c2UgR3VhcmRpYW4uUGhvZW5peC5Db250cm9sbGVyCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CjxkaXYgY2xhc3M9InJvdyBtYXJrZXRpbmciPgogIDxkaXYgY2xhc3M9ImNvbC1sZy02Ij4KICAgIDxoND5SZXNvdXJjZXM8L2g0PgogICAgPHVsPgogICAgICA8bGk+CiAgICAgICAgPGEgaHJlZj0iaHR0cDovL3Bob2VuaXhmcmFtZXdvcmsub3JnL2RvY3Mvb3ZlcnZpZXciPkd1aWRlczwvYT4KICAgICAgPC9saT4KICAgICAgPGxpPgogICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vaGV4ZG9jcy5wbS9waG9lbml4Ij5Eb2NzPC9hPgogICAgICA8L2xpPgogICAgICA8bGk+CiAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3Bob2VuaXhmcmFtZXdvcmsvcGhvZW5peCI+U291cmNlPC9hPgogICAgICA8L2xpPgogICAgPC91bD4KICA8L2Rpdj4KCiAgPGRpdiBjbGFzcz0iY29sLWxnLTYiPgogICAgPGg0PkhlbHA8L2g0PgogICAgPHVsPgogICAgICA8bGk+CiAgICAgICAgPGEgaHJlZj0iaHR0cDovL2dyb3Vwcy5nb29nbGUuY29tL2dyb3VwL3Bob2VuaXgtdGFsayI+TWFpbGluZyBsaXN0PC9hPgogICAgICA8L2xpPgogICAgICA8bGk+CiAgICAgICAgPGEgaHJlZj0iaHR0cDovL3dlYmNoYXQuZnJlZW5vZGUubmV0Lz9jaGFubmVscz1lbGl4aXItbGFuZyI+I2VsaXhpci1sYW5nIG9uIGZyZWVub2RlIElSQzwvYT4KICAgICAgPC9saT4KICAgICAgPGxpPgogICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vZWxpeGlycGhvZW5peCI+QGVsaXhpcnBob2VuaXg8L2E+CiAgICAgIDwvbGk+CiAgICA8L3VsPgogIDwvZGl2Pgo8L2Rpdj4K</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICA8bmF2IHJvbGU9Im5hdmlnYXRpb24iPgogICAgICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2LXBpbGxzIHB1bGwtcmlnaHQiPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5waG9lbml4ZnJhbWV3b3JrLm9yZy9kb2NzIj5HZXQgU3RhcnRlZDwvYT48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgICA8L25hdj4KICAgICAgICA8c3BhbiBjbGFzcz0ibG9nbyI+PC9zcGFuPg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">PG5hdiByb2xlPSJuYXZpZ2F0aW9uIj4KICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdi1waWxscyBwdWxsLXJpZ2h0Ij4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucGhvZW5peGZyYW1ld29yay5vcmcvZG9jcyI+R2V0IFN0YXJ0ZWQ8L2E+PC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9uYXY+</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aWYgIGRvCiAgCmVuZAo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgIGRvCiAgCmVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bW9kZWwKICAgIHw+IGNhc3Q=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBTdHJpbmcuY29udGFpbnM/KGNvbm4ucmVzcF9ib2R5LCB1c2VyX3ZpZGVvLnRpdGxlKQogICAgcmVmdXRlIFN0cmluZy5jb250YWlucz8oY29ubi5yZXNwX2JvZHksIG90aGVyX3ZpZGVvLnRpdGxlKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">bW9kZWwKICAgIHw+IGNhc3Q=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1259,6 +1308,7 @@
         <entry>{w</entry>
         <entry>wf</entry>
         <entry>nohlsearch</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
