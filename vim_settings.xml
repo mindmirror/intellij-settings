@@ -358,6 +358,11 @@
         <mark key="^" line="6" column="71" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/models/user.ex" timestamp="1500441618702">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/github/github2.go" timestamp="1484008649911">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="31" column="22" />
@@ -888,7 +893,7 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499308959725">
+      <file name="/Dummy.txt" timestamp="1500441619103">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -914,6 +919,12 @@
         <mark key="]" line="23" column="74" />
         <mark key="." line="23" column="74" />
         <mark key="^" line="23" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" timestamp="1500441576519">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/dedup/main.go" timestamp="1481534574697">
         <mark key="'" line="20" column="17" />
