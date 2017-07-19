@@ -358,6 +358,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/page_controller.ex" timestamp="1500450321025">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/shopping/models/item.go" timestamp="1460691336914">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="8" />
@@ -501,9 +507,9 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1499228175940">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="50" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1500450315928">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="33" />
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
       </file>
@@ -1166,8 +1172,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>current_user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB1c2UgR3VhcmRpYW4uUGhvZW5peC5Db250cm9sbGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>current_user</text>
@@ -1176,7 +1182,7 @@
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vZGVsCiAgICB8PiBjYXN0KHBhcmFtcywgQHJlcXVpcmVkX2ZpZWxkcyArKyBAb3B0aW9uYWxfZmllbGRzKQogICAgfD4gdmFsaWRhdGVfcmVxdWlyZWQoQHJlcXVpcmVkX2ZpZWxkcykKICAgIHw+IHZhbGlkYXRlX2Zvcm1hdCg6ZW1haWwsIH5yL0AvKQo=</text>
+        <text encoding="base64">ICB1c2UgR3VhcmRpYW4uUGhvZW5peC5Db250cm9sbGVyCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">PG5hdiByb2xlPSJuYXZpZ2F0aW9uIj4KICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdi1waWxscyBwdWxsLXJpZ2h0Ij4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucGhvZW5peGZyYW1ld29yay5vcmcvZG9jcyI+R2V0IFN0YXJ0ZWQ8L2E+PC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9uYXY+</text>
