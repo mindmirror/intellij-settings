@@ -15,12 +15,12 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1500453823999">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1500455614436">
         <mark key="'" line="4" column="33" />
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="5" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1500447319889">
         <mark key="'" line="0" column="0" />
@@ -80,6 +80,12 @@
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/auth_view.ex" timestamp="1500455509797">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
         <mark key="[" line="6" column="24" />
@@ -718,11 +724,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" timestamp="1500454561705">
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="38" column="3" />
-        <mark key="^" line="38" column="3" />
-        <mark key="." line="38" column="3" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" timestamp="1500455439689">
+        <mark key="[" line="80" column="50" />
+        <mark key="]" line="80" column="50" />
+        <mark key="^" line="80" column="42" />
+        <mark key="." line="80" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -953,6 +959,12 @@
         <mark key="]" line="5" column="58" />
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/user_view.ex" timestamp="1500455551638">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch06/intset/main.go" timestamp="1484551321492">
         <mark key="'" line="11" column="0" />
@@ -1242,10 +1254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IGVuZA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IGVuZA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
