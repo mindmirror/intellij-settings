@@ -15,12 +15,12 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1500537733367">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1500539883701">
         <mark key="'" line="4" column="33" />
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="1" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="34" column="60" />
+        <mark key="^" line="34" column="60" />
+        <mark key="." line="34" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1500447319889">
         <mark key="'" line="0" column="0" />
@@ -1254,10 +1254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
