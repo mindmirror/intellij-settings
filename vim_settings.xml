@@ -15,12 +15,12 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1500539883701">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1500540897033">
         <mark key="'" line="4" column="33" />
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="34" column="60" />
-        <mark key="^" line="34" column="60" />
-        <mark key="." line="34" column="60" />
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="65" column="11" />
+        <mark key="." line="8" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1500447319889">
         <mark key="'" line="0" column="0" />
@@ -898,6 +898,12 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1500541336481">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="53" column="17" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="19" column="27" />
@@ -1254,10 +1260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</text>
