@@ -724,12 +724,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" timestamp="1500609875234">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" timestamp="1500610645034">
         <mark key="'" line="75" column="7" />
-        <mark key="[" line="145" column="43" />
-        <mark key="]" line="146" column="3" />
-        <mark key="^" line="146" column="3" />
-        <mark key="." line="146" column="3" />
+        <mark key="[" line="78" column="45" />
+        <mark key="]" line="79" column="13" />
+        <mark key="^" line="79" column="13" />
+        <mark key="." line="79" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
