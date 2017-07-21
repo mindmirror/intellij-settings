@@ -724,8 +724,8 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" timestamp="1500609416732">
-        <mark key="'" line="81" column="7" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" timestamp="1500609875234">
+        <mark key="'" line="75" column="7" />
         <mark key="[" line="145" column="43" />
         <mark key="]" line="146" column="3" />
         <mark key="^" line="146" column="3" />
@@ -1165,7 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="17" column="0" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="10" column="29" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
       <jump line="12" column="17" filename="$USER_HOME$/golang/src/pixels/weather-go/main.go" />
@@ -1265,6 +1264,7 @@
       <jump line="48" column="6" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" />
       <jump line="131" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
       <jump line="81" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
+      <jump line="75" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1274,7 +1274,7 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVfdXNlclw+</text>
+        <text encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB1c2UgR3VhcmRpYW4uUGhvZW5peC5Db250cm9sbGVyCg==</text>
@@ -1316,9 +1316,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVfdXNlclw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVfdXNlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1340,10 +1340,10 @@
         <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9hdXRoX2Zvcl9yZWdpc3RyYXRpb25cPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9lbWFpbF9hbmRfcGFzc3dvcmRcPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDx0b2tlbl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlclw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
