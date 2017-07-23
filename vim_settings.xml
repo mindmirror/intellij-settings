@@ -59,6 +59,12 @@
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" timestamp="1499265957239">
         <mark key="'" line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/templates/layout/app.html.eex" timestamp="1500778925930">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="19" column="63" />
+        <mark key="." line="22" column="33" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
         <mark key="[" line="27" column="0" />
@@ -137,6 +143,11 @@
         <mark key="]" line="4" column="42" />
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/user_from_auth.ex" timestamp="1500779024574">
+        <mark key="[" line="30" column="66" />
+        <mark key="]" line="30" column="67" />
+        <mark key="." line="30" column="67" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/outline2/main.go" timestamp="1484212085642">
         <mark key="[" line="15" column="5" />
@@ -768,7 +779,7 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499092122571">
+      <file name="/Dummy.txt" timestamp="1500779000524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1005,10 +1016,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_videos</text>
+        <text>new</text>
       </register>
       <register name="-" type="4">
-        <text>user_videos</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1ZWJlcmF1dGhfYXV0aFw+</text>
