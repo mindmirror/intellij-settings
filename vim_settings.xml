@@ -84,11 +84,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/helpers.ex" timestamp="1500888980795">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="26" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/helpers.ex" timestamp="1500891935436">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/pricecheck.go" timestamp="1460622036902">
         <mark key="[" line="10" column="5" />
@@ -277,11 +277,11 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/web.ex" timestamp="1500879490660">
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="42" />
-        <mark key="^" line="35" column="42" />
-        <mark key="." line="35" column="42" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/web.ex" timestamp="1500892210287">
+        <mark key="[" line="70" column="43" />
+        <mark key="]" line="71" column="39" />
+        <mark key="^" line="71" column="39" />
+        <mark key="." line="71" column="39" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv0/main.go" timestamp="1481017632184">
         <mark key="[" line="0" column="8" />
@@ -400,11 +400,11 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/session_view.ex" timestamp="1500889057914">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/session_view.ex" timestamp="1500892016826">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/shlack/config/config.exs" timestamp="1498486249066">
         <mark key="[" line="5" column="14" />
@@ -444,12 +444,12 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/app.html.eex" timestamp="1500888512427">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/app.html.eex" timestamp="1500892071505">
         <mark key="'" line="34" column="6" />
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="64" />
-        <mark key="^" line="28" column="64" />
-        <mark key="." line="28" column="64" />
+        <mark key="[" line="24" column="76" />
+        <mark key="]" line="24" column="76" />
+        <mark key="^" line="24" column="76" />
+        <mark key="." line="24" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/func_prog.clj" timestamp="1429578070856">
         <mark key="[" line="32" column="21" />
@@ -561,7 +561,7 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/templates/admin/layout/navigation.html.eex" timestamp="1500888727415" />
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/templates/admin/layout/navigation.html.eex" timestamp="1500892133979" />
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="28" column="35" />
@@ -569,7 +569,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500891101740">
+      <file name="/Dummy.txt" timestamp="1500892134433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -777,11 +777,11 @@
         <mark key="^" line="49" column="19" />
         <mark key="." line="30" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/signin_bar.html.eex" timestamp="1500888641845">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="104" />
-        <mark key="^" line="2" column="104" />
-        <mark key="." line="2" column="104" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/signin_bar.html.eex" timestamp="1500892283092">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -1039,11 +1039,11 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500889074138">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/helpers.ex" timestamp="1500879776849">
         <mark key="[" line="14" column="17" />
@@ -1083,12 +1083,12 @@
         <mark key="." line="45" column="61" />
         <mark key="^" line="45" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" timestamp="1500884056261">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" timestamp="1500891899072">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="57" column="49" />
-        <mark key="]" line="57" column="55" />
-        <mark key="^" line="57" column="55" />
-        <mark key="." line="57" column="55" />
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="57" column="45" />
+        <mark key="^" line="57" column="45" />
+        <mark key="." line="57" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/controllers/hello_controller.ex" timestamp="1496845641160">
         <mark key="[" line="3" column="0" />
@@ -1179,11 +1179,11 @@
         <mark key="^" line="0" column="71" />
         <mark key="." line="0" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/layout_view.ex" timestamp="1500889045906">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/layout_view.ex" timestamp="1500892010057">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/auth/signin.html.eex" timestamp="1499147929526">
         <mark key="[" line="2" column="42" />
@@ -1357,11 +1357,11 @@
       <jump line="17" column="6" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/app.html.eex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</text>
