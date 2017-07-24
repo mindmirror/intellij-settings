@@ -761,11 +761,12 @@
         <mark key="^" line="62" column="52" />
         <mark key="." line="62" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1500453148077">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1500866889249">
         <mark key="'" line="16" column="7" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
         <mark key="'" line="0" column="0" />
@@ -1286,10 +1287,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;not found&quot;</text>
+        <text>Register</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;not found&quot;</text>
+        <text>Register</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</text>
