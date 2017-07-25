@@ -197,12 +197,12 @@
         <mark key="^" line="53" column="26" />
         <mark key="." line="53" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/user_controller.ex" timestamp="1500878422671">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/user_controller.ex" timestamp="1500977209055">
         <mark key="'" line="3" column="37" />
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="37" />
-        <mark key="^" line="20" column="37" />
-        <mark key="." line="20" column="37" />
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/one_ns.clj" timestamp="1423445564804">
         <mark key="[" line="5" column="22" />
@@ -387,12 +387,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/user_controller.ex" timestamp="1500973109088">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/user_controller.ex" timestamp="1500977197120">
         <mark key="'" line="17" column="50" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="57" />
-        <mark key="^" line="14" column="57" />
-        <mark key="." line="14" column="57" />
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="34" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/main/main.go" timestamp="1460690515714">
         <mark key="[" line="5" column="1" />
