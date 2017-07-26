@@ -456,11 +456,11 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/app.html.eex" timestamp="1500969034844">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/app.html.eex" timestamp="1501038832040">
         <mark key="'" line="39" column="6" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/func_prog.clj" timestamp="1429578070856">
         <mark key="[" line="32" column="21" />
@@ -586,7 +586,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501036643081">
+      <file name="/Dummy.txt" timestamp="1501038820140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -801,11 +801,11 @@
         <mark key="^" line="49" column="19" />
         <mark key="." line="30" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/signin_bar.html.eex" timestamp="1500894322094">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="22" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/signin_bar.html.eex" timestamp="1501038839705">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
         <mark key="^" line="2" column="39" />
-        <mark key="." line="2" column="22" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -1110,12 +1110,12 @@
         <mark key="." line="45" column="61" />
         <mark key="^" line="45" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" timestamp="1501036229792">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" timestamp="1501038806264">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="58" column="52" />
-        <mark key="]" line="58" column="65" />
-        <mark key="^" line="58" column="65" />
-        <mark key="." line="58" column="65" />
+        <mark key="[" line="61" column="62" />
+        <mark key="]" line="61" column="62" />
+        <mark key="^" line="58" column="55" />
+        <mark key="." line="61" column="62" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/controllers/hello_controller.ex" timestamp="1496845641160">
         <mark key="[" line="3" column="0" />
@@ -1390,10 +1390,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, as: :sign_in</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>, as: :sign_in</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</text>
