@@ -882,12 +882,12 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="18" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" timestamp="1500893748616">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="15" column="53" />
-        <mark key="^" line="15" column="53" />
-        <mark key="." line="15" column="53" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" timestamp="1501030817679">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/models/item.go" timestamp="1460691336914">
         <mark key="[" line="3" column="9" />
@@ -900,6 +900,9 @@
         <mark key="]" line="19" column="9" />
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" timestamp="1501030501868">
+        <mark key="'" line="29" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/page_controller.ex" timestamp="1500452823472">
         <mark key="[" line="5" column="29" />
@@ -1284,7 +1287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="29" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
@@ -1384,6 +1386,7 @@
       <jump line="32" column="19" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" />
       <jump line="17" column="6" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/app.html.eex" />
+      <jump line="29" column="8" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1393,7 +1396,7 @@
         <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</text>
+        <text encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzcz0iaGVhZGVyIj4KICAgICAgICA8b2wgY2xhc3M9ImJyZWFkY3J1bWIgdGV4dC1yaWdodCI+CiAgICAgICAgICA8JT0gaWYgQGN1cnJlbnRfdXNlciBkbyAlPgogICAgICAgICAgICA8bGk+PCU9IEBjdXJyZW50X3VzZXIuZmlyc3RfbmFtZSAlPiA8JT0gQGN1cnJlbnRfdXNlci5sYXN0X25hbWUgJT48L2xpPgogICAgICAgICAgICA8bGk+PCU9IGxpbmsgIlNJR04gT1VUIiwgdG86IGF1dGhfcGF0aChAY29ubiwgOnNpZ25fb3V0KSwgbWV0aG9kOiAiZGVsZXRlIiAlPjwvbGk+CiAgICAgICAgICA8JSBlbHNlICU+CiAgICAgICAgICAgIDxsaT48JT0gbGluayAiU0lHTiBVUCIsIHRvOiBhdXRoX3BhdGgoQGNvbm4sIDpzaWduX3VwKSAlPjwvbGk+CiAgICAgICAgICAgIDxsaT48JT0gbGluayAiU0lHTiBJTiIsIHRvOiBhdXRoX3BhdGgoQGNvbm4sIDpzaWduX2luKSAlPjwvbGk+CiAgICAgICAgICA8JSBlbmQgJT4KICAgICAgICA8L29sPgogICAgICA8L2hlYWRlcj4K</text>
@@ -1435,15 +1438,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fmt</entry>
         <entry encoding="base64">XDxkYXRlU3RyXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
@@ -1463,6 +1465,7 @@
         <entry encoding="base64">XDx1c2VyX2Zyb21fYXV0aG9yaXphdGlvblw+</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
