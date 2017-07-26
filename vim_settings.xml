@@ -127,6 +127,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.exs" timestamp="1501054196973">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/seeds.exs" timestamp="1499310065428">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="5" />
@@ -200,9 +206,9 @@
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/user_controller.ex" timestamp="1501053328774">
         <mark key="'" line="3" column="37" />
         <mark key="[" line="10" column="52" />
-        <mark key="]" line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="21" column="34" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/one_ns.clj" timestamp="1423445564804">
         <mark key="[" line="5" column="22" />
@@ -1122,12 +1128,12 @@
         <mark key="." line="45" column="61" />
         <mark key="^" line="45" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" timestamp="1501051641221">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" timestamp="1501054295843">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="65" column="34" />
-        <mark key="^" line="65" column="34" />
-        <mark key="." line="65" column="34" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="42" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/controllers/hello_controller.ex" timestamp="1496845641160">
         <mark key="[" line="3" column="0" />
@@ -1407,11 +1413,11 @@
       <jump line="29" column="8" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</text>
@@ -1420,22 +1426,22 @@
         <text encoding="base64">ICBkZWYgaW5kZXgoY29ubiwgX3BhcmFtcywgY3VycmVudF91c2VyLCBfY2xhaW1zKSBkbwogICAgcmVuZGVyIGNvbm4sICJpbmRleC5odG1sIiwgY3VycmVudF91c2VyOiBjdXJyZW50X3VzZXIKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgaW5kZXgoY29ubiwgX3BhcmFtcywgY3VycmVudF91c2VyLCBfY2xhaW1zKSBkbwogICAgdXNlcnMgPSBSZXBvLmFsbChVc2VyKQogICAgcmVuZGVyIGNvbm4sICJpbmRleC5odG1sIiwgdXNlcnM6IHVzZXJzLCBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlcgogIGVuZAoK</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkZWYgaW5kZXgoY29ubiwgX3BhcmFtcywgY3VycmVudF91c2VyLCBfY2xhaW1zKSBkbwogICAgdXNlcnMgPSBSZXBvLmFsbChVc2VyKQogICAgcmVuZGVyIGNvbm4sICJpbmRleC5odG1sIiwgdXNlcnM6IHVzZXJzLCBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlcgogIGVuZAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlcgoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjwlPSBsaW5rICJTaWduIFVwIiwgdG86IGF1dGhfcGF0aChAY29ubiwgOnNpZ25fdXApICU+PC9saT4K</text>
+        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlcgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPjwlPSBsaW5rICJTaWduIFVwIiwgdG86IGF1dGhfcGF0aChAY29ubiwgOnNpZ25fdXApICU+PC9saT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1443,13 +1449,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciAiaW1wZXJzb25hdGlvbi5odG1sIiwgY29ubjogQGNvbm4gJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIGVsc2UgJT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rICJTaWduIEluIiwgdG86IGFkbWluX3NpZ25faW5fcGF0aChAY29ubiwgOnNpZ25faW4pICU+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciAiaW1wZXJzb25hdGlvbi5odG1sIiwgY29ubjogQGNvbm4gJT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjwlPSBsaW5rICJTaWduIFVwIiwgdG86IGFkbWluX3NpZ25faW5fcGF0aChAY29ubiwgOnNpZ25fdXApICU+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGVsc2UgJT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rICJTaWduIEluIiwgdG86IGFkbWluX3NpZ25faW5fcGF0aChAY29ubiwgOnNpZ25faW4pICU+PC9saT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
