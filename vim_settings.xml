@@ -516,11 +516,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" timestamp="1501128733302">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" timestamp="1501132263913">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/guardian_serializer.ex" timestamp="1500454006643">
         <mark key="[" line="11" column="17" />
@@ -1350,7 +1351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="22" column="6" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
@@ -1450,13 +1450,14 @@
       <jump line="29" column="8" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/.gitignore" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
+      <jump line="11" column="12" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>campaign_express_prod</text>
+        <text>adsfactor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</text>
@@ -1465,22 +1466,22 @@
         <text encoding="base64">ICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk1hcmlhZXgsCiAgdXNlcm5hbWU6ICJjYW1wYWlnbl9yZWFkZXIiLAogIHBhc3N3b3JkOiAiQ1hiOWRnL1EiLAogIGRhdGFiYXNlOiAidW5pZmllZCIsCiAgcG9vbF9zaXplOiAyMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAcHJpbWFyeV9rZXkgezppZCwgOmludGVnZXIsIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAo=</text>
+        <text encoding="base64">ICBAcHJpbWFyeV9rZXkgezppZCwgOmludGVnZXIsIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1488,13 +1489,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgaW5kZXgoY29ubiwgX3BhcmFtcywgY3VycmVudF91c2VyLCBfY2xhaW1zKSBkbwogICAgdXNlcnMgPSBSZXBvLmFsbChVc2VyKQogICAgcmVuZGVyIGNvbm4sICJpbmRleC5odG1sIiwgdXNlcnM6IHVzZXJzLCBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlcgogIGVuZAoK</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkZWYgaW5kZXgoY29ubiwgX3BhcmFtcywgY3VycmVudF91c2VyLCBfY2xhaW1zKSBkbwogICAgdXNlcnMgPSBSZXBvLmFsbChVc2VyKQogICAgcmVuZGVyIGNvbm4sICJpbmRleC5odG1sIiwgdXNlcnM6IHVzZXJzLCBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlcgogIGVuZAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
