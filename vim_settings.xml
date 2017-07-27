@@ -197,11 +197,10 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1501128215689">
-        <mark key="[" line="50" column="27" />
-        <mark key="]" line="50" column="27" />
-        <mark key="^" line="50" column="27" />
-        <mark key="." line="50" column="27" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1501145752787">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/user_controller.ex" timestamp="1501053328774">
         <mark key="'" line="3" column="37" />
@@ -399,11 +398,11 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" timestamp="1501144517143">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" timestamp="1501145338519">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/user_controller.ex" timestamp="1501051563189">
         <mark key="'" line="17" column="50" />
@@ -817,11 +816,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/campaign.ex" timestamp="1501141891141">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="39" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/campaign.ex" timestamp="1501144832382">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/shopping/pricecheck.go" timestamp="1460623340719">
         <mark key="[" line="3" column="5" />
@@ -1319,11 +1318,12 @@
         <mark key="^" line="51" column="33" />
         <mark key="." line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" timestamp="1500882393661">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
-        <mark key="^" line="36" column="18" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" timestamp="1501144595964">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/user/show.html.eex" timestamp="1500452287780">
         <mark key="[" line="0" column="0" />
@@ -1358,8 +1358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
-      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" />
       <jump line="14" column="37" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/models/user.ex" />
       <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
@@ -1458,10 +1456,12 @@
       <jump line="11" column="12" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
       <jump line="1" column="27" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" />
       <jump line="4" column="10" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" />
+      <jump line="39" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" />
+      <jump line="36" column="4" filename="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -1473,22 +1473,22 @@
         <text encoding="base64">ICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk1hcmlhZXgsCiAgdXNlcm5hbWU6ICJjYW1wYWlnbl9yZWFkZXIiLAogIHBhc3N3b3JkOiAiQ1hiOWRnL1EiLAogIGRhdGFiYXNlOiAidW5pZmllZCIsCiAgcG9vbF9zaXplOiAyMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAcHJpbWFyeV9rZXkgezppZCwgOmludGVnZXIsIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1496,13 +1496,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICBAcHJpbWFyeV9rZXkgezppZCwgOmludGVnZXIsIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgaW5kZXgoY29ubiwgX3BhcmFtcywgY3VycmVudF91c2VyLCBfY2xhaW1zKSBkbwogICAgdXNlcnMgPSBSZXBvLmFsbChVc2VyKQogICAgcmVuZGVyIGNvbm4sICJpbmRleC5odG1sIiwgdXNlcnM6IHVzZXJzLCBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlcgogIGVuZAoK</text>
+        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
