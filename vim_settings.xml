@@ -399,6 +399,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" timestamp="1501144517143">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/user_controller.ex" timestamp="1501051563189">
         <mark key="'" line="17" column="50" />
         <mark key="[" line="9" column="0" />
