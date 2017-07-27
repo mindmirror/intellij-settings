@@ -21,6 +21,9 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1485306417106">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1500884898489">
         <mark key="'" line="48" column="6" />
         <mark key="[" line="37" column="0" />
@@ -516,12 +519,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" timestamp="1501132263913">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" timestamp="1501140366959">
         <mark key="'" line="11" column="12" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="14" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/guardian_serializer.ex" timestamp="1500454006643">
         <mark key="[" line="11" column="17" />
@@ -605,6 +608,9 @@
         <mark key="]" line="29" column="37" />
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501139989336">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
         <mark key="[" line="28" column="69" />
@@ -704,11 +710,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" timestamp="1501128094301">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="42" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" timestamp="1501140318586">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="20" />
         <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="42" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/mandelbrot/main.go" timestamp="1481179732314">
         <mark key="[" line="26" column="5" />
@@ -1183,6 +1190,9 @@
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/page_controller.ex" timestamp="1496883574875">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/playsync.clj" timestamp="1434705309625">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="31" />
@@ -1233,6 +1243,9 @@
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1498564033594">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/config/config.exs" timestamp="1498374455723">
         <mark key="[" line="29" column="89" />
@@ -1351,8 +1364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="6" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
-      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" />
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" />
@@ -1451,16 +1462,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/.gitignore" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
       <jump line="11" column="12" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
+      <jump line="1" column="27" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" />
+      <jump line="4" column="10" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>adsfactor</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</text>
+        <text encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk1hcmlhZXgsCiAgdXNlcm5hbWU6ICJjYW1wYWlnbl9yZWFkZXIiLAogIHBhc3N3b3JkOiAiQ1hiOWRnL1EiLAogIGRhdGFiYXNlOiAidW5pZmllZCIsCiAgcG9vbF9zaXplOiAyMAo=</text>
@@ -1502,16 +1515,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</last-search>
+      <last-search encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlU3RyXD4=</entry>
-        <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VzZXRcPg==</entry>
         <entry encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</entry>
@@ -1530,6 +1541,8 @@
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</entry>
+        <entry encoding="base64">XDxjYW1wYWlnbl9leHByZXNzXD4=</entry>
+        <entry encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
