@@ -139,11 +139,11 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_alt_banner.ex" timestamp="1501154610826">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_alt_banner.ex" timestamp="1501156004047">
         <mark key="[" line="8" column="63" />
-        <mark key="]" line="9" column="61" />
-        <mark key="^" line="9" column="61" />
-        <mark key="." line="9" column="61" />
+        <mark key="]" line="8" column="89" />
+        <mark key="^" line="8" column="89" />
+        <mark key="." line="8" column="89" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/lissajous/main.go" timestamp="1480670363415">
         <mark key="'" line="32" column="61" />
@@ -1191,11 +1191,11 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_daily_record.ex" timestamp="1501154800323">
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="32" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_daily_record.ex" timestamp="1501156040525">
+        <mark key="[" line="15" column="75" />
+        <mark key="]" line="15" column="75" />
+        <mark key="." line="15" column="75" />
+        <mark key="^" line="15" column="75" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/controllers/hello_controller.ex" timestamp="1496845641160">
         <mark key="[" line="3" column="0" />
@@ -1312,11 +1312,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_alt_campaign.ex" timestamp="1501154572988">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="19" column="57" />
-        <mark key="^" line="19" column="57" />
-        <mark key="." line="19" column="57" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_alt_campaign.ex" timestamp="1501155482840">
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="20" column="61" />
+        <mark key="^" line="20" column="61" />
+        <mark key="." line="20" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/page/index.html.eex" timestamp="1501051604134">
         <mark key="[" line="0" column="0" />
