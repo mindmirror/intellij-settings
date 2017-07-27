@@ -1253,11 +1253,11 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170727010250_create_campaign_filter.exs" timestamp="1501117561509">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-        <mark key="." line="5" column="41" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170727010250_create_campaign_filter.exs" timestamp="1501123080713">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="70" />
+        <mark key="^" line="6" column="70" />
+        <mark key="." line="6" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/page/index.html.eex" timestamp="1501051604134">
         <mark key="[" line="0" column="0" />
@@ -1431,11 +1431,11 @@
       <jump line="29" column="8" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>nothing</text>
       </register>
       <register name="-" type="4">
-        <text>@optional_</text>
+        <text>nothing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</text>
