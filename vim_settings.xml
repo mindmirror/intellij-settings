@@ -404,12 +404,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" timestamp="1501213444226">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" timestamp="1501214507405">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="112" />
-        <mark key="." line="43" column="112" />
-        <mark key="^" line="43" column="112" />
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="^" line="27" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/user_controller.ex" timestamp="1501051563189">
         <mark key="'" line="17" column="50" />
@@ -1504,8 +1504,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[r.id, r.campaign_name]</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
         <text>[r.id, r.campaign_name]</text>
@@ -1516,41 +1516,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk1hcmlhZXgsCiAgdXNlcm5hbWU6ICJjYW1wYWlnbl9yZWFkZXIiLAogIHBhc3N3b3JkOiAiQ1hiOWRnL1EiLAogIGRhdGFiYXNlOiAidW5pZmllZCIsCiAgcG9vbF9zaXplOiAyMAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3Q6IFsKICAgICAgICAgICAgICAgICAgICAgIDppZCwgOm9yZGVyX2lkLCA6Y2FtcGFpZ25fbmFtZSwKICAgICAgICAgICAgICAgICAgICAgIDpzdGFydF90aW1lLCA6ZW5kX3RpbWUsIDpuZXZlcl9lbmQsCiAgICAgICAgICAgICAgICAgICAgICA6Z29hbCwgOmdvYWxfdHlwZSwgOmhvdXNlLAogICAgICAgICAgICAgICAgICAgICAgOnZpZXdlZCwgOmNsaWNrZWQKICAgICAgICAgICAgICAgICAgICBdCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDppZCwgOm9yZGVyX2lkLCA6Y2FtcGFpZ25fbmFtZSwKICAgICAgICAgICAgICAgICAgICAgIDpzdGFydF90aW1lLCA6ZW5kX3RpbWUsIDpuZXZlcl9lbmQsCiAgICAgICAgICAgICAgICAgICAgICA6Z29hbCwgOmdvYWxfdHlwZSwgOmhvdXNlLAogICAgICAgICAgICAgICAgICAgICAgOnZpZXdlZCwgOmNsaWNrZWQKICAgICAgICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3Q6IFsKICAgICAgICAgICAgICAgICAgICAgIDppZCwgOm9yZGVyX2lkLCA6Y2FtcGFpZ25fbmFtZSwKICAgICAgICAgICAgICAgICAgICAgIDpzdGFydF90aW1lLCA6ZW5kX3RpbWUsIDpuZXZlcl9lbmQsCiAgICAgICAgICAgICAgICAgICAgICA6Z29hbCwgOmdvYWxfdHlwZSwgOmhvdXNlLAogICAgICAgICAgICAgICAgICAgICAgOnZpZXdlZCwgOmNsaWNrZWQKICAgICAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXF1aXJlIElFeAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDppZCwgOm9yZGVyX2lkLCA6Y2FtcGFpZ25fbmFtZSwKICAgICAgICAgICAgICAgICAgICAgIDpzdGFydF90aW1lLCA6ZW5kX3RpbWUsIDpuZXZlcl9lbmQsCiAgICAgICAgICAgICAgICAgICAgICA6Z29hbCwgOmdvYWxfdHlwZSwgOmhvdXNlLAogICAgICAgICAgICAgICAgICAgICAgOnZpZXdlZCwgOmNsaWNrZWQKICAgICAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlcgo=</text>
+        <text encoding="base64">ICByZXF1aXJlIElFeAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpqampqCg==</text>
+        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuc3VyZV9yZXBvKFVuaWZpZWRSZXBvKQogICAgZW5zdXJlX3N0YXJ0ZWQoVW5pZmllZFJlcG8sIFtdKQogICAgbm93ID0gVGltZXgubm93KCJBc2lhL0hvbmdfS29uZyIpCiAgICB0b2RheSA9IFRpbWV4LnRvX2RhdGUobm93KQogICAgZmlsdGVyZWRfY2FtcGFpZ25zID0KICAgICAgRW51bS5tYXAoZmlsdGVycywgZm4oZikgLT4KICAgICAgICBjYW1wYWlnbnMgPSBmcm9tIGMgaW4gVW5pZmllZENhbXBhaWduLAogICAgICAgICAgICAgICAgICAgIHdoZXJlOiBsaWtlKGMuY2FtcGFpZ25fbmFtZSwgZiksCiAgICAgICAgICAgICAgICAgICAgc2VsZWN0OiBjLmlkCgogICAgICAgIFVuaWZpZWRSZXBvLmFsbCBjYW1wYWlnbnMKICAgICAgZW5kKQogICAgRW51bS5lYWNoKGZpbHRlcmVkX2NhbXBhaWducywgZm4oYykgLT4gSU8ucHV0cyBjIGVuZCkK</text>
+        <text encoding="base64">ICAgIGpqampqCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVuc3VyZV9yZXBvKFVuaWZpZWRSZXBvKQogICAgZW5zdXJlX3N0YXJ0ZWQoVW5pZmllZFJlcG8sIFtdKQogICAgbm93ID0gVGltZXgubm93KCJBc2lhL0hvbmdfS29uZyIpCiAgICB0b2RheSA9IFRpbWV4LnRvX2RhdGUobm93KQogICAgZmlsdGVyZWRfY2FtcGFpZ25zID0KICAgICAgRW51bS5tYXAoZmlsdGVycywgZm4oZikgLT4KICAgICAgICBjYW1wYWlnbnMgPSBmcm9tIGMgaW4gVW5pZmllZENhbXBhaWduLAogICAgICAgICAgICAgICAgICAgIHdoZXJlOiBsaWtlKGMuY2FtcGFpZ25fbmFtZSwgZiksCiAgICAgICAgICAgICAgICAgICAgc2VsZWN0OiBjLmlkCgogICAgICAgIFVuaWZpZWRSZXBvLmFsbCBjYW1wYWlnbnMKICAgICAgZW5kKQogICAgRW51bS5lYWNoKGZpbHRlcmVkX2NhbXBhaWducywgZm4oYykgLT4gSU8ucHV0cyBjIGVuZCkK</text>
+      </register>
+      <register name="8" type="4">
         <text>{
                       c.id, c.order_id, c.campaign_name,
                       c.start_time, c.end_time, c.never_end,
                       c.goal, c.goal_type, c.house, c.viewed, c.clicked
                     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZCBjLnN0YXJ0X3RpbWUgPD0gdG9kYXkgYW5kIHRvZGF5IDw9IGMuZW5kX3RpbWUKICAgICAgICAgICAgICAgICAgICAgIGFuZCBjLm5ldmVyX2VuZCA9PSBmYWxzZSwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZCBjLnN0YXJ0X3RpbWUgPD0gdG9kYXkgYW5kIHRvZGF5IDw9IGMuZW5kX3RpbWUKICAgICAgICAgICAgICAgICAgICAgIGFuZCBjLm5ldmVyX2VuZCA9PSBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
