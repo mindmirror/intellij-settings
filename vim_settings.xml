@@ -441,9 +441,6 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/config/dev.secret.exs" timestamp="1501386783432">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo2/main.go" timestamp="1480662997491">
         <mark key="'" line="5" column="7" />
         <mark key="[" line="13" column="5" />
@@ -831,6 +828,10 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/config/dev.exs" timestamp="1501388039305">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="42" column="14" />
+      </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
         <mark key="]" line="4" column="42" />
@@ -1117,6 +1118,12 @@
         <mark key="]" line="5" column="27" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/config/dev.secret.exs" timestamp="1501388050895">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="52" />
+        <mark key="." line="0" column="52" />
+        <mark key="^" line="0" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
         <mark key="[" line="0" column="10" />
@@ -1463,17 +1470,17 @@
       <jump line="36" column="4" filename="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Repo</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>Repo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk1hcmlhZXgsCiAgdXNlcm5hbWU6ICJjYW1wYWlnbl9yZWFkZXIiLAogIHBhc3N3b3JkOiAiQ1hiOWRnL1EiLAogIGRhdGFiYXNlOiAidW5pZmllZCIsCiAgcG9vbF9zaXplOiAyMAo=</text>
+        <text encoding="base64">Y29uZmlnIDpjYW1wYWlnbl9leHByZXNzLCBDYW1wYWlnbkV4cHJlc3MuUmVwbywKICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLlBvc3RncmVzLAogIHVzZXJuYW1lOiAicG9zdGdyZXMiLAogIHBhc3N3b3JkOiAicG9zdGdyZXMiLAogIGRhdGFiYXNlOiAiY2FtcGFpZ25fZXhwcmVzc19kZXYiLAogIGhvc3RuYW1lOiAibG9jYWxob3N0IiwKICBwb29sX3NpemU6IDEwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
