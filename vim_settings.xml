@@ -133,6 +133,11 @@
         <mark key="." line="44" column="28" />
         <mark key="^" line="44" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/unified_campaign.ex" timestamp="1501398004124">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/seeds.exs" timestamp="1499310065428">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="5" />
@@ -334,6 +339,13 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/unified_publisher.ex" timestamp="1501398950893">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/home/hello_phoenix/web/router.ex" timestamp="1497275451233">
         <mark key="[" line="18" column="35" />
         <mark key="]" line="19" column="37" />
@@ -496,6 +508,11 @@
         <mark key="^" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/publisher.ex" timestamp="1501399592234">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/page_controller.ex" timestamp="1496887391316">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="40" />
@@ -579,6 +596,12 @@
         <mark key="]" line="31" column="16" />
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/unified_country.ex" timestamp="1501398295138">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="9" column="66" />
+        <mark key="^" line="9" column="66" />
+        <mark key="." line="9" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/models/user.ex" timestamp="1501068369783">
         <mark key="[" line="37" column="6" />
@@ -756,6 +779,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/migrations/20170727010250_create_campaign_filter.exs" timestamp="1501400985330">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/ch05.clj" timestamp="1423097954526">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="9" column="2" />
@@ -841,12 +870,11 @@
         <mark key="^" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" timestamp="1501395129627">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" timestamp="1501401477873">
+        <mark key="[" line="71" column="70" />
+        <mark key="]" line="72" column="45" />
+        <mark key="." line="72" column="45" />
+        <mark key="^" line="72" column="45" />
       </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
@@ -1252,6 +1280,10 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/campaign.ex" timestamp="1501399588943">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/golang/src/myapp/app/views/flash.html" timestamp="1480578625315">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="16" column="9" />
@@ -1293,10 +1325,6 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" timestamp="1501128262829">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/auth/signin.html.eex" timestamp="1499147929526">
         <mark key="[" line="2" column="42" />
@@ -1386,28 +1414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="60" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/auth.ex" />
-      <jump line="67" column="16" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="116" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="76" column="16" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="178" column="7" filename="$USER_HOME$/Projects/elixir/phoenix_guardian/web/auth/user_from_auth.ex" />
-      <jump line="66" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="101" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="102" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="150" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="161" column="44" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="160" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="138" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="130" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="24" column="11" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
-      <jump line="5" column="13" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
-      <jump line="108" column="12" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
-      <jump line="104" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
-      <jump line="16" column="4" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
-      <jump line="121" column="24" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
-      <jump line="2" column="59" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/user/signup.html.eex" />
-      <jump line="153" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" />
       <jump line="15" column="5" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" />
@@ -1478,45 +1484,67 @@
       <jump line="5" column="67" filename="$USER_HOME$/Projects/Pixels/campaign-express/config/dev.secret.exs" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/config/dev.secret.exs" />
       <jump line="18" column="2" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
-      <jump line="15" column="33" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
-      <jump line="35" column="16" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
       <jump line="0" column="10" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/user_from_auth.ex" />
       <jump line="120" column="7" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/user_from_auth.ex" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/models/unified_campaign.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/models/unified_campaign.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/models/unified_publisher.ex" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/models/unified_publisher.ex" />
+      <jump line="29" column="2" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/models/unified_publisher.ex" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="56" column="3" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="61" column="23" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="57" column="20" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="64" column="14" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="73" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVmcmVzaF90b2tlbjogbmlsLAogICAgICBzY29wZXM6IFtdLAogICAgICBzZWNyZXQ6IG5pbCwKICAgICAgdG9rZW46IG5pbCwKICAgICAgdG9rZW5fdHlwZTogbmlsCg==</text>
+        <text encoding="base64">CmRlZnAgZ2V0X2NhbXBhaWduX2ZpbHRlcl9jb25kaXRpb24oImFtNzMwX0hLIiksIGRvOiAiJWFtNzMwJWhzZXBhaWQlIgpkZWZwIGdldF9jYW1wYWlnbl9maWx0ZXJfY29uZGl0aW9uKCJNaW5ncGFvLmNvbSBMaW1pdGVkIiksIGRvOiAiJW1pbmdwYW8laHNlcGFpZCUiCmRlZnAgZ2V0X2NhbXBhaWduX2ZpbHRlcl9jb25kaXRpb24oXyksIGRvOiA6bm90X2ZvdW5kCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>:not_found</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZV9lbWFpbF9hbmRfcGFzc3dvcmRcPg==</text>
+        <text encoding="base64">XDxnZXRfY2FtcGFpZ25fZmlsdGVyX2NvbmRpdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uZmlnIDpjYW1wYWlnbl9leHByZXNzLCBDYW1wYWlnbkV4cHJlc3MuUmVwbywKICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLlBvc3RncmVzLAogIHVzZXJuYW1lOiAicG9zdGdyZXMiLAogIHBhc3N3b3JkOiAicG9zdGdyZXMiLAogIGRhdGFiYXNlOiAiY2FtcGFpZ25fZXhwcmVzc19kZXYiLAogIGhvc3RuYW1lOiAibG9jYWxob3N0IiwKICBwb29sX3NpemU6IDEwCg==</text>
+        <text encoding="base64">ICBAcHJpbWFyeV9rZXkgezppZCwgOmlkLCBhdXRvZ2VucmVhdGU6IGZhbHNlfQogIEBkZXJpdmUge1Bob2VuaXguUGFyYW0sIGtleTogOmlkfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVmcmVzaF90b2tlbjogbmlsLAogICAgICBzY29wZXM6IFtdLAogICAgICBzZWNyZXQ6IG5pbCwKICAgICAgdG9rZW46IG5pbCwKICAgICAgdG9rZW5fdHlwZTogbmlsCg==</text>
+        <text encoding="base64">CmRlZnAgZ2V0X2NhbXBhaWduX2ZpbHRlcl9jb25kaXRpb24oImFtNzMwX0hLIiksIGRvOiAiJWFtNzMwJWhzZXBhaWQlIgpkZWZwIGdldF9jYW1wYWlnbl9maWx0ZXJfY29uZGl0aW9uKCJNaW5ncGFvLmNvbSBMaW1pdGVkIiksIGRvOiAiJW1pbmdwYW8laHNlcGFpZCUiCmRlZnAgZ2V0X2NhbXBhaWduX2ZpbHRlcl9jb25kaXRpb24oXyksIGRvOiA6bm90X2ZvdW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhwaXJlczogbmlsLAogICAgICBleHBpcmVzX2F0OiBuaWwsCg==</text>
+        <text encoding="base64">YW0zNzBfZmlsdGVyID0gJUNhbXBhaWduRmlsdGVye2lkOiB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLkF1dGhvcml6YXRpb24K</text>
+        <text encoding="base64">ICBpZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2U6IG5pbCwK</text>
+        <text encoding="base64">ICBqb2luOiBjIGluIFVuaWZpZWRDb3VudHJ5LCBvbjogcC5jb3VudHJ5X2lkID09IGMuaWQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9jYXRpb246IG5pbCwK</text>
+        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLlVzZXJGcm9tQXV0aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbWVzdGFtcHMoaW5zZXJ0ZWRfYXQ6IDpjcmVhdGVkLCB1cGRhdGVkX2F0OiA6bW9kaWZpZWQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1524,28 +1552,27 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiBuaWwsCg==</text>
+        <text encoding="base64">ICAgIGZpZWxkIDpzdGF0dXMsIDpzdHJpbmcKICAgIGZpZWxkIDpvcmRlcl9pZCwgOmludGVnZXIKICAgIGZpZWxkIDpjYW1wYWlnbl9uYW1lLCA6c3RyaW5nCiAgICBmaWVsZCA6cGxhdGZvcm1fdHlwZV9pZCwgOmludGVnZXIKICAgIGZpZWxkIDpjYW1wYWlnbl90eXBlX2lkLCA6aW50ZWdlcgogICAgZmllbGQgOnN0YXJ0X3RpbWUsIDpkYXRlCiAgICBmaWVsZCA6aW1tZWRpYXRlbHksIDppbnRlZ2VyCiAgICBmaWVsZCA6ZW5kX3RpbWUsIDpkYXRlCiAgICBmaWVsZCA6bmV2ZXJfZW5kLCA6aW50ZWdlcgogICAgZmllbGQgOmdvYWwsIDppbnRlZ2VyCiAgICBmaWVsZCA6Z29hbF90eXBlLCA6c3RyaW5nCiAgICBmaWVsZCA6dmlld2VkLCA6aW50ZWdlcgogICAgZmllbGQgOmNsaWNrZWQsIDppbnRlZ2VyCiAgICBmaWVsZCA6YWRfZm9ybWF0X2lkLCA6aW50ZWdlcgogICAgZmllbGQgOmhvdXNlLCA6aW50ZWdlcgogICAgZmllbGQgOnByaW9yaXR5LCA6c3RyaW5nCiAgICBmaWVsZCA6bW9uZXRhcnlfdmFsdWUsIDpkZWNpbWFsCiAgICBmaWVsZCA6Y29tcGVuc2F0aW9uX2lkLCA6aW50ZWdlcgogICAgZmllbGQgOmN1cnJlbmN5X3VuaXRfaWQsIDppbnRlZ2VyCiAgICBmaWVsZCA6ZGlzdHJpYnV0aW9uLCA6c3RyaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpcnN0X25hbWU6IExhd3JlbmNlLAogICAgaW1hZ2U6IG5pbCwKICAgIGxhc3RfbmFtZTogUUlOLAogICAgbG9jYXRpb246IG5pbCwKICAgIG5hbWU6IG5pbCwKICAgIG5pY2tuYW1lOiBuaWwsCiAgICBwaG9uZTogbmlsLAogICAgdXJsczogJXt9Cg==</text>
+        <text encoding="base64">ZGVmbW9kdWxlIFVuaWZpZWRQdWJsaXNoZXIgZG8KICBAbW9kdWxlZG9jIGZhbHNlCiAgCmVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVmcmVzaF90b2tlbjogbmlsLAogICAgICBzY29wZXM6IFtdLAogICAgICBzZWNyZXQ6IG5pbCwKICAgICAgdG9rZW46IG5pbCwKICAgICAgdG9rZW5fdHlwZTogbmlsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZV9lbWFpbF9hbmRfcGFzc3dvcmRcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRfY2FtcGFpZ25fZmlsdGVyX2NvbmRpdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZV9lbWFpbF9hbmRfcGFzc3dvcmRcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxnZXRfY2FtcGFpZ25fZmlsdGVyX2NvbmRpdGlvblw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VzZXRcPg==</entry>
         <entry encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uXD4=</entry>
@@ -1565,6 +1592,7 @@
         <entry encoding="base64">XDxjYW1wYWlnbl9leHByZXNzXD4=</entry>
         <entry encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9lbWFpbF9hbmRfcGFzc3dvcmRcPg==</entry>
+        <entry encoding="base64">XDxnZXRfY2FtcGFpZ25fZmlsdGVyX2NvbmRpdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
