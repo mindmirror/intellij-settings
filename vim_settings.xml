@@ -67,11 +67,10 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/migrations/20170730114235_create_publisher_campaign.exs" timestamp="1501415090160">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="6" column="45" />
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/migrations/20170730114235_create_publisher_campaign.exs" timestamp="1501418609026">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -517,11 +516,11 @@
         <mark key="^" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/publisher.ex" timestamp="1501415555976">
-        <mark key="[" line="13" column="70" />
-        <mark key="]" line="13" column="80" />
-        <mark key="." line="13" column="80" />
-        <mark key="^" line="13" column="80" />
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/publisher.ex" timestamp="1501418812054">
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="14" column="96" />
+        <mark key="." line="14" column="96" />
+        <mark key="^" line="14" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/page_controller.ex" timestamp="1496887391316">
         <mark key="[" line="4" column="29" />
@@ -1284,9 +1283,12 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/campaign.ex" timestamp="1501399588943">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="34" />
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/campaign.ex" timestamp="1501419032318">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="96" />
+        <mark key="^" line="21" column="96" />
+        <mark key="." line="21" column="96" />
       </file>
       <file name="$USER_HOME$/golang/src/myapp/app/views/flash.html" timestamp="1480578625315">
         <mark key="'" line="20" column="0" />
@@ -1321,11 +1323,11 @@
         <mark key="^" line="0" column="71" />
         <mark key="." line="0" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1501409239422">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="10" />
-        <mark key="." line="40" column="10" />
-        <mark key="^" line="40" column="10" />
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1501419240992">
+        <mark key="[" line="39" column="48" />
+        <mark key="]" line="40" column="39" />
+        <mark key="." line="40" column="39" />
+        <mark key="^" line="40" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/layout_view.ex" timestamp="1500892010057">
         <mark key="[" line="0" column="10" />
@@ -1421,7 +1423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" />
       <jump line="15" column="5" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" />
       <jump line="66" column="2" filename="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" />
@@ -1521,13 +1522,14 @@
       <jump line="63" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
       <jump line="64" column="14" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/seeds.exs" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/models/campaign.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdDogJXsKICAgICAgICAgICAgaWQ6IGMuaWQsIG9yZGVyX2lkOiBjLm9yZGVyX2lkLCBuYW1lOiBjLmNhbXBhaWduX25hbWUsCiAgICAgICAgICAgIHN0YXJ0X2RhdGU6IGMuc3RhcnRfdGltZSwgZW5kX2RhdGU6IGMuZW5kX3RpbWUsIG5ldmVyX2VuZDogYy5uZXZlcl9lbmQsCiAgICAgICAgICAgIGdvYWw6IGMuZ29hbCwgZ29hbF90eXBlOiBjLmdvYWxfdHlwZSwgaG91c2U6IGMuaG91c2UsCiAgICAgICAgICAgIHZpZXdlZDogYy52aWV3ZWQsIGNsaWNrZWQ6IGMuY2xpY2tlZAogICAgICAgICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>f.condition</text>
       </register>
       <register name="-" type="4">
-        <text>:not_found</text>
+        <text>f.condition</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fZmlsdGVyX2NvbmRpdGlvblw+</text>
@@ -1536,22 +1538,22 @@
         <text encoding="base64">ICBAcHJpbWFyeV9rZXkgezppZCwgOmlkLCBhdXRvZ2VucmVhdGU6IGZhbHNlfQogIEBkZXJpdmUge1Bob2VuaXguUGFyYW0sIGtleTogOmlkfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdDogJXsKICAgICAgICAgICAgaWQ6IGMuaWQsIG9yZGVyX2lkOiBjLm9yZGVyX2lkLCBuYW1lOiBjLmNhbXBhaWduX25hbWUsCiAgICAgICAgICAgIHN0YXJ0X2RhdGU6IGMuc3RhcnRfdGltZSwgZW5kX2RhdGU6IGMuZW5kX3RpbWUsIG5ldmVyX2VuZDogYy5uZXZlcl9lbmQsCiAgICAgICAgICAgIGdvYWw6IGMuZ29hbCwgZ29hbF90eXBlOiBjLmdvYWxfdHlwZSwgaG91c2U6IGMuaG91c2UsCiAgICAgICAgICAgIHZpZXdlZDogYy52aWV3ZWQsIGNsaWNrZWQ6IGMuY2xpY2tlZAogICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSB1bmlxdWVfaW5kZXgoOnB1Ymxpc2hlcnNfY2FtcGFpZ25zLCBbOnB1Ymxpc2hlcl9pZCwgOmNhbXBhaWduX2lkXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmRlZnAgZ2V0X2NhbXBhaWduX2ZpbHRlcl9jb25kaXRpb24oImFtNzMwX0hLIiksIGRvOiAiJWFtNzMwJWhzZXBhaWQlIgpkZWZwIGdldF9jYW1wYWlnbl9maWx0ZXJfY29uZGl0aW9uKCJNaW5ncGFvLmNvbSBMaW1pdGVkIiksIGRvOiAiJW1pbmdwYW8laHNlcGFpZCUiCmRlZnAgZ2V0X2NhbXBhaWduX2ZpbHRlcl9jb25kaXRpb24oXyksIGRvOiA6bm90X2ZvdW5kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW0zNzBfZmlsdGVyID0gJUNhbXBhaWduRmlsdGVye2lkOiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGVjdDogJXsKICAgICAgICAgICAgaWQ6IGMuaWQsIG9yZGVyX2lkOiBjLm9yZGVyX2lkLCBuYW1lOiBjLmNhbXBhaWduX25hbWUsCiAgICAgICAgICAgIHN0YXJ0X2RhdGU6IGMuc3RhcnRfdGltZSwgZW5kX2RhdGU6IGMuZW5kX3RpbWUsIG5ldmVyX2VuZDogYy5uZXZlcl9lbmQsCiAgICAgICAgICAgIGdvYWw6IGMuZ29hbCwgZ29hbF90eXBlOiBjLmdvYWxfdHlwZSwgaG91c2U6IGMuaG91c2UsCiAgICAgICAgICAgIHZpZXdlZDogYy52aWV3ZWQsIGNsaWNrZWQ6IGMuY2xpY2tlZAogICAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZgo=</text>
+        <text encoding="base64">CmRlZnAgZ2V0X2NhbXBhaWduX2ZpbHRlcl9jb25kaXRpb24oImFtNzMwX0hLIiksIGRvOiAiJWFtNzMwJWhzZXBhaWQlIgpkZWZwIGdldF9jYW1wYWlnbl9maWx0ZXJfY29uZGl0aW9uKCJNaW5ncGFvLmNvbSBMaW1pdGVkIiksIGRvOiAiJW1pbmdwYW8laHNlcGFpZCUiCmRlZnAgZ2V0X2NhbXBhaWduX2ZpbHRlcl9jb25kaXRpb24oXyksIGRvOiA6bm90X2ZvdW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBqb2luOiBjIGluIFVuaWZpZWRDb3VudHJ5LCBvbjogcC5jb3VudHJ5X2lkID09IGMuaWQsCg==</text>
+        <text encoding="base64">YW0zNzBfZmlsdGVyID0gJUNhbXBhaWduRmlsdGVye2lkOiB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLlVzZXJGcm9tQXV0aAo=</text>
+        <text encoding="base64">ICBpZgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1559,13 +1561,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdGFtcHMoaW5zZXJ0ZWRfYXQ6IDpjcmVhdGVkLCB1cGRhdGVkX2F0OiA6bW9kaWZpZWQpCg==</text>
+        <text encoding="base64">ICBqb2luOiBjIGluIFVuaWZpZWRDb3VudHJ5LCBvbjogcC5jb3VudHJ5X2lkID09IGMuaWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDpzdGF0dXMsIDpzdHJpbmcKICAgIGZpZWxkIDpvcmRlcl9pZCwgOmludGVnZXIKICAgIGZpZWxkIDpjYW1wYWlnbl9uYW1lLCA6c3RyaW5nCiAgICBmaWVsZCA6cGxhdGZvcm1fdHlwZV9pZCwgOmludGVnZXIKICAgIGZpZWxkIDpjYW1wYWlnbl90eXBlX2lkLCA6aW50ZWdlcgogICAgZmllbGQgOnN0YXJ0X3RpbWUsIDpkYXRlCiAgICBmaWVsZCA6aW1tZWRpYXRlbHksIDppbnRlZ2VyCiAgICBmaWVsZCA6ZW5kX3RpbWUsIDpkYXRlCiAgICBmaWVsZCA6bmV2ZXJfZW5kLCA6aW50ZWdlcgogICAgZmllbGQgOmdvYWwsIDppbnRlZ2VyCiAgICBmaWVsZCA6Z29hbF90eXBlLCA6c3RyaW5nCiAgICBmaWVsZCA6dmlld2VkLCA6aW50ZWdlcgogICAgZmllbGQgOmNsaWNrZWQsIDppbnRlZ2VyCiAgICBmaWVsZCA6YWRfZm9ybWF0X2lkLCA6aW50ZWdlcgogICAgZmllbGQgOmhvdXNlLCA6aW50ZWdlcgogICAgZmllbGQgOnByaW9yaXR5LCA6c3RyaW5nCiAgICBmaWVsZCA6bW9uZXRhcnlfdmFsdWUsIDpkZWNpbWFsCiAgICBmaWVsZCA6Y29tcGVuc2F0aW9uX2lkLCA6aW50ZWdlcgogICAgZmllbGQgOmN1cnJlbmN5X3VuaXRfaWQsIDppbnRlZ2VyCiAgICBmaWVsZCA6ZGlzdHJpYnV0aW9uLCA6c3RyaW5nCg==</text>
+        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLlVzZXJGcm9tQXV0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmbW9kdWxlIFVuaWZpZWRQdWJsaXNoZXIgZG8KICBAbW9kdWxlZG9jIGZhbHNlCiAgCmVuZAo=</text>
+        <text encoding="base64">ICAgIHRpbWVzdGFtcHMoaW5zZXJ0ZWRfYXQ6IDpjcmVhdGVkLCB1cGRhdGVkX2F0OiA6bW9kaWZpZWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
