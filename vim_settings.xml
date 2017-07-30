@@ -832,6 +832,12 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="42" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/config/config.exs" timestamp="1501392766625">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+      </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
         <mark key="]" line="4" column="42" />
@@ -1113,6 +1119,7 @@
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/controllers/auth_controller.ex" timestamp="1501392805718" />
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/user_view.ex" timestamp="1500455551638">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="5" column="27" />
