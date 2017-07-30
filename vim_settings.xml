@@ -67,6 +67,12 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/priv/repo/migrations/20170730114235_create_publisher_campaign.exs" timestamp="1501415090160">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
         <mark key="[" line="27" column="0" />
@@ -323,6 +329,12 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/publisher_campaign.ex" timestamp="1501415356624">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" timestamp="1499419937126">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="16" column="35" />
@@ -505,10 +517,11 @@
         <mark key="^" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/publisher.ex" timestamp="1501399592234">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/models/publisher.ex" timestamp="1501415555976">
+        <mark key="[" line="13" column="70" />
+        <mark key="]" line="13" column="80" />
+        <mark key="." line="13" column="80" />
+        <mark key="^" line="13" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/page_controller.ex" timestamp="1496887391316">
         <mark key="[" line="4" column="29" />
