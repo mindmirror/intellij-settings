@@ -1119,11 +1119,12 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/config/dev.secret.exs" timestamp="1501388050895">
-        <mark key="[" line="0" column="42" />
-        <mark key="]" line="0" column="52" />
-        <mark key="." line="0" column="52" />
-        <mark key="^" line="0" column="52" />
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/config/dev.secret.exs" timestamp="1501390299512">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
         <mark key="[" line="0" column="10" />
@@ -1368,8 +1369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" />
-      <jump line="14" column="37" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/models/user.ex" />
       <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
       <jump line="32" column="26" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/user_controller.ex" />
@@ -1468,13 +1467,15 @@
       <jump line="4" column="10" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" />
       <jump line="36" column="4" filename="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" />
+      <jump line="5" column="67" filename="$USER_HOME$/Projects/Pixels/campaign-express/config/dev.secret.exs" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/config/dev.secret.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Repo</text>
+        <text>ocalhost</text>
       </register>
       <register name="-" type="4">
-        <text>Repo</text>
+        <text>ocalhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</text>
