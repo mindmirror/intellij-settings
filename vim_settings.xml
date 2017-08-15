@@ -920,6 +920,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_cache.ex" timestamp="1502790145301">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="23" />
@@ -1510,8 +1515,8 @@
       <jump line="44" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CXb9dg/Q</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>CXb9dg/Q</text>
@@ -1523,22 +1528,22 @@
         <text encoding="base64">ICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk1hcmlhZXgsCiAgdXNlcm5hbWU6ICJjYW1wYWlnbl9yZWFkZXIiLAogIHBhc3N3b3JkOiAiQ1hiOWRnL1EiLAogIGRhdGFiYXNlOiAidW5pZmllZCIsCiAgcG9vbF9zaXplOiAyMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdDogJXsKICAgICAgICAgICAgaWQ6IGMuaWQsIG9yZGVyX2lkOiBjLm9yZGVyX2lkLCBuYW1lOiBjLmNhbXBhaWduX25hbWUsCiAgICAgICAgICAgIHN0YXJ0X2RhdGU6IGMuc3RhcnRfdGltZSwgZW5kX2RhdGU6IGMuZW5kX3RpbWUsIG5ldmVyX2VuZDogYy5uZXZlcl9lbmQsCiAgICAgICAgICAgIGdvYWw6IGMuZ29hbCwgZ29hbF90eXBlOiBjLmdvYWxfdHlwZSwgaG91c2U6IGMuaG91c2UsCiAgICAgICAgICAgIHZpZXdlZDogYy52aWV3ZWQsIGNsaWNrZWQ6IGMuY2xpY2tlZAogICAgICAgICAgfSwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAjIEV2ZXJ5IG1pbnV0ZQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDb25maWd1cmVzIFF1YW50dW0gU2NoZWR1bGVyCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlNjaGVkdWxlciwKam9iczogWwpdCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGVjdDogJXsKICAgICAgICAgICAgaWQ6IGMuaWQsIG9yZGVyX2lkOiBjLm9yZGVyX2lkLCBuYW1lOiBjLmNhbXBhaWduX25hbWUsCiAgICAgICAgICAgIHN0YXJ0X2RhdGU6IGMuc3RhcnRfdGltZSwgZW5kX2RhdGU6IGMuZW5kX3RpbWUsIG5ldmVyX2VuZDogYy5uZXZlcl9lbmQsCiAgICAgICAgICAgIGdvYWw6IGMuZ29hbCwgZ29hbF90eXBlOiBjLmdvYWxfdHlwZSwgaG91c2U6IGMuaG91c2UsCiAgICAgICAgICAgIHZpZXdlZDogYy52aWV3ZWQsIGNsaWNrZWQ6IGMuY2xpY2tlZAogICAgICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCgo=</text>
+        <text encoding="base64">ICAjIEV2ZXJ5IG1pbnV0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1546,13 +1551,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBDb25maWd1cmVzIFF1YW50dW0gU2NoZWR1bGVyCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlNjaGVkdWxlciwKam9iczogWwpdCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0IGMK</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0IG9uX2NvbmZsaWN0Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
