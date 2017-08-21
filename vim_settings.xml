@@ -1265,6 +1265,10 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1503297143703">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="14" column="40" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="4" column="22" />
@@ -1387,6 +1391,13 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" timestamp="1503297147037">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="18" column="15" />
@@ -1414,7 +1425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="138" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="130" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" />
       <jump line="24" column="11" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
@@ -1514,37 +1524,38 @@
       <jump line="23" column="10" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>campaign</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>campaign</text>
+        <text>moduledoc false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhbXBhaWduX3N0YXRzID0gOmV0cy5uZXcoOmNhbXBhaWduX3N0YXRzLCBbOnNldCwgOm5hbWVkX3RhYmxlLCA6cHVibGljLCByZWFkX2NvbmN1cnJlbmN5OiB0cnVlXSkK</text>
+        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVW5pZmllZFJlcG8KICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVW5pZmllZENhbXBhaWduCiAgYWxpYXMgQ2FtcGFpZ25FeHByZXNzLlJlcG8KICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuQ2FtcGFpZ25GaWx0ZXIKICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuQ2FtcGFpZ24KICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuUHVibGlzaGVyQ2FtcGFpZ24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciA9IEtleXdvcmQuZmV0Y2ghKG9wdHMsIDpuYW1lKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNlcnZlciA9IEtleXdvcmQuZmV0Y2ghKG9wdHMsIDpuYW1lKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdDogJXsKICAgICAgICAgICAgaWQ6IGMuaWQsIG9yZGVyX2lkOiBjLm9yZGVyX2lkLCBuYW1lOiBjLmNhbXBhaWduX25hbWUsCiAgICAgICAgICAgIHN0YXJ0X2RhdGU6IGMuc3RhcnRfdGltZSwgZW5kX2RhdGU6IGMuZW5kX3RpbWUsIG5ldmVyX2VuZDogYy5uZXZlcl9lbmQsCiAgICAgICAgICAgIGdvYWw6IGMuZ29hbCwgZ29hbF90eXBlOiBjLmdvYWxfdHlwZSwgaG91c2U6IGMuaG91c2UsCiAgICAgICAgICAgIHZpZXdlZDogYy52aWV3ZWQsIGNsaWNrZWQ6IGMuY2xpY2tlZAogICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIEV2ZXJ5IG1pbnV0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGVjdDogJXsKICAgICAgICAgICAgaWQ6IGMuaWQsIG9yZGVyX2lkOiBjLm9yZGVyX2lkLCBuYW1lOiBjLmNhbXBhaWduX25hbWUsCiAgICAgICAgICAgIHN0YXJ0X2RhdGU6IGMuc3RhcnRfdGltZSwgZW5kX2RhdGU6IGMuZW5kX3RpbWUsIG5ldmVyX2VuZDogYy5uZXZlcl9lbmQsCiAgICAgICAgICAgIGdvYWw6IGMuZ29hbCwgZ29hbF90eXBlOiBjLmdvYWxfdHlwZSwgaG91c2U6IGMuaG91c2UsCiAgICAgICAgICAgIHZpZXdlZDogYy52aWV3ZWQsIGNsaWNrZWQ6IGMuY2xpY2tlZAogICAgICAgICAgfSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1552,13 +1563,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIEV2ZXJ5IG1pbnV0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDb25maWd1cmVzIFF1YW50dW0gU2NoZWR1bGVyCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlNjaGVkdWxlciwKam9iczogWwpdCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCgo=</text>
+        <text encoding="base64">IyBDb25maWd1cmVzIFF1YW50dW0gU2NoZWR1bGVyCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlNjaGVkdWxlciwKam9iczogWwpdCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
