@@ -1083,12 +1083,12 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1501464176910">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="30" column="4" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1503385477517">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
@@ -1233,12 +1233,12 @@
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/page_controller.ex" timestamp="1496883574875">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/stats/campaign_stats.ex" timestamp="1503313474350">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/stats/campaign_stats.ex" timestamp="1503384877173">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+        <mark key="." line="23" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/playsync.clj" timestamp="1434705309625">
         <mark key="[" line="1" column="32" />
@@ -1398,11 +1398,12 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" timestamp="1503313446799">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" timestamp="1503385144190">
         <mark key="'" line="31" column="28" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="74" column="2" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="6" />
+        <mark key="^" line="29" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
         <mark key="'" line="21" column="0" />
@@ -1534,16 +1535,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>run(args)</text>
+        <text>Campaign</text>
       </register>
       <register name="-" type="4">
-        <text>run(args)</text>
+        <text>Campaign</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB1c2UgVGltZXgKCiAgaW1wb3J0IE1peC5FY3RvCiAgaW1wb3J0IEVjdG8uUXVlcnkKCiAgYWxpYXMgQ2FtcGFpZ25FeHByZXNzLlBvcnRhbFJlcG8KICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuUG9ydGFsQWx0Q2FtcGFpZ24KICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuUG9ydGFsRGFpbHlSZWNvcmQKICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuU25hcFJlcG8KICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuU25hcENhbXBhaWduCiAgYWxpYXMgQ2FtcGFpZ25FeHByZXNzLlNuYXBCYW5uZXIKICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuU25hcFN0YXQKICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuUmVwbwogIGFsaWFzIENhbXBhaWduRXhwcmVzcy5DYW1wYWlnbkZpbHRlcgogIGFsaWFzIENhbXBhaWduRXhwcmVzcy5DYW1wYWlnbgogIGFsaWFzIENhbXBhaWduRXhwcmVzcy5QdWJsaXNoZXJDYW1wYWlnbgogIGFsaWFzIENhbXBhaWduRXhwcmVzcy5TdGF0c0NhY2hlCgoKICBkZWYgcnVuKGFyZ3MpIGRvCiAgICBlbnN1cmVfcmVwbyhSZXBvLCBhcmdzKQogICAgZW5zdXJlX3N0YXJ0ZWQoUmVwbywgW10pCgogICAgaWYgU3RhdHNDYWNoZS5hbGl2ZT8oKSBkbwogICAgICA6ZXRzLmRlbGV0ZV9hbGxfb2JqZWN0cyg6Y2FtcGFpZ25fc3RhdHMpCiAgICAgIDpldHMuZGVsZXRlX2FsbF9vYmplY3RzKDpzbmFwX3N0YXRzKQogICAgICBhY3RpdmVfY2FtcGFpZ25faWRzID0gZ2V0X2FjdGl2ZV9jYW1wYWlnbnMoKQogICAgICBzdGF0c19mcm9tX3BvcnRhbCA9IGV4dHJhY3Rfc3RhdHNfZnJvbV9wb3J0YWwoYWN0aXZlX2NhbXBhaWduX2lkcykKICAgICAgc3RhdHNfZnJvbV9zbmFwID0gZXh0cmFjdF9zdGF0c19mcm9tX3NuYXAoYWN0aXZlX2NhbXBhaWduX2lkcykKICAgICAgdXBkYXRlX3N0YXRzX2NhY2hlKDpjYW1wYWlnbl9zdGF0cywgc3RhdHNfZnJvbV9wb3J0YWwpCiAgICAgIHVwZGF0ZV9zdGF0c19jYWNoZSg6c25hcF9zdGF0cywgc3RhdHNfZnJvbV9zbmFwKQogICAgZW5kCiAgZW5kCgogIGRlZiBnZXRfYWN0aXZlX2NhbXBhaWducygpIGRvCiAgICBub3cgPSBUaW1leC5ub3coIkFzaWEvSG9uZ19Lb25nIikKICAgIHRvZGF5ID0gVGltZXgudG9fZGF0ZShub3cpCiAgICBxdWVyeSA9CiAgICAgIGZyb20gYyBpbiBDYW1wYWlnbiwKICAgICAgd2hlcmU6IGMuc3RhcnRfZGF0ZSA8PSBedG9kYXkgYW5kIF50b2RheSA8PSBjLmVuZF9kYXRlLAogICAgICBzZWxlY3Q6IGMuaWQKICAgIFJlcG8uYWxsIHF1ZXJ5CiAgZW5kCgogIGRlZiBleHRyYWN0X3N0YXRzX2Zyb21fcG9ydGFsKGNhbXBhaWduX2lkcykgZG8KICAgIG5vdyA9IFRpbWV4Lm5vdygiQXNpYS9Ib25nX0tvbmciKQogICAgdG9kYXkgPSBUaW1leC50b19kYXRlKG5vdykKICAgIFBvcnRhbFJlcG8uYWxsIGZyb20gYyBpbiBQb3J0YWxBbHRDYW1wYWlnbiwKICAgICAgICAgICAgICAgICAgIGpvaW46IHIgaW4gUG9ydGFsRGFpbHlSZWNvcmQsIG9uOiBjLmlkID09IHIuYWx0X2NhbXBhaWduX2lkLAogICAgICAgICAgICAgICAgICAgd2hlcmU6IGMuaWQgaW4gXmNhbXBhaWduX2lkcyBhbmQgci5kYXkgPD0gXnRvZGF5LAogICAgICAgICAgICAgICAgICAgZ3JvdXBfYnk6IFtjLm5hbWUsIHIuZGF5XSwKICAgICAgICAgICAgICAgICAgIG9yZGVyX2J5OiBbYy5uYW1lLCBkZXNjOiByLmRheV0sCiAgICAgICAgICAgICAgICAgICBzZWxlY3Q6IHtjLmlkLCBjLm5hbWUsIHIuZGF5LCBzdW0oci52aWV3cyksIHN1bShyLmNsaWNrcyl9CiAgZW5kCgogIGRlZiBleHRyYWN0X3N0YXRzX2Zyb21fc25hcChjYW1wYWlnbl9pZHMpIGRvCiAgICBub3cgPSBUaW1leC5ub3coIkFzaWEvSG9uZ19Lb25nIikKICAgIHRvZGF5ID0gVGltZXgudG9fZGF0ZShub3cpCiAgICBTbmFwUmVwby5hbGwgZnJvbSBjIGluIENhbXBhaWduRXhwcmVzcy5TbmFwQ2FtcGFpZ24sCiAgICAgICAgICAgICAgICAgam9pbjogYiBpbiBTbmFwQmFubmVyLCBvbjogYi5jYW1wYWlnbmlkID09IGMuY2FtcGFpZ25pZCwKICAgICAgICAgICAgICAgICBqb2luOiBzIGluIFNuYXBTdGF0LCBvbjogYi5iYW5uZXJpZCA9PSBzLmJhbm5lcmlkLAogICAgICAgICAgICAgICAgIHdoZXJlOiBjLmNhbXBhaWduaWQgaW4gXmNhbXBhaWduX2lkcyBhbmQgcy5kYXkgPT0gXnRvZGF5LAogICAgICAgICAgICAgICAgIGdyb3VwX2J5OiBbYy5uYW1lLCBzLmRheV0sCiAgICAgICAgICAgICAgICAgb3JkZXJfYnk6IGMubmFtZSwKICAgICAgICAgICAgICAgICBzZWxlY3Q6IHtjLmNhbXBhaWduaWQsIGMubmFtZSwgcy5kYXksIHN1bShzLnZpZXdzKSwgc3VtKHMuY2xpY2tzKX0KICBlbmQKCiAgZGVmIHVwZGF0ZV9zdGF0c19jYWNoZSh0YWJsZSwgZW50cmllcykgZG8KICAgIEVudW0uZWFjaChlbnRyaWVzLCBmbiAoZW50cnkpIC0+IDpldHMuaW5zZXJ0KHRhYmxlLCBlbnRyeSkgZW5kKQogIGVuZAplbmQK</text>
+        <text encoding="base64">ICAgICN7IiogKiAqICogKiIsIHtNaXguVGFza3MuRXh0cmFjdENhbXBhaWduLCA6cnVuLCBbW11dfX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVuc3VyZV9yZXBvKFJlcG8sIGFyZ3MpCiAgICBlbnN1cmVfc3RhcnRlZChSZXBvLCBbXSkKCg==</text>
@@ -1620,9 +1621,9 @@
         <entry>noh</entry>
         <entry>f</entry>
         <entry>{w</entry>
-        <entry>wf</entry>
         <entry>wq</entry>
         <entry>nohlsearch</entry>
+        <entry>wf</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
