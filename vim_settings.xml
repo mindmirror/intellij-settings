@@ -1113,11 +1113,11 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1503560333168">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1503561257837">
         <mark key="'" line="30" column="58" />
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
-        <mark key="^" line="33" column="64" />
+        <mark key="^" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
