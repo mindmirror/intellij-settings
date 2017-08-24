@@ -918,11 +918,11 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1503563640740">
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="95" />
-        <mark key="." line="31" column="95" />
-        <mark key="^" line="31" column="95" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1503565249911">
+        <mark key="[" line="29" column="63" />
+        <mark key="]" line="29" column="64" />
+        <mark key="." line="29" column="64" />
+        <mark key="^" line="29" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -1566,11 +1566,11 @@
       <jump line="30" column="58" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8JT0gZm9yIGNhbXBhaWduIDwtIEBjYW1wYWlnbnMgZG8gJT4KICAgIDx0cj4KICAgICAgPHRkPjwlPSBsaW5rIGNhbXBhaWduLmlkLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICAgIDx0ZD48JT0gbGluayBjYW1wYWlnbi5uYW1lLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICA8L3RyPgogIDwlIGVuZCAlPgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</text>
