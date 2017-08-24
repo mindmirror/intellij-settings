@@ -386,6 +386,9 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/phoenix.css" timestamp="1503565911516">
+        <mark key="'" line="8" column="21528" />
+      </file>
       <file name="$USER_HOME$/golang/src/shopping/shopping.go" timestamp="1460622840255">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="11" column="26" />
@@ -1464,8 +1467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" />
-      <jump line="36" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/page/index.html.eex" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/page/index.html.eex" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" />
@@ -1564,6 +1565,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
       <jump line="67" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" />
       <jump line="30" column="58" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/phoenix.css" />
+      <jump line="8" column="21528" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/phoenix.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1573,7 +1576,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</text>
+        <text>container</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -1615,17 +1618,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-search>
+      <last-search>container</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-pattern>
+      <last-pattern>container</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoa293ZWF0aGVyXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VzZXRcPg==</entry>
         <entry encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uXD4=</entry>
@@ -1645,6 +1647,7 @@
         <entry encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbl9leHByZXNzXD4=</entry>
         <entry encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</entry>
+        <entry>container</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
