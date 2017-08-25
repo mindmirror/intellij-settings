@@ -1311,10 +1311,11 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1503650556173">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="42" column="5" />
-        <mark key="." line="42" column="5" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1503651973220">
+        <mark key="[" line="76" column="59" />
+        <mark key="]" line="76" column="55" />
+        <mark key="." line="76" column="55" />
+        <mark key="^" line="76" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
         <mark key="[" line="1" column="29" />
@@ -1573,10 +1574,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>publisher_id</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>publisher_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
