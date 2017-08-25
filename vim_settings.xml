@@ -922,12 +922,12 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1503633599126">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1503634360081">
         <mark key="'" line="35" column="25" />
-        <mark key="[" line="35" column="77" />
-        <mark key="]" line="35" column="77" />
-        <mark key="." line="35" column="77" />
-        <mark key="^" line="35" column="77" />
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="56" column="40" />
+        <mark key="." line="56" column="40" />
+        <mark key="^" line="56" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -1618,7 +1618,7 @@
         <text encoding="base64">ICAgIElPLmluc3BlY3QoY3VycmVudF91c2VyKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1662,8 +1662,8 @@
         <entry>{w</entry>
         <entry>wq</entry>
         <entry>wf</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
