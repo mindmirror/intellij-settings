@@ -542,11 +542,11 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/show.html.eex" timestamp="1503397264613">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/show.html.eex" timestamp="1503643807815">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/page/index.html.eex" timestamp="1500452088313">
         <mark key="[" line="2" column="101" />
@@ -922,12 +922,12 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1503634360081">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1503643398430">
         <mark key="'" line="35" column="25" />
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="56" column="40" />
-        <mark key="." line="56" column="40" />
-        <mark key="^" line="56" column="40" />
+        <mark key="[" line="28" column="116" />
+        <mark key="]" line="28" column="116" />
+        <mark key="." line="28" column="116" />
+        <mark key="^" line="28" column="116" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -1568,40 +1568,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>:ets.select_reverse(
-      :campaign_stats,
-      [{{:&quot;_&quot;, :&quot;$1&quot;, :&quot;$2&quot;, :&quot;$3&quot;, :&quot;$4&quot;, :&quot;$5&quot;}, [{:&quot;==&quot;, :&quot;$1&quot;, String.to_integer(campaign_id)}], [:&quot;$$&quot;]}]
-    )</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDx0cj5pdGVtLmNhbXBhaWduX2lkPC90cj4K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="8">
+        <text encoding="base64">PC90ZD4KPC90ZD4KPC90ZD4KPC90ZD4=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPCU9IGZvciBlbGVtZW50IDwtIGl0ZW0gZG8gJT4KICAgICAgICA8dGg+PCU9IGVsZW1lbnQgJT48L3RoPgogICAgICA8JT0gZW5kICU+Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgRW51bS5tYXAoaXRlbSwgZm4gKGVsZW1lbnQpIC0+CiAgICAgICAgJXt9CiAgICAgIGVuZCk=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>:ets.select_reverse(
       :campaign_stats,
       [{{:&quot;_&quot;, :&quot;$1&quot;, :&quot;$2&quot;, :&quot;$3&quot;, :&quot;$4&quot;, :&quot;$5&quot;}, [{:&quot;==&quot;, :&quot;$1&quot;, String.to_integer(campaign_id)}], [:&quot;$$&quot;]}]
     )</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoY2FtcGFpZ25faWQpCiAgICBJTy5pbnNwZWN0KGNhbXBhaWduX2JyZWFrZG93bikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8JT0gZm9yIGNhbXBhaWduIDwtIEBjYW1wYWlnbnMgZG8gJT4KICAgIDx0cj4KICAgICAgPHRkPjwlPSBsaW5rIGNhbXBhaWduLmlkLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICAgIDx0ZD48JT0gbGluayBjYW1wYWlnbi5uYW1lLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICA8L3RyPgogIDwlIGVuZCAlPgo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoY2FtcGFpZ25zKQo=</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoY2FtcGFpZ25faWQpCiAgICBJTy5pbnNwZWN0KGNhbXBhaWduX2JyZWFrZG93bikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1609,13 +1606,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICA8JT0gZm9yIGNhbXBhaWduIDwtIEBjYW1wYWlnbnMgZG8gJT4KICAgIDx0cj4KICAgICAgPHRkPjwlPSBsaW5rIGNhbXBhaWduLmlkLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICAgIDx0ZD48JT0gbGluayBjYW1wYWlnbi5uYW1lLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICA8L3RyPgogIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGpvaW46Cg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoY2FtcGFpZ25zKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoY3VycmVudF91c2VyKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
