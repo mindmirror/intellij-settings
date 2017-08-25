@@ -1311,11 +1311,10 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1503647914279">
-        <mark key="[" line="69" column="13" />
-        <mark key="]" line="69" column="10" />
-        <mark key="." line="69" column="10" />
-        <mark key="^" line="69" column="10" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1503649402845">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="42" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
         <mark key="[" line="1" column="29" />
@@ -1574,10 +1573,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
@@ -1585,42 +1584,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx0cj5pdGVtLmNhbXBhaWduX2lkPC90cj4K</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICByZXF1aXJlIElFeAoK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIElFeC5wcnkK</text>
+      </register>
+      <register name="3" type="8">
         <text>#
 #
 #</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text encoding="base64">PC90ZD4KPC90ZD4KPC90ZD4KPC90ZD4=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPCU9IGZvciBlbGVtZW50IDwtIGl0ZW0gZG8gJT4KICAgICAgICA8dGg+PCU9IGVsZW1lbnQgJT48L3RoPgogICAgICA8JT0gZW5kICU+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgRW51bS5tYXAoaXRlbSwgZm4gKGVsZW1lbnQpIC0+CiAgICAgICAgJXt9CiAgICAgIGVuZCk=</text>
-      </register>
-      <register name="5" type="4">
-        <text>:ets.select_reverse(
-      :campaign_stats,
-      [{{:&quot;_&quot;, :&quot;$1&quot;, :&quot;$2&quot;, :&quot;$3&quot;, :&quot;$4&quot;, :&quot;$5&quot;}, [{:&quot;==&quot;, :&quot;$1&quot;, String.to_integer(campaign_id)}], [:&quot;$$&quot;]}]
-    )</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoY2FtcGFpZ25faWQpCiAgICBJTy5pbnNwZWN0KGNhbXBhaWduX2JyZWFrZG93bikK</text>
+      <register name="7" type="4">
+        <text>:ets.select_reverse(
+      :campaign_stats,
+      [{{:&quot;_&quot;, :&quot;$1&quot;, :&quot;$2&quot;, :&quot;$3&quot;, :&quot;$4&quot;, :&quot;$5&quot;}, [{:&quot;==&quot;, :&quot;$1&quot;, String.to_integer(campaign_id)}], [:&quot;$$&quot;]}]
+    )</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8JT0gZm9yIGNhbXBhaWduIDwtIEBjYW1wYWlnbnMgZG8gJT4KICAgIDx0cj4KICAgICAgPHRkPjwlPSBsaW5rIGNhbXBhaWduLmlkLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICAgIDx0ZD48JT0gbGluayBjYW1wYWlnbi5uYW1lLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICA8L3RyPgogIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoY2FtcGFpZ25zKQo=</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoY2FtcGFpZ25faWQpCiAgICBJTy5pbnNwZWN0KGNhbXBhaWduX2JyZWFrZG93bikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
