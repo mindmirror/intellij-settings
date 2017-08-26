@@ -1321,11 +1321,11 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/mix.exs" timestamp="1503725659069">
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="51" column="45" />
-        <mark key="^" line="51" column="45" />
-        <mark key="." line="51" column="45" />
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/mix.exs" timestamp="1503729182908">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl/repo.ex" timestamp="1497011706326">
         <mark key="'" line="1" column="0" />
@@ -1543,11 +1543,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/controllers/campaign_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>filtered_</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaXNoZXJfY2FtcGFpZ25cPg==</text>
