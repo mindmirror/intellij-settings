@@ -464,6 +464,12 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/controllers/campaign_controller.ex" timestamp="1503725963516">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo2/main.go" timestamp="1480662997491">
         <mark key="'" line="5" column="7" />
         <mark key="[" line="13" column="5" />
@@ -1169,7 +1175,6 @@
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/controllers/auth_controller.ex" timestamp="1501392805718" />
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/user_view.ex" timestamp="1500455551638">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="5" column="27" />
@@ -1316,6 +1321,12 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/mix.exs" timestamp="1503725659069">
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="45" />
+        <mark key="^" line="51" column="45" />
+        <mark key="." line="51" column="45" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/lib/rumbl/repo.ex" timestamp="1497011706326">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="0" />
@@ -1430,7 +1441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" />
       <jump line="3" column="37" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/user_controller.ex" />
       <jump line="4" column="33" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" />
       <jump line="11" column="13" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
@@ -1530,10 +1540,11 @@
       <jump line="71" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/lib/mix/tasks/extract_campaign.ex" />
       <jump line="50" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/lib/mix/tasks/extract_campaign.ex" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/lib/mix/tasks/extract_campaign.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/controllers/campaign_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filtered_</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="-" type="4">
         <text>filtered_</text>
@@ -1544,23 +1555,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgICAgbmV2ZXJfZW5kID0gaWYgci5uZXZlcl9lbmQgPT0gMCwgZG86IGZhbHNlLCBlbHNlOiB0cnVlCiAgICAjICAgIGhvdXNlID0gaWYgci5ob3VzZSA9PSAwLCBkbzogZmFsc2UsIGVsc2U6IHRydWUKICAgICMgICAgciA9ICV7ciB8IG5ldmVyX2VuZDogbmV2ZXJfZW5kLCBob3VzZTogaG91c2V9CiAgICAjICAgIHIgPSBNYXAucHV0KHIsIDp1cGRhdGVkX2F0LCBUaW1leC5ub3coKSkKICAgICMgICAgYyA9IENhbXBhaWduLmNoYW5nZXNldCglQ2FtcGFpZ257fSwgcikKICAgICMgICAgb25fY29uZmxpY3QgPSBbc2V0OiBFbnVtLmZpbHRlcihFbnVtLm1hcChyLCBmbih7aywgdn0pIC0+IHtrLCB2fSBlbmQpLCBmbih4KSAtPiB4ICE9IDppZCBlbmQpXQogICAgIyAgICBSZXBvLmluc2VydCEoYywgb25fY29uZmxpY3Q6IG9uX2NvbmZsaWN0LCBjb25mbGljdF90YXJnZXQ6IDppZCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEVudW0uZWFjaChmaWx0ZXJlZF9jYW1wYWlnbnMsIGZuKGNhbXBhaWduKSAtPgogICAgICBuZXZlcl9lbmQgPSBpZiBjYW1wYWlnbi5uZXZlcl9lbmQgPT0gMCwgZG86IGZhbHNlLCBlbHNlOiB0cnVlCiAgICAgIGhvdXNlID0gaWYgY2FtcGFpZ24uaG91c2UgPT0gMCwgZG86IGZhbHNlLCBlbHNlOiB0cnVlCiAgICAgIGNhbXBhaWduID0gJXtjYW1wYWlnbiB8IG5ldmVyX2VuZDogbmV2ZXJfZW5kLCBob3VzZTogaG91c2V9CiAgICAgIGNhbXBhaWduID0gTWFwLnB1dChjYW1wYWlnbiwgOnVwZGF0ZWRfYXQsIFRpbWV4Lm5vdygpKQogICAgICBjID0gQ2FtcGFpZ24uY2hhbmdlc2V0KCVDYW1wYWlnbnt9LCBjYW1wYWlnbikKICAgICAgb25fY29uZmxpY3QgPQogICAgICAgIGNhbXBhaWduCiAgICAgICAgfD4gRW51bS5tYXAoZm4oe2ssIHZ9KSAtPiB7aywgdn0gZW5kKQogICAgICAgIHw+IEVudW0uZmlsdGVyKGZuKHtrLCB2fSkgLT4gIUVudW0ubWVtYmVyPyhbOmlkLCA6cHVibGlzaGVyX2lkXSwgaykgZW5kKQogICAgICBSZXBvLmluc2VydCEoYywgb25fY29uZmxpY3Q6IFtzZXQ6IG9uX2NvbmZsaWN0XSwgY29uZmxpY3RfdGFyZ2V0OiA6aWQpCiAgICBlbmQpCg==</text>
+        <text encoding="base64">ICAgIGNhbXBhaWduX2JyZWFrZG93biA9Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">fD4gCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIEVudW0uZWFjaChmaWx0ZXJlZF9jYW1wYWlnbnMsIGZuKGNhbXBhaWduKSAtPgogICAgICBuZXZlcl9lbmQgPSBpZiBjYW1wYWlnbi5uZXZlcl9lbmQgPT0gMCwgZG86IGZhbHNlLCBlbHNlOiB0cnVlCiAgICAgIGhvdXNlID0gaWYgY2FtcGFpZ24uaG91c2UgPT0gMCwgZG86IGZhbHNlLCBlbHNlOiB0cnVlCiAgICAgIGNhbXBhaWduID0gJXtjYW1wYWlnbiB8IG5ldmVyX2VuZDogbmV2ZXJfZW5kLCBob3VzZTogaG91c2V9CiAgICAgIGNhbXBhaWduID0gTWFwLnB1dChjYW1wYWlnbiwgOnVwZGF0ZWRfYXQsIFRpbWV4Lm5vdygpKQogICAgICBjID0gQ2FtcGFpZ24uY2hhbmdlc2V0KCVDYW1wYWlnbnt9LCBjYW1wYWlnbikKICAgICAgb25fY29uZmxpY3QgPQogICAgICAgIGNhbXBhaWduCiAgICAgICAgfD4gRW51bS5tYXAoZm4oe2ssIHZ9KSAtPiB7aywgdn0gZW5kKQogICAgICAgIHw+IEVudW0uZmlsdGVyKGZuKHtrLCB2fSkgLT4gIUVudW0ubWVtYmVyPyhbOmlkLCA6cHVibGlzaGVyX2lkXSwgaykgZW5kKQogICAgICBSZXBvLmluc2VydCEoYywgb25fY29uZmxpY3Q6IFtzZXQ6IG9uX2NvbmZsaWN0XSwgY29uZmxpY3RfdGFyZ2V0OiA6aWQpCiAgICBlbmQpCg==</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">fD4gCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAg</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgZmlsdGVycwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkX2NhbXBhaWducwo=</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1568,13 +1579,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkX2NhbXBhaWducwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBVbmlmaWVkUmVwby5hbGwoCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgSW5zZXJ0IHRoZSByZXN1bHQgdG8gbG9jYWwgZGF0YWJhc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
