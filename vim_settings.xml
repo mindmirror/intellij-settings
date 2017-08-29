@@ -215,12 +215,12 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1501229552100">
-        <mark key="'" line="60" column="25" />
-        <mark key="[" line="60" column="7" />
-        <mark key="]" line="60" column="25" />
-        <mark key="." line="60" column="25" />
-        <mark key="^" line="60" column="25" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1504002025798">
+        <mark key="'" line="62" column="25" />
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/user_controller.ex" timestamp="1501053328774">
         <mark key="'" line="3" column="37" />
@@ -1034,10 +1034,11 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/rel/config.exs" timestamp="1504000952483">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/rel/config.exs" timestamp="1504002951906">
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/golang/src/playground/main.go" timestamp="1481071306569">
         <mark key="[" line="17" column="4" />
@@ -1115,12 +1116,12 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1503561257837">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1504002358364">
         <mark key="'" line="30" column="58" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="4" />
-        <mark key="^" line="33" column="4" />
-        <mark key="." line="33" column="4" />
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
@@ -1342,6 +1343,12 @@
         <mark key="]" line="30" column="70" />
         <mark key="^" line="30" column="70" />
         <mark key="." line="30" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/prod.exs" timestamp="1504003266444">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input/form-input.go" timestamp="1466411744856">
         <mark key="'" line="43" column="0" />
@@ -1571,11 +1578,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZXQgc2VydmVyOiB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>example.com</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>example.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
