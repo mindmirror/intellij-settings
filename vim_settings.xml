@@ -566,10 +566,10 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" timestamp="1501463247248">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="22" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" timestamp="1503985526117">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="14" />
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
@@ -752,12 +752,6 @@
         <mark key="]" line="1" column="33" />
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/auth/signin.html.eex" timestamp="1503392336785">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/login.gtpl" timestamp="1466411429418">
         <mark key="[" line="0" column="0" />
@@ -979,11 +973,10 @@
         <mark key="^" line="9" column="8" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170719063048_create_user.exs" timestamp="1500445945279">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="12" column="38" />
-        <mark key="^" line="12" column="38" />
-        <mark key="." line="12" column="38" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170719063048_create_user.exs" timestamp="1503985415073">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input/login.gtpl" timestamp="1466411906270">
         <mark key="[" line="5" column="20" />
@@ -1471,7 +1464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" />
@@ -1571,10 +1563,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="26" column="29" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="35" column="25" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE1peC5Db25maWcKCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlVuaWZpZWRSZXBvLAogIGFkYXB0ZXI6IEVjdG8uQWRhcHRlcnMuTXlTUUwsCiAgdXNlcm5hbWU6ICJyZWFkZXIiLAogIHBhc3N3b3JkOiAiV3paTXk5cGh2UiIsCiAgZGF0YWJhc2U6ICJ1bmlmaWVkIiwKICBob3N0bmFtZTogInVuaWZpZWRkYi5jcHF1M3p2dnE1ZmQuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20iLAogIHBvb2xfc2l6ZTogMTAKCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlBvcnRhbFJlcG8sCiAgYWRhcHRlcjogRWN0by5BZGFwdGVycy5NeVNRTCwKICB1c2VybmFtZTogInBvcnRhbCIsCiAgcGFzc3dvcmQ6ICJZOGFJWVJuWnhjIiwKICBkYXRhYmFzZTogInB1Ymxpc2hlcl9yZXBvcnQiLAogIGhvc3RuYW1lOiAicG9ydGFsLnBpeGVscy5hc2lhIiwKICBwb29sX3NpemU6IDEwCgpjb25maWcgOmNhbXBhaWduX2V4cHJlc3MsIENhbXBhaWduRXhwcmVzcy5TbmFwUmVwbywKICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk15U1FMLAogIHVzZXJuYW1lOiAicmVhZGVyIiwKICBwYXNzd29yZDogIlYqZ3VDbmVGeXAiLAogIGRhdGFiYXNlOiAicGl4ZWxfaGsiLAogIGhvc3RuYW1lOiAicGl4ZWxoazExLmNid3N2b2hxaGxsdS5hcC1zb3V0aGVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbSIsCiAgcG9vbF9zaXplOiAxMAo=</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -1583,27 +1576,27 @@
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx0cj5pdGVtLmNhbXBhaWduX2lkPC90cj4K</text>
+        <text encoding="base64">dXNlIE1peC5Db25maWcKCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlVuaWZpZWRSZXBvLAogIGFkYXB0ZXI6IEVjdG8uQWRhcHRlcnMuTXlTUUwsCiAgdXNlcm5hbWU6ICJyZWFkZXIiLAogIHBhc3N3b3JkOiAiV3paTXk5cGh2UiIsCiAgZGF0YWJhc2U6ICJ1bmlmaWVkIiwKICBob3N0bmFtZTogInVuaWZpZWRkYi5jcHF1M3p2dnE1ZmQuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20iLAogIHBvb2xfc2l6ZTogMTAKCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlBvcnRhbFJlcG8sCiAgYWRhcHRlcjogRWN0by5BZGFwdGVycy5NeVNRTCwKICB1c2VybmFtZTogInBvcnRhbCIsCiAgcGFzc3dvcmQ6ICJZOGFJWVJuWnhjIiwKICBkYXRhYmFzZTogInB1Ymxpc2hlcl9yZXBvcnQiLAogIGhvc3RuYW1lOiAicG9ydGFsLnBpeGVscy5hc2lhIiwKICBwb29sX3NpemU6IDEwCgpjb25maWcgOmNhbXBhaWduX2V4cHJlc3MsIENhbXBhaWduRXhwcmVzcy5TbmFwUmVwbywKICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk15U1FMLAogIHVzZXJuYW1lOiAicmVhZGVyIiwKICBwYXNzd29yZDogIlYqZ3VDbmVGeXAiLAogIGRhdGFiYXNlOiAicGl4ZWxfaGsiLAogIGhvc3RuYW1lOiAicGl4ZWxoazExLmNid3N2b2hxaGxsdS5hcC1zb3V0aGVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbSIsCiAgcG9vbF9zaXplOiAxMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXF1aXJlIElFeAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICByZXF1aXJlIElFeAoK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIElFeC5wcnkK</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>#
 #
 #</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">PC90ZD4KPC90ZD4KPC90ZD4KPC90ZD4=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPCU9IGZvciBlbGVtZW50IDwtIGl0ZW0gZG8gJT4KICAgICAgICA8dGg+PCU9IGVsZW1lbnQgJT48L3RoPgogICAgICA8JT0gZW5kICU+Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgRW51bS5tYXAoaXRlbSwgZm4gKGVsZW1lbnQpIC0+CiAgICAgICAgJXt9CiAgICAgIGVuZCk=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1611,16 +1604,16 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAgICAgRW51bS5tYXAoaXRlbSwgZm4gKGVsZW1lbnQpIC0+CiAgICAgICAgJXt9CiAgICAgIGVuZCk=</text>
+      </register>
+      <register name="8" type="4">
         <text>:ets.select_reverse(
       :campaign_stats,
       [{{:&quot;_&quot;, :&quot;$1&quot;, :&quot;$2&quot;, :&quot;$3&quot;, :&quot;$4&quot;, :&quot;$5&quot;}, [{:&quot;==&quot;, :&quot;$1&quot;, String.to_integer(campaign_id)}], [:&quot;$$&quot;]}]
     )</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoY2FtcGFpZ25faWQpCiAgICBJTy5pbnNwZWN0KGNhbXBhaWduX2JyZWFrZG93bikK</text>
+        <text encoding="base64">ICAgIGdldCAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIsIDppbmRleAogICAgZ2V0ICIvdXNlcnMvOmlkIiwgVXNlckNvbnRyb2xsZXIsIDpzaG93Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
