@@ -1116,12 +1116,12 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1504002358364">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1504003898714">
         <mark key="'" line="30" column="58" />
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="38" column="32" />
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="7" />
         <mark key="^" line="38" column="32" />
-        <mark key="." line="38" column="32" />
+        <mark key="." line="32" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
@@ -1310,11 +1310,11 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1503654635051">
-        <mark key="[" line="67" column="11" />
-        <mark key="]" line="68" column="7" />
-        <mark key="." line="68" column="7" />
-        <mark key="^" line="68" column="7" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1504004376424">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
         <mark key="[" line="1" column="29" />
@@ -1579,10 +1579,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>example.com</text>
+        <text>Mix.shell.info</text>
       </register>
       <register name="-" type="4">
-        <text>example.com</text>
+        <text>Mix.shell.info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
