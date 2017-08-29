@@ -127,11 +127,11 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.exs" timestamp="1501127915549">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="28" />
-        <mark key="." line="44" column="28" />
-        <mark key="^" line="44" column="28" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.exs" timestamp="1504001040722">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/seeds.exs" timestamp="1499310065428">
         <mark key="[" line="16" column="4" />
@@ -1034,10 +1034,10 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/rel/config.exs" timestamp="1503994991149">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/rel/config.exs" timestamp="1504000952483">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/playground/main.go" timestamp="1481071306569">
         <mark key="[" line="17" column="4" />
@@ -1572,10 +1572,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZXQgY29kZV9yZWxvYWRlcjogZgo=</text>
+        <text encoding="base64">ICBzZXQgc2VydmVyOiB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
@@ -1584,38 +1584,38 @@
         <text encoding="base64">dXNlIE1peC5Db25maWcKCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlVuaWZpZWRSZXBvLAogIGFkYXB0ZXI6IEVjdG8uQWRhcHRlcnMuTXlTUUwsCiAgdXNlcm5hbWU6ICJyZWFkZXIiLAogIHBhc3N3b3JkOiAiV3paTXk5cGh2UiIsCiAgZGF0YWJhc2U6ICJ1bmlmaWVkIiwKICBob3N0bmFtZTogInVuaWZpZWRkYi5jcHF1M3p2dnE1ZmQuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20iLAogIHBvb2xfc2l6ZTogMTAKCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlBvcnRhbFJlcG8sCiAgYWRhcHRlcjogRWN0by5BZGFwdGVycy5NeVNRTCwKICB1c2VybmFtZTogInBvcnRhbCIsCiAgcGFzc3dvcmQ6ICJZOGFJWVJuWnhjIiwKICBkYXRhYmFzZTogInB1Ymxpc2hlcl9yZXBvcnQiLAogIGhvc3RuYW1lOiAicG9ydGFsLnBpeGVscy5hc2lhIiwKICBwb29sX3NpemU6IDEwCgpjb25maWcgOmNhbXBhaWduX2V4cHJlc3MsIENhbXBhaWduRXhwcmVzcy5TbmFwUmVwbywKICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk15U1FMLAogIHVzZXJuYW1lOiAicmVhZGVyIiwKICBwYXNzd29yZDogIlYqZ3VDbmVGeXAiLAogIGRhdGFiYXNlOiAicGl4ZWxfaGsiLAogIGhvc3RuYW1lOiAicGl4ZWxoazExLmNid3N2b2hxaGxsdS5hcC1zb3V0aGVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbSIsCiAgcG9vbF9zaXplOiAxMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZXQgY29kZV9yZWxvYWRlcjogZgo=</text>
+        <text encoding="base64">ICBzZXQgc2VydmVyOiB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXQgCg==</text>
+        <text encoding="base64">ICBzZXQgc2VydmVyOiB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXQgY29kZV9yZWxvYWRlcjogZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXF1aXJlIElFeAoK</text>
+        <text encoding="base64">ICBzZXQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIElFeC5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>#
-#
-#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXF1aXJlIElFeAoK</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIElFeC5wcnkK</text>
+      </register>
+      <register name="8" type="8">
+        <text>#
+#
+#</text>
+      </register>
+      <register name="9" type="8">
         <text encoding="base64">PC90ZD4KPC90ZD4KPC90ZD4KPC90ZD4=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCU9IGZvciBlbGVtZW50IDwtIGl0ZW0gZG8gJT4KICAgICAgICA8dGg+PCU9IGVsZW1lbnQgJT48L3RoPgogICAgICA8JT0gZW5kICU+Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgRW51bS5tYXAoaXRlbSwgZm4gKGVsZW1lbnQpIC0+CiAgICAgICAgJXt9CiAgICAgIGVuZCk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
