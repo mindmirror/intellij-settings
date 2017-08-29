@@ -15,11 +15,11 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170721070936_update_user.exs" timestamp="1500621234243">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170721070936_update_user.exs" timestamp="1503986489754">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
       </file>
       <file name="/a.dummy" timestamp="1485306417106">
         <mark key="[" line="0" column="0" />
