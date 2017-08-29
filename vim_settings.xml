@@ -947,12 +947,12 @@
         <mark key="^" line="62" column="52" />
         <mark key="." line="62" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1503567557226">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1503975131612">
         <mark key="'" line="17" column="7" />
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="30" />
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_cache.ex" timestamp="1503304710258">
         <mark key="[" line="18" column="27" />
