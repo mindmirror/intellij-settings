@@ -542,11 +542,11 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/show.html.eex" timestamp="1503643807815">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/show.html.eex" timestamp="1503971365059">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="6" />
         <mark key="^" line="16" column="4" />
-        <mark key="." line="18" column="27" />
+        <mark key="." line="21" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/page/index.html.eex" timestamp="1500452088313">
         <mark key="[" line="2" column="101" />
@@ -1574,10 +1574,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>publisher_id</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>publisher_id</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
