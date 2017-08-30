@@ -124,11 +124,11 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.exs" timestamp="1504001040722">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.exs" timestamp="1504080081096">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/seeds.exs" timestamp="1499310065428">
         <mark key="[" line="16" column="4" />
@@ -1580,10 +1580,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4000</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>4000</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
