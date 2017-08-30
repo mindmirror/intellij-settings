@@ -1384,12 +1384,12 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" timestamp="1504092851220">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" timestamp="1504098588831">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="28" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/auth/signin.html.eex" timestamp="1499147929526">
         <mark key="[" line="2" column="42" />
@@ -1595,10 +1595,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>postgres</text>
+        <text>campaign_express</text>
       </register>
       <register name="-" type="4">
-        <text>postgres</text>
+        <text>campaign_express</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
