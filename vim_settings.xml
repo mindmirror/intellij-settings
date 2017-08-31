@@ -963,12 +963,12 @@
         <mark key="^" line="62" column="52" />
         <mark key="." line="62" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1503975131612">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1504156824490">
+        <mark key="'" line="22" column="7" />
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="19" column="80" />
+        <mark key="." line="19" column="80" />
+        <mark key="^" line="19" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_cache.ex" timestamp="1503304710258">
         <mark key="[" line="18" column="27" />
@@ -1056,10 +1056,10 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/rel/config.exs" timestamp="1504096111208">
-        <mark key="[" line="38" column="81" />
-        <mark key="]" line="39" column="32" />
-        <mark key="." line="39" column="32" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/rel/config.exs" timestamp="1504156695629">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
         <mark key="^" line="39" column="32" />
       </file>
       <file name="$USER_HOME$/golang/src/playground/main.go" timestamp="1481071306569">
@@ -1609,8 +1609,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>campaign_express</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>campaign_express</text>
@@ -1625,13 +1625,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXJ2ZXI6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb2RlX3JlbG9hZGVyOiBmYWxzZSwK</text>
+        <text encoding="base64">ICBzZXJ2ZXI6IHRydWUsCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb2RlX3JlbG9hZGVyOiBmYWxzZSwK</text>
       </register>
       <register name="5" type="8">
         <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
@@ -1644,8 +1644,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
