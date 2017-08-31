@@ -31,12 +31,11 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1500447319889">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="21" column="64" />
-        <mark key="." line="21" column="64" />
-        <mark key="^" line="21" column="64" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1504167189517">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1499228144896">
         <mark key="[" line="23" column="23" />
@@ -338,11 +337,12 @@
         <mark key="." line="50" column="15" />
         <mark key="^" line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" timestamp="1504164887540">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" timestamp="1504170598291">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="29" />
+        <mark key="^" line="32" column="29" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/helloworld/main.go" timestamp="1480327358623">
         <mark key="[" line="0" column="12" />
@@ -406,11 +406,12 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/release_tasks.ex" timestamp="1504086908197">
-        <mark key="[" line="43" column="7" />
-        <mark key="]" line="47" column="15" />
-        <mark key="^" line="47" column="15" />
-        <mark key="." line="47" column="15" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/release_tasks.ex" timestamp="1504168469984">
+        <mark key="'" line="57" column="7" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="44" />
+        <mark key="^" line="39" column="44" />
+        <mark key="." line="39" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" timestamp="1504164996686">
         <mark key="[" line="16" column="14" />
@@ -842,12 +843,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504065359923">
-        <mark key="'" line="107" column="6" />
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="52" />
-        <mark key="^" line="115" column="1" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504168272589">
+        <mark key="'" line="63" column="32" />
+        <mark key="[" line="117" column="11" />
+        <mark key="]" line="117" column="11" />
+        <mark key="." line="117" column="11" />
+        <mark key="^" line="123" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706023050_create_category.exs" timestamp="1499308686826">
         <mark key="[" line="9" column="0" />
@@ -944,12 +945,12 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1504163502195">
-        <mark key="'" line="61" column="45" />
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="14" />
-        <mark key="^" line="42" column="10" />
-        <mark key="." line="35" column="14" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1504170216087">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -1328,12 +1329,12 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1504063729227">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="41" column="118" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1504166921533">
+        <mark key="'" line="42" column="26" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="49" />
+        <mark key="." line="52" column="56" />
+        <mark key="^" line="52" column="56" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
         <mark key="[" line="1" column="29" />
@@ -1470,11 +1471,12 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" timestamp="1504065310427">
-        <mark key="'" line="55" column="17" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" timestamp="1504168048657">
+        <mark key="'" line="45" column="32" />
+        <mark key="[" line="55" column="11" />
+        <mark key="]" line="55" column="11" />
+        <mark key="." line="55" column="11" />
+        <mark key="^" line="61" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
         <mark key="'" line="21" column="0" />
@@ -1503,43 +1505,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="15" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="17" column="9" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="29" column="63" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="60" column="21" filename="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/user_controller.ex" />
-      <jump line="17" column="50" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/user_controller.ex" />
-      <jump line="32" column="19" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" />
-      <jump line="17" column="6" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/app.html.eex" />
-      <jump line="29" column="8" filename="$USER_HOME$/Projects/elixir/playground/phoenix_guardian/web/auth/user_from_auth.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/.gitignore" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
-      <jump line="11" column="12" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
-      <jump line="1" column="27" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" />
-      <jump line="4" column="10" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" />
-      <jump line="36" column="4" filename="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" />
-      <jump line="24" column="31" filename="$USER_HOME$/Projects/aims/campaign-express/web/models/unified_campaign.ex" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" />
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" />
-      <jump line="41" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" />
-      <jump line="24" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" />
-      <jump line="16" column="50" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
-      <jump line="57" column="48" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
-      <jump line="56" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
-      <jump line="43" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
-      <jump line="42" column="30" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
       <jump line="60" column="25" filename="$USER_HOME$/Projects/aims/campaign-express/mix.exs" />
       <jump line="3" column="50" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/scheduler.ex" />
       <jump line="61" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
@@ -1569,7 +1535,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/phoenix.css" />
       <jump line="8" column="21528" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/phoenix.css" />
       <jump line="22" column="47" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="26" column="29" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="35" column="25" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
@@ -1580,8 +1545,6 @@
       <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
-      <jump line="45" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
-      <jump line="55" column="17" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="107" column="6" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
@@ -1601,73 +1564,108 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="44" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/mix.exs" />
       <jump line="27" column="62" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="34" column="11" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="61" column="45" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="77" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="75" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="43" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="42" column="26" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="55" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
+      <jump line="27" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
+      <jump line="37" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
+      <jump line="45" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
+      <jump line="117" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
+      <jump line="45" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
+      <jump line="55" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
+      <jump line="63" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
+      <jump line="58" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/release_tasks.ex" />
+      <jump line="57" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/release_tasks.ex" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="17" column="25" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="41" column="8" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="79" column="3" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="39" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="61" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="71" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="21" column="35" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="73" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="16" column="4" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="19" column="4" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="13" column="2" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSI+CiAgPHRib2R5PgogICAgPCU9IGZvciBjYW1wYWlnbiA8LSBAbGl2ZV9jYW1wYWlnbnMgZG8gJT4KICAgIDx0cj4KICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWxlZnQgbnVtYmVyIj48JT0gbGluayBjYW1wYWlnbi5pZCwgdG86IGNhbXBhaWduX3BhdGgoQGNvbm4sIDpzaG93LCBjYW1wYWlnbi5pZCkgJT48L3RkPgogICAgICA8dGQgY2xhc3M9InRleHQtbGVmdCB0ZXh0Ij48JT0gbGluayBjYW1wYWlnbi5uYW1lLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICAgIDx0ZCBjbGFzcz0idGV4dC1yaWdodCBudW1iZXIiPjwlPSBEZWxpbWl0Lm51bWJlcl90b19kZWxpbWl0ZWQoY2FtcGFpZ24udG90YWxfdmlld3MsIHByZWNpc2lvbjogMCkgJT48L3RkPgogICAgICA8dGQgY2xhc3M9InRleHQtcmlnaHQgbnVtYmVyIj48JT0gRGVsaW1pdC5udW1iZXJfdG9fZGVsaW1pdGVkKGNhbXBhaWduLnRvdGFsX2NsaWNrcywgcHJlY2lzaW9uOiAwKSAlPjwvdGQ+CiAgICA8L3RyPgogICAgPCUgZW5kICU+CiAgPC90Ym9keT4KPC90YWJsZT4K</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</text>
+        <text encoding="base64">XDxjYW1wYWlnbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIE1peC5Db25maWcKCiMgSW4gdGhpcyBmaWxlLCB3ZSBrZWVwIHByb2R1Y3Rpb24gY29uZmlndXJhdGlvbiB0aGF0CiMgeW91IGxpa2VseSB3YW50IHRvIGF1dG9tYXRlIGFuZCBrZWVwIGl0IGF3YXkgZnJvbQojIHlvdXIgdmVyc2lvbiBjb250cm9sIHN5c3RlbS4KIwojIFlvdSBzaG91bGQgZG9jdW1lbnQgdGhlIGNvbnRlbnQgb2YgdGhpcwojIGZpbGUgb3IgY3JlYXRlIGEgc2NyaXB0IGZvciByZWNyZWF0aW5nIGl0LCBzaW5jZSBpdCdzCiMga2VwdCBvdXQgb2YgdmVyc2lvbiBjb250cm9sIGFuZCBtaWdodCBiZSBoYXJkIHRvIHJlY292ZXIKIyBvciByZWNyZWF0ZSBmb3IgeW91ciB0ZWFtbWF0ZXMgKG9yIHlvdSBsYXRlciBvbikuCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLkVuZHBvaW50LAogIHNlY3JldF9rZXlfYmFzZTogInNzOEZhc1g0L3FHUXFxWVRqS0o3RFRRZ0JrQklJbStNbGdzZjYxQmVCZHZ2ZENkaldVQ010NlQ2RzB1ZEJYVysiCgojIENvbmZpZ3VyZSB5b3VyIGRhdGFiYXNlCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlJlcG8sCiAgYWRhcHRlcjogRWN0by5BZGFwdGVycy5Qb3N0Z3JlcywKICB1c2VybmFtZTogInBvc3RncmVzIiwKICBwYXNzd29yZDogInBvc3RncmVzIiwKICBkYXRhYmFzZTogImNhbXBhaWduX2V4cHJlc3NfcHJvZCIsCiAgcG9vbF9zaXplOiAyMAoKY29uZmlnIDpjYW1wYWlnbl9leHByZXNzLCBDYW1wYWlnbkV4cHJlc3MuVW5pZmllZFJlcG8sCiAgYWRhcHRlcjogRWN0by5BZGFwdGVycy5NeVNRTCwKICB1c2VybmFtZTogInJlYWRlciIsCiAgcGFzc3dvcmQ6ICJXelpNeTlwaHZSIiwKICBkYXRhYmFzZTogInVuaWZpZWQiLAogIGhvc3RuYW1lOiAidW5pZmllZGRiLmNwcXUzenZ2cTVmZC5hcC1zb3V0aGVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbSIsCiAgcG9vbF9zaXplOiAxMAoKY29uZmlnIDpjYW1wYWlnbl9leHByZXNzLCBDYW1wYWlnbkV4cHJlc3MuUG9ydGFsUmVwbywKICBhZGFwdGVyOiBFY3RvLkFkYXB0ZXJzLk15U1FMLAogIHVzZXJuYW1lOiAicG9ydGFsIiwKICBwYXNzd29yZDogIlk4YUlZUm5aeGMiLAogIGRhdGFiYXNlOiAicHVibGlzaGVyX3JlcG9ydCIsCiAgaG9zdG5hbWU6ICJwb3J0YWwucGl4ZWxzLmFzaWEiLAogIHBvb2xfc2l6ZTogMTAKCmNvbmZpZyA6Y2FtcGFpZ25fZXhwcmVzcywgQ2FtcGFpZ25FeHByZXNzLlNuYXBSZXBvLAogIGFkYXB0ZXI6IEVjdG8uQWRhcHRlcnMuTXlTUUwsCiAgdXNlcm5hbWU6ICJyZWFkZXIiLAogIHBhc3N3b3JkOiAiVipndUNuZUZ5cCIsCiAgZGF0YWJhc2U6ICJwaXhlbF9oayIsCiAgaG9zdG5hbWU6ICJwaXhlbGhrMTEuY2J3c3ZvaHFobGx1LmFwLXNvdXRoZWFzdC0xLnJkcy5hbWF6b25hd3MuY29tIiwKICBwb29sX3NpemU6IDEwCg==</text>
+        <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSI+CiAgPHRib2R5PgogICAgPCU9IGZvciBjYW1wYWlnbiA8LSBAbGl2ZV9jYW1wYWlnbnMgZG8gJT4KICAgIDx0cj4KICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWxlZnQgbnVtYmVyIj48JT0gbGluayBjYW1wYWlnbi5pZCwgdG86IGNhbXBhaWduX3BhdGgoQGNvbm4sIDpzaG93LCBjYW1wYWlnbi5pZCkgJT48L3RkPgogICAgICA8dGQgY2xhc3M9InRleHQtbGVmdCB0ZXh0Ij48JT0gbGluayBjYW1wYWlnbi5uYW1lLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICAgIDx0ZCBjbGFzcz0idGV4dC1yaWdodCBudW1iZXIiPjwlPSBEZWxpbWl0Lm51bWJlcl90b19kZWxpbWl0ZWQoY2FtcGFpZ24udG90YWxfdmlld3MsIHByZWNpc2lvbjogMCkgJT48L3RkPgogICAgICA8dGQgY2xhc3M9InRleHQtcmlnaHQgbnVtYmVyIj48JT0gRGVsaW1pdC5udW1iZXJfdG9fZGVsaW1pdGVkKGNhbXBhaWduLnRvdGFsX2NsaWNrcywgcHJlY2lzaW9uOiAwKSAlPjwvdGQ+CiAgICA8L3RyPgogICAgPCUgZW5kICU+CiAgPC90Ym9keT4KPC90YWJsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8b2wgY2xhc3M9ImJyZWFkY3J1bWIgdGV4dC1sZWZ0Ij4KICAgICAgICAgIDwlPSBpZiBAY3VycmVudF91c2VyIGRvICU+CiAgICAgICAgICA8JSBlbmQgJT4KICAgICAgICA8L29sPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjwlPSBsaW5rICJDYW1wYWlnbiBSZXBvcnRzIiwgdG86IGNhbXBhaWduX3BhdGgoQGNvbm4sIDppbmRleCkgJT48L2xpPgo=</text>
+        <text encoding="base64">ICA8dGJvZHk+CiAgICA8JT0gZm9yIGNhbXBhaWduIDwtIEBjYW1wYWlnbnMgZG8gJT4KICAgIDx0cj4KICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWxlZnQgbnVtYmVyIj48JT0gbGluayBjYW1wYWlnbi5pZCwgdG86IGNhbXBhaWduX3BhdGgoQGNvbm4sIDpzaG93LCBjYW1wYWlnbi5pZCkgJT48L3RkPgogICAgICA8dGQgY2xhc3M9InRleHQtbGVmdCB0ZXh0Ij48JT0gbGluayBjYW1wYWlnbi5uYW1lLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICAgIDx0ZCBjbGFzcz0idGV4dC1yaWdodCBudW1iZXIiPjwlPSBEZWxpbWl0Lm51bWJlcl90b19kZWxpbWl0ZWQoY2FtcGFpZ24udG90YWxfdmlld3MsIHByZWNpc2lvbjogMCkgJT48L3RkPgogICAgICA8dGQgY2xhc3M9InRleHQtcmlnaHQgbnVtYmVyIj48JT0gRGVsaW1pdC5udW1iZXJfdG9fZGVsaW1pdGVkKGNhbXBhaWduLnRvdGFsX2NsaWNrcywgcHJlY2lzaW9uOiAwKSAlPjwvdGQ+CiAgICA8L3RyPgogICAgPCUgZW5kICU+CiAgPC90Ym9keT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYW1wYWlnbl9icmVha2Rvd24gPSBnZXRfY2FtcGFpZ25fYnJlYWtkb3duKGNhbXBhaWduLmlkKQogICAgICAgIHRvdGFsX3ZpZXdzID0KICAgICAgICAgIEVudW0ucmVkdWNlKGNhbXBhaWduX2JyZWFrZG93biwgRGVjaW1hbC5uZXcoMCksIGZuKGl0ZW0sIGFjYykgLT4KICAgICAgICAgICAgRGVjaW1hbC5hZGQoaXRlbS52aWV3cywgYWNjKQogICAgICAgICAgZW5kKQogICAgICAgIHRvdGFsX2NsaWNrcyA9CiAgICAgICAgICBFbnVtLnJlZHVjZShjYW1wYWlnbl9icmVha2Rvd24sIERlY2ltYWwubmV3KDApLCBmbihpdGVtLCBhY2MpIC0+CiAgICAgICAgICAgIERlY2ltYWwuYWRkKGl0ZW0uY2xpY2tzLCBhY2MpCiAgICAgICAgICBlbmQpCiAgICAgICAgJXtpZDogY2FtcGFpZ24uaWQsIG5hbWU6IGNhbXBhaWduLm5hbWUsIHRvdGFsX3ZpZXdzOiB0b3RhbF92aWV3cywgdG90YWxfY2xpY2tzOiB0b3RhbF9jbGlja3N9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2ZXI6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb2RlX3JlbG9hZGVyOiBmYWxzZSwK</text>
+        <text encoding="base64">ICBkZWYgIGRvCiAgICAKICBlbmQKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRvZGF5ID0gVGltZXgudG9fZGF0ZShUaW1leC5ub3coIkFzaWEvSG9uZ19Lb25nIikpCg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgUmVwby5hbGwgZnJvbSBjIGluIENhbXBhaWduLAogICAgICAgICAgICAgICBqb2luOiBwIGluIFB1Ymxpc2hlckNhbXBhaWduLCBvbjogYy5pZCA9PSBwLmNhbXBhaWduX2lkLAogICAgICAgICAgICAgICBqb2luOiB1IGluIFVzZXJQdWJsaXNoZXIsIG9uOiB1LnB1Ymxpc2hlcl9pZCA9PSBwLnB1Ymxpc2hlcl9pZCwKICAgICAgICAgICAgICAgd2hlcmU6IHUudXNlcl9pZCA9PSBeY3VycmVudF91c2VyLmlkIGFuZCBjLnN0YXJ0X2RhdGUgPD0gXnRvZGF5IGFuZCBedG9kYXkgPD0gYy5lbmRfZGF0ZSwKICAgICAgICAgICAgICAgb3JkZXJfYnk6IFtkZXNjOiBjLmlkXSwKICAgICAgICAgICAgICAgc2VsZWN0OiAle2lkOiBjLmlkLCBuYW1lOiBjLm5hbWV9Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZpdmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</last-search>
+      <last-search encoding="base64">XDxjYW1wYWlnbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYW1wYWlnbnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1aWRfZnJvbV9hdXRoXD4=</entry>
-        <entry encoding="base64">XDxhdXRob3JpemF0aW9uXD4=</entry>
-        <entry>insert</entry>
-        <entry>Bcrypt</entry>
         <entry encoding="base64">XDxuYW1lX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl91c2VyX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9lbWFpbF9hbmRfcGFzc3dvcmRcPg==</entry>
@@ -1684,6 +1682,10 @@
         <entry encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</entry>
         <entry>container</entry>
         <entry encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</entry>
+        <entry encoding="base64">XDxnZXRfYWN0aXZlX2NhbXBhaWduc1w+</entry>
+        <entry encoding="base64">XDxzZWVkX3BhdGhcPg==</entry>
+        <entry encoding="base64">XDxtaWdyYXRpb25zX3BhdGhcPg==</entry>
+        <entry encoding="base64">XDxjYW1wYWlnbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
