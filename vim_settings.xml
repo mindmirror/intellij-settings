@@ -214,11 +214,11 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1504161763606">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1504173345638">
         <mark key="'" line="44" column="15" />
-        <mark key="[" line="58" column="14" />
-        <mark key="]" line="58" column="14" />
-        <mark key="." line="58" column="14" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
         <mark key="^" line="28" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/user_controller.ex" timestamp="1501053328774">
@@ -337,12 +337,12 @@
         <mark key="." line="50" column="15" />
         <mark key="^" line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" timestamp="1504170598291">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" timestamp="1504173113312">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="29" />
-        <mark key="." line="32" column="29" />
-        <mark key="^" line="32" column="29" />
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/helloworld/main.go" timestamp="1480327358623">
         <mark key="[" line="0" column="12" />
@@ -413,11 +413,11 @@
         <mark key="^" line="39" column="44" />
         <mark key="." line="39" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" timestamp="1504164996686">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="15" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" timestamp="1504172738816">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="15" />
         <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="15" />
+        <mark key="." line="26" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170719063603_create_authorization.exs" timestamp="1500446467896">
         <mark key="[" line="12" column="15" />
@@ -558,11 +558,11 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/show.html.eex" timestamp="1504164909058">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="31" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/show.html.eex" timestamp="1504172763272">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="26" />
         <mark key="^" line="9" column="31" />
-        <mark key="." line="9" column="31" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/page/index.html.eex" timestamp="1500452088313">
         <mark key="[" line="2" column="101" />
@@ -945,12 +945,12 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1504170216087">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1504172559560">
         <mark key="'" line="19" column="4" />
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="17" column="53" />
-        <mark key="." line="17" column="53" />
-        <mark key="^" line="17" column="53" />
+        <mark key="[" line="63" column="25" />
+        <mark key="]" line="63" column="16" />
+        <mark key="." line="63" column="16" />
+        <mark key="^" line="63" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -1607,11 +1607,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSI+CiAgPHRib2R5PgogICAgPCU9IGZvciBjYW1wYWlnbiA8LSBAbGl2ZV9jYW1wYWlnbnMgZG8gJT4KICAgIDx0cj4KICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWxlZnQgbnVtYmVyIj48JT0gbGluayBjYW1wYWlnbi5pZCwgdG86IGNhbXBhaWduX3BhdGgoQGNvbm4sIDpzaG93LCBjYW1wYWlnbi5pZCkgJT48L3RkPgogICAgICA8dGQgY2xhc3M9InRleHQtbGVmdCB0ZXh0Ij48JT0gbGluayBjYW1wYWlnbi5uYW1lLCB0bzogY2FtcGFpZ25fcGF0aChAY29ubiwgOnNob3csIGNhbXBhaWduLmlkKSAlPjwvdGQ+CiAgICAgIDx0ZCBjbGFzcz0idGV4dC1yaWdodCBudW1iZXIiPjwlPSBEZWxpbWl0Lm51bWJlcl90b19kZWxpbWl0ZWQoY2FtcGFpZ24udG90YWxfdmlld3MsIHByZWNpc2lvbjogMCkgJT48L3RkPgogICAgICA8dGQgY2xhc3M9InRleHQtcmlnaHQgbnVtYmVyIj48JT0gRGVsaW1pdC5udW1iZXJfdG9fZGVsaW1pdGVkKGNhbXBhaWduLnRvdGFsX2NsaWNrcywgcHJlY2lzaW9uOiAwKSAlPjwvdGQ+CiAgICA8L3RyPgogICAgPCUgZW5kICU+CiAgPC90Ym9keT4KPC90YWJsZT4K</text>
+      <register name="&quot;" type="4">
+        <text>Ended</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>Ended</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW1wYWlnbnNcPg==</text>
@@ -1662,7 +1662,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
