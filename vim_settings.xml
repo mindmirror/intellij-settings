@@ -21,6 +21,9 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="/a.dummy" timestamp="1485306417106">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1503632277868">
         <mark key="'" line="48" column="6" />
         <mark key="[" line="57" column="26" />
@@ -670,6 +673,9 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1504146430394">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
         <mark key="[" line="28" column="69" />
         <mark key="]" line="28" column="77" />
@@ -1218,6 +1224,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/Dummy.regexp" timestamp="1501462992200">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="25" />
@@ -1280,6 +1289,9 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/page_controller.ex" timestamp="1496883574875">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/stats/campaign_stats.ex" timestamp="1503384877173">
         <mark key="'" line="41" column="0" />
@@ -1345,6 +1357,9 @@
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1498564033594">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/config/config.exs" timestamp="1498374455723">
         <mark key="[" line="29" column="89" />
