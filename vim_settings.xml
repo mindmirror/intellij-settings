@@ -31,12 +31,12 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1504175128692">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1504233381545">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="46" />
-        <mark key="^" line="20" column="46" />
-        <mark key="." line="20" column="46" />
+        <mark key="[" line="105" column="53" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1499228144896">
         <mark key="[" line="23" column="23" />
@@ -1330,10 +1330,10 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1504166921533">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1504233372650">
         <mark key="'" line="42" column="26" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="49" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="34" column="25" />
         <mark key="." line="52" column="56" />
         <mark key="^" line="52" column="56" />
       </file>
@@ -1608,8 +1608,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{:system, &quot;ADMIN_PASSWORD&quot;}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgQ2xlYXJlIHB1Ymxpc2hlciBjYW1wYWlnbiBqb2luIHRhYmxlIGZvciByZS1pbnNlcnRpb24KICAgICMgVGhpcyBzdGVwIGlzIG5lY2Vzc2FyeSwgb3RoZXJ3aXNlIHRoZSBpdCBtYXkgY2F1c2UgZHVwbGljYXRlIGtleSBlcnJvciBkdXJpbmcgaW5zZXJ0aW9uCiAgICBmaWx0ZXJlZF9jYW1wYWlnbl9pZHMgPSBFbnVtLm1hcChmaWx0ZXJlZF9jYW1wYWlnbnMsIGZuKGMpIC0+IGMuaWQgZW5kKQogICAgZnJvbSgKICAgICAgcHVibGlzaGVyX2NhbXBhaWduIGluIFB1Ymxpc2hlckNhbXBhaWduLAogICAgICB3aGVyZTogcHVibGlzaGVyX2NhbXBhaWduLmNhbXBhaWduX2lkIGluIF5maWx0ZXJlZF9jYW1wYWlnbl9pZHMKICAgICkgfD4gUmVwby5kZWxldGVfYWxsKCkK</text>
       </register>
       <register name="-" type="4">
         <text>{:system, &quot;ADMIN_PASSWORD&quot;}</text>
@@ -1618,7 +1618,7 @@
         <text encoding="base64">XDxjYW1wYWlnbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEVudW0ubWFwKGZpbHRlcnMsIGZuKGYpIC0+CiAgICAgIGZyb20oCiAgICAgICAgYyBpbiBVbmlmaWVkQ2FtcGFpZ24sCiAgICAgICAgd2hlcmU6IGxpa2UoYy5jYW1wYWlnbl9uYW1lLCBeZi5jb25kaXRpb24pCiAgICAgICAgICAgICAgIGFuZCBub3QgbGlrZShjLmNhbXBhaWduX25hbWUsIF4iJXRlc3QlIikKICAgICAgICAgICAgICAgYW5kIGMuc3RhcnRfdGltZSA8PSBedG9kYXkgYW5kIF5maXZlX2RheXNfYWdvIDw9IGMuZW5kX3RpbWUKICAgICAgICBhbmQgYy5uZXZlcl9lbmQgPT0gMCwKICAgICAgICBvcmRlcl9ieTogW2Mub3JkZXJfaWQsIGMuY2FtcGFpZ25fbmFtZSwgYy5pZF0sCiAgICAgICAgc2VsZWN0OiAlewogICAgICAgICAgaWQ6IGMuaWQsCiAgICAgICAgICBvcmRlcl9pZDogYy5vcmRlcl9pZCwKICAgICAgICAgIG5hbWU6IGMuY2FtcGFpZ25fbmFtZSwKICAgICAgICAgIHN0YXJ0X2RhdGU6IGMuc3RhcnRfdGltZSwKICAgICAgICAgIGVuZF9kYXRlOiBjLmVuZF90aW1lLAogICAgICAgICAgbmV2ZXJfZW5kOiBjLm5ldmVyX2VuZCwKICAgICAgICAgIGdvYWw6IGMuZ29hbCwKICAgICAgICAgIGdvYWxfdHlwZTogYy5nb2FsX3R5cGUsCiAgICAgICAgICBob3VzZTogYy5ob3VzZSwKICAgICAgICAgIHZpZXdlZDogYy52aWV3ZWQsCiAgICAgICAgICBjbGlja2VkOiBjLmNsaWNrZWQsCiAgICAgICAgICBwdWJsaXNoZXJfaWQ6IF5mLnB1Ymxpc2hlcl9pZCwKICAgICAgICB9CiAgICAgICkgfD4gVW5pZmllZFJlcG8uYWxsKCkKICAgIGVuZCkK</text>
+        <text encoding="base64">ICAgICMgQ2xlYXJlIHB1Ymxpc2hlciBjYW1wYWlnbiBqb2luIHRhYmxlIGZvciByZS1pbnNlcnRpb24KICAgICMgVGhpcyBzdGVwIGlzIG5lY2Vzc2FyeSwgb3RoZXJ3aXNlIHRoZSBpdCBtYXkgY2F1c2UgZHVwbGljYXRlIGtleSBlcnJvciBkdXJpbmcgaW5zZXJ0aW9uCiAgICBmaWx0ZXJlZF9jYW1wYWlnbl9pZHMgPSBFbnVtLm1hcChmaWx0ZXJlZF9jYW1wYWlnbnMsIGZuKGMpIC0+IGMuaWQgZW5kKQogICAgZnJvbSgKICAgICAgcHVibGlzaGVyX2NhbXBhaWduIGluIFB1Ymxpc2hlckNhbXBhaWduLAogICAgICB3aGVyZTogcHVibGlzaGVyX2NhbXBhaWduLmNhbXBhaWduX2lkIGluIF5maWx0ZXJlZF9jYW1wYWlnbl9pZHMKICAgICkgfD4gUmVwby5kZWxldGVfYWxsKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLgo=</text>
