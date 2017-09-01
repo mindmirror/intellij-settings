@@ -31,12 +31,12 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1504233381545">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="105" column="53" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1504235571090">
+        <mark key="'" line="16" column="91" />
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="88" />
+        <mark key="^" line="16" column="88" />
+        <mark key="." line="16" column="88" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1499228144896">
         <mark key="[" line="23" column="23" />
@@ -1506,8 +1506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
-      <jump line="0" column="25" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
       <jump line="31" column="28" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/stats/campaign_stats.ex" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/stats/campaign_stats.ex" />
@@ -1606,6 +1604,8 @@
       <jump line="119" column="2" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="111" column="24" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
+      <jump line="16" column="91" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1615,7 +1615,7 @@
         <text>{:system, &quot;ADMIN_PASSWORD&quot;}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW1wYWlnbnNcPg==</text>
+        <text encoding="base64">XDxVc2VyRnJvbUF1dGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgQ2xlYXJlIHB1Ymxpc2hlciBjYW1wYWlnbiBqb2luIHRhYmxlIGZvciByZS1pbnNlcnRpb24KICAgICMgVGhpcyBzdGVwIGlzIG5lY2Vzc2FyeSwgb3RoZXJ3aXNlIHRoZSBpdCBtYXkgY2F1c2UgZHVwbGljYXRlIGtleSBlcnJvciBkdXJpbmcgaW5zZXJ0aW9uCiAgICBmaWx0ZXJlZF9jYW1wYWlnbl9pZHMgPSBFbnVtLm1hcChmaWx0ZXJlZF9jYW1wYWlnbnMsIGZuKGMpIC0+IGMuaWQgZW5kKQogICAgZnJvbSgKICAgICAgcHVibGlzaGVyX2NhbXBhaWduIGluIFB1Ymxpc2hlckNhbXBhaWduLAogICAgICB3aGVyZTogcHVibGlzaGVyX2NhbXBhaWduLmNhbXBhaWduX2lkIGluIF5maWx0ZXJlZF9jYW1wYWlnbl9pZHMKICAgICkgfD4gUmVwby5kZWxldGVfYWxsKCkK</text>
@@ -1657,18 +1657,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW1wYWlnbnNcPg==</last-search>
+      <last-search encoding="base64">XDxVc2VyRnJvbUF1dGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW1wYWlnbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxVc2VyRnJvbUF1dGhcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0ZV9lbWFpbF9hbmRfcGFzc3dvcmRcPg==</entry>
-        <entry encoding="base64">XDx0b2tlbl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlcl9mcm9tX2F1dGhcPg==</entry>
         <entry encoding="base64">XDxyZXBsYWNlX2F1dGhvcml6YXRpb25cPg==</entry>
@@ -1687,6 +1685,8 @@
         <entry encoding="base64">XDxnZXRfZmlsdGVyZWRfY2FtcGFpZ25zXD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJlZF9jYW1wYWlnbl9pZHNcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbnNcPg==</entry>
+        <entry encoding="base64">XDxQdWJsaXNoZXJDYW1wYWlnblw+</entry>
+        <entry encoding="base64">XDxVc2VyRnJvbUF1dGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
