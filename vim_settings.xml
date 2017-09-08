@@ -414,11 +414,12 @@
         <mark key="^" line="39" column="44" />
         <mark key="." line="39" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" timestamp="1504172738816">
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="15" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="26" column="15" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" timestamp="1504854329451">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170719063603_create_authorization.exs" timestamp="1500446467896">
         <mark key="[" line="12" column="15" />
@@ -946,12 +947,12 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1504843927503">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1504852830448">
         <mark key="'" line="33" column="15" />
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="59" />
-        <mark key="^" line="37" column="59" />
+        <mark key="[" line="110" column="90" />
+        <mark key="]" line="110" column="97" />
+        <mark key="." line="110" column="97" />
+        <mark key="^" line="110" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -1506,7 +1507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
@@ -1606,37 +1606,38 @@
       <jump line="19" column="8" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="70" column="20" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="33" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb2xvcjogIzMwMzAzMDsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>–</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgQ2xlYXJlIHB1Ymxpc2hlciBjYW1wYWlnbiBqb2luIHRhYmxlIGZvciByZS1pbnNlcnRpb24KICAgICMgVGhpcyBzdGVwIGlzIG5lY2Vzc2FyeSwgb3RoZXJ3aXNlIHRoZSBpdCBtYXkgY2F1c2UgZHVwbGljYXRlIGtleSBlcnJvciBkdXJpbmcgaW5zZXJ0aW9uCiAgICBmaWx0ZXJlZF9jYW1wYWlnbl9pZHMgPSBFbnVtLm1hcChmaWx0ZXJlZF9jYW1wYWlnbnMsIGZuKGMpIC0+IGMuaWQgZW5kKQogICAgZnJvbSgKICAgICAgcHVibGlzaGVyX2NhbXBhaWduIGluIFB1Ymxpc2hlckNhbXBhaWduLAogICAgICB3aGVyZTogcHVibGlzaGVyX2NhbXBhaWduLmNhbXBhaWduX2lkIGluIF5maWx0ZXJlZF9jYW1wYWlnbl9pZHMKICAgICkgfD4gUmVwby5kZWxldGVfYWxsKCkK</text>
+        <text encoding="base64">ICBjb2xvcjogIzMwMzAzMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChpdGVtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlcgo=</text>
+        <text encoding="base64">dGQuaGVhZGVyIHsKICBmb250LXdlaWdodDogYm9sZDsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlclB1Ymxpc2hlcgo=</text>
+        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChpdGVtKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuUHVibGlzaGVyCg==</text>
+        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLgo=</text>
+        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlclB1Ymxpc2hlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLgo=</text>
+        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuUHVibGlzaGVyCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1644,16 +1645,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLkNhbXBhaWduRmlsdGVyCg==</text>
+        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLlB1Ymxpc2hlcgo=</text>
+        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLlVzZXIK</text>
+        <text encoding="base64">YWxpYXMgQ2FtcGFpZ25FeHByZXNzLkNhbXBhaWduRmlsdGVyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1697,8 +1698,8 @@
         <entry>{w</entry>
         <entry>wq</entry>
         <entry>wf</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
