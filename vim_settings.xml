@@ -414,12 +414,12 @@
         <mark key="^" line="39" column="44" />
         <mark key="." line="39" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" timestamp="1504854329451">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="23" column="16" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" timestamp="1504857055137">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170719063603_create_authorization.exs" timestamp="1500446467896">
         <mark key="[" line="12" column="15" />
@@ -1609,11 +1609,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb2xvcjogIzMwMzAzMDsK</text>
+      <register name="&quot;" type="4">
+        <text>#808080</text>
       </register>
       <register name="-" type="4">
-        <text>–</text>
+        <text>#808080</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</text>
