@@ -215,7 +215,7 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1504861754439">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1504863678567">
         <mark key="'" line="45" column="15" />
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="20" />
@@ -414,12 +414,12 @@
         <mark key="^" line="39" column="44" />
         <mark key="." line="39" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" timestamp="1504861150291">
-        <mark key="'" line="34" column="15" />
-        <mark key="[" line="40" column="10" />
-        <mark key="]" line="40" column="10" />
-        <mark key="." line="40" column="10" />
-        <mark key="^" line="40" column="16" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" timestamp="1504863521074">
+        <mark key="'" line="38" column="15" />
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="56" column="15" />
+        <mark key="." line="56" column="15" />
+        <mark key="^" line="56" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170719063603_create_authorization.exs" timestamp="1500446467896">
         <mark key="[" line="12" column="15" />
@@ -1610,10 +1610,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>0000cd</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>0000cd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</text>
