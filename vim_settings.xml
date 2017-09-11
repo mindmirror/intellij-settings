@@ -1142,12 +1142,12 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1504770459468">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1505093058614">
         <mark key="'" line="24" column="29" />
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="9" />
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="28" column="2" />
         <mark key="^" line="31" column="65" />
-        <mark key="." line="31" column="9" />
+        <mark key="." line="28" column="2" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
@@ -1610,10 +1610,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0000cd</text>
+        <text>default_</text>
       </register>
       <register name="-" type="4">
-        <text>0000cd</text>
+        <text>default_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</text>
