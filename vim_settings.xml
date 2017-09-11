@@ -215,7 +215,7 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1504863678567">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1505116071436">
         <mark key="'" line="45" column="15" />
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="20" />
@@ -947,12 +947,12 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1504852830448">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1505115913171">
         <mark key="'" line="33" column="15" />
-        <mark key="[" line="110" column="90" />
-        <mark key="]" line="110" column="97" />
-        <mark key="." line="110" column="97" />
-        <mark key="^" line="110" column="97" />
+        <mark key="[" line="88" column="19" />
+        <mark key="]" line="89" column="15" />
+        <mark key="." line="89" column="15" />
+        <mark key="^" line="89" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
         <mark key="[" line="4" column="29" />
@@ -1610,10 +1610,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>default_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>default_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</text>
