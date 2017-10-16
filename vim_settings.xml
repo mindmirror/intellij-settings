@@ -158,6 +158,9 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/user_from_auth.ex" timestamp="1508163922576">
+        <mark key="'" line="29" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/category.ex" timestamp="1499311399352">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="23" column="41" />
@@ -1505,7 +1508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="107" column="6" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="32" column="62" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
@@ -1605,6 +1607,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="21" column="20" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
+      <jump line="29" column="7" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/user_from_auth.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1614,7 +1617,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</text>
+        <text encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmb250LWZhbWlseTogJ0hlbHZldGljYScsICdBcmlhbCcsIHNhbnMtc2VyaWY7CiAgZm9udC1zaXplOiAxNnB4Owo=</text>
@@ -1656,12 +1659,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</last-search>
+      <last-search encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1669,7 +1672,6 @@
         <entry encoding="base64">XDx2YWxpZGF0ZV9hdXRoX2Zvcl9yZWdpc3RyYXRpb25cPg==</entry>
         <entry encoding="base64">XDx1c2VyX2Zyb21fYXV0aG9yaXphdGlvblw+</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
-        <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbl9leHByZXNzXD4=</entry>
         <entry encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</entry>
@@ -1686,6 +1688,7 @@
         <entry encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</entry>
         <entry encoding="base64">XDxhZ2dyZWdhdGVfY2FtcGFpZ25fdmlld3NfYW5kX2NsaWNrc1w+</entry>
         <entry encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</entry>
+        <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
