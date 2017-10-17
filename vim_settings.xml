@@ -383,6 +383,9 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/authorize.ex" timestamp="1508226619381">
+        <mark key="'" line="31" column="6" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="23" column="26" />
@@ -1525,7 +1528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="62" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
       <jump line="10" column="50" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="24" column="2" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
       <jump line="19" column="2" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
@@ -1625,6 +1627,7 @@
       <jump line="28" column="23" filename="$USER_HOME$/Dropbox/Projects/elixir/phauxth-example/config/dev.exs" />
       <jump line="51" column="29" filename="$USER_HOME$/Projects/elixir/phauxth-example/config/dev.exs" />
       <jump line="8" column="30" filename="$USER_HOME$/Projects/elixir/phauxth-example/config/dev.exs" />
+      <jump line="31" column="6" filename="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/authorize.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1634,7 +1637,7 @@
         <text>example.com</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</text>
+        <text encoding="base64">XDxzdWNjZXNzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>ForksTheEggSample</text>
@@ -1676,17 +1679,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</last-search>
+      <last-search encoding="base64">XDxzdWNjZXNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdWNjZXNzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0ZV9hdXRoX2Zvcl9yZWdpc3RyYXRpb25cPg==</entry>
         <entry encoding="base64">XDx1c2VyX2Zyb21fYXV0aG9yaXphdGlvblw+</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
@@ -1706,6 +1708,7 @@
         <entry encoding="base64">XDxnZXRfY2FtcGFpZ25fYnJlYWtkb3duXD4=</entry>
         <entry encoding="base64">XDxhZ2dyZWdhdGVfY2FtcGFpZ25fdmlld3NfYW5kX2NsaWNrc1w+</entry>
         <entry encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</entry>
+        <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
