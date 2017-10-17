@@ -1182,11 +1182,11 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/phauxth-example/config/config.exs" timestamp="1508214321486">
+      <file name="$USER_HOME$/Projects/elixir/phauxth-example/config/config.exs" timestamp="1508217649766">
         <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="48" />
-        <mark key="." line="27" column="48" />
-        <mark key="^" line="27" column="48" />
+        <mark key="]" line="27" column="61" />
+        <mark key="." line="27" column="61" />
+        <mark key="^" line="27" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
         <mark key="[" line="5" column="0" />
@@ -1627,11 +1627,11 @@
       <jump line="8" column="30" filename="$USER_HOME$/Projects/elixir/phauxth-example/config/dev.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>example.com</text>
       </register>
       <register name="-" type="4">
-        <text>System.get_env(&quot;MANDRILL_API_KEY&quot;)</text>
+        <text>example.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</text>
