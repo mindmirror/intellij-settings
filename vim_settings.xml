@@ -190,6 +190,12 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/phauxth-example/config/dev.exs" timestamp="1508214327893">
+        <mark key="'" line="8" column="30" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706054739_alter_video.exs" timestamp="1499320154846">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="56" />
@@ -1176,6 +1182,12 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/phauxth-example/config/config.exs" timestamp="1508214321486">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+        <mark key="^" line="27" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="3" />
@@ -1513,8 +1525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
-      <jump line="107" column="6" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="32" column="62" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
       <jump line="10" column="50" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="24" column="2" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
@@ -1613,37 +1623,39 @@
       <jump line="21" column="20" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="28" column="23" filename="$USER_HOME$/Dropbox/Projects/elixir/phauxth-example/config/dev.exs" />
+      <jump line="51" column="29" filename="$USER_HOME$/Projects/elixir/phauxth-example/config/dev.exs" />
+      <jump line="8" column="30" filename="$USER_HOME$/Projects/elixir/phauxth-example/config/dev.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>System.get_env(&quot;MANDRILL_API_KEY&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogJ0hlbHZldGljYScsICdBcmlhbCcsIHNhbnMtc2VyaWY7CiAgZm9udC1zaXplOiAxNnB4Owo=</text>
+      <register name="0" type="4">
+        <text>ForksTheEggSample</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDb25maWd1cmUgQmFtYm9vCmNvbmZpZyA6Zm9ya3NfdGhlX2VnZ19zYW1wbGUsIEZvcmtzVGhlRWdnU2FtcGxlLAogIGFkYXB0ZXI6IEJhbWJvby5NYWlsZ3VuQWRhcHRlciwKICBhcGlfa2V5OiAia2V5LTg0MDk3MWU4MDgxZThmNGQzNTI4NTM3MzE5OTcxZmZkIgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGQuaGVhZGVyIHsKICBmb250LXdlaWdodDogYm9sZDsKfQo=</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1651,13 +1663,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChpdGVtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlcgo=</text>
+        <text encoding="base64">dGQuaGVhZGVyIHsKICBmb250LXdlaWdodDogYm9sZDsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlclB1Ymxpc2hlcgo=</text>
+        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChpdGVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
