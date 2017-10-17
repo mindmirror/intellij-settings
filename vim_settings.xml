@@ -433,6 +433,7 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phauxth-example/config/config.exs" timestamp="1508212719174" />
       <file name="$USER_HOME$/golang/src/myapp/app/controllers/app.go" timestamp="1480578393981">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="20" column="35" />
@@ -1283,6 +1284,13 @@
         <mark key="." line="15" column="75" />
         <mark key="^" line="15" column="75" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/phauxth-example/config/dev.exs" timestamp="1508212420185">
+        <mark key="'" line="28" column="23" />
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/controllers/hello_controller.ex" timestamp="1496845641160">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="40" />
@@ -1504,7 +1512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="107" column="6" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="32" column="62" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
@@ -1604,6 +1611,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="21" column="20" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
+      <jump line="28" column="23" filename="$USER_HOME$/Dropbox/Projects/elixir/phauxth-example/config/dev.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
