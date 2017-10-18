@@ -705,7 +705,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508223935202">
+      <file name="/Dummy.txt" timestamp="1508324971890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -987,7 +987,8 @@
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1508312018702">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1508324971101">
+        <mark key="'" line="8" column="8" />
         <mark key="[" line="8" column="57" />
         <mark key="]" line="9" column="1" />
         <mark key="^" line="9" column="1" />
@@ -1613,7 +1614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="44" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/mix.exs" />
       <jump line="27" column="62" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
@@ -1713,6 +1713,7 @@
       <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/router.ex.bak" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
       <jump line="39" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/message.ex" />
+      <jump line="8" column="8" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1722,7 +1723,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVwX21haWxcPg==</text>
+        <text encoding="base64">XDx1c2VyX2NoZWNrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsdWcgUGhhdXh0aC5SZW1lbWJlcgo=</text>
@@ -1764,9 +1765,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVwX21haWxcPg==</last-search>
+      <last-search encoding="base64">XDx1c2VyX2NoZWNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVwX21haWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyX2NoZWNrXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1774,7 +1775,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbl9leHByZXNzXD4=</entry>
@@ -1794,6 +1794,7 @@
         <entry encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</entry>
         <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
         <entry encoding="base64">XDxwcmVwX21haWxcPg==</entry>
+        <entry encoding="base64">XDx1c2VyX2NoZWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
