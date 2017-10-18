@@ -15,9 +15,9 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170721070936_update_user.exs" timestamp="1503986489754">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="42" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170721070936_update_user.exs" timestamp="1508235497719">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="53" />
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
@@ -745,6 +745,12 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/seeds.exs" timestamp="1508236035211">
+        <mark key="[" line="8" column="90" />
+        <mark key="]" line="8" column="89" />
+        <mark key="." line="8" column="89" />
+        <mark key="^" line="8" column="89" />
+      </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/db/db.go" timestamp="1460621726031">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="8" column="19" />
@@ -838,6 +844,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171017082831_create_users.exs" timestamp="1508235862919">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/ch05.clj" timestamp="1423097954526">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="9" column="2" />
@@ -855,6 +867,12 @@
         <mark key="]" line="0" column="21" />
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508236136806">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="47" />
+        <mark key="." line="28" column="47" />
+        <mark key="^" line="28" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504767596328">
         <mark key="'" line="123" column="51" />
@@ -1027,6 +1045,12 @@
         <mark key="]" line="6" column="24" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1508235994863">
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="36" />
+        <mark key="^" line="54" column="36" />
+        <mark key="." line="54" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
@@ -1501,6 +1525,12 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/mix.exs" timestamp="1508236187357">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="45" column="23" />
+        <mark key="^" line="45" column="23" />
+        <mark key="." line="45" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="18" column="15" />
@@ -1631,34 +1661,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>example.com</text>
+        <text>System.get_env(&quot;MANDRILL_API_KEY&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>example.com</text>
+        <text>System.get_env(&quot;MANDRILL_API_KEY&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ForksTheEggSample</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAle2VtYWlsOiAiam9obi5zbWl0aEBleGFtcGxlLm9yZyIsIHBhc3N3b3JkOiAicGFzc3dvcmQifQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDb25maWd1cmUgQmFtYm9vCmNvbmZpZyA6Zm9ya3NfdGhlX2VnZ19zYW1wbGUsIEZvcmtzVGhlRWdnU2FtcGxlLAogIGFkYXB0ZXI6IEJhbWJvby5NYWlsZ3VuQWRhcHRlciwKICBhcGlfa2V5OiAia2V5LTg0MDk3MWU4MDgxZThmNGQzNTI4NTM3MzE5OTcxZmZkIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDb25maWd1cmUgQmFtYm9vCmNvbmZpZyA6Zm9ya3NfdGhlX2VnZ19zYW1wbGUsIEZvcmtzVGhlRWdnU2FtcGxlLAogIGFkYXB0ZXI6IEJhbWJvby5NYWlsZ3VuQWRhcHRlciwKICBhcGlfa2V5OiAia2V5LTg0MDk3MWU4MDgxZThmNGQzNTI4NTM3MzE5OTcxZmZkIgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1669,10 +1699,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGQuaGVhZGVyIHsKICBmb250LXdlaWdodDogYm9sZDsKfQo=</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChpdGVtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
