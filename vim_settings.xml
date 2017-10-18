@@ -897,11 +897,11 @@
         <mark key="." line="61" column="18" />
         <mark key="^" line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508315240798">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="47" />
+      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508318379979">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504767596328">
         <mark key="'" line="123" column="51" />
@@ -1715,10 +1715,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Welcome to Phauxth - an extensible authentication library for Elixir web apps</text>
+        <text>sandbox34d56b9fe1b34c25aa878926a1df1977.mailgun.org</text>
       </register>
       <register name="-" type="4">
-        <text>Welcome to Phauxth - an extensible authentication library for Elixir web apps</text>
+        <text>sandbox34d56b9fe1b34c25aa878926a1df1977.mailgun.org</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzXD4=</text>
