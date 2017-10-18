@@ -807,6 +807,12 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/message.ex" timestamp="1508294271850">
+        <mark key="[" line="41" column="64" />
+        <mark key="]" line="41" column="65" />
+        <mark key="." line="41" column="65" />
+        <mark key="^" line="41" column="65" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/mandelbrot/main.go" timestamp="1481179732314">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="27" column="54" />
@@ -1046,11 +1052,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1508235994863">
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="36" />
-        <mark key="^" line="54" column="36" />
-        <mark key="." line="54" column="36" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1508294109695">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
@@ -1661,10 +1667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>System.get_env(&quot;MANDRILL_API_KEY&quot;)</text>
+        <text>www.example.com</text>
       </register>
       <register name="-" type="4">
-        <text>System.get_env(&quot;MANDRILL_API_KEY&quot;)</text>
+        <text>www.example.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzXD4=</text>
