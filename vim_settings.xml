@@ -819,11 +819,12 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/message.ex" timestamp="1508322110863">
-        <mark key="[" line="84" column="37" />
-        <mark key="]" line="84" column="37" />
-        <mark key="." line="84" column="37" />
-        <mark key="^" line="84" column="37" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/message.ex" timestamp="1508322940425">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="84" column="22" />
+        <mark key="]" line="84" column="22" />
+        <mark key="." line="84" column="22" />
+        <mark key="^" line="84" column="22" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/mandelbrot/main.go" timestamp="1481179732314">
         <mark key="[" line="26" column="5" />
@@ -1612,7 +1613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="44" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/mix.exs" />
@@ -1712,16 +1712,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/router.ex.bak" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
+      <jump line="39" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/message.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>always</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>always</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWNjZXNzXD4=</text>
+        <text encoding="base64">XDxwcmVwX21haWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsdWcgUGhhdXh0aC5SZW1lbWJlcgo=</text>
@@ -1763,17 +1764,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWNjZXNzXD4=</last-search>
+      <last-search encoding="base64">XDxwcmVwX21haWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWNjZXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVwX21haWxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyX2Zyb21fYXV0aG9yaXphdGlvblw+</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX2Zyb21fYXV0aFw+</entry>
         <entry encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9wd19sZW5ndGhcPg==</entry>
@@ -1793,6 +1793,7 @@
         <entry encoding="base64">XDxhZ2dyZWdhdGVfY2FtcGFpZ25fdmlld3NfYW5kX2NsaWNrc1w+</entry>
         <entry encoding="base64">XDxnZXRfY2FtcGFpZ25fYnlfaWRcPg==</entry>
         <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
+        <entry encoding="base64">XDxwcmVwX21haWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
