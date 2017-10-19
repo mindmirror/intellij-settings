@@ -1424,12 +1424,12 @@
         <mark key="^" line="147" column="49" />
         <mark key="." line="147" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/config/dev.exs" timestamp="1508398804670">
+      <file name="$USER_HOME$/Projects/aims/manna/config/dev.exs" timestamp="1508409702656">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="72" column="39" />
-        <mark key="^" line="72" column="39" />
-        <mark key="." line="72" column="39" />
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="2" />
+        <mark key="^" line="71" column="39" />
+        <mark key="." line="44" column="25" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/several_days_weather_forecast.go" timestamp="1485250274094">
         <mark key="'" line="31" column="0" />
@@ -1725,11 +1725,11 @@
       <jump line="44" column="0" filename="$USER_HOME$/Projects/aims/manna/config/dev.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXF1aXJlIEV4RGVidWdUb29sYmFyCgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2NoZWNrXD4=</text>
