@@ -382,9 +382,6 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/authorize.ex" timestamp="1508226619381">
-        <mark key="'" line="31" column="6" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="23" column="26" />
@@ -633,6 +630,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="34" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/deps/phauxth/lib/phauxth/login/base.ex" timestamp="1508393830376" />
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/main/main.go" timestamp="1460621986432">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="8" column="41" />
@@ -705,7 +703,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508324971890">
+      <file name="/Dummy.txt" timestamp="1508393657236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -981,7 +979,7 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1508315383195">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1508394654124">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="13" column="68" />
         <mark key="^" line="13" column="68" />
@@ -1320,7 +1318,7 @@
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
       </file>
-      <file name="/Dummy.regexp" timestamp="1501462992200">
+      <file name="/Dummy.regexp" timestamp="1508393403828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
