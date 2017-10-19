@@ -898,11 +898,11 @@
         <mark key="." line="61" column="18" />
         <mark key="^" line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508375906442">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="19" />
-        <mark key="." line="32" column="19" />
-        <mark key="^" line="32" column="19" />
+      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508379769239">
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="34" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504767596328">
         <mark key="'" line="123" column="51" />
@@ -1717,10 +1717,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>always</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>always</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2NoZWNrXD4=</text>
