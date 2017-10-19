@@ -702,7 +702,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508403731583">
+      <file name="/Dummy.txt" timestamp="1508406220802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -895,7 +895,7 @@
         <mark key="." line="61" column="18" />
         <mark key="^" line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508405291556">
+      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508406124434">
         <mark key="[" line="34" column="7" />
         <mark key="]" line="34" column="11" />
         <mark key="." line="34" column="11" />
@@ -1205,7 +1205,7 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/endpoint.ex" timestamp="1508398558545">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/endpoint.ex" timestamp="1508406219286">
         <mark key="[" line="1" column="39" />
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
