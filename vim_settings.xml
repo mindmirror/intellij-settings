@@ -898,7 +898,7 @@
         <mark key="." line="61" column="18" />
         <mark key="^" line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508321550921">
+      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508375906442">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="19" />
         <mark key="." line="32" column="19" />
@@ -1717,10 +1717,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>always</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>always</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2NoZWNrXD4=</text>
