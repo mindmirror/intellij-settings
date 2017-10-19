@@ -438,7 +438,7 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1508313936804">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1508396081262">
         <mark key="[" line="49" column="11" />
         <mark key="]" line="49" column="12" />
         <mark key="^" line="49" column="12" />
@@ -630,7 +630,6 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/deps/phauxth/lib/phauxth/login/base.ex" timestamp="1508393830376" />
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/main/main.go" timestamp="1460621986432">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="8" column="41" />
@@ -703,7 +702,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508395443070">
+      <file name="/Dummy.txt" timestamp="1508396059368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -979,7 +978,7 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1508394654124">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1508395740053">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="13" column="68" />
         <mark key="^" line="13" column="68" />
@@ -1769,7 +1768,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
