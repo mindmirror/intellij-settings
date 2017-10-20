@@ -438,11 +438,11 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1508396081262">
-        <mark key="[" line="49" column="11" />
-        <mark key="]" line="49" column="12" />
-        <mark key="^" line="49" column="12" />
-        <mark key="." line="49" column="12" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1508482936214">
+        <mark key="[" line="47" column="61" />
+        <mark key="]" line="47" column="64" />
+        <mark key="^" line="47" column="64" />
+        <mark key="." line="47" column="64" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/db/db.go" timestamp="1460691361115">
         <mark key="[" line="8" column="8" />
@@ -889,11 +889,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1508481979273">
-        <mark key="'" line="39" column="18" />
-        <mark key="[" line="102" column="25" />
-        <mark key="]" line="102" column="25" />
-        <mark key="." line="102" column="25" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1508482969395">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="84" column="27" />
+        <mark key="]" line="84" column="27" />
+        <mark key="." line="84" column="27" />
         <mark key="^" line="102" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508406124434">
@@ -1623,7 +1623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
       <jump line="45" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
       <jump line="117" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="45" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
@@ -1723,13 +1722,14 @@
       <jump line="42" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
       <jump line="39" column="18" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
       <jump line="17" column="15" filename="$USER_HOME$/Projects/aims/manna/priv/repo/seeds.exs" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmF0ZV91c2VyXD4=</text>
