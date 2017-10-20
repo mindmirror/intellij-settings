@@ -888,12 +888,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1508313515890">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1508473329824">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="18" />
-        <mark key="." line="61" column="18" />
-        <mark key="^" line="61" column="18" />
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="51" />
+        <mark key="." line="34" column="51" />
+        <mark key="^" line="34" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508406124434">
         <mark key="[" line="34" column="7" />
