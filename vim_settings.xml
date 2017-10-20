@@ -438,11 +438,11 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1508487961552">
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="32" />
-        <mark key="." line="44" column="32" />
-        <mark key="^" line="44" column="32" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1508490752733">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/db/db.go" timestamp="1460691361115">
         <mark key="[" line="8" column="8" />
@@ -979,18 +979,17 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1508486519280">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1508491080095">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1508484233502">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1508491193280">
         <mark key="'" line="11" column="8" />
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="10" column="41" />
-        <mark key="." line="10" column="41" />
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="40" />
+        <mark key="." line="9" column="40" />
+        <mark key="^" line="9" column="40" />
       </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
@@ -1730,7 +1729,7 @@
         <text encoding="base64">ICAgIEV4RGVidWdUb29sYmFyLnByeSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>session</text>
+        <text>:is_admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50X3VzZXJcPg==</text>
@@ -1742,19 +1741,19 @@
         <text encoding="base64">ICAgIEV4RGVidWdUb29sYmFyLnByeSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcihjb25uLCBtZXNzYWdlLCBzZXNzaW9uX3BhdGgoY29ubiwgOm5ldykpCg==</text>
+        <text encoding="base64">ICByZXF1aXJlIEV4RGVidWdUb29sYmFyCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgbWFrZV9hY3RpdmUhKHVzZXIpIGRvCiAgICB1c2VyCiAgICB8PiBjaGFuZ2UoJXtpc19hY3RpdmU6IHRydWV9KQogICAgfD4gUmVwby51cGRhdGUhKCkKICBlbmQKCgoK</text>
+        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KHBhcmFtcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgZGVmIGFjdGl2YXRlX3VzZXIodXNlcikgZG8KICAgIHVzZXIKICAgIHw+IGNoYW5nZSgle2lzX2FjdGl2ZTogdHJ1ZX0pCiAgICB8PiBSZXBvLnVwZGF0ZSgpCiAgZW5kCg==</text>
+        <text encoding="base64">ICByZXF1aXJlIEV4RGVidWdUb29sYmFyCgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIHVuZGVsZXRlX3VzZXIoJVVzZXJ7fSA9IHVzZXIpIGRvCiAgICB1c2VyCiAgICB8PiBjaGFuZ2UoJXtpc19kZWxldGVkOiBmYWxzZX0pCiAgICB8PiBSZXBvLnVwZGF0ZSgpCiAgZW5kCgogIGRlZiBkZWxldGVfdXNlcl9wZXJtYW5lbnRseSglVXNlcnt9ID0gdXNlcikgZG8KICBlbmQK</text>
+      <register name="5" type="4">
+        <text encoding="base64">JVBsdWcuQ29ubntwYXJhbXM6ICV7ImlzX2FkbWluIiA9PiBpc19hZG1pbn0sCiAgICAgIGFzc2lnbnM6ICV7Y3VycmVudF91c2VyOiBjdXJyZW50X3VzZXJ9fSA9IGNvbm4sIF9vcHRz</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXIKICAgIHw+IGNoYW5nZSgle2lzX2RlbGV0ZWQ6IHRydWV9KQogICAgfD4gUmVwby51cGRhdGUoKQo=</text>
+        <text encoding="base64">ICBkZWYgYWRtaW5fY2hlY2soJVBsdWcuQ29ubnt9ID0gY29ubiwgX29wdHMpIGRvCiAgICBjb25uCiAgZW5kCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1762,13 +1761,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJlcG8uZGVsZXRlKHVzZXIpCg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoX29wdHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWRkIDppc19kZWxldGVkLCA6Ym9vbGVhbiwgZGVmYXVsdDogZmFsc2UK</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoY29ubikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXIK</text>
+        <text encoding="base64">ICBkZWYgYWRtaW5fY2hlY2soJVBsdWcuQ29ubnt9ID0gY29ubiwgX29wdHMpIGRvCiAgICBjb25uCiAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
