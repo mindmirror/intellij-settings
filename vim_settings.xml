@@ -754,11 +754,11 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/seeds.exs" timestamp="1508313906640">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="34" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/seeds.exs" timestamp="1508479376627">
+        <mark key="[" line="16" column="74" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/db/db.go" timestamp="1460621726031">
         <mark key="[" line="4" column="1" />
@@ -888,12 +888,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1508473329824">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1508479701335">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="37" />
-        <mark key="]" line="34" column="51" />
-        <mark key="." line="34" column="51" />
-        <mark key="^" line="34" column="51" />
+        <mark key="[" line="76" column="31" />
+        <mark key="]" line="76" column="40" />
+        <mark key="." line="76" column="40" />
+        <mark key="^" line="76" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1508406124434">
         <mark key="[" line="34" column="7" />
@@ -1726,10 +1726,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>~w(is_admin)a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>~w(is_admin)a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2NoZWNrXD4=</text>
@@ -1738,22 +1738,22 @@
         <text encoding="base64">ICAgIHBsdWcgUGhhdXh0aC5SZW1lbWJlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXF1aXJlIEV4RGVidWdUb29sYmFyCgo=</text>
+        <text encoding="base64">ICAgIGNoYW5nZSh1c2VyLCAle2lzX2FjdGl2ZTogZmFsc2V9KSB8PiBSZXBvLnVwZGF0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEV4RGVidWdUb29sYmFyLnByeSgpCg==</text>
+        <text encoding="base64">ICAgIGNoYW5nZSh1c2VyLCAle2lzX2FjdGl2ZTogdHJ1ZX0pIHw+IFJlcG8udXBkYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgQ29uZmlndXJlIEV4RGVidWdUb29sYmFyCmNvbmZpZyA6ZXhfZGVidWdfdG9vbGJhciwKICBlbmFibGU6IHRydWUK</text>
+        <text encoding="base64">ICAgIGNoYW5nZSh1c2VyLCAle2NvbmZpcm1lZF9hdDogRGF0ZVRpbWUudXRjX25vd30pIHw+IFJlcG8udXBkYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGxvd2VkX3Rsc192ZXJzaW9uOiBbOiJ0bHN2MS4yIl0sCg==</text>
+        <text encoding="base64">ICByZXF1aXJlIEV4RGVidWdUb29sYmFyCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEV4RGVidWdUb29sYmFyLnByeSgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1761,13 +1761,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgQ29uZmlndXJlIEV4RGVidWdUb29sYmFyCmNvbmZpZyA6ZXhfZGVidWdfdG9vbGJhciwKICBlbmFibGU6IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAle2VtYWlsOiAiam9obi5zbWl0aEBleGFtcGxlLm9yZyIsIHBhc3N3b3JkOiAicGFzc3dvcmQifQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGxvd2VkX3Rsc192ZXJzaW9uOiBbOiJ0bHN2MS4yIl0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
