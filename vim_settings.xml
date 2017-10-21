@@ -438,11 +438,11 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1508490752733">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="43" column="27" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1508493860188">
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="36" />
+        <mark key="." line="43" column="36" />
+        <mark key="^" line="43" column="33" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/db/db.go" timestamp="1460691361115">
         <mark key="[" line="8" column="8" />
@@ -979,10 +979,11 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1508491080095">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1508493892595">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="16" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1508492108183">
         <mark key="'" line="11" column="8" />
@@ -1111,7 +1112,7 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="18" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" timestamp="1508492794890">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" timestamp="1508493986406">
         <mark key="'" line="53" column="32" />
         <mark key="[" line="61" column="40" />
         <mark key="]" line="61" column="40" />
@@ -1725,11 +1726,11 @@
       <jump line="43" column="3" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEV4RGVidWdUb29sYmFyLnByeSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aXNfYWRtaW4g</text>
       </register>
       <register name="-" type="4">
-        <text>:is_admin</text>
+        <text encoding="base64">aXNfYWRtaW4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50X3VzZXJcPg==</text>
