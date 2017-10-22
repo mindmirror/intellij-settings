@@ -1214,6 +1214,13 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/config/dev.exs" timestamp="1508657692243">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="44" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/test/support/conn_case.ex" timestamp="1499414091907">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="26" />
@@ -1513,7 +1520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="107" column="6" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="32" column="62" filename="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" />
       <jump line="10" column="50" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
@@ -1613,13 +1619,14 @@
       <jump line="21" column="20" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="29" column="7" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/user_from_auth.ex" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/Pixels/manna/config/dev.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</text>
