@@ -334,6 +334,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/views/admin/session_view.ex" timestamp="1508680861181">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo1/main.go" timestamp="1460716275439">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
@@ -358,6 +364,12 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/views/admin/layout_view.ex" timestamp="1508680869936">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" timestamp="1499419937126">
         <mark key="'" line="59" column="0" />
@@ -816,6 +828,12 @@
         <mark key="." line="27" column="54" />
         <mark key="^" line="27" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/controllers/manna_web/admin/session_controller.ex" timestamp="1508682450505">
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="22" column="67" />
+        <mark key="." line="22" column="67" />
+        <mark key="^" line="22" column="67" />
+      </file>
       <file name="$USER_HOME$/golang/src/gowiki/test.txt" timestamp="1484640869215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -991,6 +1009,12 @@
         <mark key="]" line="62" column="52" />
         <mark key="^" line="62" column="52" />
         <mark key="." line="62" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/templates/admin/session/new.html.eex" timestamp="1508682379571">
+        <mark key="[" line="2" column="75" />
+        <mark key="]" line="2" column="89" />
+        <mark key="^" line="2" column="89" />
+        <mark key="." line="2" column="89" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1504165388570">
         <mark key="'" line="18" column="7" />
@@ -1240,6 +1264,12 @@
         <mark key="]" line="28" column="26" />
         <mark key="^" line="28" column="26" />
         <mark key="." line="28" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1508680600633">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="1" />
+        <mark key="^" line="41" column="1" />
+        <mark key="." line="41" column="1" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
         <mark key="[" line="8" column="23" />
@@ -1637,10 +1667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>new</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</text>
@@ -1649,22 +1679,22 @@
         <text encoding="base64">ICBmb250LWZhbWlseTogJ0hlbHZldGljYScsICdBcmlhbCcsIHNhbnMtc2VyaWY7CiAgZm9udC1zaXplOiAxNnB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiNjb25maWcgOm1hbm5hLCBNYW5uYS5SZXBvLAojICBsb2dnZXJzOiBbRXhEZWJ1Z1Rvb2xiYXIuQ29sbGVjdG9yLkVjdG9Db2xsZWN0b3IsIEVjdG8uTG9nRW50cnldCgojY29uZmlnIDpwaG9lbml4LCA6dGVtcGxhdGVfZW5naW5lcywKIyAgZWV4OiBFeERlYnVnVG9vbGJhci5UZW1wbGF0ZS5FRXhFbmdpbmUsCiMgIGV4czogRXhEZWJ1Z1Rvb2xiYXIuVGVtcGxhdGUuRXhzRW5naW5lCg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCiAgCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDb25maWd1cmUgRXhEZWJ1Z1Rvb2xiYXIKI2NvbmZpZyA6ZXhfZGVidWdfdG9vbGJhciwgZW5hYmxlOiB0cnVlCgojIEV4RGVidWdUb29sYmFyIGNvbmZpZwojY29uZmlnIDptYW5uYSwgTWFubmFXZWIuRW5kcG9pbnQsCiMgIGluc3RydW1lbnRlcnM6IFtFeERlYnVnVG9vbGJhci5Db2xsZWN0b3IuSW5zdHJ1bWVudGF0aW9uQ29sbGVjdG9yXQoK</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCiAgCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgezpleF9kZWJ1Z190b29sYmFyLCAifj4gMC40LjAifSwK</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6ZXhfZGVidWdfdG9vbGJhciwK</text>
+        <text encoding="base64">CiNjb25maWcgOm1hbm5hLCBNYW5uYS5SZXBvLAojICBsb2dnZXJzOiBbRXhEZWJ1Z1Rvb2xiYXIuQ29sbGVjdG9yLkVjdG9Db2xsZWN0b3IsIEVjdG8uTG9nRW50cnldCgojY29uZmlnIDpwaG9lbml4LCA6dGVtcGxhdGVfZW5naW5lcywKIyAgZWV4OiBFeERlYnVnVG9vbGJhci5UZW1wbGF0ZS5FRXhFbmdpbmUsCiMgIGV4czogRXhEZWJ1Z1Rvb2xiYXIuVGVtcGxhdGUuRXhzRW5naW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1c2UgRXhEZWJ1Z1Rvb2xiYXIuUGhvZW5peAo=</text>
+        <text encoding="base64">IyBDb25maWd1cmUgRXhEZWJ1Z1Rvb2xiYXIKI2NvbmZpZyA6ZXhfZGVidWdfdG9vbGJhciwgZW5hYmxlOiB0cnVlCgojIEV4RGVidWdUb29sYmFyIGNvbmZpZwojY29uZmlnIDptYW5uYSwgTWFubmFXZWIuRW5kcG9pbnQsCiMgIGluc3RydW1lbnRlcnM6IFtFeERlYnVnVG9vbGJhci5Db2xsZWN0b3IuSW5zdHJ1bWVudGF0aW9uQ29sbGVjdG9yXQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgezpleF9kZWJ1Z190b29sYmFyLCAifj4gMC40LjAifSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1672,13 +1702,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6ZXhfZGVidWdfdG9vbGJhciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2UgRXhEZWJ1Z1Rvb2xiYXIuUGhvZW5peAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
