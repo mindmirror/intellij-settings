@@ -780,6 +780,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/controllers/admin/session_controller.ex" timestamp="1508656136694">
+        <mark key="[" line="66" column="3" />
+        <mark key="]" line="66" column="3" />
+        <mark key="^" line="66" column="3" />
+        <mark key="." line="66" column="3" />
+      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/login.gtpl" timestamp="1466411429418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -868,7 +874,6 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/guardian_serializer.ex" timestamp="1508161286054" />
       <file name="$USER_HOME$/golang/src/shopping/pricecheck.go" timestamp="1460709380687">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="6" column="0" />
