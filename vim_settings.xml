@@ -396,6 +396,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/router.ex" timestamp="1508660785791">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="4" />
+        <mark key="^" line="31" column="38" />
+        <mark key="." line="34" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/phoenix.css" timestamp="1504859578587">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="47" column="17" />
@@ -1630,11 +1636,11 @@
       <jump line="58" column="0" filename="$USER_HOME$/Projects/Pixels/manna/config/dev.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiNjb25maWcgOm1hbm5hLCBNYW5uYS5SZXBvLAojICBsb2dnZXJzOiBbRXhEZWJ1Z1Rvb2xiYXIuQ29sbGVjdG9yLkVjdG9Db2xsZWN0b3IsIEVjdG8uTG9nRW50cnldCgojY29uZmlnIDpwaG9lbml4LCA6dGVtcGxhdGVfZW5naW5lcywKIyAgZWV4OiBFeERlYnVnVG9vbGJhci5UZW1wbGF0ZS5FRXhFbmdpbmUsCiMgIGV4czogRXhEZWJ1Z1Rvb2xiYXIuVGVtcGxhdGUuRXhzRW5naW5lCg==</text>
+      <register name="&quot;" type="4">
+        <text>resources &quot;/session&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>, debug: true</text>
+        <text>resources &quot;/session&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</text>
