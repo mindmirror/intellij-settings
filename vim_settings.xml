@@ -396,11 +396,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/router.ex" timestamp="1508660785791">
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="4" />
-        <mark key="^" line="31" column="38" />
-        <mark key="." line="34" column="4" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/router.ex" timestamp="1508663180905">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="35" column="45" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="35" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/phoenix.css" timestamp="1504859578587">
         <mark key="[" line="47" column="18" />
@@ -1637,10 +1637,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resources &quot;/session&quot;</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>resources &quot;/session&quot;</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</text>
