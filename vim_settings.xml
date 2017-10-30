@@ -478,6 +478,9 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/deps/phauxth/lib/phauxth/authenticate/base.ex" timestamp="1509367320259">
+        <mark key="'" line="76" column="29" />
+      </file>
       <file name="$USER_HOME$/golang/src/shopping/main/main.go" timestamp="1460690515714">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="8" column="41" />
@@ -1574,7 +1577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="44" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/mix.exs" />
       <jump line="27" column="62" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
@@ -1674,6 +1676,7 @@
       <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" />
       <jump line="7" column="39" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" />
       <jump line="26" column="70" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" />
+      <jump line="76" column="29" filename="$USER_HOME$/Projects/aims/manna/deps/phauxth/lib/phauxth/authenticate/base.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1683,7 +1686,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZF9jaGVja1w+</text>
+        <text encoding="base64">XDx1c2VyX2NvbnRleHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIElPLnB1dHMoIkFkbWluIENoZWNrIDI6ICIpCg==</text>
@@ -1725,17 +1728,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZF9jaGVja1w+</last-search>
+      <last-search encoding="base64">XDx1c2VyX2NvbnRleHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZF9jaGVja1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyX2NvbnRleHRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYW1wYWlnbl9leHByZXNzXD4=</entry>
         <entry encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</entry>
         <entry>container</entry>
         <entry encoding="base64">XDxnZXRfYWN0aXZlX2NhbXBhaWduc1w+</entry>
@@ -1755,6 +1757,7 @@
         <entry>verify</entry>
         <entry>put_session</entry>
         <entry encoding="base64">XDxpZF9jaGVja1w+</entry>
+        <entry encoding="base64">XDx1c2VyX2NvbnRleHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
