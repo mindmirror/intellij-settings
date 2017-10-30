@@ -954,11 +954,12 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1509361664227">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="10" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1509362269065">
+        <mark key="'" line="7" column="39" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1509347850407">
         <mark key="'" line="55" column="4" />
@@ -967,11 +968,12 @@
         <mark key="." line="55" column="43" />
         <mark key="^" line="55" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509361684682">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="21" />
-        <mark key="^" line="19" column="12" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509362236690">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="22" column="80" />
+        <mark key="]" line="22" column="82" />
+        <mark key="." line="22" column="82" />
+        <mark key="^" line="22" column="82" />
       </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
@@ -1566,10 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
@@ -1666,13 +1664,17 @@
       <jump line="837" column="6" filename="$USER_HOME$/Projects/elixir/phauxth-example/deps/plug/lib/plug/conn.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/phauxth-example/deps/plug/lib/plug/conn.ex" />
       <jump line="9" column="8" filename="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/user_controller.ex" />
+      <jump line="22" column="43" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" />
+      <jump line="7" column="39" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29ubiwg</text>
+        <text>page</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29ubiwg</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZF9jaGVja1w+</text>
