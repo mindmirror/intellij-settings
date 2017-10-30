@@ -161,6 +161,10 @@
       <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/user_from_auth.ex" timestamp="1508163922576">
         <mark key="'" line="29" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/session_controller.ex" timestamp="1509351616208">
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/category.ex" timestamp="1499311399352">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="23" column="41" />
@@ -857,12 +861,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1509336897704">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1509351515810">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="104" column="69" />
-        <mark key="]" line="105" column="40" />
-        <mark key="^" line="105" column="40" />
-        <mark key="." line="105" column="40" />
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="22" />
+        <mark key="^" line="102" column="22" />
+        <mark key="." line="102" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504767596328">
         <mark key="'" line="123" column="51" />
@@ -941,11 +945,11 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1509347225729">
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="26" column="19" />
-        <mark key="^" line="26" column="19" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1509351941620">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="52" />
+        <mark key="." line="19" column="52" />
+        <mark key="^" line="19" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1509347850407">
         <mark key="'" line="55" column="4" />
@@ -1654,8 +1658,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/phauxth-example/deps/plug/lib/plug/conn.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoUGx1Zy5Db25uLmdldF9zZXNzaW9uKGNvbm4sICJfZm9ya3NfdGhlX2VnZ19zYW1wbGVfa2V5IikpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JVBsdWcuQ29ubnthc3NpZ25zOiAle2N1cnJlbnRfdXNlcjogdXNlcn19IA==</text>
       </register>
       <register name="-" type="4">
         <text>user_id</text>
@@ -1663,8 +1667,8 @@
       <register name="/" type="4">
         <text>put_session</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogJ0hlbHZldGljYScsICdBcmlhbCcsIHNhbnMtc2VyaWY7CiAgZm9udC1zaXplOiAxNnB4Owo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JVBsdWcuQ29ubnthc3NpZ25zOiAle2N1cnJlbnRfdXNlcjogdXNlcn19IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIElPLmluc3BlY3QoUGx1Zy5Db25uLmdldF9zZXNzaW9uKGNvbm4sICJfZm9ya3NfdGhlX2VnZ19zYW1wbGVfa2V5IikpCg==</text>
