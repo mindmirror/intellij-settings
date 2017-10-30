@@ -854,9 +854,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1509326863750">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1509333813046">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="82" column="5" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="85" column="59" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504767596328">
         <mark key="'" line="123" column="51" />
@@ -1619,8 +1622,8 @@
       <jump line="68" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpdGggdXNlciB3aGVuIGlzX21hcCh1c2VyKSA8LSBnZXQodXNlcl9pZCksIGRvOiB1c2VyLnNlc3Npb25zCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1632,7 +1635,7 @@
         <text encoding="base64">ICBmb250LWZhbWlseTogJ0hlbHZldGljYScsICdBcmlhbCcsIHNhbnMtc2VyaWY7CiAgZm9udC1zaXplOiAxNnB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggdXNlciB3aGVuIGlzX21hcCh1c2VyKSA8LSBnZXQodXNlcl9pZCksIGRvOiB1c2VyLnNlc3Npb25zCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1641,13 +1644,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dGQuaGVhZGVyIHsKICBmb250LXdlaWdodDogYm9sZDsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1655,13 +1658,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChpdGVtKQo=</text>
+        <text encoding="base64">dGQuaGVhZGVyIHsKICBmb250LXdlaWdodDogYm9sZDsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlcgo=</text>
+        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChpdGVtKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlclB1Ymxpc2hlcgo=</text>
+        <text encoding="base64">ICBhbGlhcyBDYW1wYWlnbkV4cHJlc3MuVXNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
