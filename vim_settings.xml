@@ -961,10 +961,11 @@
         <mark key="." line="55" column="43" />
         <mark key="^" line="55" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509346267261">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509354175587">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
@@ -1661,11 +1662,11 @@
       <jump line="9" column="8" filename="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/user_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JVBsdWcuQ29ubnthc3NpZ25zOiAle2N1cnJlbnRfdXNlcjogdXNlcn19IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbm4KICAgICAgICAgIHw+IHB1dF9zZXNzaW9uKDp1c2VyX2lkLCB1c2VyLmlkKQogICAgICAgICAgfD4gcHV0X3Nlc3Npb24oOmlzX2FkbWluLCB1c2VyLmlzX2FkbWluKQogICAgICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24ocmVuZXc6IHRydWUpCiAgICAgICAgICB8PiBzdWNjZXNzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>&quot;You have been logged in&quot;, user_path(conn, :index)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZF9jaGVja1w+</text>
@@ -1674,19 +1675,19 @@
         <text encoding="base64">JVBsdWcuQ29ubnthc3NpZ25zOiAle2N1cnJlbnRfdXNlcjogdXNlcn19IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoUGx1Zy5Db25uLmdldF9zZXNzaW9uKGNvbm4sICJfZm9ya3NfdGhlX2VnZ19zYW1wbGVfa2V5IikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbm4KICAgICAgICAgIHw+IHB1dF9zZXNzaW9uKDp1c2VyX2lkLCB1c2VyLmlkKQogICAgICAgICAgfD4gcHV0X3Nlc3Npb24oOmlzX2FkbWluLCB1c2VyLmlzX2FkbWluKQogICAgICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24ocmVuZXc6IHRydWUpCiAgICAgICAgICB8PiBzdWNjZXNzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB8PiBwdXRfc2Vzc2lvbig6aXNfYWRtaW4sIHVzZXIuaXNfYWRtaW4pCiAgICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24ocmVuZXc6IHRydWUpCg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoUGx1Zy5Db25uLmdldF9zZXNzaW9uKGNvbm4sICJfZm9ya3NfdGhlX2VnZ19zYW1wbGVfa2V5IikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIElPLnB1dHMoIj4+PiBzaG91bGQgbm90IGhhcHBlbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICB8PiBwdXRfc2Vzc2lvbig6aXNfYWRtaW4sIHVzZXIuaXNfYWRtaW4pCiAgICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24ocmVuZXc6IHRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggdXNlciB3aGVuIGlzX21hcCh1c2VyKSA8LSBnZXQodXNlcl9pZCksIGRvOiB1c2VyLnNlc3Npb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgIElPLnB1dHMoIj4+PiBzaG91bGQgbm90IGhhcHBlbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggdXNlciB3aGVuIGlzX21hcCh1c2VyKSA8LSBnZXQodXNlcl9pZCksIGRvOiB1c2VyLnNlc3Npb25zCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1700,10 +1701,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
