@@ -434,6 +434,12 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1509355760135">
+        <mark key="[" line="42" column="86" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="43" column="26" />
+      </file>
       <file name="$USER_HOME$/golang/src/shopping/db/db.go" timestamp="1460691361115">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="9" />
@@ -1662,11 +1668,11 @@
       <jump line="9" column="8" filename="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/user_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbm4KICAgICAgICAgIHw+IHB1dF9zZXNzaW9uKDp1c2VyX2lkLCB1c2VyLmlkKQogICAgICAgICAgfD4gcHV0X3Nlc3Npb24oOmlzX2FkbWluLCB1c2VyLmlzX2FkbWluKQogICAgICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24ocmVuZXc6IHRydWUpCiAgICAgICAgICB8PiBzdWNjZXNzKCkK</text>
+      <register name="&quot;" type="4">
+        <text>get_session(conn, :is_admin)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;You have been logged in&quot;, user_path(conn, :index)</text>
+        <text>get_session(conn, :is_admin)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZF9jaGVja1w+</text>
