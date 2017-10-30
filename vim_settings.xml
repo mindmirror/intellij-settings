@@ -434,11 +434,10 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1509357334229">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="44" column="25" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1509363524925">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/db/db.go" timestamp="1460691361115">
         <mark key="[" line="8" column="8" />
@@ -968,12 +967,12 @@
         <mark key="." line="55" column="43" />
         <mark key="^" line="55" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509362236690">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="22" column="80" />
-        <mark key="]" line="22" column="82" />
-        <mark key="." line="22" column="82" />
-        <mark key="^" line="22" column="82" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509363507712">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="39" column="38" />
+        <mark key="." line="39" column="38" />
+        <mark key="^" line="39" column="38" />
       </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
@@ -1670,8 +1669,8 @@
       <jump line="7" column="39" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>page</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoY3VycmVudF91c2VyKQo=</text>
       </register>
       <register name="-" type="4">
         <text>page</text>
@@ -1683,22 +1682,22 @@
         <text encoding="base64">ICAgIElPLnB1dHMoIkFkbWluIENoZWNrIDI6ICIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KHVzZXIpCg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoY3VycmVudF91c2VyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbm4KICAgICAgICAgIHw+IHB1dF9zZXNzaW9uKDp1c2VyX2lkLCB1c2VyLmlkKQogICAgICAgICAgfD4gcHV0X3Nlc3Npb24oOmlzX2FkbWluLCB1c2VyLmlzX2FkbWluKQogICAgICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24ocmVuZXc6IHRydWUpCiAgICAgICAgICB8PiBzdWNjZXNzKCkK</text>
+        <text encoding="base64">ICAgIElPLnB1dHMoIkFkbWluIENoZWNrIDI6ICIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoUGx1Zy5Db25uLmdldF9zZXNzaW9uKGNvbm4sICJfZm9ya3NfdGhlX2VnZ19zYW1wbGVfa2V5IikpCg==</text>
+        <text encoding="base64">ICAgIElPLnB1dHMoIkFkbWluIENoZWNrIDE6ICIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB8PiBwdXRfc2Vzc2lvbig6aXNfYWRtaW4sIHVzZXIuaXNfYWRtaW4pCiAgICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24ocmVuZXc6IHRydWUpCg==</text>
+        <text encoding="base64">ICAgIHw+IGRlbGV0ZV9zZXNzaW9uKDp1c2VyX2lkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIElPLnB1dHMoIj4+PiBzaG91bGQgbm90IGhhcHBlbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KHVzZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggdXNlciB3aGVuIGlzX21hcCh1c2VyKSA8LSBnZXQodXNlcl9pZCksIGRvOiB1c2VyLnNlc3Npb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbm4KICAgICAgICAgIHw+IHB1dF9zZXNzaW9uKDp1c2VyX2lkLCB1c2VyLmlkKQogICAgICAgICAgfD4gcHV0X3Nlc3Npb24oOmlzX2FkbWluLCB1c2VyLmlzX2FkbWluKQogICAgICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24ocmVuZXc6IHRydWUpCiAgICAgICAgICB8PiBzdWNjZXNzKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1706,13 +1705,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoUGx1Zy5Db25uLmdldF9zZXNzaW9uKGNvbm4sICJfZm9ya3NfdGhlX2VnZ19zYW1wbGVfa2V5IikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB8PiBwdXRfc2Vzc2lvbig6aXNfYWRtaW4sIHVzZXIuaXNfYWRtaW4pCiAgICAgICAgfD4gY29uZmlndXJlX3Nlc3Npb24ocmVuZXc6IHRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIElPLnB1dHMoIj4+PiBzaG91bGQgbm90IGhhcHBlbiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
