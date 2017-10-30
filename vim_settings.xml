@@ -954,11 +954,11 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1509351941620">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="52" />
-        <mark key="^" line="19" column="52" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1509361664227">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1509347850407">
         <mark key="'" line="55" column="4" />
@@ -967,11 +967,11 @@
         <mark key="." line="55" column="43" />
         <mark key="^" line="55" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509360614237">
-        <mark key="[" line="18" column="55" />
-        <mark key="]" line="18" column="54" />
-        <mark key="." line="18" column="54" />
-        <mark key="^" line="18" column="54" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509361684682">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
@@ -1669,10 +1669,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>timestamp</text>
+        <text encoding="base64">Y29ubiwg</text>
       </register>
       <register name="-" type="4">
-        <text>timestamp</text>
+        <text encoding="base64">Y29ubiwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZF9jaGVja1w+</text>
