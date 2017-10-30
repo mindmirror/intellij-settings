@@ -854,12 +854,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1509335888733">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1509336897704">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="103" column="31" />
-        <mark key="]" line="104" column="3" />
-        <mark key="^" line="104" column="3" />
-        <mark key="." line="104" column="3" />
+        <mark key="[" line="104" column="69" />
+        <mark key="]" line="105" column="40" />
+        <mark key="^" line="105" column="40" />
+        <mark key="." line="105" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504767596328">
         <mark key="'" line="123" column="51" />
@@ -1622,11 +1622,11 @@
       <jump line="68" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpdGggdXNlciB3aGVuIGlzX21hcCh1c2VyKSA8LSBnZXQodXNlcl9pZCksIGRvOiB1c2VyLnNlc3Npb25zCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYxLnNlc3Npb25z</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICYxLnNlc3Npb25z</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRoX2FuZF92YWxpZGF0ZVw+</text>
