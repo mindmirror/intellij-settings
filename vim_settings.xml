@@ -26,9 +26,6 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1485306417106">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1503632277868">
         <mark key="'" line="48" column="6" />
         <mark key="[" line="57" column="26" />
@@ -167,6 +164,10 @@
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/session_controller.ex" timestamp="1509458133262">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="36" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/category.ex" timestamp="1499311399352">
         <mark key="[" line="20" column="5" />
@@ -412,6 +413,12 @@
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/page/index.html.eex" timestamp="1509461534270">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/session_view.ex" timestamp="1498303307799">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="21" />
@@ -457,10 +464,10 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1509450977379">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1509461161938">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/db/db.go" timestamp="1460691361115">
         <mark key="[" line="8" column="8" />
@@ -537,10 +544,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/page/index.html.eex" timestamp="1509453280908">
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="1" column="38" />
-        <mark key="." line="1" column="38" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/page/index.html.eex" timestamp="1509454805601">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="1" column="38" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo2/main.go" timestamp="1480662997491">
@@ -557,9 +565,9 @@
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/page_controller.ex" timestamp="1509453090069">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/page_controller.ex" timestamp="1509454743209">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="4" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/shopping/db/db.go" timestamp="1460623229317">
@@ -644,8 +652,11 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/page_controller.ex" timestamp="1509453773084">
-        <mark key="[" line="3" column="15" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/page_controller.ex" timestamp="1509459617111">
+        <mark key="'" line="3" column="2" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/guardian_serializer.ex" timestamp="1500454006643">
         <mark key="[" line="11" column="17" />
@@ -737,9 +748,6 @@
         <mark key="]" line="29" column="37" />
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1509436713164">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
         <mark key="[" line="28" column="69" />
@@ -913,12 +921,18 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1509450095732">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1509458684362">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="43" />
-        <mark key="^" line="10" column="43" />
-        <mark key="." line="10" column="43" />
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="45" />
+        <mark key="^" line="10" column="45" />
+        <mark key="." line="10" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1509455101682">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504767596328">
         <mark key="'" line="123" column="51" />
@@ -1011,12 +1025,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509450658971">
-        <mark key="'" line="41" column="45" />
-        <mark key="[" line="70" column="26" />
-        <mark key="]" line="70" column="19" />
-        <mark key="." line="70" column="19" />
-        <mark key="^" line="70" column="19" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509461216889">
+        <mark key="'" line="48" column="77" />
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="11" />
       </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
@@ -1231,6 +1245,12 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/admin/page_view.ex" timestamp="1509454902424">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="9" />
@@ -1323,11 +1343,11 @@
         <mark key="^" line="28" column="26" />
         <mark key="." line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/router.ex" timestamp="1509450286027">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="41" column="84" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/router.ex" timestamp="1509461151731">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
         <mark key="[" line="8" column="23" />
@@ -1346,9 +1366,6 @@
         <mark key="]" line="5" column="58" />
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
-      </file>
-      <file name="/Dummy.regexp" timestamp="1501462992200">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
         <mark key="[" line="0" column="10" />
@@ -1412,9 +1429,6 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/page_controller.ex" timestamp="1496883574875">
-        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/stats/campaign_stats.ex" timestamp="1503384877173">
         <mark key="'" line="41" column="0" />
@@ -1612,6 +1626,12 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/admin.html.eex" timestamp="1509460552831">
+        <mark key="[" line="23" column="56" />
+        <mark key="]" line="23" column="58" />
+        <mark key="." line="23" column="58" />
+        <mark key="^" line="23" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" timestamp="1504767547800">
         <mark key="'" line="58" column="49" />
         <mark key="[" line="61" column="45" />
@@ -1646,8 +1666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="26" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
       <jump line="55" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
       <jump line="27" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
       <jump line="37" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
@@ -1745,38 +1763,40 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/user_view.ex" />
       <jump line="41" column="45" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/page/index.html.eex" />
-      <jump line="5" column="1" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/page/index.html.eex" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/page/index.html.eex" />
+      <jump line="5" column="2" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/page_controller.ex" />
+      <jump line="48" column="77" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A secure and extensible authentication library for Plug-based applications</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgZGVmIGlkX2NoZWNrKCVQbHVnLkNvbm57cGFyYW1zOiBwYXJhbXN9ID0gY29ubiwgX29wdHMpIGRvCiAgICBJTy5pbnNwZWN0KHBhcmFtcywgbGFiZWw6ICJQYXJhbXMiKQogICAgY29ubgogIGVuZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>A secure and extensible authentication library for Plug-based applications</text>
+        <text>sign_in</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZG1pbl9zaWduZWRfaW5cPg==</text>
+        <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>get_session(conn, :is_admin_session)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgZGVsZXRlKCVQbHVnLkNvbm57YXNzaWduczogJXtjdXJyZW50X3VzZXI6IHVzZXJ9fSA9IGNvbm4sIF8pIGRvCiAgICA8PHNlc3Npb25faWQ6OmJpbmFyeS1zaXplKDE3KSwgXzo6YmluYXJ5Pj4gPSBnZXRfc2Vzc2lvbihjb25uLCA6cGhhdXh0aF9zZXNzaW9uX2lkKQogICAgQWNjb3VudHMuZGVsZXRlX3Nlc3Npb24odXNlciwgc2Vzc2lvbl9pZCkKICAgIGRlbGV0ZV9zZXNzaW9uKGNvbm4sIDpwaGF1eHRoX3Nlc3Npb25faWQpCiAgICB8PiBQaGF1eHRoLlJlbWVtYmVyLmRlbGV0ZV9yZW1fY29va2llCiAgICB8PiBzdWNjZXNzKCJZb3UgaGF2ZSBiZWVuIGxvZ2dlZCBvdXQiLCBwYWdlX3BhdGgoY29ubiwgOmluZGV4KSkKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93IG1hcmtldGluZyI+CiAgPGRpdiBjbGFzcz0iY29sLWxnLTYiPgogICAgPGg0PlBoYXV4dGggYXV0aGVudGljYXRpb248L2g0PgogICAgPHVsPgogICAgICA8bGk+CiAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9oZXhkb2NzLnBtL3BoYXV4dGgiPkRvY3M8L2E+CiAgICAgIDwvbGk+CiAgICAgIDxsaT4KICAgICAgICA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vcml2ZXJydW4vcGhhdXh0aCI+U291cmNlPC9hPgogICAgICA8L2xpPgogICAgPC91bD4KICA8L2Rpdj4KCjwvZGl2Pgo=</text>
+        <text encoding="base64">CiAgZGVmIGlkX2NoZWNrKCVQbHVnLkNvbm57cGFyYW1zOiBwYXJhbXN9ID0gY29ubiwgX29wdHMpIGRvCiAgICBJTy5pbnNwZWN0KHBhcmFtcywgbGFiZWw6ICJQYXJhbXMiKQogICAgY29ubgogIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtbGctNiI+CiAgICA8aDQ+UGhvZW5peCB3ZWIgZnJhbWV3b3JrPC9oND4KICAgIDx1bD4KICAgICAgPGxpPgogICAgICAgIDxhIGhyZWY9Imh0dHA6Ly9waG9lbml4ZnJhbWV3b3JrLm9yZy9kb2NzL292ZXJ2aWV3Ij5QaG9lbml4IGd1aWRlczwvYT4KICAgICAgPC9saT4KICAgICAgPGxpPgogICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9waG9lbml4ZnJhbWV3b3JrL3Bob2VuaXgiPlBob2VuaXggc291cmNlPC9hPgogICAgICA8L2xpPgogICAgPC91bD4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoZmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSI8JT0gcGFnZV9wYXRoIEBjb25uLCA6aW5kZXggJT4iPkhvbWU8L2E+PC9saT4K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdldCAiLyIsIFBhZ2VDb250cm9sbGVyLCA6aW5kZXgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoZ2V0KQo=</text>
+        <text encoding="base64">CiAgZGVmIGRlbGV0ZSglUGx1Zy5Db25ue2Fzc2lnbnM6ICV7Y3VycmVudF91c2VyOiB1c2VyfX0gPSBjb25uLCBfKSBkbwogICAgPDxzZXNzaW9uX2lkOjpiaW5hcnktc2l6ZSgxNyksIF86OmJpbmFyeT4+ID0gZ2V0X3Nlc3Npb24oY29ubiwgOnBoYXV4dGhfc2Vzc2lvbl9pZCkKICAgIEFjY291bnRzLmRlbGV0ZV9zZXNzaW9uKHVzZXIsIHNlc3Npb25faWQpCiAgICBkZWxldGVfc2Vzc2lvbihjb25uLCA6cGhhdXh0aF9zZXNzaW9uX2lkKQogICAgfD4gUGhhdXh0aC5SZW1lbWJlci5kZWxldGVfcmVtX2Nvb2tpZQogICAgfD4gc3VjY2VzcygiWW91IGhhdmUgYmVlbiBsb2dnZWQgb3V0IiwgcGFnZV9wYXRoKGNvbm4sIDppbmRleCkpCiAgZW5kCg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZSAiL3NpZ25vdXQiLCBTZXNzaW9uQ29udHJvbGxlciwgOmRlbGV0ZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1784,22 +1804,26 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bmF2IHJvbGU9Im5hdmlnYXRpb24iPgo=</text>
+        <text encoding="base64">CiAgZGVmIGRlbGV0ZSglUGx1Zy5Db25ue2Fzc2lnbnM6ICV7Y3VycmVudF91c2VyOiB1c2VyfX0gPSBjb25uLCBfKSBkbwogICAgPDxzZXNzaW9uX2lkOjpiaW5hcnktc2l6ZSgxNyksIF86OmJpbmFyeT4+ID0gZ2V0X3Nlc3Npb24oY29ubiwgOnBoYXV4dGhfc2Vzc2lvbl9pZCkKICAgIEFjY291bnRzLmRlbGV0ZV9zZXNzaW9uKHVzZXIsIHNlc3Npb25faWQpCiAgICBkZWxldGVfc2Vzc2lvbihjb25uLCA6cGhhdXh0aF9zZXNzaW9uX2lkKQogICAgfD4gUGhhdXh0aC5SZW1lbWJlci5kZWxldGVfcmVtX2Nvb2tpZQogICAgfD4gc3VjY2VzcygiWW91IGhhdmUgYmVlbiBsb2dnZWQgb3V0IiwgcGFnZV9wYXRoKGNvbm4sIDppbmRleCkpCiAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L25hdj4KICAgICAgICA8c3BhbiBjbGFzcz0ibG9nbyI+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPjwlPSBsaW5rICJTaWduIE91dCIsIHRvOiBhZG1pbl9zZXNzaW9uX3BhdGgoQGNvbm4sIDpzaWduX291dCwgQGN1cnJlbnRfdXNlciksIG1ldGhvZDogOmRlbGV0ZSAlPjwvbGk+Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iPCU9IHVzZXJfcGF0aCBAY29ubiwgOmluZGV4ICU+Ij5Vc2VyczwvYT48L2xpPgo=</text>
+      <register name="9" type="8">
+        <text>#
+#
+#
+#
+#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZG1pbl9zaWduZWRfaW5cPg==</last-search>
+      <last-search encoding="base64">XDxwYXJhbXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZG1pbl9zaWduZWRfaW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJhbXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1807,7 +1831,6 @@
     </search>
     <history>
       <history-search>
-        <entry>container</entry>
         <entry encoding="base64">XDxnZXRfYWN0aXZlX2NhbXBhaWduc1w+</entry>
         <entry encoding="base64">XDxzZWVkX3BhdGhcPg==</entry>
         <entry encoding="base64">XDxtaWdyYXRpb25zX3BhdGhcPg==</entry>
@@ -1827,6 +1850,7 @@
         <entry encoding="base64">XDxpZF9jaGVja1w+</entry>
         <entry encoding="base64">XDx1c2VyX2NvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxhZG1pbl9zaWduZWRfaW5cPg==</entry>
+        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
