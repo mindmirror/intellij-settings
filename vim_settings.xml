@@ -84,7 +84,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/helpers.ex" timestamp="1500891935436">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/helpers.ex" timestamp="1509428384259">
         <mark key="[" line="6" column="61" />
         <mark key="]" line="6" column="61" />
         <mark key="^" line="6" column="61" />
@@ -260,9 +260,10 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/impersonation.html.eex" timestamp="1500969629703">
-        <mark key="[" line="2" column="66" />
-        <mark key="]" line="2" column="98" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/impersonation.html.eex" timestamp="1509428155713">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="8" />
         <mark key="^" line="2" column="98" />
         <mark key="." line="2" column="98" />
       </file>
@@ -701,7 +702,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509365963926">
+      <file name="/Dummy.txt" timestamp="1509428385147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1577,7 +1578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" />
       <jump line="44" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/mix.exs" />
       <jump line="27" column="62" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="77" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
@@ -1677,10 +1677,11 @@
       <jump line="7" column="39" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" />
       <jump line="26" column="70" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" />
       <jump line="76" column="29" filename="$USER_HOME$/Projects/aims/manna/deps/phauxth/lib/phauxth/authenticate/base.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/impersonation.html.eex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIElmIHlvdSBhcmUgdXNpbmcgQXJnb24yIG9yIFBia2RmMiwgYWRkIGNyeXB0bzogQ29tZW9uaW4uQXJnb24yCiAgIyBvciBjcnlwdG86IENvbWVvbmluLlBia2RmMiB0byBMb2dpbi52ZXJpZnkgKGFmdGVyIEFjY291bnRzKQo=</text>
+        <text encoding="base64">PCU9IGlmIGFkbWluX3NpZ25lZF9pbj8oQGNvbm4pICYmIHNpZ25lZF9pbj8oQGNvbm4pIGRvICU+CiAgPGRpdiBjbGFzcz0iaW1wZXJzb25hdGlvbi1iYXIiPgogICAgPCU9IGxpbmsgIlN0b3AgaW1wZXJzb25hdGluZyAje2N1cnJlbnRfdXNlcihAY29ubikuZmlyc3RfbmFtZX0gI3tjdXJyZW50X3VzZXIoQGNvbm4pLmxhc3RfbmFtZX0iLAogICAgICAgICAgICAgdG86IGFkbWluX3Nlc3Npb25fcGF0aChAY29ubiwgOnN0b3BfaW1wZXJzb25hdGluZyksCiAgICAgICAgICAgICBtZXRob2Q6ICJERUxFVEUiLAogICAgICAgICAgICAgY2xhc3M6ICJidG4gYnRuLXhzIGJ0bi13YXJuaW5nIiAlPgogIDwvZGl2Pgo8JSBlbmQgJT4K</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -1689,7 +1690,7 @@
         <text encoding="base64">XDx1c2VyX2NvbnRleHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIElPLnB1dHMoIkFkbWluIENoZWNrIDI6ICIpCg==</text>
+        <text encoding="base64">PCU9IGlmIGFkbWluX3NpZ25lZF9pbj8oQGNvbm4pICYmIHNpZ25lZF9pbj8oQGNvbm4pIGRvICU+CiAgPGRpdiBjbGFzcz0iaW1wZXJzb25hdGlvbi1iYXIiPgogICAgPCU9IGxpbmsgIlN0b3AgaW1wZXJzb25hdGluZyAje2N1cnJlbnRfdXNlcihAY29ubikuZmlyc3RfbmFtZX0gI3tjdXJyZW50X3VzZXIoQGNvbm4pLmxhc3RfbmFtZX0iLAogICAgICAgICAgICAgdG86IGFkbWluX3Nlc3Npb25fcGF0aChAY29ubiwgOnN0b3BfaW1wZXJzb25hdGluZyksCiAgICAgICAgICAgICBtZXRob2Q6ICJERUxFVEUiLAogICAgICAgICAgICAgY2xhc3M6ICJidG4gYnRuLXhzIGJ0bi13YXJuaW5nIiAlPgogIDwvZGl2Pgo8JSBlbmQgJT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAjIElmIHlvdSBhcmUgdXNpbmcgQXJnb24yIG9yIFBia2RmMiwgYWRkIGNyeXB0bzogQ29tZW9uaW4uQXJnb24yCiAgIyBvciBjcnlwdG86IENvbWVvbmluLlBia2RmMiB0byBMb2dpbi52ZXJpZnkgKGFmdGVyIEFjY291bnRzKQo=</text>
