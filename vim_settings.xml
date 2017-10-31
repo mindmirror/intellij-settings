@@ -512,6 +512,12 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/helpers.ex" timestamp="1509428517211">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo2/main.go" timestamp="1480662997491">
         <mark key="'" line="5" column="7" />
         <mark key="[" line="13" column="5" />
@@ -1725,7 +1731,7 @@
         <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KHVzZXIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1769,8 +1775,8 @@
         <entry>{w</entry>
         <entry>wq</entry>
         <entry>wf</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
