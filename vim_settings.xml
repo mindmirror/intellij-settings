@@ -218,6 +218,12 @@
         <mark key="^" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/app.html.eex" timestamp="1509453137700">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="41" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/itoa/main.go" timestamp="1481251533576">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="11" column="6" />
@@ -531,6 +537,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/page/index.html.eex" timestamp="1509453280908">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo2/main.go" timestamp="1480662997491">
         <mark key="'" line="5" column="7" />
         <mark key="[" line="13" column="5" />
@@ -544,6 +556,11 @@
         <mark key="]" line="21" column="63" />
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/page_controller.ex" timestamp="1509453090069">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/shopping/db/db.go" timestamp="1460623229317">
         <mark key="[" line="4" column="1" />
@@ -1626,8 +1643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
       <jump line="42" column="26" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
       <jump line="55" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" />
@@ -1726,13 +1741,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/index.html.eex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/user_view.ex" />
       <jump line="41" column="45" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/page/index.html.eex" />
+      <jump line="5" column="1" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/page/index.html.eex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoZ2V0X3Nlc3Npb24oY29ubiwgOmlzX2FkbWluX3Nlc3Npb24pLCBsYWJlbDogIklzIGFkbWluIHNlc3Npb24/Pz8iKQo=</text>
+      <register name="&quot;" type="4">
+        <text>A secure and extensible authentication library for Plug-based applications</text>
       </register>
       <register name="-" type="4">
-        <text>(User)</text>
+        <text>A secure and extensible authentication library for Plug-based applications</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZG1pbl9zaWduZWRfaW5cPg==</text>
@@ -1741,22 +1758,22 @@
         <text>get_session(conn, :is_admin_session)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoZ2V0X3Nlc3Npb24oY29ubiwgOmlzX2FkbWluX3Nlc3Npb24pLCBsYWJlbDogIklzIGFkbWluIHNlc3Npb24/Pz8iKQo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icm93IG1hcmtldGluZyI+CiAgPGRpdiBjbGFzcz0iY29sLWxnLTYiPgogICAgPGg0PlBoYXV4dGggYXV0aGVudGljYXRpb248L2g0PgogICAgPHVsPgogICAgICA8bGk+CiAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9oZXhkb2NzLnBtL3BoYXV4dGgiPkRvY3M8L2E+CiAgICAgIDwvbGk+CiAgICAgIDxsaT4KICAgICAgICA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vcml2ZXJydW4vcGhhdXh0aCI+U291cmNlPC9hPgogICAgICA8L2xpPgogICAgPC91bD4KICA8L2Rpdj4KCjwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtbGctNiI+CiAgICA8aDQ+UGhvZW5peCB3ZWIgZnJhbWV3b3JrPC9oND4KICAgIDx1bD4KICAgICAgPGxpPgogICAgICAgIDxhIGhyZWY9Imh0dHA6Ly9waG9lbml4ZnJhbWV3b3JrLm9yZy9kb2NzL292ZXJ2aWV3Ij5QaG9lbml4IGd1aWRlczwvYT4KICAgICAgPC9saT4KICAgICAgPGxpPgogICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9waG9lbml4ZnJhbWV3b3JrL3Bob2VuaXgiPlBob2VuaXggc291cmNlPC9hPgogICAgICA8L2xpPgogICAgPC91bD4KICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwbHVnIDp1c2VyX2NoZWNrIHdoZW4gYWN0aW9uIGluIFs6c2hvd10K</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSI8JT0gcGFnZV9wYXRoIEBjb25uLCA6aW5kZXggJT4iPkhvbWU8L2E+PC9saT4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoaW1wZXJzb25hdG9yLCBsYWJlbDogIkltcGVyc29uYXRvciIpCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHw+IGRlbGV0ZV9zZXNzaW9uKDppbXBlcnNvbmF0b3IpCg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoZ2V0KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1764,13 +1781,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBQbHVnLkNvbm4uZ2V0X3Nlc3Npb24oY29ubiwgOmltcGVyc29uYXRvcikgIT0gY3VycmVudF91c2VyLmlkCg==</text>
+        <text encoding="base64">ICAgICAgICA8bmF2IHJvbGU9Im5hdmlnYXRpb24iPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElPLnB1dHMoIj4+PiBJbnNwZWN0IHVzZXIiKQogICAgSU8uaW5zcGVjdCh1c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICA8L25hdj4KICAgICAgICA8c3BhbiBjbGFzcz0ibG9nbyI+PC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iPCU9IHVzZXJfcGF0aCBAY29ubiwgOmluZGV4ICU+Ij5Vc2VyczwvYT48L2xpPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
