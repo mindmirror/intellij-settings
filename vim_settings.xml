@@ -1289,12 +1289,6 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1503550194512">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1324,6 +1318,12 @@
         <mark key="]" line="4" column="68" />
         <mark key="^" line="4" column="68" />
         <mark key="." line="4" column="68" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1503550194512">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170724074442_add_is_admin_flag.exs" timestamp="1500882315153">
         <mark key="[" line="4" column="0" />
@@ -1356,11 +1356,11 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171018073805_create_users.exs" timestamp="1509364961751">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="44" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171018073805_create_users.exs" timestamp="1512533835736">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/page_controller_test.exs" timestamp="1499411314791">
         <mark key="[" line="5" column="51" />
@@ -1830,7 +1830,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
