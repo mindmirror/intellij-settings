@@ -284,6 +284,11 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170106083134_create_extension_citext.exs" timestamp="1512549121774">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/impersonation.html.eex" timestamp="1509436712458">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -934,12 +939,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1512545887444">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1512549256587">
         <mark key="'" line="136" column="0" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="135" column="19" />
-        <mark key="^" line="135" column="19" />
-        <mark key="." line="135" column="19" />
+        <mark key="[" line="116" column="25" />
+        <mark key="]" line="116" column="25" />
+        <mark key="^" line="116" column="25" />
+        <mark key="." line="116" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1509455101682">
         <mark key="[" line="22" column="26" />
@@ -1238,12 +1243,11 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" timestamp="1512543311949">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" timestamp="1512548800031">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-        <mark key="^" line="13" column="46" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/server2/main.go" timestamp="1480911910444">
         <mark key="'" line="33" column="0" />
@@ -1327,6 +1331,12 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170806065515_create_roles_table.exs" timestamp="1512549184823">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="3" />
@@ -1387,12 +1397,12 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171018073805_create_users.exs" timestamp="1512545246153">
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171018073805_create_users.exs" timestamp="1512548988928">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="11" column="36" />
-        <mark key="^" line="11" column="36" />
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+        <mark key="^" line="11" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/page_controller_test.exs" timestamp="1499411314791">
         <mark key="[" line="5" column="51" />
@@ -1813,11 +1823,11 @@
       <jump line="136" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDppc19hZG1pbiwgOmJvb2xlYW4K</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
@@ -1826,19 +1836,19 @@
         <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwKICAgICAgICAgICAgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDppc19hZG1pbiwgOmJvb2xlYW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJlb25nc190byA6cm9sZXMsIFJvbGUK</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlIHVuaXF1ZV9pbmRleCg6cm9sZXMsIFs6bmFtZV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDpyb2xlX2lkLCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQoK</text>
@@ -1849,13 +1859,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWRkIDpyb2xlX2lkLCAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3Bhc3N3b3JkX3Jlc2V0cyIsIFBhc3N3b3JkUmVzZXRDb250cm9sbGVyLCBvbmx5OiBbOm5ldywgOmNyZWF0ZV0K</text>
+        <text encoding="base64">ICAgIGZpZWxkIDppc19hZG1pbiwgOmJvb2xlYW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJlb25nc190byA6cm9sZXMsIFJvbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
