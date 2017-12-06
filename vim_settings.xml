@@ -811,12 +811,11 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/seeds.exs" timestamp="1512545693645">
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/seeds.exs" timestamp="1512546849249">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/db/db.go" timestamp="1460621726031">
         <mark key="[" line="4" column="1" />
@@ -1809,7 +1808,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -1821,22 +1820,22 @@
         <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwKICAgICAgICAgICAgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWRkIDpyb2xlX2lkLCAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3Bhc3N3b3JkX3Jlc2V0cyIsIFBhc3N3b3JkUmVzZXRDb250cm9sbGVyLCBvbmx5OiBbOm5ldywgOmNyZWF0ZV0K</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkIDpyb2xlX2lkLCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3Bhc3N3b3JkX3Jlc2V0cyIsIFBhc3N3b3JkUmVzZXRDb250cm9sbGVyLCBvbmx5OiBbOm5ldywgOmNyZWF0ZV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZGVmIGlkX2NoZWNrKCVQbHVnLkNvbm57cGFyYW1zOiBwYXJhbXN9ID0gY29ubiwgX29wdHMpIGRvCiAgICBJTy5pbnNwZWN0KHBhcmFtcywgbGFiZWw6ICJQYXJhbXMiKQogICAgY29ubgogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1844,13 +1843,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CiAgZGVmIGlkX2NoZWNrKCVQbHVnLkNvbm57cGFyYW1zOiBwYXJhbXN9ID0gY29ubiwgX29wdHMpIGRvCiAgICBJTy5pbnNwZWN0KHBhcmFtcywgbGFiZWw6ICJQYXJhbXMiKQogICAgY29ubgogIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldCAiLyIsIFBhZ2VDb250cm9sbGVyLCA6aW5kZXgK</text>
+        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoZmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
