@@ -939,12 +939,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1512549256587">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="116" column="25" />
-        <mark key="]" line="116" column="25" />
-        <mark key="^" line="116" column="25" />
-        <mark key="." line="116" column="25" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1512551079295">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="117" column="8" />
+        <mark key="]" line="109" column="23" />
+        <mark key="^" line="116" column="42" />
+        <mark key="." line="109" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1509455101682">
         <mark key="[" line="22" column="26" />
@@ -1721,8 +1721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="25" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="41" column="8" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="79" column="3" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
@@ -1821,19 +1819,21 @@
       <jump line="133" column="10" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
       <jump line="136" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
+      <jump line="115" column="20" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwKICAgICAgICAgICAgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQo=</text>
+        <text encoding="base64">ICAgIGFkbWluID0gUmVwby5nZXRfYnkhKFJvbGUsIG5hbWU6ICJBZG1pbiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
