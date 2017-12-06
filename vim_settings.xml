@@ -1145,6 +1145,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1512548051792">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
         <mark key="]" line="47" column="39" />
@@ -1808,10 +1814,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZpZWxkIDppc19hZG1pbiwgOmJvb2xlYW4K</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
@@ -1820,22 +1826,22 @@
         <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwKICAgICAgICAgICAgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZpZWxkIDppc19hZG1pbiwgOmJvb2xlYW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJlb25nc190byA6cm9sZXMsIFJvbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQoK</text>
+        <text encoding="base64">ICAgIGZpZWxkIDpyb2xlX2lkLCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWRkIDpyb2xlX2lkLCAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3Bhc3N3b3JkX3Jlc2V0cyIsIFBhc3N3b3JkUmVzZXRDb250cm9sbGVyLCBvbmx5OiBbOm5ldywgOmNyZWF0ZV0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1843,13 +1849,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3VzZXJzIiwgVXNlckNvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgICAgYWRkIDpyb2xlX2lkLCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgZGVmIGlkX2NoZWNrKCVQbHVnLkNvbm57cGFyYW1zOiBwYXJhbXN9ID0gY29ubiwgX29wdHMpIGRvCiAgICBJTy5pbnNwZWN0KHBhcmFtcywgbGFiZWw6ICJQYXJhbXMiKQogICAgY29ubgogIGVuZAo=</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3Bhc3N3b3JkX3Jlc2V0cyIsIFBhc3N3b3JkUmVzZXRDb250cm9sbGVyLCBvbmx5OiBbOm5ldywgOmNyZWF0ZV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9sYXlvdXQoZmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
