@@ -166,10 +166,6 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/session_controller.ex" timestamp="1509458133262">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="36" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/category.ex" timestamp="1499311399352">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="23" column="41" />
@@ -761,6 +757,9 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1512553823278">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
         <mark key="[" line="28" column="69" />
         <mark key="]" line="28" column="77" />
@@ -1150,11 +1149,10 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1512548051792">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1512554077528">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
@@ -1823,8 +1821,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -1839,19 +1837,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlIHVuaXF1ZV9pbmRleCg6cm9sZXMsIFs6bmFtZV0pCg==</text>
+        <text encoding="base64">ICBkZWYgdXBkYXRlX3JvbGVfY2hhbmdlc2V0KCVVc2Vye30gPSB1c2VyLCBuZXdfcm9sZSkgZG8KICAgIHVzZXIKICAgIHw+IHB1dF9hc3NvYyg6cm9sZSwgbmV3X3JvbGUpCiAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlIHVuaXF1ZV9pbmRleCg6cm9sZXMsIFs6bmFtZV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1859,13 +1857,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDppc19hZG1pbiwgOmJvb2xlYW4K</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUoIkNSRUFURSBFWFRFTlNJT04gSUYgTk9UIEVYSVNUUyBjaXRleHQ7IiwgIkRST1AgRVhURU5TSU9OIGNpdGV4dDsiKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJlb25nc190byA6cm9sZXMsIFJvbGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
