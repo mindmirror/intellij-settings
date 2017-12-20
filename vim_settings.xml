@@ -229,11 +229,11 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/seeds.exs" timestamp="1513760189580">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/seeds.exs" timestamp="1513781408915">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="51" />
+        <mark key="^" line="19" column="51" />
+        <mark key="." line="19" column="51" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/echo4/main.go" timestamp="1480997689772">
         <mark key="[" line="14" column="26" />
@@ -261,6 +261,12 @@
         <mark key="]" line="20" column="34" />
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/role.ex" timestamp="1513780934587">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/one_ns.clj" timestamp="1423445564804">
         <mark key="[" line="5" column="22" />
@@ -365,11 +371,11 @@
         <mark key="^" line="71" column="39" />
         <mark key="." line="71" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/accounts.ex" timestamp="1513759696301">
-        <mark key="[" line="130" column="31" />
-        <mark key="]" line="130" column="44" />
-        <mark key="^" line="130" column="44" />
-        <mark key="." line="130" column="44" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/accounts.ex" timestamp="1513780451108">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv0/main.go" timestamp="1481017632184">
         <mark key="[" line="0" column="8" />
@@ -1047,10 +1053,11 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/user.ex" timestamp="1513760518313">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/user.ex" timestamp="1513780403177">
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="37" />
+        <mark key="^" line="43" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1509450188242">
         <mark key="'" line="54" column="4" />
@@ -1838,11 +1845,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHw+IGNoYW5nZSgle3JvbGVfaWQ6IGFkbWluLmlkfSkK</text>
+      <register name="&quot;" type="4">
+        <text>Accounts.Role</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Accounts.Role</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
@@ -1851,22 +1858,22 @@
         <text encoding="base64">ICAgIGFkbWluID0gUmVwby5nZXRfYnkhKFJvbGUsIG5hbWU6ICJBZG1pbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHw+IGNoYW5nZSgle3JvbGVfaWQ6IGFkbWluLmlkfSkK</text>
+        <text encoding="base64">ICAle25hbWU6ICJVbmFzc2lnbmVkIiwgaWQ6IDB9LAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHw+IGNoYW5nZSgle3JvbGVfaWQ6IGFkbWluLmlkfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBidWlsZF9hc3NvYyhhZG1pbiwpCg==</text>
+        <text encoding="base64">ICAgIHw+IGNoYW5nZSgle3JvbGVfaWQ6IGFkbWluLmlkfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9hc3NvYyg6cm9sZSwgYXR0cnMucm9sZSkK</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBidWlsZF9hc3NvYyhhZG1pbiwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDpyb2xlX2lkLCA6aW50ZWdlcgo=</text>
+        <text encoding="base64">ICAgIHw+IHB1dF9hc3NvYyg6cm9sZSwgYXR0cnMucm9sZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlbG9uZ3NfdG8gOnJvbGVzLCBSb2xlCg==</text>
+        <text encoding="base64">ICAgIGZpZWxkIDpyb2xlX2lkLCA6aW50ZWdlcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1874,13 +1881,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWRkIDppc19hZG1pbiwgOmJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGJlbG9uZ3NfdG8gOnJvbGVzLCBSb2xlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkIDppc19hZG1pbiwgOmJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgdXBkYXRlX3JvbGVfY2hhbmdlc2V0KCVVc2Vye30gPSB1c2VyLCBuZXdfcm9sZSkgZG8KICAgIHVzZXIKICAgIHw+IHB1dF9hc3NvYyg6cm9sZSwgbmV3X3JvbGUpCiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
