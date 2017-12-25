@@ -28,11 +28,18 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/agent.ex" timestamp="1514192807180">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171225104106_create_agents.exs" timestamp="1514198516044">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/agent.ex" timestamp="1514198726900">
+        <mark key="'" line="9" column="44" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1504767886645">
         <mark key="'" line="16" column="91" />
@@ -517,11 +524,12 @@
         <mark key="^" line="1" column="58" />
         <mark key="." line="1" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" timestamp="1514192794390">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" timestamp="1514198621551">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="9" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/campaign.ex" timestamp="1501227142078">
         <mark key="'" line="24" column="32" />
@@ -1056,7 +1064,8 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/user.ex" timestamp="1513830565460">
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/user.ex" timestamp="1514198358569">
+        <mark key="'" line="40" column="0" />
         <mark key="[" line="36" column="36" />
         <mark key="]" line="37" column="36" />
         <mark key="." line="37" column="36" />
@@ -1779,15 +1788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="61" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="71" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="21" column="35" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
@@ -1879,37 +1879,46 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/orders.ex" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/user_agent.ex" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/products.ex" />
+      <jump line="17" column="19" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" />
+      <jump line="13" column="22" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/user.ex" />
+      <jump line="0" column="27" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" />
+      <jump line="14" column="17" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" />
+      <jump line="5" column="14" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" />
+      <jump line="9" column="44" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/agent.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Orders</text>
+        <text>Advertiser</text>
       </register>
       <register name="-" type="4">
-        <text>Orders</text>
+        <text>Advertiser</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbXNcPg==</text>
+        <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFkbWluID0gUmVwby5nZXRfYnkhKFJvbGUsIG5hbWU6ICJBZG1pbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX3JlcXVpcmVkKFs6ZnVsbG5hbWUsIDplbWFpbF0pCiAgICB8PiB1bmlxdWVfZW1haWwoKQogICAgfD4gdmFsaWRhdGVfcGFzc3dvcmQoOnBhc3N3b3JkKQogICAgfD4gcHV0X3Bhc3NfaGFzaCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX3JlcXVpcmVkKFs6ZnVsbG5hbWUsIDplbWFpbF0pCiAgICB8PiB1bmlxdWVfZW1haWwoKQogICAgfD4gdmFsaWRhdGVfcGFzc3dvcmQoOnBhc3N3b3JkKQogICAgfD4gcHV0X3Bhc3NfaGFzaCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAle25hbWU6ICJVbmFzc2lnbmVkIiwgaWQ6IDB9LAo=</text>
+        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX3JlcXVpcmVkKFs6ZnVsbG5hbWUsIDplbWFpbF0pCiAgICB8PiB1bmlxdWVfZW1haWwoKQogICAgfD4gdmFsaWRhdGVfcGFzc3dvcmQoOnBhc3N3b3JkKQogICAgfD4gcHV0X3Bhc3NfaGFzaCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHw+IGNoYW5nZSgle3JvbGVfaWQ6IGFkbWluLmlkfSkK</text>
+        <text encoding="base64">ICAle25hbWU6ICJVbmFzc2lnbmVkIiwgaWQ6IDB9LAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHw+IGNoYW5nZSgle3JvbGVfaWQ6IGFkbWluLmlkfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBidWlsZF9hc3NvYyhhZG1pbiwpCg==</text>
+        <text encoding="base64">ICAgIHw+IGNoYW5nZSgle3JvbGVfaWQ6IGFkbWluLmlkfSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1917,31 +1926,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHw+IHB1dF9hc3NvYyg6cm9sZSwgYXR0cnMucm9sZSkK</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBidWlsZF9hc3NvYyhhZG1pbiwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDpyb2xlX2lkLCA6aW50ZWdlcgo=</text>
+        <text encoding="base64">ICAgIHw+IHB1dF9hc3NvYyg6cm9sZSwgYXR0cnMucm9sZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJlbG9uZ3NfdG8gOnJvbGVzLCBSb2xlCg==</text>
+        <text encoding="base64">ICAgIGZpZWxkIDpyb2xlX2lkLCA6aW50ZWdlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbXNcPg==</last-search>
+      <last-search encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDYW1wYWlnbkV4cHJlc3NcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfYWN0aXZlX2NhbXBhaWduc1w+</entry>
-        <entry encoding="base64">XDxzZWVkX3BhdGhcPg==</entry>
         <entry encoding="base64">XDxtaWdyYXRpb25zX3BhdGhcPg==</entry>
         <entry encoding="base64">XDxnZXRfZmlsdGVyZWRfY2FtcGFpZ25zXD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJlZF9jYW1wYWlnbl9pZHNcPg==</entry>
@@ -1960,6 +1967,8 @@
         <entry encoding="base64">XDx1c2VyX2NvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxhZG1pbl9zaWduZWRfaW5cPg==</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxBZHZlcnRpc2VyXD4=</entry>
+        <entry encoding="base64">XDxBZHZlcnRpc2Vyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
