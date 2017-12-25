@@ -216,6 +216,13 @@
         <mark key="^" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/products.ex" timestamp="1514190269589">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/app.html.eex" timestamp="1509453137700">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -596,6 +603,12 @@
         <mark key="]" line="5" column="4" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/agent.ex" timestamp="1514190140222">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/go-project/shopping/db/db.go" timestamp="1460623229317">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="8" column="20" />
@@ -736,6 +749,13 @@
         <mark key="]" line="31" column="16" />
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/orders.ex" timestamp="1514189919385">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input.go" timestamp="1466411191079">
         <mark key="'" line="25" column="4" />
@@ -1197,6 +1217,12 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/order.ex" timestamp="1514190036679">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issues/main.go" timestamp="1484009582875">
         <mark key="[" line="17" column="42" />
         <mark key="]" line="18" column="8" />
@@ -1547,6 +1573,12 @@
         <mark key="." line="52" column="49" />
         <mark key="^" line="52" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/line_item.ex" timestamp="1514190156254">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="4" column="22" />
@@ -1622,6 +1654,12 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/advertiser.ex" timestamp="1514190133483">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" timestamp="1504151448033">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="13" />
@@ -1646,6 +1684,13 @@
         <mark key="]" line="20" column="61" />
         <mark key="^" line="20" column="61" />
         <mark key="." line="20" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/user_agent.ex" timestamp="1514190101629">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/page/index.html.eex" timestamp="1501051604134">
         <mark key="[" line="0" column="0" />
@@ -1743,9 +1788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="8" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="42" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="79" column="3" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
       <jump line="49" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
@@ -1843,13 +1885,16 @@
       <jump line="136" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
       <jump line="115" column="20" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/orders.ex" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/user_agent.ex" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/products.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX3JlcXVpcmVkKFs6ZnVsbG5hbWUsIDplbWFpbF0pCiAgICB8PiB1bmlxdWVfZW1haWwoKQogICAgfD4gdmFsaWRhdGVfcGFzc3dvcmQoOnBhc3N3b3JkKQogICAgfD4gcHV0X3Bhc3NfaGFzaCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Orders</text>
       </register>
       <register name="-" type="4">
-        <text>foreign_key_constraint</text>
+        <text>Orders</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
