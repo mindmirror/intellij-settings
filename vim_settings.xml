@@ -155,11 +155,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/ad_format.ex" timestamp="1514293360674">
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/ad_format.ex" timestamp="1514294193511">
         <mark key="[" line="23" column="5" />
-        <mark key="]" line="22" column="19" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="22" column="19" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/seeds.exs" timestamp="1499310065428">
         <mark key="[" line="16" column="4" />
@@ -405,11 +405,11 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226125627_create_ad_format.exs" timestamp="1514293112761">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="46" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="15" column="46" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226125627_create_ad_format.exs" timestamp="1514294438723">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo1/main.go" timestamp="1460716275439">
         <mark key="[" line="9" column="12" />
@@ -1945,10 +1945,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>placements</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>placements</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
