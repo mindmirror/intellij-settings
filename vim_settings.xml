@@ -28,11 +28,11 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171225104106_create_agents.exs" timestamp="1514198516044">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171225104106_create_agents.exs" timestamp="1514279615518">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/agent.ex" timestamp="1514260718535">
         <mark key="'" line="9" column="44" />
@@ -47,6 +47,12 @@
         <mark key="]" line="85" column="50" />
         <mark key="^" line="85" column="50" />
         <mark key="." line="85" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226090334_create_ad_platform.exs" timestamp="1514280023040">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1499228144896">
         <mark key="[" line="23" column="23" />
@@ -710,11 +716,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226040222_create_user_agent_table.exs" timestamp="1514261027295">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="9" column="58" />
-        <mark key="^" line="9" column="58" />
-        <mark key="." line="9" column="58" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226040222_create_user_agent_table.exs" timestamp="1514279171487">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="47" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="0" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/main/main.go" timestamp="1460621986432">
         <mark key="[" line="5" column="1" />
@@ -794,9 +800,6 @@
         <mark key="]" line="29" column="37" />
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512555545043">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
         <mark key="[" line="28" column="69" />
@@ -957,6 +960,12 @@
         <mark key="]" line="3" column="29" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/product_type.ex" timestamp="1514278961070">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="9" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/ch05.clj" timestamp="1423097954526">
         <mark key="[" line="12" column="0" />
@@ -1363,6 +1372,12 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20170806065515_create_roles_table.exs" timestamp="1514279141014">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1512,11 +1527,11 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/ad_platform.ex" timestamp="1514193298223">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/ad_platform.ex" timestamp="1514279548524">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170806065515_add_roles_table.exs" timestamp="1512545204840">
         <mark key="[" line="4" column="31" />
@@ -1607,11 +1622,11 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226075638_create_publisher.exs" timestamp="1514276403836">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226075638_create_publisher.exs" timestamp="1514279879851">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/impersonation.html.eex" timestamp="1509436636964">
         <mark key="[" line="0" column="34" />
@@ -1645,11 +1660,11 @@
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/publishers/publisher.ex" timestamp="1514278050342">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="40" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/publishers/publisher.ex" timestamp="1514278681853">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/user/user.html.eex" timestamp="1500452298169">
         <mark key="[" line="0" column="0" />
@@ -1719,11 +1734,11 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171225093142_create_advertisers.exs" timestamp="1514194604343">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171225093142_create_advertisers.exs" timestamp="1514279603384">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express.ex" timestamp="1502961840773">
         <mark key="[" line="18" column="7" />
@@ -1763,8 +1778,11 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226084928_create_product_type.exs" timestamp="1514278172802">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226084928_create_product_type.exs" timestamp="1514279992080">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/admin.html.eex" timestamp="1509460552831">
         <mark key="[" line="23" column="56" />
@@ -1909,10 +1927,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[:name]</text>
+        <text encoding="base64">VGFibGUg</text>
       </register>
       <register name="-" type="4">
-        <text>[:name]</text>
+        <text encoding="base64">VGFibGUg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
