@@ -1390,11 +1390,11 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226124632_create_ad_placement.exs" timestamp="1514292864324">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="17" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226124632_create_ad_placement.exs" timestamp="1514296575203">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+        <mark key="." line="7" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
         <mark key="'" line="3" column="0" />
@@ -1476,11 +1476,17 @@
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/ad_placement.ex" timestamp="1514292899657">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="19" column="37" />
-        <mark key="^" line="19" column="37" />
-        <mark key="." line="19" column="37" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226135840_create_product_item.exs" timestamp="1514296899220">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/ad_placement.ex" timestamp="1514296350855">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
         <mark key="[" line="0" column="10" />
@@ -1945,10 +1951,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>placements</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>placements</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
