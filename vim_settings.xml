@@ -1607,8 +1607,11 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226075638_create_publisher.exs" timestamp="1514275022023">
-        <mark key="[" line="5" column="6" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226075638_create_publisher.exs" timestamp="1514276403836">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/impersonation.html.eex" timestamp="1509436636964">
         <mark key="[" line="0" column="34" />
@@ -1642,11 +1645,11 @@
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/publishers/publisher.ex" timestamp="1514192759689">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="25" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/publishers/publisher.ex" timestamp="1514278050342">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+        <mark key="^" line="22" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/user/user.html.eex" timestamp="1500452298169">
         <mark key="[" line="0" column="0" />
@@ -1759,6 +1762,9 @@
         <mark key="]" line="1" column="48" />
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226084928_create_product_type.exs" timestamp="1514278172802">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/admin.html.eex" timestamp="1509460552831">
         <mark key="[" line="23" column="56" />
@@ -1902,11 +1908,11 @@
       <jump line="9" column="44" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/agent.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRWN0by5DaGFuZ2VzZXQK</text>
+      <register name="&quot;" type="4">
+        <text>[:name]</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>[:name]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
