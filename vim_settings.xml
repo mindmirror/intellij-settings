@@ -1133,12 +1133,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1509461216889">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1516606083702">
         <mark key="'" line="48" column="77" />
-        <mark key="[" line="36" column="6" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="32" column="54" />
+        <mark key="." line="32" column="54" />
+        <mark key="^" line="32" column="54" />
       </file>
       <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
         <mark key="[" line="3" column="89" />
@@ -1985,11 +1985,11 @@
       <jump line="9" column="44" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/agent.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICAK</text>
+      <register name="&quot;" type="4">
+        <text>sign_in</text>
       </register>
       <register name="-" type="4">
-        <text>belongs_to :</text>
+        <text>sign_in</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
