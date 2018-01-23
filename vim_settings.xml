@@ -1335,11 +1335,11 @@
         <mark key="^" line="43" column="10" />
         <mark key="." line="43" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1516690541860">
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1516694638985">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks1/main.go" timestamp="1484184387739">
         <mark key="'" line="20" column="44" />
@@ -1411,11 +1411,12 @@
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180123065648_create_line_item.exs" timestamp="1516691965830">
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="25" column="121" />
-        <mark key="^" line="25" column="121" />
-        <mark key="." line="25" column="121" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180123065648_create_line_item.exs" timestamp="1516694646165">
+        <mark key="[" line="19" column="65" />
+        <mark key="k" line="22" column="0" />
+        <mark key="]" line="19" column="85" />
+        <mark key="^" line="19" column="121" />
+        <mark key="." line="19" column="65" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
@@ -2008,10 +2009,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgI3s6YXJnb24yX2VsaXhpciwgIn4+IDEuMiJ9LAo=</text>
+        <text encoding="base64">ICAgIGZpZWxkIDpzdGFydF9kYXRlLCA6ZGF0ZQogICAgZmllbGQgOmVuZF9kYXRlLCA6ZGF0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Argon2</text>
+        <text encoding="base64">OmFkX3BsYWNlbWVudF9uYW1lLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
@@ -2020,22 +2021,22 @@
         <text encoding="base64">ICAgIGNyZWF0ZSB1bmlxdWVfaW5kZXgoOmFkX3BsYWNlbWVudHMsIFs6bmFtZV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgI3s6YXJnb24yX2VsaXhpciwgIn4+IDEuMiJ9LAo=</text>
+        <text encoding="base64">ICAgIGZpZWxkIDpzdGFydF9kYXRlLCA6ZGF0ZQogICAgZmllbGQgOmVuZF9kYXRlLCA6ZGF0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjOmFyZ29uMl9lbGl4aXIsCg==</text>
+        <text encoding="base64">ICAgIGZpZWxkIDpwcm9kdWN0X3R5cGVfbmFtZSwgOnN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSBpbmRleCg6bGluZV9pdGVtcywgWzplbmRfZGF0ZV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRWN0by5DaGFuZ2VzZXQK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSBpbmRleCg6bGluZV9pdGVtcywgWzpwcm9kdWN0X3R5cGVfbmFtZV0pCiAgICBjcmVhdGUgaW5kZXgoOmxpbmVfaXRlbXMsIFs6cHJvZHVjdF90eXBlX25hbWUsIDpwdWJsaXNoZXJfbmFtZV0pCiAgICBjcmVhdGUgaW5kZXgoOmxpbmVfaXRlbXMsIFs6cHVibGlzaGVyX25hbWVdKQogICAgY3JlYXRlIGluZGV4KDpsaW5lX2l0ZW1zLCBbOmFkX3BsYXRmb3JtX25hbWVdKQogICAgY3JlYXRlIGluZGV4KDpsaW5lX2l0ZW1zLCBbOmFkX3BsYWNlbWVudF9uYW1lXSkKICAgIGNyZWF0ZSBpbmRleCg6bGluZV9pdGVtcywgWzphZF9mb3JtYXRfbmFtZV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgI3s6YXJnb24yX2VsaXhpciwgIn4+IDEuMiJ9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjOmFyZ29uMl9lbGl4aXIsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2043,13 +2044,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX3JlcXVpcmVkKFs6ZnVsbG5hbWUsIDplbWFpbF0pCiAgICB8PiB1bmlxdWVfZW1haWwoKQogICAgfD4gdmFsaWRhdGVfcGFzc3dvcmQoOnBhc3N3b3JkKQogICAgfD4gcHV0X3Bhc3NfaGFzaCgpCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgRWN0by5DaGFuZ2VzZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX3JlcXVpcmVkKFs6ZnVsbG5hbWUsIDplbWFpbF0pCiAgICB8PiB1bmlxdWVfZW1haWwoKQogICAgfD4gdmFsaWRhdGVfcGFzc3dvcmQoOnBhc3N3b3JkKQogICAgfD4gcHV0X3Bhc3NfaGFzaCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
