@@ -1335,11 +1335,11 @@
         <mark key="^" line="43" column="10" />
         <mark key="." line="43" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1516696903746">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="25" column="73" />
-        <mark key="^" line="25" column="73" />
-        <mark key="." line="25" column="73" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1516698825343">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="23" column="24" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks1/main.go" timestamp="1484184387739">
         <mark key="'" line="20" column="44" />
@@ -2008,11 +2008,11 @@
       <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/manna/mix.exs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDpzdGFydF9kYXRlLCA6ZGF0ZQogICAgZmllbGQgOmVuZF9kYXRlLCA6ZGF0ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>ProductItem</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OmFkX3BsYWNlbWVudF9uYW1lLCA=</text>
+        <text>ProductItem</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
