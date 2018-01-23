@@ -1335,11 +1335,11 @@
         <mark key="^" line="43" column="10" />
         <mark key="." line="43" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1516689183950">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1516690541860">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks1/main.go" timestamp="1484184387739">
         <mark key="'" line="20" column="44" />
@@ -1410,6 +1410,12 @@
         <mark key="]" line="40" column="32" />
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180123065648_create_line_item.exs" timestamp="1516691220713">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="26" column="39" />
+        <mark key="^" line="26" column="39" />
+        <mark key="." line="26" column="39" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
