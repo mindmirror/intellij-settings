@@ -1411,11 +1411,11 @@
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180123065648_create_line_item.exs" timestamp="1516691220713">
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="26" column="39" />
-        <mark key="^" line="26" column="39" />
-        <mark key="." line="26" column="39" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180123065648_create_line_item.exs" timestamp="1516691965830">
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="25" column="121" />
+        <mark key="^" line="25" column="121" />
+        <mark key="." line="25" column="121" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
