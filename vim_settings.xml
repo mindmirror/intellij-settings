@@ -1411,12 +1411,12 @@
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180123065648_create_line_item.exs" timestamp="1516694646165">
-        <mark key="[" line="19" column="65" />
-        <mark key="k" line="22" column="0" />
-        <mark key="]" line="19" column="85" />
-        <mark key="^" line="19" column="121" />
-        <mark key="." line="19" column="65" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180123065648_create_line_item.exs" timestamp="1516704280010">
+        <mark key="[" line="19" column="46" />
+        <mark key="k" line="27" column="0" />
+        <mark key="]" line="19" column="46" />
+        <mark key="^" line="23" column="48" />
+        <mark key="." line="19" column="46" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
         <mark key="[" line="12" column="1" />
@@ -2009,16 +2009,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ProductItem</text>
+        <text>:product_type_name</text>
       </register>
       <register name="-" type="4">
-        <text>ProductItem</text>
+        <text>:product_type_name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZSB1bmlxdWVfaW5kZXgoOmFkX3BsYWNlbWVudHMsIFs6bmFtZV0pCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSBpbmRleCg6bGluZV9pdGVtcywgWzpzdGFydF9kYXRlXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZpZWxkIDpzdGFydF9kYXRlLCA6ZGF0ZQogICAgZmllbGQgOmVuZF9kYXRlLCA6ZGF0ZQo=</text>
