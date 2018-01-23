@@ -1335,6 +1335,12 @@
         <mark key="^" line="43" column="10" />
         <mark key="." line="43" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1516696903746">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="25" column="73" />
+        <mark key="^" line="25" column="73" />
+        <mark key="." line="25" column="73" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks1/main.go" timestamp="1484184387739">
         <mark key="'" line="20" column="44" />
         <mark key="[" line="20" column="0" />
