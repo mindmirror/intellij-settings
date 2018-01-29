@@ -594,10 +594,10 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180124040608_create_order_table.exs" timestamp="1516782730621">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="17" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180124040608_create_order_table.exs" timestamp="1517199737423">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="113" />
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
@@ -1460,8 +1460,11 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/ecto_enums.ex" timestamp="1517198560510">
-        <mark key="[" line="4" column="10" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/ecto_enums.ex" timestamp="1517199763480">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="109" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
         <mark key="'" line="3" column="0" />
@@ -1927,8 +1930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
-      <jump line="113" column="10" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
       <jump line="78" column="9" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
       <jump line="81" column="25" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
       <jump line="119" column="2" filename="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" />
@@ -2027,10 +2028,12 @@
       <jump line="7" column="37" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/order.ex" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/order.ex" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/order.ex" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180124040608_create_order_table.exs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180124040608_create_order_table.exs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAnZHJhZnQnLCAnc3VibWl0dGVkJywgJ3Byb2Nlc3NpbmcnLCAnY29uZmlybWVkJywgJ2RlbGl2ZXJlZCcsICdjYW5jZWxsZWQnCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -2038,26 +2041,26 @@
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYWRkKDp1c2VyX2lkLCByZWZlcmVuY2VzKDp1c2VycykpCg==</text>
+      <register name="0" type="4">
+        <text>'draft', 'submitted', 'processing', 'confirmed', 'delivered', 'cancelled'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAnZHJhZnQnLCAnc3VibWl0dGVkJywgJ3Byb2Nlc3NpbmcnLCAnY29uZmlybWVkJywgJ2RlbGl2ZXJlZCcsICdjYW5jZWxsZWQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGltZXN0YW1wcygpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWRkKDp1c2VyX2lkLCByZWZlcmVuY2VzKDp1c2VycykpCg==</text>
+        <text encoding="base64">ICAgICAgdGltZXN0YW1wcygpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgYWRkKDp1c2VyX2lkLCByZWZlcmVuY2VzKDp1c2VycykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWRkKDpjYW1wYWlnbl9uYW1lLCA6c3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgYWRkKDp1c2VyX2lkLCByZWZlcmVuY2VzKDp1c2VycykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZWxkKDopCg==</text>
+        <text encoding="base64">ICAgICAgYWRkKDpjYW1wYWlnbl9uYW1lLCA6c3RyaW5nKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2065,13 +2068,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpZWxkKDopCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRyb3AgdGFibGUoOm9yZGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDpzdGFydF9kYXRlLCA6ZGF0ZQogICAgZmllbGQgOmVuZF9kYXRlLCA6ZGF0ZQo=</text>
+        <text encoding="base64">ICAgIGRyb3AgdGFibGUoOm9yZGVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
