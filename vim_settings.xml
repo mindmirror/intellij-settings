@@ -1797,12 +1797,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/test/manna_web/controllers/user_controller_test.exs" timestamp="1517217346377">
+      <file name="$USER_HOME$/Projects/aims/manna/test/manna_web/controllers/user_controller_test.exs" timestamp="1517218967216">
         <mark key="'" line="8" column="2" />
-        <mark key="[" line="6" column="91" />
-        <mark key="]" line="6" column="91" />
-        <mark key="^" line="6" column="92" />
-        <mark key="." line="6" column="91" />
+        <mark key="[" line="15" column="74" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/config/prod.secret.exs" timestamp="1504151448033">
         <mark key="'" line="0" column="0" />
