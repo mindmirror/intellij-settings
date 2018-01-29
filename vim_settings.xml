@@ -1460,6 +1460,9 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/ecto_enums.ex" timestamp="1517198560510">
+        <mark key="[" line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1890,12 +1893,12 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/mix.exs" timestamp="1516613795275">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="59" column="30" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="59" column="30" />
+      <file name="$USER_HOME$/Projects/aims/manna/mix.exs" timestamp="1517198323196">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="26" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
         <mark key="'" line="21" column="0" />
