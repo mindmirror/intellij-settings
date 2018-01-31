@@ -1065,11 +1065,11 @@
         <mark key="^" line="112" column="32" />
         <mark key="." line="112" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1517380501524">
+      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1517382709446">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="13" />
-        <mark key="." line="46" column="13" />
+        <mark key="[" line="48" column="37" />
+        <mark key="]" line="48" column="37" />
+        <mark key="." line="48" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1509455101682">
         <mark key="[" line="22" column="26" />
@@ -2067,34 +2067,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>6020584739487502748</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>6020584739487502748</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>'draft', 'submitted', 'processing', 'confirmed', 'delivered', 'cancelled'</text>
+        <text>6020584739487502748</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBGb3JjZXggY29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgNjAyMDU4NDczOTQ4NzUwMjc0OAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChjb25uKQo=</text>
+        <text encoding="base64">IyBGb3JjZXggY29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICN8PiBsb2dpbl9zdWNjZXNzKHVzZXJfcGF0aChjb25uLCA6aW5kZXgpKQo=</text>
+        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChjb25uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICN8PiBsb2dpbl9zdWNjZXNzKHVzZXJfcGF0aChjb25uLCA6aW5kZXgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUoCiAgICAgICJDUkVBVEUgVFlQRSBvcmRlcl9zdGF0dXMgQVMgRU5VTSAoJ2RyYWZ0JywgJ3N1Ym1pdHRlZCcsICdwcm9jZXNzaW5nJywgJ2NvbmZpcm1lZCcsICdkZWxpdmVyZWQnLCAnY2FuY2VsbGVkJykiCiAgICApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1hbm5hLkVjdG9FbnVtcy5PcmRlclN0YXR1c0VudW0K</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUoCiAgICAgICJDUkVBVEUgVFlQRSBvcmRlcl9zdGF0dXMgQVMgRU5VTSAoJ2RyYWZ0JywgJ3N1Ym1pdHRlZCcsICdwcm9jZXNzaW5nJywgJ2NvbmZpcm1lZCcsICdkZWxpdmVyZWQnLCAnY2FuY2VsbGVkJykiCiAgICApCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2102,13 +2102,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnZHJhZnQnLCAnc3VibWl0dGVkJywgJ3Byb2Nlc3NpbmcnLCAnY29uZmlybWVkJywgJ2RlbGl2ZXJlZCcsICdjYW5jZWxsZWQnCg==</text>
+        <text encoding="base64">ICAgIE1hbm5hLkVjdG9FbnVtcy5PcmRlclN0YXR1c0VudW0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAnZHJhZnQnLCAnc3VibWl0dGVkJywgJ3Byb2Nlc3NpbmcnLCAnY29uZmlybWVkJywgJ2RlbGl2ZXJlZCcsICdjYW5jZWxsZWQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGltZXN0YW1wcygpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
