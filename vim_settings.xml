@@ -1065,12 +1065,12 @@
         <mark key="^" line="112" column="32" />
         <mark key="." line="112" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1517388113922">
+      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1517389332968">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="45" column="36" />
-        <mark key="." line="45" column="36" />
-        <mark key="^" line="45" column="36" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="43" />
+        <mark key="^" line="46" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1509455101682">
         <mark key="[" line="22" column="26" />
@@ -2068,10 +2068,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">S3FEZmE+dExCaHV5WUR5NlpEdVBwZGhU</text>
+        <text>CIzJLbCWF7BcVUDGKeU4qO7rJ</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">S3FEZmE+dExCaHV5WUR5NlpEdVBwZGhU</text>
+        <text>CIzJLbCWF7BcVUDGKeU4qO7rJ</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
