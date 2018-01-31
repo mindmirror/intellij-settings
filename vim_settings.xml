@@ -1065,11 +1065,12 @@
         <mark key="^" line="112" column="32" />
         <mark key="." line="112" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1517384591449">
+      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1517388113922">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="48" column="37" />
-        <mark key="]" line="48" column="37" />
-        <mark key="." line="48" column="37" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+        <mark key="^" line="45" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1509455101682">
         <mark key="[" line="22" column="26" />
@@ -1373,12 +1374,12 @@
         <mark key="^" line="43" column="10" />
         <mark key="." line="43" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1517211462234">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1517388510144">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks1/main.go" timestamp="1484184387739">
         <mark key="'" line="20" column="44" />
@@ -2067,10 +2068,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">S3FEZmE+dExCaHV5WUR5NlpEdVBwZGhU</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">S3FEZmE+dExCaHV5WUR5NlpEdVBwZGhU</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
