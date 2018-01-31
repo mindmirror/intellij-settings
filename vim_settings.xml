@@ -1930,12 +1930,12 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/mix.exs" timestamp="1517380690087">
+      <file name="$USER_HOME$/Projects/aims/manna/mix.exs" timestamp="1517387012126">
         <mark key="'" line="27" column="15" />
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="44" />
-        <mark key="^" line="9" column="44" />
-        <mark key="." line="9" column="44" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
         <mark key="'" line="21" column="0" />
@@ -2067,10 +2067,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6020584739487502748</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>6020584739487502748</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
