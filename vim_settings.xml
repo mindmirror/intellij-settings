@@ -1078,11 +1078,11 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1504767596328">
-        <mark key="'" line="123" column="51" />
-        <mark key="[" line="123" column="50" />
-        <mark key="]" line="123" column="51" />
-        <mark key="." line="123" column="51" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1517454521885">
+        <mark key="'" line="117" column="7" />
+        <mark key="[" line="120" column="48" />
+        <mark key="]" line="120" column="49" />
+        <mark key="." line="120" column="49" />
         <mark key="^" line="123" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706023050_create_category.exs" timestamp="1499308686826">
@@ -1207,11 +1207,11 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1505115913171">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1517454218295">
         <mark key="'" line="33" column="15" />
-        <mark key="[" line="88" column="19" />
-        <mark key="]" line="89" column="15" />
-        <mark key="." line="89" column="15" />
+        <mark key="[" line="60" column="48" />
+        <mark key="]" line="60" column="49" />
+        <mark key="." line="60" column="49" />
         <mark key="^" line="89" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/page_controller.ex" timestamp="1509351104790">
@@ -1968,7 +1968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="4" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" />
       <jump line="53" column="32" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" />
       <jump line="52" column="44" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
       <jump line="45" column="9" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
@@ -2068,6 +2067,7 @@
       <jump line="43" column="29" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/product_type.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/product_type.ex" />
+      <jump line="117" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2077,7 +2077,7 @@
         <text>IO.inspect(product_types)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
+        <text encoding="base64">XDxnZXRfY2FtcGFpZ25zXD4=</text>
       </register>
       <register name="0" type="4">
         <text>3MVG9Y6d_Btp4xp6tT5s6IiqogvlpZzXs_fa11Z8t4bAO.su4EdtF5oKinbsR7zBwtUhBdW8LIzu2AcU4KXES</text>
@@ -2124,17 +2124,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-search>
+      <last-search encoding="base64">XDxnZXRfY2FtcGFpZ25zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfY2FtcGFpZ25zXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtaWdyYXRpb25zX3BhdGhcPg==</entry>
         <entry encoding="base64">XDxnZXRfZmlsdGVyZWRfY2FtcGFpZ25zXD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJlZF9jYW1wYWlnbl9pZHNcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbnNcPg==</entry>
@@ -2154,6 +2153,7 @@
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxBZHZlcnRpc2VyXD4=</entry>
         <entry encoding="base64">XDxBZHZlcnRpc2Vyc1w+</entry>
+        <entry encoding="base64">XDxnZXRfY2FtcGFpZ25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
