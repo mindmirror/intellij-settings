@@ -3,24 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/golang/src/gowiki/view.html" timestamp="1484642908371">
-        <mark key="[" line="2" column="44" />
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/shlack/mix.exs" timestamp="1498570537177">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="25" />
-        <mark key="^" line="40" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170721070936_update_user.exs" timestamp="1503986489754">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1503632277868">
         <mark key="'" line="48" column="6" />
         <mark key="[" line="57" column="26" />
@@ -28,11 +10,10 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171225104106_create_agents.exs" timestamp="1514292816267">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/view_helpers.ex" timestamp="1509447992005">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/agent.ex" timestamp="1514260718535">
         <mark key="'" line="9" column="44" />
@@ -48,18 +29,6 @@
         <mark key="^" line="85" column="50" />
         <mark key="." line="85" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226090334_create_ad_platform.exs" timestamp="1514292854130">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/router.ex" timestamp="1499228144896">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-      </file>
       <file name="$USER_HOME$/golang/src/upload-db-backup-to-s3/s3test.go" timestamp="1465374970496">
         <mark key="'" line="26" column="17" />
         <mark key="[" line="26" column="18" />
@@ -73,18 +42,6 @@
         <mark key="]" line="26" column="31" />
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/user.ex" timestamp="1499321337195">
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/layout/app.html.eex" timestamp="1500451670839">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issuesreport/main.go" timestamp="1484014317340">
         <mark key="'" line="3" column="12" />
@@ -100,36 +57,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/helpers.ex" timestamp="1509428384259">
-        <mark key="[" line="6" column="61" />
-        <mark key="]" line="6" column="61" />
-        <mark key="^" line="6" column="61" />
-        <mark key="." line="6" column="61" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" timestamp="1509496649306">
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="55" />
-        <mark key="." line="21" column="55" />
-        <mark key="^" line="21" column="55" />
-      </file>
-      <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/pricecheck.go" timestamp="1460622036902">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/auth_view.ex" timestamp="1500455509797">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/user_view.ex" timestamp="1496931161560">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/router.ex" timestamp="1498301563199">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="76" />
@@ -137,29 +64,10 @@
         <mark key="." line="21" column="74" />
         <mark key="^" line="21" column="74" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch01/server1/main.go" timestamp="1480910639076">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-        <mark key="^" line="16" column="48" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/guardian_serializer.ex" timestamp="1500454010966">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.exs" timestamp="1504080081096">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/ad_format.ex" timestamp="1514294193511">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="28" column="29" />
+      <file name="$USER_HOME$/Projects/aims/manna/_build/dev/lib/manna/priv/repo/migrations/20180123065648_create_line_item.exs" timestamp="1516778107756">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/order.ex" timestamp="1517210257336">
         <mark key="'" line="19" column="0" />
@@ -168,48 +76,12 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/seeds.exs" timestamp="1499310065428">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="5" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="16" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_alt_banner.ex" timestamp="1501156004047">
-        <mark key="[" line="8" column="63" />
-        <mark key="]" line="8" column="89" />
-        <mark key="^" line="8" column="89" />
-        <mark key="." line="8" column="89" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/lissajous/main.go" timestamp="1480670363415">
         <mark key="'" line="32" column="61" />
         <mark key="[" line="47" column="44" />
         <mark key="]" line="47" column="44" />
         <mark key="." line="47" column="44" />
         <mark key="^" line="32" column="61" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/test/support/test_helpers.ex" timestamp="1499414081591">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/category.ex" timestamp="1499311399352">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="23" column="41" />
-        <mark key="^" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170731011832_create_user_publisher.exs" timestamp="1501464008384">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="66" />
-        <mark key="^" line="9" column="66" />
-        <mark key="." line="9" column="66" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch05/outline2/main.go" timestamp="1484212085642">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="18" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/index.html.eex" timestamp="1509446584771">
         <mark key="'" line="0" column="0" />
@@ -218,11 +90,10 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/css/app.css" timestamp="1509436811562">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226124632_create_ad_placement.exs" timestamp="1517469297509">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/auth.ex" timestamp="1498303973061">
         <mark key="'" line="2" column="60" />
@@ -231,18 +102,6 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/campaign_view.ex" timestamp="1504771476321">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706054739_alter_video.exs" timestamp="1499320154846">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="56" />
-        <mark key="^" line="4" column="56" />
-        <mark key="." line="4" column="56" />
-      </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/products.ex" timestamp="1514190269589">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="0" column="10" />
@@ -250,30 +109,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/app.html.eex" timestamp="1509453137700">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="41" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/itoa/main.go" timestamp="1481251533576">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="17" />
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/seeds.exs" timestamp="1513781408915">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="51" />
-        <mark key="^" line="19" column="51" />
-        <mark key="." line="19" column="51" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch02/echo4/main.go" timestamp="1480997689772">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/movie/main.go" timestamp="1483925403068">
         <mark key="'" line="0" column="11" />
@@ -296,41 +137,10 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/role.ex" timestamp="1513780934587">
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/clojure-playground/src/playground/one_ns.clj" timestamp="1423445564804">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv0/tempconv.go" timestamp="1481072949090">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/user_controller.ex" timestamp="1499228152843">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="4" column="78" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/shared_view.ex" timestamp="1497194856188">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/test/support/auth_case.ex" timestamp="1517220554389">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="35" column="54" />
-        <mark key="^" line="35" column="54" />
-        <mark key="." line="35" column="54" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170106083134_create_extension_citext.exs" timestamp="1512549121774">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/impersonation.html.eex" timestamp="1509436712458">
         <mark key="'" line="0" column="0" />
@@ -339,108 +149,12 @@
         <mark key="^" line="2" column="98" />
         <mark key="." line="2" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/user_publisher.ex" timestamp="1503398852715">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="8" column="25" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/hello_view.ex" timestamp="1497065372543">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/templates/session/new.html.eex" timestamp="1498303537093">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/page_controller.ex" timestamp="1500450321025">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171206070736_add_role_id_to_users.exs" timestamp="1512544110189">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="37" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/test/manna_web/controllers/page_controller_test.exs" timestamp="1517211980148">
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="55" />
-        <mark key="^" line="5" column="55" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/graph/main.go" timestamp="1481537397184">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="11" column="1" />
         <mark key="]" line="14" column="25" />
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/office/rumbl/web/controllers/video_controller.ex" timestamp="1499939819893">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="71" />
-        <mark key="." line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/github/github2.go" timestamp="1484008649911">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="31" column="22" />
-        <mark key="^" line="31" column="22" />
-        <mark key="." line="31" column="22" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch05/links/main.go" timestamp="1484274041719">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="20" />
-        <mark key="^" line="41" column="20" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/home/rumbl/web/models/user.ex" timestamp="1499768632077">
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/web.ex" timestamp="1500892210287">
-        <mark key="[" line="70" column="43" />
-        <mark key="]" line="71" column="39" />
-        <mark key="^" line="71" column="39" />
-        <mark key="." line="71" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/accounts.ex" timestamp="1513780451108">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="28" column="19" />
-        <mark key="^" line="28" column="19" />
-        <mark key="." line="28" column="19" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv0/main.go" timestamp="1481017632184">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226125627_create_ad_format.exs" timestamp="1514294438723">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch01/echo1/main.go" timestamp="1460716275439">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch05/toposort/main.go" timestamp="1484271492340">
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="50" column="15" />
-        <mark key="." line="50" column="15" />
-        <mark key="^" line="50" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" timestamp="1504177049083">
         <mark key="'" line="15" column="0" />
@@ -449,12 +163,6 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch01/helloworld/main.go" timestamp="1480327358623">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/auth.ex" timestamp="1499419937126">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="16" column="35" />
@@ -462,53 +170,10 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170726105815_create_publisher.exs" timestamp="1501066768850">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="36" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/home/hello_phoenix/web/router.ex" timestamp="1497275451233">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/controllers/auth_controller.ex" timestamp="1500451644868">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/page/index.html.eex" timestamp="1509461534270">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/views/session_view.ex" timestamp="1498303307799">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/static/css/phoenix.css" timestamp="1504859578587">
-        <mark key="[" line="47" column="18" />
-        <mark key="]" line="47" column="17" />
-        <mark key="^" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-      </file>
-      <file name="$USER_HOME$/golang/src/shopping/shopping.go" timestamp="1460622840255">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/product_item.ex" timestamp="1514297266449">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/nonempty/main.go" timestamp="1481528687808">
         <mark key="'" line="21" column="56" />
@@ -531,42 +196,12 @@
         <mark key="." line="56" column="15" />
         <mark key="^" line="56" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170719063603_create_authorization.exs" timestamp="1500446467896">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1517220859159">
         <mark key="'" line="60" column="4" />
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="18" />
         <mark key="." line="28" column="18" />
         <mark key="^" line="28" column="18" />
-      </file>
-      <file name="$USER_HOME$/golang/src/shopping/db/db.go" timestamp="1460691361115">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="6" column="34" />
-        <mark key="." line="8" column="9" />
-      </file>
-      <file name="$USER_HOME$/golang/src/myapp/app/controllers/app.go" timestamp="1480578393981">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch07/sleep/main.go" timestamp="1484625263741">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/rel/vm.args.prod" timestamp="1504096179191">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="58" />
-        <mark key="^" line="1" column="58" />
-        <mark key="." line="1" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/advertiser.ex" timestamp="1514198621551">
         <mark key="'" line="27" column="0" />
@@ -596,35 +231,10 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/golang/src/shopping/main/main.go" timestamp="1460690515714">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-      </file>
-      <file name="$USER_HOME$/golang/src/pixels/weather-go/main.go" timestamp="1485337759160">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706080944_update_video_constraint.exs" timestamp="1499329241750">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="81" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/session_view.ex" timestamp="1500892016826">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/shlack/config/config.exs" timestamp="1498486249066">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226075638_create_publisher.exs" timestamp="1517469285079">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/helpers.ex" timestamp="1509431327346">
         <mark key="'" line="3" column="6" />
@@ -654,35 +264,10 @@
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/agent.ex" timestamp="1514190140222">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/go-project/shopping/db/db.go" timestamp="1460623229317">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/controllers/page_controller.ex" timestamp="1497193338822">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/router.ex" timestamp="1499242759832">
-        <mark key="[" line="26" column="47" />
-        <mark key="]" line="28" column="39" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/clojure-playground/src/playground/func_prog.clj" timestamp="1429578070856">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/page_controller.ex" timestamp="1509454743209">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/current_weather.go" timestamp="1485314050703">
         <mark key="'" line="31" column="0" />
@@ -698,42 +283,12 @@
         <mark key="^" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/page_controller.ex" timestamp="1496887391316">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/error_view.ex" timestamp="1497192326729">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="4" column="10" />
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/show.html.eex" timestamp="1504172763272">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="9" column="31" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/page/index.html.eex" timestamp="1500452088313">
-        <mark key="[" line="2" column="101" />
-        <mark key="]" line="2" column="73" />
-        <mark key="." line="2" column="73" />
-        <mark key="^" line="2" column="73" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch05/outline/main.go" timestamp="1484100747677">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/priv/repo/migrations/20170609124523_create_user.exs" timestamp="1497012857101">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" timestamp="1504151283846">
         <mark key="'" line="0" column="0" />
@@ -742,36 +297,12 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/guardian_serializer.ex" timestamp="1500454006643">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/navigation.html.eex" timestamp="1500888725046">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="55" />
-        <mark key="^" line="2" column="55" />
-        <mark key="." line="2" column="55" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issueshtml/main.go" timestamp="1484014525836">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="34" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226040222_create_user_agent_table.exs" timestamp="1514279171487">
-        <mark key="[" line="0" column="47" />
-        <mark key="]" line="0" column="47" />
-        <mark key="^" line="0" column="47" />
-        <mark key="." line="0" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/main/main.go" timestamp="1460621986432">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/links/links.go" timestamp="1484277104947">
         <mark key="'" line="6" column="0" />
@@ -787,12 +318,12 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1517466359549">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="62" column="4" />
-        <mark key="]" line="62" column="27" />
-        <mark key="^" line="62" column="27" />
-        <mark key="." line="62" column="27" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1517469504254">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" timestamp="1485312479795">
         <mark key="'" line="31" column="0" />
@@ -822,30 +353,6 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/user/index.html.eex" timestamp="1500893831644">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/rel/commands/migrate.sh" timestamp="1504086178131">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="68" />
-        <mark key="^" line="2" column="68" />
-        <mark key="." line="2" column="68" />
-      </file>
-      <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoutil/util.go" timestamp="1485996637310">
-        <mark key="[" line="51" column="59" />
-        <mark key="]" line="51" column="60" />
-        <mark key="." line="51" column="60" />
-        <mark key="^" line="51" column="60" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/templates/hello/world.html.eex" timestamp="1496887510855">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="29" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="28" column="35" />
@@ -856,78 +363,12 @@
       <file name="/Dummy.txt" timestamp="1517465658872">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
-        <mark key="[" line="28" column="69" />
-        <mark key="]" line="28" column="77" />
-        <mark key="^" line="28" column="77" />
-        <mark key="." line="28" column="77" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch07/tempflag/main.go" timestamp="1484635327773">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch05/wait/main.go" timestamp="1484210540968">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="23" column="74" />
-        <mark key="." line="23" column="74" />
-        <mark key="^" line="23" column="74" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/dedup/main.go" timestamp="1481534574697">
         <mark key="'" line="20" column="17" />
         <mark key="[" line="17" column="5" />
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
-      </file>
-      <file name="$USER_HOME$/golang/src/playground/conf" timestamp="1481070467937">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/user_controller.ex" timestamp="1509446842559">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="72" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/controllers/session_controller.ex" timestamp="1498304009121">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="24" column="41" />
-        <mark key="." line="24" column="41" />
-        <mark key="^" line="24" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/clojure-playground/src/playground/macros.clj" timestamp="1429836516506">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="23" column="12" />
-        <mark key="^" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170726112855_create_campaign.exs" timestamp="1501118168665">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="19" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/db/db.go" timestamp="1460621726031">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/snap_campaign.ex" timestamp="1501157271825">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
-      </file>
-      <file name="$USER_HOME$/golang/src/myapp/app/views/App/Index.html" timestamp="1480578568794">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="74" />
       </file>
       <file name="$USER_HOME$/golang/src/gowiki/simpleserver.go" timestamp="1484640581315">
         <mark key="'" line="6" column="0" />
@@ -936,36 +377,6 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueberauth_example/config/dev.exs" timestamp="1498379181924">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="14" column="85" />
-        <mark key="^" line="14" column="85" />
-        <mark key="." line="14" column="85" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/publisher.ex" timestamp="1503392525727">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="19" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/templates/page/test.html.eex" timestamp="1497191803523">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/campaign-express/web/controllers/admin/session_controller.ex" timestamp="1508656136694">
-        <mark key="[" line="66" column="3" />
-        <mark key="]" line="66" column="3" />
-        <mark key="^" line="66" column="3" />
-        <mark key="." line="66" column="3" />
-      </file>
-      <file name="$USER_HOME$/golang/src/simple-web-server/login.gtpl" timestamp="1466411429418">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/repo.ex" timestamp="1501140318586">
         <mark key="'" line="4" column="10" />
         <mark key="[" line="13" column="19" />
@@ -973,72 +384,12 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch03/mandelbrot/main.go" timestamp="1481179732314">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="54" />
-        <mark key="^" line="27" column="54" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gowiki/test.txt" timestamp="1484640869215">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/page_view.ex" timestamp="1497193571703">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/advertisers/user_agent.ex" timestamp="1514274888889">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch07/bytecounter/bytecounter.go" timestamp="1484621363137">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch02/tempconv/conv.go" timestamp="1481073514767">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="6" column="68" />
         <mark key="]" line="9" column="56" />
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/go-project/go-hello/src/main.go" timestamp="1460619678768">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/product_type.ex" timestamp="1514278961070">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="9" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/clojure-playground/src/playground/ch05.clj" timestamp="1423097954526">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="9" column="2" />
-        <mark key="^" line="9" column="2" />
-        <mark key="." line="9" column="2" />
-      </file>
-      <file name="$USER_HOME$/golang/src/test/test.go" timestamp="1464866212805">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/session/signin.html.eex" timestamp="1500969095920">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1512556933369">
         <mark key="'" line="1" column="0" />
@@ -1054,11 +405,10 @@
         <mark key="." line="55" column="36" />
         <mark key="^" line="55" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1509455101682">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226125627_create_ad_format.exs" timestamp="1517469300382">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" timestamp="1517455960920">
         <mark key="'" line="118" column="7" />
@@ -1066,12 +416,6 @@
         <mark key="]" line="80" column="41" />
         <mark key="." line="80" column="41" />
         <mark key="^" line="80" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706023050_create_category.exs" timestamp="1499308686826">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="42" />
-        <mark key="." line="10" column="42" />
       </file>
       <file name="$USER_HOME$/golang/src/concurrency-t1/main.go" timestamp="1460714347207">
         <mark key="'" line="38" column="0" />
@@ -1094,48 +438,12 @@
         <mark key="^" line="20" column="25" />
         <mark key="." line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/config/config.exs" timestamp="1499158166766">
-        <mark key="[" line="61" column="17" />
-        <mark key="]" line="61" column="17" />
-        <mark key="^" line="61" column="17" />
-        <mark key="." line="61" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/user_controller.ex" timestamp="1499308957519">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks3/main.go" timestamp="1484279869448">
         <mark key="'" line="39" column="33" />
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="11" />
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706024210_add_category_id_to_video.exs" timestamp="1499320002849">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/campaign.ex" timestamp="1503392514376">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="34" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/go-project/shopping/pricecheck.go" timestamp="1460623340719">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/snap_stat.ex" timestamp="1501157709661">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1517220648241">
         <mark key="'" line="25" column="70" />
@@ -1157,24 +465,17 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226084928_create_product_type.exs" timestamp="1517469291662">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" timestamp="1516610555486">
         <mark key="'" line="48" column="77" />
         <mark key="[" line="16" column="63" />
         <mark key="]" line="16" column="68" />
         <mark key="." line="16" column="68" />
         <mark key="^" line="16" column="68" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gowiki/edit.html" timestamp="1484642460873">
-        <mark key="[" line="3" column="89" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/templates/layout/app.html.eex" timestamp="1497191812986">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/auth/user_from_auth.ex" timestamp="1503392469452">
         <mark key="'" line="6" column="0" />
@@ -1183,12 +484,6 @@
         <mark key="^" line="180" column="53" />
         <mark key="." line="180" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/layout/signin_bar.html.eex" timestamp="1501038839705">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" timestamp="1517454218295">
         <mark key="'" line="33" column="15" />
         <mark key="[" line="60" column="48" />
@@ -1196,23 +491,10 @@
         <mark key="." line="60" column="49" />
         <mark key="^" line="89" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/controllers/hello_controller.ex" timestamp="1496887491350">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/models/video.ex" timestamp="1499326749098">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="41" />
-        <mark key="^" line="24" column="41" />
-        <mark key="." line="24" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/web/web.ex" timestamp="1499242542415">
-        <mark key="[" line="62" column="13" />
-        <mark key="]" line="62" column="52" />
-        <mark key="^" line="62" column="52" />
-        <mark key="." line="62" column="52" />
+      <file name="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/page_controller.ex" timestamp="1509351104790">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1504165388570">
         <mark key="'" line="18" column="7" />
@@ -1221,36 +503,12 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_cache.ex" timestamp="1503304710258">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/.gitignore" timestamp="1497063577913">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="23" />
         <mark key="]" line="25" column="30" />
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/controllers/hello_controller.ex" timestamp="1497065757094">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="8" column="49" />
-        <mark key="^" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/user/index.html.eex" timestamp="1503632133537">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="9" column="8" />
-        <mark key="." line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/golang/src/simple-web-server/form-input/login.gtpl" timestamp="1466411906270">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/web/controllers/video_controller.ex" timestamp="1499413174747">
         <mark key="'" line="8" column="0" />
@@ -1259,42 +517,6 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1516610541888">
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="36" />
-        <mark key="." line="71" column="36" />
-        <mark key="^" line="71" column="36" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
-        <mark key="[" line="47" column="6" />
-        <mark key="]" line="47" column="39" />
-        <mark key="^" line="47" column="39" />
-        <mark key="." line="47" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/campaign_filter.ex" timestamp="1501118863157">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="19" column="42" />
-        <mark key="." line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171206065515_add_roles_table.exs" timestamp="1512543887422">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/order.ex" timestamp="1514190036679">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/issues/main.go" timestamp="1484009582875">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/session_controller.ex" timestamp="1509453796153">
         <mark key="'" line="53" column="32" />
         <mark key="[" line="61" column="40" />
@@ -1302,54 +524,12 @@
         <mark key="^" line="61" column="40" />
         <mark key="." line="61" column="40" />
       </file>
-      <file name="$USER_HOME$/golang/src/shopping/models/item.go" timestamp="1460691336914">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/page_view.ex" timestamp="1501051736263">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/authorization.ex" timestamp="1500445777527">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="27" column="38" />
-        <mark key="^" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/rel/config.exs" timestamp="1504156695629">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="39" column="32" />
-      </file>
-      <file name="$USER_HOME$/golang/src/playground/main.go" timestamp="1481071306569">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-      </file>
       <file name="$USER_HOME$/golang/src/gowiki/wiki.go" timestamp="1486458782670">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="65" column="19" />
         <mark key="]" line="95" column="54" />
         <mark key="." line="95" column="54" />
         <mark key="^" line="95" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/admin/page_controller.ex" timestamp="1501051684217">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="10" column="1" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/clojure/mastering-clojure-macros/src/mastering_clojure_macros/ch02.clj" timestamp="1435539746518">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="43" column="10" />
-        <mark key="^" line="43" column="10" />
-        <mark key="." line="43" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1517388510144">
         <mark key="'" line="9" column="0" />
@@ -1379,91 +559,12 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/elixir/hello/web/views/hello_view.ex" timestamp="1496886786161">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/auth/user_from_auth.ex" timestamp="1499151132381">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/.gitignore" timestamp="1498373362445">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="9" />
-        <mark key="^" line="25" column="9" />
-        <mark key="." line="25" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/admin/page_view.ex" timestamp="1509454902424">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch02/ftoc/main.go" timestamp="1480928526181">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/treesort/main.go" timestamp="1481677906382">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/config/config.exs" timestamp="1505093058614">
         <mark key="'" line="24" column="29" />
         <mark key="[" line="28" column="2" />
         <mark key="]" line="28" column="2" />
         <mark key="^" line="31" column="65" />
         <mark key="." line="28" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web.ex" timestamp="1509431289589">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="40" column="32" />
-        <mark key="^" line="40" column="32" />
-        <mark key="." line="40" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180123065648_create_line_item.exs" timestamp="1516783966199">
-        <mark key="[" line="4" column="32" />
-        <mark key="k" line="28" column="0" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch05/squares/main.go" timestamp="1484268160296">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/templates/hello/world.html.eex" timestamp="1496845680680">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20170806065515_create_roles_table.exs" timestamp="1514279141014">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226124632_create_ad_placement.exs" timestamp="1514296575203">
-        <mark key="[" line="7" column="46" />
-        <mark key="]" line="7" column="46" />
-        <mark key="^" line="7" column="46" />
-        <mark key="." line="7" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/ecto_enums.ex" timestamp="1517199763480">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="109" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/models/user.ex" timestamp="1496891868158">
         <mark key="'" line="3" column="0" />
@@ -1472,41 +573,10 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170806065515_create_roles_table.exs" timestamp="1512549184823">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/autoescape/main.go" timestamp="1484016091015">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/shlack/config/dev.secret.exs" timestamp="1498485149815">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="4" column="68" />
-        <mark key="^" line="4" column="68" />
-        <mark key="." line="4" column="68" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1503550194512">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170724074442_add_is_admin_flag.exs" timestamp="1500882315153">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-        <mark key="." line="5" column="44" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/user/index.html.eex" timestamp="1509446599041">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="63" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/local_weather_forecast.go" timestamp="1485255713264">
         <mark key="'" line="40" column="0" />
@@ -1514,60 +584,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="39" column="33" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/test/support/conn_case.ex" timestamp="1499414091907">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="28" column="26" />
-        <mark key="^" line="28" column="26" />
-        <mark key="." line="28" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/router.ex" timestamp="1509496421346">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="31" column="7" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171018073805_create_users.exs" timestamp="1512556647478">
-        <mark key="[" line="11" column="62" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/page_controller_test.exs" timestamp="1499411314791">
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="5" column="58" />
-        <mark key="." line="5" column="58" />
-        <mark key="^" line="5" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226135840_create_product_item.exs" timestamp="1514296899220">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="46" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="17" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/ad_placement.ex" timestamp="1514296350855">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="35" />
-        <mark key="^" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/helpers.ex" timestamp="1500879776849">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch06/intset/main.go" timestamp="1484551321492">
         <mark key="'" line="11" column="0" />
@@ -1583,24 +599,6 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/config/dev.exs" timestamp="1497191765092">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/elixir/phoenix_guardian/mix.exs" timestamp="1498567715991">
-        <mark key="[" line="61" column="30" />
-        <mark key="]" line="61" column="27" />
-        <mark key="^" line="61" column="27" />
-        <mark key="." line="61" column="27" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/charcount/main.go" timestamp="1481536623895">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="45" column="61" />
-        <mark key="." line="45" column="61" />
-        <mark key="^" line="45" column="61" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/router.ex" timestamp="1503632052984">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="41" column="0" />
@@ -1608,48 +606,12 @@
         <mark key="^" line="42" column="29" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_daily_record.ex" timestamp="1501156040525">
-        <mark key="[" line="15" column="75" />
-        <mark key="]" line="15" column="75" />
-        <mark key="." line="15" column="75" />
-        <mark key="^" line="15" column="75" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/controllers/hello_controller.ex" timestamp="1496845641160">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/products/ad_platform.ex" timestamp="1514279548524">
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="26" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170806065515_add_roles_table.exs" timestamp="1512545204840">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="4" column="53" />
-        <mark key="^" line="5" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/stats/campaign_stats.ex" timestamp="1503384877173">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="6" />
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/clojure-playground/src/playground/playsync.clj" timestamp="1434705309625">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch06/geometry/geometry.go" timestamp="1484538407410">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="27" column="13" />
-        <mark key="^" line="27" column="13" />
-        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/video_controller_test.exs" timestamp="1499423798486">
         <mark key="'" line="88" column="65" />
@@ -1668,30 +630,12 @@
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna/products/product_type.ex" timestamp="1517453090279">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch01/fetchall/main.go" timestamp="1480909364077">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="39" column="54" />
-        <mark key="." line="39" column="54" />
-        <mark key="^" line="39" column="54" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1517453011440">
         <mark key="'" line="45" column="9" />
         <mark key="[" line="52" column="48" />
         <mark key="]" line="52" column="49" />
         <mark key="." line="52" column="49" />
         <mark key="^" line="52" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/line_item.ex" timestamp="1514190156254">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna/salesforce_data_importer.ex" timestamp="1517458053389">
         <mark key="'" line="5" column="0" />
@@ -1700,12 +644,6 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch02/boiling/main.go" timestamp="1480927566995">
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-      </file>
       <file name="$USER_HOME$/golang/src/myapp/app/views/flash.html" timestamp="1480578625315">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="16" column="9" />
@@ -1713,29 +651,10 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/config/config.exs" timestamp="1498374455723">
-        <mark key="[" line="29" column="89" />
-        <mark key="]" line="30" column="70" />
-        <mark key="^" line="30" column="70" />
-        <mark key="." line="30" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/config/prod.exs" timestamp="1504067369169">
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="47" />
-        <mark key="." line="15" column="47" />
-        <mark key="^" line="15" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226075638_create_publisher.exs" timestamp="1514292828592">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/impersonation.html.eex" timestamp="1509436636964">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="6" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226090334_create_ad_platform.exs" timestamp="1517469294637">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input/form-input.go" timestamp="1466411744856">
         <mark key="'" line="43" column="0" />
@@ -1751,42 +670,6 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/show.html.eex" timestamp="1509496536243">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/password_reset_controller.ex" timestamp="1509347860056">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="43" />
-        <mark key="." line="37" column="43" />
-        <mark key="^" line="37" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/publishers/publisher.ex" timestamp="1514278681853">
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="23" column="37" />
-        <mark key="." line="23" column="37" />
-        <mark key="^" line="23" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/user/user.html.eex" timestamp="1500452298169">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="71" />
-        <mark key="^" line="0" column="71" />
-        <mark key="." line="0" column="71" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/layout_view.ex" timestamp="1500892010057">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/advertiser.ex" timestamp="1514190133483">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/manna/test/manna_web/controllers/user_controller_test.exs" timestamp="1517221767188">
         <mark key="'" line="8" column="2" />
         <mark key="[" line="16" column="0" />
@@ -1801,24 +684,6 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/admin/user_view.ex" timestamp="1509446727119">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber_guardian2/web/templates/auth/signin.html.eex" timestamp="1499147929526">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_alt_campaign.ex" timestamp="1501155482840">
-        <mark key="[" line="19" column="58" />
-        <mark key="]" line="20" column="61" />
-        <mark key="^" line="20" column="61" />
-        <mark key="." line="20" column="61" />
-      </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/user_agent.ex" timestamp="1514190101629">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="0" column="10" />
@@ -1826,35 +691,10 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/page/index.html.eex" timestamp="1501051604134">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-      </file>
-      <file name="$USER_HOME$/golang/src/pixels/weather-go/.gitignore" timestamp="1484720964803">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/snap_banner.ex" timestamp="1501157097186">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171225093142_create_advertisers.exs" timestamp="1514292805883">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express.ex" timestamp="1502961840773">
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="66" />
-        <mark key="^" line="18" column="66" />
-        <mark key="." line="18" column="66" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226135840_create_product_item.exs" timestamp="1517469302965">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" timestamp="1485252579975">
         <mark key="'" line="117" column="0" />
@@ -1863,42 +703,12 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch01/echo3/main.go" timestamp="1480663318159">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="9" column="46" />
-        <mark key="." line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/playground/ueber1/mix.exs" timestamp="1498374402725">
-        <mark key="[" line="50" column="27" />
-        <mark key="]" line="51" column="33" />
-        <mark key="^" line="51" column="33" />
-        <mark key="." line="51" column="33" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/user.ex" timestamp="1501210303875">
         <mark key="'" line="38" column="4" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/user/show.html.eex" timestamp="1500452287780">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="48" />
-        <mark key="^" line="1" column="48" />
-        <mark key="." line="1" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20171226084928_create_product_type.exs" timestamp="1514292840735">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/admin.html.eex" timestamp="1509460552831">
-        <mark key="[" line="23" column="56" />
-        <mark key="]" line="23" column="58" />
-        <mark key="." line="23" column="58" />
-        <mark key="^" line="23" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" timestamp="1504767547800">
         <mark key="'" line="58" column="49" />
@@ -1921,33 +731,8 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/mix.exs" timestamp="1498272172497">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="54" />
-        <mark key="^" line="21" column="54" />
-        <mark key="." line="21" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/hello/web/router.ex" timestamp="1496845427047">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-      </file>
-      <file name="$USER_HOME$/golang/src/gopl/ch04/append/append.go" timestamp="1481527008354">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="7" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/user_from_auth.ex" />
-      <jump line="62" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
-      <jump line="19" column="49" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
-      <jump line="55" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
-      <jump line="4" column="68" filename="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/page_controller.ex" />
-      <jump line="240" column="68" filename="$USER_HOME$/Projects/elixir/phauxth-example/deps/plug/lib/plug/conn.ex" />
       <jump line="837" column="6" filename="$USER_HOME$/Projects/elixir/phauxth-example/deps/plug/lib/plug/conn.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/phauxth-example/deps/plug/lib/plug/conn.ex" />
       <jump line="9" column="8" filename="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/user_controller.ex" />
@@ -2027,7 +812,6 @@
       <jump line="9" column="33" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="11" column="17" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
@@ -2039,18 +823,26 @@
       <jump line="21" column="49" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="23" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="50" column="5" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="27" column="47" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="8" column="21" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="65" column="50" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>Query</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>Query</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9kdWN0X3R5cGVcPg==</text>
@@ -2059,22 +851,22 @@
         <text encoding="base64">ICAgIGNsaWVudCA9IEZvcmNleC5DbGllbnQubG9naW4oKSB8PiBGb3JjZXguQ2xpZW50LmxvY2F0ZV9zZXJ2aWNlcygpCgogICAgcHJvZHVjdF90eXBlcyA9CiAgICAgIEZvcmNleC5xdWVyeSgKICAgICAgICAiIiIKICAgICAgICBTRUxFQ1QgaWQsIG5hbWUgRlJPTSBQcm9kdWN0VHlwZV9fYwogICAgICAgIFdIRVJFIG5hbWUgSU4gKCdQaXhlbHMgQWQgTWFya2V0cGxhY2UgLSBNb2JpbGUnLCAnUGl4ZWxzIEFkIE1hcmtldHBsYWNlIC0gV2Vic2l0ZScpCiAgICAgICAgT1JERVIgQlkgbmFtZQogICAgICAgICIiIiwKICAgICAgICBjbGllbnQKICAgICAgKS5yZWNvcmRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGlhcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXBvLmluc2VydCEocHJvZHVjdF90eXBlLCBvbl9jb25mbGljdDogW3NldDogW3NmX2lkOiBwWzpJZF1dXSkK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSB1bmlxdWVfaW5kZXgoOnByb2R1Y3RfaXRlbXMsIFs6c2ZfaWRdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChwcm9kdWN0X3R5cGVzKQoK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSB1bmlxdWVfaW5kZXgoOmFkX2Zvcm1hdHMsIFs6c2ZfaWRdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSB1bmlxdWVfaW5kZXgoOmFkX3BsYWNlbWVudHMsIFs6c2ZfaWRdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSB1bmlxdWVfaW5kZXgoOmFkX3BsYXRmb3JtcywgWzpzZl9pZF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgQ3VycmVudGx5IGltcG9ydCBvbmx5ICdNb2JpbGUnIGFuZCAnV2Vic2l0ZScKICAgIHByb2R1Y3RfdHlwZXMgPQogICAgICBGb3JjZXgucXVlcnkoCiAgICAgICAgIiIiCiAgICAgICAgU0VMRUNUIGlkLCBuYW1lIEZST00gUHJvZHVjdFR5cGVfX2MKICAgICAgICBXSEVSRSBuYW1lIElOICgnUGl4ZWxzIEFkIE1hcmtldHBsYWNlIC0gTW9iaWxlJywgJ1BpeGVscyBBZCBNYXJrZXRwbGFjZSAtIFdlYnNpdGUnKQogICAgICAgIE9SREVSIEJZIG5hbWUKICAgICAgICAiIiIsCiAgICAgICAgY2xpZW50CiAgICAgICkucmVjb3JkcwoKICAgIElPLmluc3BlY3QocHJvZHVjdF90eXBlcykKCiAgICBFbnVtLmVhY2gocHJvZHVjdF90eXBlcywgZm4gcCAtPgogICAgICBwcm9kdWN0X3R5cGUgPQogICAgICAgIFByb2R1Y3RUeXBlLmNoYW5nZXNldCglUHJvZHVjdFR5cGV7fSwgJXsKICAgICAgICAgIG5hbWU6IHBbOk5hbWVdLAogICAgICAgICAgc2ZfaWQ6IHBbOklkXQogICAgICAgIH0pCiAgICBlbmQpCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSB1bmlxdWVfaW5kZXgoOnByb2R1Y3RfdHlwZXMsIFs6c2ZfaWRdKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2082,13 +874,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSB1bmlxdWVfaW5kZXgoOnB1Ymxpc2hlcnMsIFs6c2ZfaWRdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVwZGF0ZWRfYXQ6IE5haXZlRGF0ZVRpbWUudXRjX25vdygpCg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoaW5zZXJ0ZWRfb3JfdXBkYXRlZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlZF9hdDogTmFpdmVEYXRlVGltZS51dGNfbm93KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
