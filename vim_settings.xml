@@ -841,11 +841,12 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1517554159181">
-        <mark key="[" line="250" column="18" />
-        <mark key="]" line="250" column="33" />
-        <mark key="." line="250" column="33" />
-        <mark key="^" line="250" column="33" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1517556322570">
+        <mark key="'" line="142" column="9" />
+        <mark key="[" line="154" column="88" />
+        <mark key="]" line="154" column="88" />
+        <mark key="." line="154" column="88" />
+        <mark key="^" line="154" column="88" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" timestamp="1485312479795">
         <mark key="'" line="31" column="0" />
@@ -2109,7 +2110,6 @@
       <jump line="9" column="49" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="129" column="25" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="142" column="72" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="81" column="67" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="106" column="69" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="121" column="50" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
@@ -2129,40 +2129,41 @@
       <jump line="228" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="216" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="204" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="142" column="9" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHRkPjwvdGQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p[:plid]]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCU9IHVzZXIubGFzdF9uYW1lICU+</text>
+        <text>p[:plid]]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>('Pixels Ad Marketplace - Mobile', 'Pixels Ad Marketplace - Website')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6IHBbOlByb2R1Y3RJdGVtX19yXVs6TmFtZV0sCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHRkPjwvdGQ+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgIDpwdWJsaXNoZXJfaWQsCiAgICAgICAgICA6cHJvZHVjdF90eXBlX2lkLAogICAgICAgICAgOmFkX3BsYXRmb3JtX2lkLAogICAgICAgICAgOmFkX3BsYWNlbWVudF9pZCwKICAgICAgICAgIDphZF9mb3JtYXRfaWQ=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgSU8ucHV0cyhwWzpQcm9kdWN0SXRlbV9fcl1bOlB1Ymxpc2hlcl9fcl1bOklkXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgSU8ucHV0cygiLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
+        <text encoding="base64">ICAgICAgPHRkPjwvdGQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChwKQo=</text>
+        <text encoding="base64">ICAgICAgSU8ucHV0cyhwWzpQcm9kdWN0SXRlbV9fcl1bOlB1Ymxpc2hlcl9fcl1bOklkXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgSU8uaW5zcGVjdChmb3JjZV9wcm9kdWN0X2l0ZW1zKQo=</text>
+        <text encoding="base64">ICAgICAgSU8ucHV0cygiLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChwKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2170,13 +2171,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGlzaGVyX2lkOiBwdWJsaXNoZXJfc2ZpZF9tYXBbcFs6XV0K</text>
+        <text encoding="base64">CiAgICAgICAgSU8uaW5zcGVjdChmb3JjZV9wcm9kdWN0X2l0ZW1zKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDpzZl9uYW1lLCA6c3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGlzaGVyX2lkOiBwdWJsaXNoZXJfc2ZpZF9tYXBbcFs6XV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
