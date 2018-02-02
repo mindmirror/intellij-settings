@@ -841,12 +841,12 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1517545640199">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1517552081485">
         <mark key="'" line="174" column="22" />
-        <mark key="[" line="192" column="67" />
-        <mark key="]" line="193" column="7" />
-        <mark key="." line="193" column="7" />
-        <mark key="^" line="193" column="7" />
+        <mark key="[" line="223" column="28" />
+        <mark key="]" line="222" column="89" />
+        <mark key="." line="222" column="89" />
+        <mark key="^" line="222" column="89" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" timestamp="1485312479795">
         <mark key="'" line="31" column="0" />
@@ -2135,11 +2135,11 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGlzaGVyX2lkOiBwdWJsaXNoZXJfc2ZpZF9tYXBbcFs6XV0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>('Pixels Ad Marketplace - Mobile', 'Pixels Ad Marketplace - Website')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
