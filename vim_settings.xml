@@ -841,12 +841,12 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1517544253547">
-        <mark key="'" line="198" column="55" />
-        <mark key="[" line="70" column="32" />
-        <mark key="]" line="70" column="31" />
-        <mark key="." line="70" column="31" />
-        <mark key="^" line="70" column="31" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1517545640199">
+        <mark key="'" line="174" column="22" />
+        <mark key="[" line="192" column="67" />
+        <mark key="]" line="193" column="7" />
+        <mark key="." line="193" column="7" />
+        <mark key="^" line="193" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" timestamp="1485312479795">
         <mark key="'" line="31" column="0" />
@@ -2030,7 +2030,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/order.ex" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180124040608_create_order_table.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180124040608_create_order_table.exs" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" />
@@ -2130,13 +2129,14 @@
       <jump line="28" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/product_type.ex" />
       <jump line="25" column="15" filename="$USER_HOME$/Projects/aims/manna/mix.exs" />
       <jump line="198" column="55" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="174" column="22" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>('Pixels Ad Marketplace - Mobile', 'Pixels Ad Marketplace - Website')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGlzaGVyX2lkOiBwdWJsaXNoZXJfc2ZpZF9tYXBbcFs6XV0K</text>
       </register>
       <register name="-" type="4">
         <text>('Pixels Ad Marketplace - Mobile', 'Pixels Ad Marketplace - Website')</text>
@@ -2148,22 +2148,22 @@
         <text>('Pixels Ad Marketplace - Mobile', 'Pixels Ad Marketplace - Website')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpZWxkIDpzZl9uYW1lLCA6c3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGlzaGVyX2lkOiBwdWJsaXNoZXJfc2ZpZF9tYXBbcFs6XV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWRkIDpzZl9uYW1lLCA6c3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgU0VMRUNUIElkLCBOYW1lIGZyb20gQWRQbGF0Zm9ybV9fYwogICAgICAgIE9SREVSIEJZIG5hbWUK</text>
+        <text encoding="base64">ICAgIGZpZWxkIDpzZl9uYW1lLCA6c3RyaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgU0VMRUNUIElkLCBOYW1lLCBBZFNpemVfX2MgRlJPTSBBZEZvcm1hdF9fYwogICAgICAgIE9SREVSIEJZIE5hbWUK</text>
+        <text encoding="base64">ICAgICAgYWRkIDpzZl9uYW1lLCA6c3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QocHVibGlzaGVyX3NmaWRfbWFwKQo=</text>
+        <text encoding="base64">CiAgICAgICAgU0VMRUNUIElkLCBOYW1lIGZyb20gQWRQbGF0Zm9ybV9fYwogICAgICAgIE9SREVSIEJZIG5hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBJTy5pbnNwZWN0KGZvcmNlX3B1Ymxpc2hlcnMpCg==</text>
+        <text encoding="base64">CiAgICAgICAgU0VMRUNUIElkLCBOYW1lLCBBZFNpemVfX2MgRlJPTSBBZEZvcm1hdF9fYwogICAgICAgIE9SREVSIEJZIE5hbWUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2171,13 +2171,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogcXVlcnkgcHVibGlzaGVycyBmcm9tIGV4aXN0aW5nIHByb2R1Y3QgaXRlbXMK</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QocHVibGlzaGVyX3NmaWRfbWFwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgSWQsIE5hbWUsIEFjY291bnRUeXBlX19jIGZyb20gQWNjb3VudAogICAgICAgIFdIRVJFIGFjY291bnR0eXBlX19jID0gJ0FkIE5ldHdvcmsgKEJEKScKICAgICAgICBPUkRFUiBCWSBuYW1lCg==</text>
+        <text encoding="base64">CiAgICBJTy5pbnNwZWN0KGZvcmNlX3B1Ymxpc2hlcnMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogcXVlcnkgcHVibGlzaGVycyBmcm9tIGV4aXN0aW5nIHByb2R1Y3QgaXRlbXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
