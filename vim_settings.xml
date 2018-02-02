@@ -304,7 +304,7 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1517456508195">
+      <file name="$USER_HOME$/Projects/aims/campaign-express/mix.exs" timestamp="1517557479956">
         <mark key="'" line="45" column="15" />
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="20" />
@@ -1107,12 +1107,10 @@
         <mark key="^" line="112" column="32" />
         <mark key="." line="112" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1517390966534">
-        <mark key="'" line="43" column="29" />
-        <mark key="[" line="55" column="18" />
-        <mark key="]" line="55" column="36" />
-        <mark key="." line="55" column="36" />
-        <mark key="^" line="55" column="36" />
+      <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1517557283725">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226125627_create_ad_format.exs" timestamp="1517473356827">
         <mark key="[" line="6" column="0" />
@@ -2040,7 +2038,6 @@
       <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
       <jump line="36" column="0" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
-      <jump line="43" column="29" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/product_type.ex" />
       <jump line="117" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express/stats_extractor.ex" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/salesforce_data_importer.ex" />
@@ -2130,13 +2127,14 @@
       <jump line="216" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="204" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="142" column="9" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
+      <jump line="43" column="0" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>p[:plid]]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBGb3JjZXggY29uZmlndXJhdGlvbgojY29uZmlnIDpmb3JjZXgsIEZvcmNleC5DbGllbnQsCiMgIHVzZXJuYW1lOiAibGF3cmVuY2UucWluQHBpeGVscy5hc2lhIiwKIyAgcGFzc3dvcmQ6ICJSS2FYaFdaYXR1akpFJVllUkRVdmM4VUciLAojICBzZWN1cml0eV90b2tlbjogImVQYlJ3Z3V5WGxYQjd1UTRrVUg2YjhUdWUiLAojICBjbGllbnRfaWQ6ICIzTVZHOVk2ZF9CdHA0eHA2dFQ1czZJaXFvZ3ZscFp6WHNfZmExMVo4dDRiQU8uc3U0RWR0RjVvS2luYnNSN3pCd3RVaEJkVzhMSXp1MkFjVTRLWEVTIiwKIyAgY2xpZW50X3NlY3JldDogIjU2NTMzNjA4NTE0OTE2NTIzMjMiCiMKI2NvbmZpZyA6Zm9yY2V4LCBGb3JjZXguQnVsay5DbGllbnQsCiMgIHVzZXJuYW1lOiAgImxhd3JlbmNlLnFpbkBwaXhlbHMuYXNpYSIsCiMgIHBhc3N3b3JkOiAiUkthWGhXWmF0dWpKRSVZZVJEVXZjOFVHIiwKIyAgc2VjdXJpdHlfdG9rZW46ICJlUGJSd2d1eVhsWEI3dVE0a1VINmI4VHVlIiwKIyAgY2xpZW50X2lkOiAiM01WRzlZNmRfQnRwNHhwNnRUNXM2SWlxb2d2bHBaelhzX2ZhMTFaOHQ0YkFPLnN1NEVkdEY1b0tpbmJzUjd6Qnd0VWhCZFc4TEl6dTJBY1U0S1hFUyIsCiMgIGNsaWVudF9zZWNyZXQ6ICI1NjUzMzYwODUxNDkxNjUyMzIzIgoK</text>
       </register>
       <register name="-" type="4">
         <text>p[:plid]]</text>
@@ -2147,23 +2145,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIG5hbWU6IHBbOlByb2R1Y3RJdGVtX19yXVs6TmFtZV0sCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">IyBGb3JjZXggY29uZmlndXJhdGlvbgojY29uZmlnIDpmb3JjZXgsIEZvcmNleC5DbGllbnQsCiMgIHVzZXJuYW1lOiAibGF3cmVuY2UucWluQHBpeGVscy5hc2lhIiwKIyAgcGFzc3dvcmQ6ICJSS2FYaFdaYXR1akpFJVllUkRVdmM4VUciLAojICBzZWN1cml0eV90b2tlbjogImVQYlJ3Z3V5WGxYQjd1UTRrVUg2YjhUdWUiLAojICBjbGllbnRfaWQ6ICIzTVZHOVk2ZF9CdHA0eHA2dFQ1czZJaXFvZ3ZscFp6WHNfZmExMVo4dDRiQU8uc3U0RWR0RjVvS2luYnNSN3pCd3RVaEJkVzhMSXp1MkFjVTRLWEVTIiwKIyAgY2xpZW50X3NlY3JldDogIjU2NTMzNjA4NTE0OTE2NTIzMjMiCiMKI2NvbmZpZyA6Zm9yY2V4LCBGb3JjZXguQnVsay5DbGllbnQsCiMgIHVzZXJuYW1lOiAgImxhd3JlbmNlLnFpbkBwaXhlbHMuYXNpYSIsCiMgIHBhc3N3b3JkOiAiUkthWGhXWmF0dWpKRSVZZVJEVXZjOFVHIiwKIyAgc2VjdXJpdHlfdG9rZW46ICJlUGJSd2d1eVhsWEI3dVE0a1VINmI4VHVlIiwKIyAgY2xpZW50X2lkOiAiM01WRzlZNmRfQnRwNHhwNnRUNXM2SWlxb2d2bHBaelhzX2ZhMTFaOHQ0YkFPLnN1NEVkdEY1b0tpbmJzUjd6Qnd0VWhCZFc4TEl6dTJBY1U0S1hFUyIsCiMgIGNsaWVudF9zZWNyZXQ6ICI1NjUzMzYwODUxNDkxNjUyMzIzIgoK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgIDpwdWJsaXNoZXJfaWQsCiAgICAgICAgICA6cHJvZHVjdF90eXBlX2lkLAogICAgICAgICAgOmFkX3BsYXRmb3JtX2lkLAogICAgICAgICAgOmFkX3BsYWNlbWVudF9pZCwKICAgICAgICAgIDphZF9mb3JtYXRfaWQ=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgPHRkPjwvdGQ+Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgSU8ucHV0cyhwWzpQcm9kdWN0SXRlbV9fcl1bOlB1Ymxpc2hlcl9fcl1bOklkXSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSU8ucHV0cygiLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChwKQo=</text>
+        <text encoding="base64">ICAgICAgSU8ucHV0cygiLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2171,13 +2169,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgSU8uaW5zcGVjdChmb3JjZV9wcm9kdWN0X2l0ZW1zKQo=</text>
+        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgSU8uaW5zcGVjdChmb3JjZV9wcm9kdWN0X2l0ZW1zKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGlzaGVyX2lkOiBwdWJsaXNoZXJfc2ZpZF9tYXBbcFs6XV0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
