@@ -178,12 +178,12 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203060130_create_ratecard_ad_format_table.exs" timestamp="1517640063099">
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203060130_create_ratecard_ad_format_table.exs" timestamp="1517648792990">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="23" column="33" />
-        <mark key="^" line="23" column="33" />
-        <mark key="." line="23" column="33" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/seeds.exs" timestamp="1499310065428">
         <mark key="[" line="16" column="4" />
@@ -1855,12 +1855,12 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/mix/tasks/import_ratecard_data.ex" timestamp="1517644532655">
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/mix/tasks/import_ratecard_data.ex" timestamp="1517648762385">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="82" column="44" />
-        <mark key="]" line="82" column="45" />
+        <mark key="[" line="85" column="27" />
+        <mark key="]" line="85" column="28" />
         <mark key="^" line="82" column="45" />
-        <mark key="." line="82" column="45" />
+        <mark key="." line="85" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_alt_campaign.ex" timestamp="1501155482840">
         <mark key="[" line="19" column="58" />
@@ -2099,11 +2099,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/mix/tasks/import_ratecard_data.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>NOTHING</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
