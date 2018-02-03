@@ -178,6 +178,12 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203060130_create_ratecard_ad_format_table.exs" timestamp="1517637830639">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="64" />
+        <mark key="." line="14" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/seeds.exs" timestamp="1499310065428">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="5" />
@@ -1420,7 +1426,7 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/mix.exs" timestamp="1517630974188">
+      <file name="$USER_HOME$/Projects/Pixels/manna/mix.exs" timestamp="1517637442471">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="35" />
         <mark key="^" line="9" column="35" />
@@ -1944,6 +1950,12 @@
         <mark key="^" line="35" column="7" />
         <mark key="." line="35" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203055731_create_ratecard_channel_table.exs" timestamp="1517637657919">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="14" column="73" />
+        <mark key="^" line="14" column="73" />
+        <mark key="." line="14" column="73" />
+      </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="18" column="15" />
@@ -2074,10 +2086,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6020584739487502748</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>6020584739487502748</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
