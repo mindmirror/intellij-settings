@@ -168,10 +168,10 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203060130_create_ratecard_ad_format_table.exs" timestamp="1517648792990">
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203060130_create_ratecard_ad_format_table.exs" timestamp="1517656418234">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="34" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="69" />
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
@@ -1484,12 +1484,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203105451_create_ratecard_rates_table.exs" timestamp="1517655570104">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203105451_create_ratecard_rates_table.exs" timestamp="1517656615003">
+        <mark key="'" line="29" column="29" />
+        <mark key="[" line="20" column="86" />
+        <mark key="]" line="20" column="86" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="20" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/go-hello/hello.go" timestamp="1458559467711">
         <mark key="[" line="5" column="0" />
@@ -1827,12 +1827,12 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/mix/tasks/import_ratecard_data.ex" timestamp="1517648762385">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="85" column="27" />
-        <mark key="]" line="85" column="28" />
-        <mark key="^" line="82" column="45" />
-        <mark key="." line="85" column="27" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/mix/tasks/import_ratecard_data.ex" timestamp="1517657174854">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="123" column="50" />
+        <mark key="]" line="124" column="21" />
+        <mark key="^" line="124" column="21" />
+        <mark key="." line="124" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/portal_alt_campaign.ex" timestamp="1501155482840">
         <mark key="[" line="19" column="58" />
@@ -1969,8 +1969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
-      <jump line="21" column="20" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/web/static/css/app.css" />
       <jump line="29" column="7" filename="$USER_HOME$/Projects/Pixels/campaign-express/web/auth/user_from_auth.ex" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" />
@@ -2069,19 +2067,21 @@
       <jump line="16" column="17" filename="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203105451_create_ratecard_rates_table.exs" />
       <jump line="3" column="7" filename="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203105451_create_ratecard_rates_table.exs" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203105451_create_ratecard_rates_table.exs" />
+      <jump line="28" column="29" filename="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180203105451_create_ratecard_rates_table.exs" />
+      <jump line="17" column="4" filename="$USER_HOME$/Projects/Pixels/manna/lib/mix/tasks/import_ratecard_data.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>change</text>
+        <text>generate_ratecard_matrix</text>
       </register>
       <register name="-" type="4">
-        <text>change</text>
+        <text>, :product_item_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFsdGVyIHRhYmxlKDpyYXRlY2FyZF9jaGFubmVscykgZG8KICAgICAgbW9kaWZ5IDppbnNlcnRlZF9hdCwgOm5haXZlX2RhdGV0aW1lLCBkZWZhdWx0OiBmcmFnbWVudCgiTk9XKCkiKQogICAgICBtb2RpZnkgOnVwZGF0ZWRfYXQsIDpuYWl2ZV9kYXRldGltZSwgZGVmYXVsdDogZnJhZ21lbnQoIk5PVygpIikKICAgIGVuZAo=</text>
+      <register name="0" type="4">
+        <text>generate_ratecard_matrix</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2169,6 +2169,7 @@ Web</text>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>wf</entry>
         <entry>nohlsearch</entry>
+        <entry>w3</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
