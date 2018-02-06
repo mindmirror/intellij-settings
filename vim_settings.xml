@@ -1597,11 +1597,11 @@
         <mark key="^" line="28" column="26" />
         <mark key="." line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/router.ex" timestamp="1517906171845">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="43" />
-        <mark key="." line="44" column="43" />
-        <mark key="^" line="44" column="43" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/router.ex" timestamp="1517908299858">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="49" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/main.go" timestamp="1481020573568">
         <mark key="[" line="8" column="23" />
@@ -2137,11 +2137,11 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>post</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhdGNoICIvb3JkZXJzLzppZCIsIE9yZGVyQ29udHJvbGxlciwgOnVwZGF0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
@@ -2150,22 +2150,22 @@
         <text encoding="base64">ICAgICAgICAgIG5hbWU6IHBbOlByb2R1Y3RJdGVtX19yXVs6TmFtZV0sCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhdGNoICIvb3JkZXJzLzppZCIsIE9yZGVyQ29udHJvbGxlciwgOnVwZGF0ZQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">IyBGb3JjZXggY29uZmlndXJhdGlvbgojY29uZmlnIDpmb3JjZXgsIEZvcmNleC5DbGllbnQsCiMgIHVzZXJuYW1lOiAibGF3cmVuY2UucWluQHBpeGVscy5hc2lhIiwKIyAgcGFzc3dvcmQ6ICJSS2FYaFdaYXR1akpFJVllUkRVdmM4VUciLAojICBzZWN1cml0eV90b2tlbjogImVQYlJ3Z3V5WGxYQjd1UTRrVUg2YjhUdWUiLAojICBjbGllbnRfaWQ6ICIzTVZHOVk2ZF9CdHA0eHA2dFQ1czZJaXFvZ3ZscFp6WHNfZmExMVo4dDRiQU8uc3U0RWR0RjVvS2luYnNSN3pCd3RVaEJkVzhMSXp1MkFjVTRLWEVTIiwKIyAgY2xpZW50X3NlY3JldDogIjU2NTMzNjA4NTE0OTE2NTIzMjMiCiMKI2NvbmZpZyA6Zm9yY2V4LCBGb3JjZXguQnVsay5DbGllbnQsCiMgIHVzZXJuYW1lOiAgImxhd3JlbmNlLnFpbkBwaXhlbHMuYXNpYSIsCiMgIHBhc3N3b3JkOiAiUkthWGhXWmF0dWpKRSVZZVJEVXZjOFVHIiwKIyAgc2VjdXJpdHlfdG9rZW46ICJlUGJSd2d1eVhsWEI3dVE0a1VINmI4VHVlIiwKIyAgY2xpZW50X2lkOiAiM01WRzlZNmRfQnRwNHhwNnRUNXM2SWlxb2d2bHBaelhzX2ZhMTFaOHQ0YkFPLnN1NEVkdEY1b0tpbmJzUjd6Qnd0VWhCZFc4TEl6dTJBY1U0S1hFUyIsCiMgIGNsaWVudF9zZWNyZXQ6ICI1NjUzMzYwODUxNDkxNjUyMzIzIgoK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgIDpwdWJsaXNoZXJfaWQsCiAgICAgICAgICA6cHJvZHVjdF90eXBlX2lkLAogICAgICAgICAgOmFkX3BsYXRmb3JtX2lkLAogICAgICAgICAgOmFkX3BsYWNlbWVudF9pZCwKICAgICAgICAgIDphZF9mb3JtYXRfaWQ=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPHRkPjwvdGQ+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSU8ucHV0cyhwWzpQcm9kdWN0SXRlbV9fcl1bOlB1Ymxpc2hlcl9fcl1bOklkXSkK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgSU8ucHV0cygiLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
+        <text encoding="base64">ICAgICAgSU8ucHV0cyhwWzpQcm9kdWN0SXRlbV9fcl1bOlB1Ymxpc2hlcl9fcl1bOklkXSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2173,13 +2173,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChwKQo=</text>
+        <text encoding="base64">ICAgICAgSU8ucHV0cygiLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgSU8uaW5zcGVjdChmb3JjZV9wcm9kdWN0X2l0ZW1zKQo=</text>
+        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgSU8uaW5zcGVjdChmb3JjZV9wcm9kdWN0X2l0ZW1zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
