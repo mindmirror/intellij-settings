@@ -415,6 +415,12 @@
         <mark key="^" line="6" column="71" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/myapp/assets/js/app.js" timestamp="1518073946499">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="10" />
+        <mark key="^" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna/products/ad_placement.ex" timestamp="1517543151456">
         <mark key="[" line="22" column="20" />
         <mark key="]" line="23" column="30" />
@@ -494,6 +500,12 @@
         <mark key="]" line="16" column="31" />
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/myapp/lib/myapp_web/templates/page/index.html.eex" timestamp="1518073562550">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/migrations/20170726105815_create_publisher.exs" timestamp="1501066768850">
         <mark key="[" line="10" column="7" />
@@ -681,6 +693,12 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/elixir/myapp/assets/js/my-module.js" timestamp="1518073602869">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="50" />
+        <mark key="^" line="9" column="50" />
+        <mark key="." line="9" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/page/index.html.eex" timestamp="1509496595993">
         <mark key="'" line="4" column="0" />
