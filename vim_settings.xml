@@ -272,8 +272,8 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" timestamp="1518428579927">
-        <mark key="[" line="3" column="52" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" timestamp="1518429133982">
+        <mark key="[" line="13" column="0" />
         <mark key="]" line="3" column="55" />
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="55" />
@@ -486,6 +486,12 @@
         <mark key="]" line="50" column="15" />
         <mark key="." line="50" column="15" />
         <mark key="^" line="50" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertisers.ex" timestamp="1518429109420">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" timestamp="1504177049083">
         <mark key="'" line="15" column="0" />
@@ -905,7 +911,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/css/phoenix.css" timestamp="1517900159959" />
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input.go" timestamp="1466411191079">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="0" column="8" />
@@ -1140,10 +1145,10 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1512556933369">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1518428731752">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="111" column="32" />
-        <mark key="]" line="112" column="32" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="49" />
         <mark key="^" line="112" column="32" />
         <mark key="." line="112" column="32" />
       </file>
@@ -1421,6 +1426,9 @@
         <mark key="]" line="61" column="40" />
         <mark key="^" line="61" column="40" />
         <mark key="." line="61" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertiser.ex" timestamp="1518429087461">
+        <mark key="'" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/models/item.go" timestamp="1460691336914">
         <mark key="[" line="3" column="9" />
@@ -2074,9 +2082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/Projects/aims/manna/test/manna_web/controllers/user_controller_test.exs" />
-      <jump line="60" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" />
-      <jump line="27" column="15" filename="$USER_HOME$/Projects/aims/manna/mix.exs" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
@@ -2174,22 +2179,25 @@
       <jump line="204" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="142" column="9" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/aims/manna/config/config.exs" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertiser.ex" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertiser.ex" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertiser.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Repo</text>
+        <text>Accounts.User</text>
       </register>
       <register name="-" type="4">
-        <text>Repo</text>
+        <text>Accounts.User</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU6IHBbOlByb2R1Y3RJdGVtX19yXVs6TmFtZV0sCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgRWN0by57UXVlcnksIENoYW5nZXNldH0sIHdhcm46IGZhbHNlCiAgYWxpYXMgUGhhdXh0aC5Mb2cKICBhbGlhcyBNYW5uYS57QWNjb3VudHMuUm9sZSwgQWNjb3VudHMuVXNlciwgUmVwb30K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2234,7 +2242,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
