@@ -272,6 +272,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" timestamp="1518426954273">
+        <mark key="[" line="3" column="64" />
+        <mark key="]" line="3" column="64" />
+        <mark key="^" line="3" column="64" />
+        <mark key="." line="3" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/app.html.eex" timestamp="1509453137700">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
