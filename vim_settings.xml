@@ -1487,6 +1487,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/advertiser_controller.ex" timestamp="1518507247536">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/clojure/mastering-clojure-macros/src/mastering_clojure_macros/ch02.clj" timestamp="1435539746518">
         <mark key="[" line="41" column="16" />
         <mark key="]" line="43" column="10" />
@@ -2201,11 +2207,11 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@moduledoc false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWR2ZXJ0aXNlcnMg</text>
+        <text>@moduledoc false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
