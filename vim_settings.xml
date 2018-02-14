@@ -398,6 +398,12 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/edit.html.eex" timestamp="1518594255380">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+        <mark key="^" line="4" column="53" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/templates/session/new.html.eex" timestamp="1498303537093">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
@@ -677,9 +683,10 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/show.html.eex" timestamp="1518519701092">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="44" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/show.html.eex" timestamp="1518594233372">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
       </file>
@@ -2134,7 +2141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="33" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="80" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="96" column="3" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
@@ -2234,13 +2240,14 @@
       <jump line="4" column="26" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/advertiser_controller.ex" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/advertiser_controller.ex" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/advertiser_controller.ex" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/show.html.eex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>conn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGgzIGNsYXNzPSJncmV5LXRleHQiPkFkdmVydGlzZXI8L2gzPgo=</text>
       </register>
       <register name="-" type="4">
         <text>conn</text>
@@ -2249,7 +2256,7 @@
         <text encoding="base64">XDxBZHZlcnRpc2VyQ29udG9ybGxlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbXBvcnQgTWFubmFXZWIuQXV0aG9yaXplCg==</text>
+        <text encoding="base64">PGgzIGNsYXNzPSJncmV5LXRleHQiPkFkdmVydGlzZXI8L2gzPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
