@@ -436,8 +436,8 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/office/rumbl/web/controllers/video_controller.ex" timestamp="1519282808875">
-        <mark key="'" line="9" column="6" />
+      <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/office/rumbl/web/controllers/video_controller.ex" timestamp="1519614712832">
+        <mark key="'" line="85" column="7" />
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="25" />
         <mark key="^" line="6" column="71" />
@@ -2190,7 +2190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="86" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="76" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
@@ -2290,6 +2289,7 @@
       <jump line="2" column="54" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/new.html.eex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/new.html.eex" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/agent/new.html.eex" />
+      <jump line="85" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/office/rumbl/web/controllers/video_controller.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2302,7 +2302,7 @@
         <text>edit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpb25cPg==</text>
+        <text encoding="base64">XDxsb2FkX2NhdGVnb3JpZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8JT0gbGluayAiRWRpdCIsIHRvOiBhZHZlcnRpc2VyX3BhdGgoQGNvbm4sIDplZGl0LCBAYWR2ZXJ0aXNlcikgJT4K</text>
@@ -2344,17 +2344,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDxsb2FkX2NhdGVnb3JpZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkX2NhdGVnb3JpZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>verify</entry>
         <entry>put_session</entry>
         <entry encoding="base64">XDxpZF9jaGVja1w+</entry>
         <entry encoding="base64">XDx1c2VyX2NvbnRleHRcPg==</entry>
@@ -2374,6 +2373,7 @@
         <entry encoding="base64">XDxBdXRob3JpemVcPg==</entry>
         <entry encoding="base64">XDxBZHZlcnRpc2VyQ29udG9ybGxlclw+</entry>
         <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxsb2FkX2NhdGVnb3JpZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
