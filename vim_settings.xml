@@ -1324,12 +1324,12 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1519634532877">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1519640955967">
         <mark key="'" line="7" column="30" />
-        <mark key="[" line="71" column="11" />
-        <mark key="]" line="73" column="27" />
-        <mark key="." line="73" column="27" />
-        <mark key="^" line="73" column="27" />
+        <mark key="[" line="80" column="28" />
+        <mark key="]" line="81" column="31" />
+        <mark key="." line="81" column="31" />
+        <mark key="^" line="81" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226084928_create_product_type.exs" timestamp="1517469291662">
         <mark key="[" line="13" column="0" />
@@ -1397,11 +1397,12 @@
         <mark key="^" line="62" column="52" />
         <mark key="." line="62" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" timestamp="1519634507138">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-        <mark key="^" line="26" column="41" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" timestamp="1519640691924">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/new.html.eex" timestamp="1519295591605">
         <mark key="'" line="0" column="0" />
@@ -1586,12 +1587,12 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" timestamp="1519634332627">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="22" column="42" />
-        <mark key="^" line="22" column="42" />
-        <mark key="." line="22" column="42" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" timestamp="1519640559231">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/server2/main.go" timestamp="1480911910444">
         <mark key="'" line="33" column="0" />
@@ -2194,15 +2195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="44" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="64" column="55" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="60" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/web/controllers/campaign_controller.ex" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="140" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="138" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="135" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="120" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
       <jump line="111" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
@@ -2294,16 +2286,25 @@
       <jump line="12" column="32" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" />
       <jump line="60" column="9" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="7" column="30" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text>current_user</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkX2NhdGVnb3JpZXNcPg==</text>
