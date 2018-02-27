@@ -1015,7 +1015,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519703022423">
+      <file name="/Dummy.txt" timestamp="1519704633403">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1208,12 +1208,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1519618390639">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/accounts.ex" timestamp="1519704700955">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="56" />
-        <mark key="^" line="16" column="56" />
-        <mark key="." line="16" column="56" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="20" column="68" />
+        <mark key="^" line="20" column="68" />
+        <mark key="." line="20" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/config/config.exs" timestamp="1517557283725">
         <mark key="[" line="42" column="0" />
@@ -1464,11 +1464,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519703343863">
-        <mark key="[" line="23" column="37" />
-        <mark key="]" line="23" column="43" />
-        <mark key="." line="23" column="43" />
-        <mark key="^" line="23" column="43" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519704602272">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="28" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
@@ -2304,10 +2304,10 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text>unique_email()</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>unique_email()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkX2NhdGVnb3JpZXNcPg==</text>
