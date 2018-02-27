@@ -1015,6 +1015,9 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1519703022423">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
         <mark key="[" line="28" column="69" />
         <mark key="]" line="28" column="77" />
@@ -1461,11 +1464,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1516610541888">
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="36" />
-        <mark key="." line="71" column="36" />
-        <mark key="^" line="71" column="36" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519703343863">
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
