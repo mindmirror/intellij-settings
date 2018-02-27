@@ -117,11 +117,11 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" timestamp="1509496649306">
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="55" />
-        <mark key="." line="21" column="55" />
-        <mark key="^" line="21" column="55" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" timestamp="1519707457071">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/pricecheck.go" timestamp="1460622036902">
         <mark key="[" line="10" column="5" />
@@ -1327,8 +1327,8 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1519640955967">
-        <mark key="'" line="7" column="30" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1519706926490">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="80" column="28" />
         <mark key="]" line="81" column="31" />
         <mark key="." line="81" column="31" />
@@ -1464,11 +1464,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519704602272">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="28" column="28" />
-        <mark key="." line="28" column="28" />
-        <mark key="^" line="28" column="28" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519707622111">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
@@ -2247,7 +2247,6 @@
       <jump line="13" column="87" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/adevrtiser/index.html.eex" />
       <jump line="4" column="16" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="24" column="8" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
@@ -2298,16 +2297,17 @@
       <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>unique_email()</text>
+        <text>update_</text>
       </register>
       <register name="-" type="4">
-        <text>unique_email()</text>
+        <text>update_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkX2NhdGVnb3JpZXNcPg==</text>
