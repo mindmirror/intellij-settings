@@ -1456,12 +1456,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519736238143">
-        <mark key="'" line="43" column="7" />
-        <mark key="[" line="20" column="71" />
-        <mark key="]" line="20" column="76" />
-        <mark key="." line="20" column="76" />
-        <mark key="^" line="20" column="76" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519780321853">
+        <mark key="[" line="112" column="62" />
+        <mark key="]" line="112" column="63" />
+        <mark key="." line="112" column="63" />
+        <mark key="^" line="112" column="60" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
