@@ -1456,11 +1456,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519788925191">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="112" column="60" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519790157865">
+        <mark key="'" line="94" column="60" />
+        <mark key="[" line="93" column="33" />
+        <mark key="]" line="93" column="64" />
+        <mark key="." line="93" column="64" />
+        <mark key="^" line="93" column="64" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
@@ -2198,11 +2199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" />
-      <jump line="15" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertiser.ex" />
@@ -2298,19 +2294,24 @@
       <jump line="6" column="23" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/agent.ex" />
       <jump line="52" column="22" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
+      <jump line="98" column="11" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
+      <jump line="112" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
+      <jump line="116" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
+      <jump line="92" column="27" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
+      <jump line="94" column="60" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHw+IFJlcG8ucHJlbG9hZCg6YWdlbnRzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>strong</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>strong</text>
       </register>
       <register name="/" type="4">
-        <text>IO.in</text>
+        <text encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgIDwlPSBsYWJlbCBmLCA6cm9sZV9pZCwgIlJvbGUiLCBjbGFzczogImNvbnRyb2wtbGFiZWwiICU+CiAgICA8JT0gc2VsZWN0IGYsIDpyb2xlX2lkLCBAcm9sZXMsIGNsYXNzOiAiZm9ybS1jb250cm9sIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvbXB0OiAiQ2hvb3NlIGEgcm9sZSIgJT4KICA8L2Rpdj4K</text>
@@ -2352,17 +2353,16 @@
       </register>
     </registers>
     <search>
-      <last-search>IO.in</last-search>
+      <last-search encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</last-search>
       <last-offset />
-      <last-pattern>IO.in</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZHZlcnRpc2Vyc1w+</entry>
         <entry encoding="base64">XDxnZXRfY2FtcGFpZ25zXD4=</entry>
         <entry encoding="base64">XDxwcm9kdWN0X3R5cGVcPg==</entry>
         <entry>thirty</entry>
@@ -2382,6 +2382,7 @@
         <entry encoding="base64">XDxhc3NvY19hZ2VudFw+</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry>IO.in</entry>
+        <entry encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
