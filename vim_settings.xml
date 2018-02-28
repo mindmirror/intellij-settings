@@ -1456,10 +1456,10 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519780321853">
-        <mark key="[" line="112" column="62" />
-        <mark key="]" line="112" column="63" />
-        <mark key="." line="112" column="63" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519788925191">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
         <mark key="^" line="112" column="60" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
@@ -2304,7 +2304,7 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QodXNlcl9wYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgIHw+IFJlcG8ucHJlbG9hZCg6YWdlbnRzKQo=</text>
       </register>
       <register name="-" type="4">
         <text>update</text>
@@ -2316,22 +2316,22 @@
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgIDwlPSBsYWJlbCBmLCA6cm9sZV9pZCwgIlJvbGUiLCBjbGFzczogImNvbnRyb2wtbGFiZWwiICU+CiAgICA8JT0gc2VsZWN0IGYsIDpyb2xlX2lkLCBAcm9sZXMsIGNsYXNzOiAiZm9ybS1jb250cm9sIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvbXB0OiAiQ2hvb3NlIGEgcm9sZSIgJT4KICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QodXNlcl9wYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgIHw+IFJlcG8ucHJlbG9hZCg6YWdlbnRzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGlhcyBNYW5uYS5BY2NvdW50cy5Vc2VyCg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QodXNlcl9wYXJhbXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChhZ2VudCkKICAgICAgSU8uaW5zcGVjdChjaGFuZ2VzZXQpCg==</text>
+        <text encoding="base64">ICBhbGlhcyBNYW5uYS5BY2NvdW50cy5Vc2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hbnlfdG9fbWFueSA6dXNlcnMsIFVzZXIsIGpvaW5fdGhyb3VnaDogInVzZXJzX2FnZW50cyIK</text>
+        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChhZ2VudCkKICAgICAgSU8uaW5zcGVjdChjaGFuZ2VzZXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGlhcyBNYW5uYS5SZXBvCg==</text>
+        <text encoding="base64">ICAgIG1hbnlfdG9fbWFueSA6dXNlcnMsIFVzZXIsIGpvaW5fdGhyb3VnaDogInVzZXJzX2FnZW50cyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRWN0by5RdWVyeQo=</text>
+        <text encoding="base64">ICBhbGlhcyBNYW5uYS5SZXBvCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2339,13 +2339,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbGlhcyAK</text>
+        <text encoding="base64">ICBpbXBvcnQgRWN0by5RdWVyeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGlhcyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCU9IGlmIEBjdXJyZW50X3VzZXIucm9sZS5uYW1lID09ICJBZG1pbiIgYW5kIFBsdWcuQ29ubi5nZXRfc2Vzc2lvbihAY29ubiwgOmlzX2FkbWluX3Nlc3Npb24pIGRvICU+Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
