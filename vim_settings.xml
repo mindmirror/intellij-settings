@@ -117,7 +117,7 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" timestamp="1520243339697">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" timestamp="1520244555398">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -1333,12 +1333,12 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1520243092627">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1520244470405">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="42" column="68" />
-        <mark key="]" line="42" column="91" />
-        <mark key="." line="42" column="91" />
-        <mark key="^" line="42" column="91" />
+        <mark key="[" line="52" column="112" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="25" />
+        <mark key="^" line="53" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226084928_create_product_type.exs" timestamp="1517469291662">
         <mark key="[" line="13" column="0" />
