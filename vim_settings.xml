@@ -117,10 +117,11 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" timestamp="1520246297043">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" timestamp="1520248317374">
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="34" column="2" />
+        <mark key="." line="34" column="2" />
+        <mark key="^" line="23" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/pricecheck.go" timestamp="1460622036902">
         <mark key="[" line="10" column="5" />
@@ -1990,10 +1991,10 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/show.html.eex" timestamp="1520243210448">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/show.html.eex" timestamp="1520248324918">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
         <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/password_reset_controller.ex" timestamp="1509347860056">
@@ -2303,11 +2304,11 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</text>
