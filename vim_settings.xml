@@ -1333,12 +1333,12 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1520250741155">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" timestamp="1520322932593">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="53" column="80" />
-        <mark key="]" line="54" column="86" />
-        <mark key="." line="54" column="86" />
-        <mark key="^" line="54" column="86" />
+        <mark key="[" line="55" column="55" />
+        <mark key="]" line="55" column="63" />
+        <mark key="." line="55" column="63" />
+        <mark key="^" line="55" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226084928_create_product_type.exs" timestamp="1517469291662">
         <mark key="[" line="13" column="0" />
@@ -1456,12 +1456,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1519790157865">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" timestamp="1520324045423">
         <mark key="'" line="94" column="60" />
-        <mark key="[" line="93" column="33" />
-        <mark key="]" line="93" column="64" />
-        <mark key="." line="93" column="64" />
-        <mark key="^" line="93" column="64" />
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="71" column="40" />
+        <mark key="." line="71" column="40" />
+        <mark key="^" line="71" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/web.ex" timestamp="1497193737961">
         <mark key="[" line="47" column="6" />
@@ -2304,11 +2304,11 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2hhbmdlc2V0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>user_params</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</text>
@@ -2317,22 +2317,22 @@
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgIDwlPSBsYWJlbCBmLCA6cm9sZV9pZCwgIlJvbGUiLCBjbGFzczogImNvbnRyb2wtbGFiZWwiICU+CiAgICA8JT0gc2VsZWN0IGYsIDpyb2xlX2lkLCBAcm9sZXMsIGNsYXNzOiAiZm9ybS1jb250cm9sIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvbXB0OiAiQ2hvb3NlIGEgcm9sZSIgJT4KICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QodXNlcl9wYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgICAgY2hhbmdlc2V0Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHw+IFJlcG8ucHJlbG9hZCg6YWdlbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgYWdlbnQgPSBBZHZlcnRpc2Vycy5nZXRfYWdlbnQocGFyYW1zWyJhZ2VudF9pZCJdKQogICAgICBjaGFuZ2VzZXQgfD4gcHV0X2Fzc29jKDphZ2VudHMsIFthZ2VudF0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QodXNlcl9wYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGlhcyBNYW5uYS5BY2NvdW50cy5Vc2VyCg==</text>
+        <text encoding="base64">ICAgIGlmIHBhcmFtc1siYWdlbnRfaWQiXSBkbwogICAgZWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgSU8uaW5zcGVjdChhZ2VudCkKICAgICAgSU8uaW5zcGVjdChjaGFuZ2VzZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2340,13 +2340,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hbnlfdG9fbWFueSA6dXNlcnMsIFVzZXIsIGpvaW5fdGhyb3VnaDogInVzZXJzX2FnZW50cyIK</text>
+        <text encoding="base64">ICAgICAgYWdlbnQgPSBBZHZlcnRpc2Vycy5nZXRfYWdlbnQocGFyYW1zWyJhZ2VudF9pZCJdKQogICAgICBjaGFuZ2VzZXQgfD4gcHV0X2Fzc29jKDphZ2VudHMsIFthZ2VudF0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbGlhcyBNYW5uYS5SZXBvCg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QocGFyYW1zWyJhZ2VudF9pZCJdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRWN0by5RdWVyeQo=</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QodXNlcl9wYXJhbXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
