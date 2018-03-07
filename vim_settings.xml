@@ -241,12 +241,12 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/index.html.eex" timestamp="1519721849034">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/index.html.eex" timestamp="1520394907557">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="31" column="78" />
-        <mark key="^" line="31" column="78" />
-        <mark key="." line="31" column="78" />
+        <mark key="[" line="32" column="80" />
+        <mark key="]" line="32" column="80" />
+        <mark key="^" line="32" column="80" />
+        <mark key="." line="32" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226124632_create_ad_placement.exs" timestamp="1517469297509">
         <mark key="[" line="14" column="0" />
@@ -1251,11 +1251,11 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/js/app.js" timestamp="1520393898617">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="21" />
+      <file name="$USER_HOME$/Projects/aims/manna/assets/js/app.js" timestamp="1520394809557">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="23" column="25" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/pricecheck.go" timestamp="1460709380687">
         <mark key="'" line="5" column="0" />
