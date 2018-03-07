@@ -897,6 +897,7 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/changelog.com/assets/app/modules/onsitePlayer.js" timestamp="1520409807093" />
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/main/main.go" timestamp="1460621986432">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="8" column="41" />
@@ -1013,7 +1014,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520407710561">
+      <file name="/Dummy.txt" timestamp="1520409924237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1034,6 +1035,7 @@
         <mark key="." line="23" column="74" />
         <mark key="^" line="23" column="74" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/changelog.com/assets/app/modules/playButton.js" timestamp="1520409780067" />
       <file name="$USER_HOME$/golang/src/gopl/ch04/dedup/main.go" timestamp="1481534574697">
         <mark key="'" line="20" column="17" />
         <mark key="[" line="17" column="5" />
@@ -1301,6 +1303,7 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/changelog.com/assets/shared/parseTime.js" timestamp="1520409692807" />
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/models/campaign.ex" timestamp="1503392514376">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1767,6 +1770,7 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/changelog.com/assets/app/modules/share.js" timestamp="1520409774054" />
       <file name="$USER_HOME$/Projects/elixir/rumbl/test/controllers/page_controller_test.exs" timestamp="1499411314791">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="5" column="58" />
@@ -2100,6 +2104,9 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/elixir/changelog.com/assets/app/app.js" timestamp="1520409703655">
+        <mark key="'" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/campaign_express.ex" timestamp="1502961840773">
         <mark key="[" line="18" column="7" />
         <mark key="]" line="18" column="66" />
@@ -2203,7 +2210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertiser.ex" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/repo/testing_seeds.exs" />
       <jump line="46" column="49" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/router.ex" />
@@ -2303,6 +2309,7 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
+      <jump line="14" column="7" filename="$USER_HOME$/Projects/elixir/changelog.com/assets/app/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2315,7 +2322,7 @@
         <text>nil</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</text>
+        <text encoding="base64">XDxwYXJzZVRpbWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgIDwlPSBsYWJlbCBmLCA6cm9sZV9pZCwgIlJvbGUiLCBjbGFzczogImNvbnRyb2wtbGFiZWwiICU+CiAgICA8JT0gc2VsZWN0IGYsIDpyb2xlX2lkLCBAcm9sZXMsIGNsYXNzOiAiZm9ybS1jb250cm9sIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvbXB0OiAiQ2hvb3NlIGEgcm9sZSIgJT4KICA8L2Rpdj4K</text>
@@ -2357,17 +2364,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</last-search>
+      <last-search encoding="base64">XDxwYXJzZVRpbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZVRpbWVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfY2FtcGFpZ25zXD4=</entry>
         <entry encoding="base64">XDxwcm9kdWN0X3R5cGVcPg==</entry>
         <entry>thirty</entry>
         <entry encoding="base64">XDxBZFBsYWNlbWVudFw+</entry>
@@ -2387,6 +2393,7 @@
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry>IO.in</entry>
         <entry encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</entry>
+        <entry encoding="base64">XDxwYXJzZVRpbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
