@@ -241,12 +241,12 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/index.html.eex" timestamp="1520394907557">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/index.html.eex" timestamp="1520401031031">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="80" />
+        <mark key="[" line="32" column="79" />
         <mark key="]" line="32" column="80" />
-        <mark key="^" line="32" column="80" />
         <mark key="." line="32" column="80" />
+        <mark key="^" line="32" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226124632_create_ad_placement.exs" timestamp="1517469297509">
         <mark key="[" line="14" column="0" />
@@ -292,11 +292,11 @@
         <mark key="^" line="23" column="41" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/app.html.eex" timestamp="1509453137700">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="41" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/app.html.eex" timestamp="1520400663713">
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/itoa/main.go" timestamp="1481251533576">
         <mark key="'" line="15" column="0" />
@@ -2304,7 +2304,7 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogaWYgdXNlIGlzIG5vdCAiT3JkZXIgTWFrZXIiIGFueW1vcmUsIGRlbGV0ZSBhbGwgdGhlIHVzZXItYWdlbnQgcmVsYXRpb25zaGlwCg==</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPiQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkge2NvbnNvbGUubG9nKCJUZXN0Iik7fSk7PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>nil</text>
@@ -2316,22 +2316,22 @@
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgIDwlPSBsYWJlbCBmLCA6cm9sZV9pZCwgIlJvbGUiLCBjbGFzczogImNvbnRyb2wtbGFiZWwiICU+CiAgICA8JT0gc2VsZWN0IGYsIDpyb2xlX2lkLCBAcm9sZXMsIGNsYXNzOiAiZm9ybS1jb250cm9sIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvbXB0OiAiQ2hvb3NlIGEgcm9sZSIgJT4KICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogaWYgdXNlIGlzIG5vdCAiT3JkZXIgTWFrZXIiIGFueW1vcmUsIGRlbGV0ZSBhbGwgdGhlIHVzZXItYWdlbnQgcmVsYXRpb25zaGlwCg==</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPiQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkge2NvbnNvbGUubG9nKCJUZXN0Iik7fSk7PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2hhbmdlc2V0Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogaWYgdXNlIGlzIG5vdCAiT3JkZXIgTWFrZXIiIGFueW1vcmUsIGRlbGV0ZSBhbGwgdGhlIHVzZXItYWdlbnQgcmVsYXRpb25zaGlwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hhbmdlc2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWdlbnQgPSBBZHZlcnRpc2Vycy5nZXRfYWdlbnQocGFyYW1zWyJhZ2VudF9pZCJdKQogICAgICBjaGFuZ2VzZXQgfD4gcHV0X2Fzc29jKDphZ2VudHMsIFthZ2VudF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgYWdlbnQgPSBBZHZlcnRpc2Vycy5nZXRfYWdlbnQocGFyYW1zWyJhZ2VudF9pZCJdKQogICAgICBjaGFuZ2VzZXQgfD4gcHV0X2Fzc29jKDphZ2VudHMsIFthZ2VudF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHBhcmFtc1siYWdlbnRfaWQiXSBkbwogICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2339,13 +2339,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHBhcmFtc1siYWdlbnRfaWQiXSBkbwogICAgZWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWdlbnQgPSBBZHZlcnRpc2Vycy5nZXRfYWdlbnQocGFyYW1zWyJhZ2VudF9pZCJdKQogICAgICBjaGFuZ2VzZXQgfD4gcHV0X2Fzc29jKDphZ2VudHMsIFthZ2VudF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QocGFyYW1zWyJhZ2VudF9pZCJdKQo=</text>
+        <text encoding="base64">ICAgICAgYWdlbnQgPSBBZHZlcnRpc2Vycy5nZXRfYWdlbnQocGFyYW1zWyJhZ2VudF9pZCJdKQogICAgICBjaGFuZ2VzZXQgfD4gcHV0X2Fzc29jKDphZ2VudHMsIFthZ2VudF0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
