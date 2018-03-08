@@ -175,12 +175,12 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/order.ex" timestamp="1520498792318">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/order.ex" timestamp="1520505801242">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="35" />
-        <mark key="." line="37" column="35" />
-        <mark key="^" line="37" column="35" />
+        <mark key="[" line="28" column="79" />
+        <mark key="]" line="28" column="93" />
+        <mark key="." line="28" column="93" />
+        <mark key="^" line="28" column="93" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/seeds.exs" timestamp="1499310065428">
         <mark key="[" line="16" column="4" />
@@ -534,6 +534,9 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
+      <file name="/foo.bar" timestamp="1520505126299">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/fetch/main.go" timestamp="1480908512196">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="23" column="26" />
@@ -668,12 +671,12 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180124040608_create_order_table.exs" timestamp="1520491316302">
+      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180124040608_create_order_table.exs" timestamp="1520506447728">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="41" />
-        <mark key="." line="10" column="41" />
-        <mark key="^" line="10" column="41" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="47" />
+        <mark key="^" line="18" column="47" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/main/main.go" timestamp="1460690515714">
         <mark key="[" line="5" column="1" />
@@ -968,12 +971,12 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1520503528626">
-        <mark key="'" line="73" column="35" />
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="33" column="55" />
-        <mark key="." line="33" column="55" />
-        <mark key="^" line="33" column="55" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1520506566511">
+        <mark key="'" line="36" column="25" />
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="55" column="19" />
+        <mark key="." line="55" column="19" />
+        <mark key="^" line="55" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -982,7 +985,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520492761323">
+      <file name="/Dummy.txt" timestamp="1520505199160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1544,12 +1547,12 @@
         <mark key="^" line="43" column="10" />
         <mark key="." line="43" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1517388510144">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/line_item.ex" timestamp="1520505069939">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch05/findlinks1/main.go" timestamp="1484184387739">
         <mark key="'" line="20" column="44" />
@@ -2168,12 +2171,12 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/orders.ex" timestamp="1520502051145">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/orders.ex" timestamp="1520506810488">
         <mark key="'" line="9" column="91" />
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-        <mark key="^" line="19" column="19" />
+        <mark key="[" line="23" column="77" />
+        <mark key="]" line="23" column="77" />
+        <mark key="." line="23" column="77" />
+        <mark key="^" line="23" column="74" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/mix.exs" timestamp="1498272172497">
         <mark key="[" line="21" column="44" />
@@ -2195,8 +2198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/advertiser_controller.ex" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/advertiser_controller.ex" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/show.html.eex" />
       <jump line="7" column="29" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/office/rumbl/web/controllers/video_controller.ex" />
       <jump line="9" column="6" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/office/rumbl/web/controllers/video_controller.ex" />
@@ -2295,16 +2296,18 @@
       <jump line="38" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertiser.ex" />
       <jump line="41" column="35" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="34" column="26" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="35" column="25" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>params</text>
+        <text encoding="base64">IHw+IFJlcG8ucHJlbG9hZCg6YWdlbmN5KSB8PiBSZXBvLnByZWxvYWQoOm9yZGVyX21ha2VyKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text encoding="base64">IHw+IFJlcG8ucHJlbG9hZCg6YWdlbmN5KSB8PiBSZXBvLnByZWxvYWQoOm9yZGVyX21ha2VyKQ==</text>
       </register>
       <register name="/" type="4">
         <text>agent</text>
@@ -2313,22 +2316,22 @@
         <text encoding="base64">ICBpbXBvcnQgRWN0by57UXVlcnksIENoYW5nZXNldH0sIHdhcm46IGZhbHNlCiAgYWxpYXMgTWFubmEuQWR2ZXJ0aXNlcnMue0FkdmVydGlzZXIsIEFnZW50LCBVc2VyQWdlbnR9CiAgYWxpYXMgTWFubmEuUmVwbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KGNoYW5nZXNldCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWZwIAo=</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3Qob3JkZXJfcGFyYW1zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIElPLnB1dHMoIkRlYnVnIGluZm9ybWF0aW9uIG9mIDpyZXF1ZXN0X3BhdGgiKQogICAgICAgICAgSU8uaW5zcGVjdChnZXRfc2Vzc2lvbihjb25uLCA6cmVxdWVzdF9wYXRoKSkK</text>
+        <text encoding="base64">ICAgIG9yZGVyX3BhcmFtcyA9IE1hcC5wdXQob3JkZXJfcGFyYW1zLCAib3JkZXJfbWFrZXJfaWQiLCBjdXJyZW50X3VzZXIuaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgZGVmIGxpc3Rfb3JkZXJzX2Zyb21fYWdlbnQK</text>
+        <text encoding="base64">ICAgIElPLnB1dHMoIm9yZGVyX3BhcmFtcyIpCiAgICBJTy5pbnNwZWN0KG9yZGVyX3BhcmFtcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZwIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2336,13 +2339,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgbGlzdF9vcmRlcnModXNlcl9pZCkgZG8KICAgIFJlcG8uYWxsIGZyb20gCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgIElPLnB1dHMoIkRlYnVnIGluZm9ybWF0aW9uIG9mIDpyZXF1ZXN0X3BhdGgiKQogICAgICAgICAgSU8uaW5zcGVjdChnZXRfc2Vzc2lvbihjb25uLCA6cmVxdWVzdF9wYXRoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbGlhcwo=</text>
+        <text encoding="base64">CiAgZGVmIGxpc3Rfb3JkZXJzX2Zyb21fYWdlbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
