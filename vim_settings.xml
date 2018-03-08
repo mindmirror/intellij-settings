@@ -1289,6 +1289,12 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1520496654650">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="40" column="34" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/user.ex" timestamp="1514198358569">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="36" column="36" />
@@ -2287,8 +2293,8 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>optional_fields</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIElPLnB1dHMoIkRlYnVnIGluZm9ybWF0aW9uIG9mIDpyZXF1ZXN0X3BhdGgiKQogICAgICAgICAgSU8uaW5zcGVjdChnZXRfc2Vzc2lvbihjb25uLCA6cmVxdWVzdF9wYXRoKSkK</text>
       </register>
       <register name="-" type="4">
         <text>optional_fields</text>
@@ -2300,22 +2306,22 @@
         <text encoding="base64">ICBpbXBvcnQgRWN0by57UXVlcnksIENoYW5nZXNldH0sIHdhcm46IGZhbHNlCiAgYWxpYXMgTWFubmEuQWR2ZXJ0aXNlcnMue0FkdmVydGlzZXIsIEFnZW50LCBVc2VyQWdlbnR9CiAgYWxpYXMgTWFubmEuUmVwbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIGxpc3Rfb3JkZXJzX2Zyb21fYWdlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgIElPLnB1dHMoIkRlYnVnIGluZm9ybWF0aW9uIG9mIDpyZXF1ZXN0X3BhdGgiKQogICAgICAgICAgSU8uaW5zcGVjdChnZXRfc2Vzc2lvbihjb25uLCA6cmVxdWVzdF9wYXRoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">CiAgZGVmIGxpc3Rfb3JkZXJzX2Zyb21fYWdlbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgbGlzdF9vcmRlcnModXNlcl9pZCkgZG8KICAgIFJlcG8uYWxsIGZyb20gCiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGlhcwo=</text>
+        <text encoding="base64">ICBkZWYgbGlzdF9vcmRlcnModXNlcl9pZCkgZG8KICAgIFJlcG8uYWxsIGZyb20gCiAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGlhcwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2323,13 +2329,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwbHVnIDppZF9vcl9hZG1pbiB3aGVuIGFjdGlvbiBpbiBbOmluZGV4LCA6c2hvdywgOnVwZGF0ZSwgOmRlbGV0ZV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZXNldCA9Cg==</text>
+        <text encoding="base64">ICBwbHVnIDppZF9vcl9hZG1pbiB3aGVuIGFjdGlvbiBpbiBbOmluZGV4LCA6c2hvdywgOnVwZGF0ZSwgOmRlbGV0ZV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYWRkCg==</text>
+        <text encoding="base64">ICAgIGNoYW5nZXNldCA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2342,7 +2348,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
