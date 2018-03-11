@@ -333,8 +333,8 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/assets/css/phoenix.css" timestamp="1520761288215">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/assets/css/phoenix.css" timestamp="1520762119371">
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="42" column="15" />
         <mark key="]" line="42" column="17" />
         <mark key="." line="42" column="17" />
@@ -1972,7 +1972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/phauxth-example/deps/plug/lib/plug/conn.ex" />
       <jump line="9" column="8" filename="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/user_controller.ex" />
       <jump line="22" column="43" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
@@ -2072,6 +2071,7 @@
       <jump line="12" column="17" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/Pixels/manna/assets/css/phoenix.css" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/Pixels/manna/assets/css/phoenix.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
