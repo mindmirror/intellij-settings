@@ -333,6 +333,13 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/assets/css/phoenix.css" timestamp="1520761288215">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="17" />
+        <mark key="." line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/manna/test/support/auth_case.ex" timestamp="1517220554389">
         <mark key="[" line="30" column="5" />
         <mark key="]" line="35" column="54" />
@@ -846,15 +853,12 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1520753181195">
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1520760413487">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="96" column="22" />
-        <mark key="]" line="96" column="27" />
-        <mark key="." line="96" column="27" />
-        <mark key="^" line="96" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1517220795223">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="95" column="27" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
         <mark key="[" line="28" column="69" />
@@ -1137,12 +1141,6 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/session_controller.ex" timestamp="1517220648241">
-        <mark key="'" line="25" column="70" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/accounts/user.ex" timestamp="1514198358569">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="36" column="36" />
@@ -1283,11 +1281,8 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/order.ex" timestamp="1514190036679">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="22" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/order.ex" timestamp="1520760424214">
         <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issues/main.go" timestamp="1484009582875">
         <mark key="[" line="17" column="42" />
@@ -1656,6 +1651,11 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180124065648_create_line_item.exs" timestamp="1520760467044">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/clojure-playground/src/playground/playsync.clj" timestamp="1434705309625">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="31" />
@@ -1695,11 +1695,11 @@
         <mark key="." line="52" column="49" />
         <mark key="^" line="52" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/line_item.ex" timestamp="1514190156254">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/line_item.ex" timestamp="1520760452073">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/views/layout_view.ex" timestamp="1497190623739">
         <mark key="[" line="1" column="29" />
@@ -1845,6 +1845,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/priv/repo/migrations/20180124040608_create_order_table.exs" timestamp="1520760460621">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/admin/page/index.html.eex" timestamp="1501051604134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="6" />
@@ -1967,7 +1972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="837" column="6" filename="$USER_HOME$/Projects/elixir/phauxth-example/deps/plug/lib/plug/conn.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/elixir/phauxth-example/deps/plug/lib/plug/conn.ex" />
       <jump line="9" column="8" filename="$USER_HOME$/Projects/elixir/phauxth-example/lib/forks_the_egg_sample_web/controllers/user_controller.ex" />
       <jump line="22" column="43" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
@@ -2067,13 +2071,14 @@
       <jump line="23" column="41" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/orders.ex" />
       <jump line="12" column="17" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/Pixels/manna/assets/css/phoenix.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>730</text>
       </register>
       <register name="-" type="4">
-        <text>nil</text>
+        <text>730</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
@@ -2082,22 +2087,22 @@
         <text encoding="base64">fD4gUmVwby5wcmVsb2FkKFs6YWR2ZXJ0aXNlciwgOmFnZW5jeSwgOm9yZGVyX21ha2VyXSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgYWRkKDpsb2FkaW5nLCA6ZGVjaW1hbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGZpZWxkKDpsb2FkaW5nLCA6ZGVjaW1hbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwlPQo=</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3Qob3JkZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KG9yZGVycykK</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwlPQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2105,13 +2110,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJfYWdlbmN5ID0gQWR2ZXJ0aXNlcnMuZ2V0X3VzZXJfYWdlbmN5KGN1cnJlbnRfdXNlci5pZCkKICAgIG9yZGVycyA9IE9yZGVycy5saXN0X29yZGVyc19mcm9tX2FnZW5jeSh1c2VyX2FnZW5jeS5hZ2VuY3lfaWQpCiAgICBJTy5pbnNwZWN0KG9yZGVycykKICAgIHJlbmRlcihjb25uLCAiaW5kZXguaHRtbCIsIG9yZGVyczogb3JkZXJzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KGNoYW5nZXNldCkK</text>
+        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KG9yZGVycykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3Qob3JkZXJfcGFyYW1zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
