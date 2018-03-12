@@ -169,12 +169,6 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/error_view.ex" timestamp="1520842887682">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.exs" timestamp="1504080081096">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="20" />
@@ -390,12 +384,12 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/edit.html.eex" timestamp="1519295486312">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/edit.html.eex" timestamp="1520854079055">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="15" column="76" />
-        <mark key="." line="15" column="76" />
-        <mark key="^" line="15" column="76" />
+        <mark key="[" line="15" column="71" />
+        <mark key="]" line="15" column="75" />
+        <mark key="." line="15" column="75" />
+        <mark key="^" line="15" column="75" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/web/templates/session/new.html.eex" timestamp="1498303537093">
         <mark key="[" line="9" column="21" />
@@ -994,12 +988,6 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1520843370976">
-        <mark key="'" line="34" column="25" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="28" column="35" />
@@ -1007,7 +995,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520505199160">
+      <file name="/Dummy.txt" timestamp="1520854120550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch07/tempconv/tempconv.go" timestamp="1484635395338">
@@ -1408,6 +1396,12 @@
         <mark key="]" line="30" column="20" />
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/new.html.eex" timestamp="1520854085855">
+        <mark key="[" line="12" column="73" />
+        <mark key="]" line="12" column="77" />
+        <mark key="." line="12" column="77" />
+        <mark key="^" line="12" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/layout/app.html.eex" timestamp="1504165388570">
         <mark key="'" line="18" column="7" />
@@ -2344,10 +2338,10 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>~</text>
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>agent</text>
