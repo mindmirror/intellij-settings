@@ -1977,11 +1977,11 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/show.html.eex" timestamp="1520492835514">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
-        <mark key="^" line="23" column="6" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/show.html.eex" timestamp="1520828563828">
+        <mark key="[" line="34" column="76" />
+        <mark key="]" line="34" column="76" />
+        <mark key="." line="34" column="76" />
+        <mark key="^" line="34" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/agency_controller.ex" timestamp="1520490752882">
         <mark key="[" line="48" column="38" />
