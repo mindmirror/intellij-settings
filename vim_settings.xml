@@ -971,12 +971,12 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1520506566511">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1520836774108">
         <mark key="'" line="36" column="25" />
-        <mark key="[" line="54" column="32" />
-        <mark key="]" line="55" column="19" />
-        <mark key="." line="55" column="19" />
-        <mark key="^" line="55" column="19" />
+        <mark key="[" line="116" column="11" />
+        <mark key="]" line="116" column="18" />
+        <mark key="." line="116" column="18" />
+        <mark key="^" line="116" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -2171,12 +2171,12 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/orders.ex" timestamp="1520506810488">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/orders.ex" timestamp="1520836716210">
         <mark key="'" line="9" column="91" />
-        <mark key="[" line="9" column="77" />
-        <mark key="]" line="9" column="77" />
-        <mark key="." line="9" column="77" />
-        <mark key="^" line="9" column="74" />
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="42" column="19" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/mix.exs" timestamp="1498272172497">
         <mark key="[" line="21" column="44" />
@@ -2304,10 +2304,10 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHw+IFJlcG8ucHJlbG9hZCg6YWdlbmN5KSB8PiBSZXBvLnByZWxvYWQoOm9yZGVyX21ha2VyKQ==</text>
+        <text>delete_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHw+IFJlcG8ucHJlbG9hZCg6YWdlbmN5KSB8PiBSZXBvLnByZWxvYWQoOm9yZGVyX21ha2VyKQ==</text>
+        <text>delete_</text>
       </register>
       <register name="/" type="4">
         <text>agent</text>
