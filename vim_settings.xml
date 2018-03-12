@@ -289,6 +289,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/app.html.eex" timestamp="1520850412095">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="35" />
+        <mark key="^" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch03/itoa/main.go" timestamp="1481251533576">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="11" column="6" />
@@ -921,11 +927,11 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/brunch-config.js" timestamp="1520848183618">
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="61" column="4" />
-        <mark key="." line="61" column="4" />
-        <mark key="^" line="61" column="4" />
+      <file name="$USER_HOME$/Projects/aims/manna/assets/brunch-config.js" timestamp="1520849672885">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/orders.ex" timestamp="1514189919385">
         <mark key="'" line="4" column="0" />
@@ -1984,11 +1990,11 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/impersonation.html.eex" timestamp="1509436636964">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="6" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/impersonation.html.eex" timestamp="1520850005396">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
       </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input/form-input.go" timestamp="1466411744856">
         <mark key="'" line="43" column="0" />
@@ -2178,11 +2184,11 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/admin.html.eex" timestamp="1520493694237">
-        <mark key="[" line="19" column="71" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/admin.html.eex" timestamp="1520850586178">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="37" />
+        <mark key="^" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_stats.ex" timestamp="1504767547800">
         <mark key="'" line="58" column="49" />
