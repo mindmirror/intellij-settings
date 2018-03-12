@@ -921,11 +921,11 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/brunch-config.js" timestamp="1520847007341">
-        <mark key="[" line="60" column="14" />
-        <mark key="]" line="61" column="77" />
-        <mark key="." line="61" column="77" />
-        <mark key="^" line="61" column="77" />
+      <file name="$USER_HOME$/Projects/aims/manna/assets/brunch-config.js" timestamp="1520848183618">
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="4" />
+        <mark key="^" line="61" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/orders.ex" timestamp="1514189919385">
         <mark key="'" line="4" column="0" />
@@ -1757,6 +1757,13 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/assets/css/app.scss" timestamp="1520848284439">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171018073805_create_users.exs" timestamp="1512556647478">
         <mark key="[" line="11" column="62" />
         <mark key="]" line="12" column="44" />
@@ -2225,7 +2232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/show.html.eex" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/show.html.eex" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/show.html.eex" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/index.html.eex" />
@@ -2325,16 +2331,17 @@
       <jump line="17" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/error_view.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/error_view.ex" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/error_view.ex" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/aims/manna/assets/css/app.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>~</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWdlbmN5LCA=</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text>agent</text>
