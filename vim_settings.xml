@@ -941,11 +941,11 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/brunch-config.js" timestamp="1521010547687">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="32" />
+      <file name="$USER_HOME$/Projects/aims/manna/assets/brunch-config.js" timestamp="1521013070497">
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="20" />
+        <mark key="." line="72" column="20" />
+        <mark key="^" line="72" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/orders.ex" timestamp="1514189919385">
         <mark key="'" line="4" column="0" />
@@ -1278,6 +1278,9 @@
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/priv/static/js/app.js" timestamp="1521012419387">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/pricecheck.go" timestamp="1460709380687">
         <mark key="'" line="5" column="0" />
@@ -2127,8 +2130,8 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" timestamp="1521010699017">
-        <mark key="'" line="112" column="23" />
+      <file name="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" timestamp="1521012098404">
+        <mark key="'" line="7644" column="23" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/.gitignore" timestamp="1484720964803">
         <mark key="[" line="0" column="0" />
@@ -2257,13 +2260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/new.html.eex" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/agent/new.html.eex" />
-      <jump line="85" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/office/rumbl/web/controllers/video_controller.ex" />
-      <jump line="61" column="18" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/admin/session_controller.ex" />
       <jump line="12" column="32" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" />
       <jump line="60" column="9" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
@@ -2322,7 +2318,6 @@
       <jump line="0" column="1" filename="$USER_HOME$/Projects/aims/manna/assets/js/app.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/aims/manna/assets/js/app.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/manna/assets/js/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/app.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/order/index.html.eex" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="10" column="3" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
@@ -2357,6 +2352,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
       <jump line="20389" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
       <jump line="112" column="23" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
+      <jump line="19935" column="66" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
+      <jump line="199" column="2" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
+      <jump line="7645" column="20" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
+      <jump line="7644" column="23" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
+      <jump line="277" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/app.js" />
+      <jump line="3530" column="19" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/app.js" />
+      <jump line="7644" column="23" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2369,7 +2372,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>agent</text>
+        <text>process</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGF0YTogW2NvbmZpcm06ICJBcmUgeW91IHN1cmU/Il0sCg==</text>
@@ -2411,18 +2414,16 @@
       </register>
     </registers>
     <search>
-      <last-search>agent</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern>agent</last-pattern>
+      <last-pattern>process</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>thirty</entry>
-        <entry encoding="base64">XDxBZFBsYWNlbWVudFw+</entry>
         <entry encoding="base64">XDxQdWJsaXNoZXJcPg==</entry>
         <entry encoding="base64">XDxvbl9jb25mbGljdFw+</entry>
         <entry encoding="base64">XDxjb25mbGljdF90YXJnZXRcPg==</entry>
@@ -2441,6 +2442,8 @@
         <entry encoding="base64">XDxzdHJvbmdfcGFzc3dvcmRcPg==</entry>
         <entry encoding="base64">XDxwYXJzZVRpbWVcPg==</entry>
         <entry>agent</entry>
+        <entry>Process</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
