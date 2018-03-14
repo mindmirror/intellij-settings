@@ -510,12 +510,12 @@
         <mark key="." line="50" column="15" />
         <mark key="^" line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertisers.ex" timestamp="1521015433745">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="36" column="68" />
-        <mark key="." line="36" column="68" />
-        <mark key="^" line="36" column="68" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/advertisers/advertisers.ex" timestamp="1521017403333">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="17" />
+        <mark key="." line="44" column="17" />
+        <mark key="^" line="44" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/templates/campaign/index.html.eex" timestamp="1504177049083">
         <mark key="'" line="15" column="0" />
@@ -1011,11 +1011,11 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1521015386376">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1521017443256">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="125" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -2262,8 +2262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" />
@@ -2361,41 +2359,43 @@
       <jump line="5664" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
       <jump line="20389" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
       <jump line="132" column="18" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="126" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="9" column="14" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhbGlhcyBNYW5uYS5SZXBvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>Repo.all(query)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXBvXD4=</text>
+        <text>Repo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSI8JT0gc3RhdGljX3BhdGgoQGNvbm4sICIvanMvdmVuZG9yLmpzIikgJT4iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImpzL3ZlbmRvci5qcyI6IFsianMvdmVuZG9yIl0sCg==</text>
+        <text encoding="base64">ICBhbGlhcyBNYW5uYS5SZXBvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAianMvdmVuZG9yLmpzIjogL14oPyFqcykvLAo=</text>
+        <text encoding="base64">ICAgIHF1ZXJ5ID0KICAgICAgQWR2ZXJ0aXNlcgogICAgICB8PiBBZHZlcnRpc2VyLmFjdGl2ZV9hZHZlcnRpc2VycygpCiAgICAgIHw+IEFkdmVydGlzZXIuYWxwaGFiZXRpY2FsKCkKICAgICAgfD4gQWR2ZXJ0aXNlci5uYW1lc19hbmRfaWRzKCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAianMvdmVuZG9yLmpzIjogL14oPyFqcykvCg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5ID0KICAgICAgQWdlbmN5CiAgICAgIHw+IEFnZW5jeS5hY3RpdmVfYWdlbmNpZXMoKQogICAgICB8PiBBZ2VuY3kuYWxwaGFiZXRpY2FsKCkKICAgICAgfD4gQWdlbmN5Lm5hbWVzX2FuZF9pZHMoKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsb2dnZXJzOiBbe0VjdG8uTG9nRW50cnksIDpsb2csIFs6aW5mb119XQo=</text>
+        <text encoding="base64">ICAgICAgImpzL3ZlbmRvci5qcyI6IFsianMvdmVuZG9yIl0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6dHpkYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgICAianMvdmVuZG9yLmpzIjogL14oPyFqcykvLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoZGF0ZXRpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAianMvdmVuZG9yLmpzIjogL14oPyFqcykvCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2403,22 +2403,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoZHQpCg==</text>
+        <text encoding="base64">ICBsb2dnZXJzOiBbe0VjdG8uTG9nRW50cnksIDpsb2csIFs6aW5mb119XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoVGltZXgudGltZXpvbmVzKQo=</text>
+        <text encoding="base64">ICAgICAgICA6dHpkYXRhLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBibGlua21hY3N5c3RlbWZvbnQsCg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoZGF0ZXRpbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXBvXD4=</last-search>
+      <last-search>Repo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXBvXD4=</last-pattern>
+      <last-pattern>Repo</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2426,7 +2426,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbl9jb25mbGljdFw+</entry>
         <entry encoding="base64">XDxjb25mbGljdF90YXJnZXRcPg==</entry>
         <entry encoding="base64">XDwjXD4=</entry>
         <entry encoding="base64">XDxMb2dcPg==</entry>
@@ -2446,6 +2445,7 @@
         <entry>Process</entry>
         <entry>process</entry>
         <entry encoding="base64">XDxSZXBvXD4=</entry>
+        <entry>Repo</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
