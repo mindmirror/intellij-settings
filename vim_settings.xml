@@ -941,11 +941,11 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/brunch-config.js" timestamp="1520849672885">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-        <mark key="^" line="24" column="26" />
+      <file name="$USER_HOME$/Projects/aims/manna/assets/brunch-config.js" timestamp="1521010547687">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/orders.ex" timestamp="1514189919385">
         <mark key="'" line="4" column="0" />
@@ -2127,6 +2127,9 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" timestamp="1521010699017">
+        <mark key="'" line="112" column="23" />
+      </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/.gitignore" timestamp="1484720964803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
@@ -2254,9 +2257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/edit.html.eex" />
-      <jump line="6" column="6" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/agent/edit.html.eex" />
-      <jump line="2" column="54" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/new.html.eex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/new.html.eex" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/agent/new.html.eex" />
       <jump line="85" column="7" filename="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/office/rumbl/web/controllers/video_controller.ex" />
@@ -2354,6 +2354,9 @@
       <jump line="5" column="21" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/order_view.ex" />
       <jump line="10" column="19" filename="$USER_HOME$/Projects/aims/manna/config/dev.exs" />
       <jump line="2664" column="19" filename="$USER_HOME$/Projects/aims/manna/priv/static/css/app.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
+      <jump line="20389" column="0" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
+      <jump line="112" column="23" filename="$USER_HOME$/Projects/aims/manna/priv/static/js/vendor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
