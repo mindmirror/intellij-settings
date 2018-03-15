@@ -761,6 +761,11 @@
         <mark key="^" line="2" column="55" />
         <mark key="." line="2" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna_web/templates/line_item/new.html.eex" timestamp="1521121793033">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch04/issueshtml/main.go" timestamp="1484014525836">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="28" column="0" />
@@ -1392,12 +1397,12 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Pixels/manna/mix.exs" timestamp="1520670069045">
+      <file name="$USER_HOME$/Projects/Pixels/manna/mix.exs" timestamp="1521121151308">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="35" />
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="35" />
-        <mark key="." line="9" column="35" />
+        <mark key="." line="9" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/admin/page_view.ex" timestamp="1509454902424">
         <mark key="[" line="2" column="0" />
@@ -2074,11 +2079,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/Projects/Pixels/manna/assets/css/phoenix.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>730</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8IS0tCg==</text>
       </register>
       <register name="-" type="4">
-        <text>730</text>
+        <text>cex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZHZlcnRpc2Vyc1w+</text>
@@ -2087,22 +2092,22 @@
         <text encoding="base64">fD4gUmVwby5wcmVsb2FkKFs6YWR2ZXJ0aXNlciwgOmFnZW5jeSwgOm9yZGVyX21ha2VyXSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWRkKDpsb2FkaW5nLCA6ZGVjaW1hbCkK</text>
+        <text encoding="base64">ICA8IS0tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpZWxkKDpsb2FkaW5nLCA6ZGVjaW1hbCkK</text>
+        <text encoding="base64">ICAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3Qob3JkZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICA8IS0tCiAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICA8JT0gbGFiZWwgZiwgOnByb2R1Y3RfaXRlbV9pZCwgIlByb2R1Y3QgSXRlbSIsIGNsYXNzOiAiY29udHJvbC1sYWJlbCIgJT4KICAgIDwlPSBzZWxlY3QgZiwgOnByb2R1Y3RfdHlwZV9pZCwgQHByb2R1Y3RfaXRlbXMsIGNsYXNzOiAiZm9ybS1jb250cm9sIiwgcHJvbXB0OiAiQVVUTyIgJT4KICAgIDwlPSBlcnJvcl90YWcgZiwgOnByb2R1Y3RfaXRlbV9pZCAlPgogIDwvZGl2PgogIC0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgYWRkKDpsb2FkaW5nLCA6ZGVjaW1hbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwlPQo=</text>
+        <text encoding="base64">ICAgIGZpZWxkKDpsb2FkaW5nLCA6ZGVjaW1hbCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2110,13 +2115,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3Qob3JkZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KG9yZGVycykK</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
