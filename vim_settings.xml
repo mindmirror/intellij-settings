@@ -699,10 +699,6 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/agency/show.html.eex" timestamp="1520855831637">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="54" />
-      </file>
       <file name="$USER_HOME$/golang/src/shopping/main/main.go" timestamp="1460690515714">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="8" column="41" />
@@ -1250,12 +1246,12 @@
         <mark key="." line="124" column="49" />
         <mark key="^" line="124" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1521083201819">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1521083796786">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="15" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706023050_create_category.exs" timestamp="1499308686826">
         <mark key="[" line="9" column="0" />
@@ -2237,9 +2233,9 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/orders.ex" timestamp="1520843452136">
-        <mark key="'" line="8" column="91" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/orders.ex" timestamp="1521083808421">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="47" column="5" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="29" column="68" />
         <mark key="." line="4" column="0" />
@@ -2264,7 +2260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" />
       <jump line="43" column="47" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="45" column="37" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
@@ -2364,6 +2359,7 @@
       <jump line="9" column="14" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/order/index.html.eex" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/line_item/new.html.eex" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/orders.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
