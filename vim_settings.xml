@@ -1455,12 +1455,12 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" timestamp="1521170842883">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="3" />
-        <mark key="." line="31" column="3" />
-        <mark key="^" line="31" column="3" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" timestamp="1521172280139">
+        <mark key="'" line="30" column="2" />
+        <mark key="[" line="42" column="91" />
+        <mark key="]" line="42" column="90" />
+        <mark key="." line="42" column="88" />
+        <mark key="^" line="42" column="88" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/new.html.eex" timestamp="1520854085855">
         <mark key="[" line="12" column="73" />
@@ -2312,8 +2312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
-      <jump line="98" column="11" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
       <jump line="112" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
       <jump line="116" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
       <jump line="92" column="27" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
@@ -2412,22 +2410,24 @@
       <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
+      <jump line="42" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
+      <jump line="30" column="2" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RW51bS5ncm91cF9ieSgmTWFwLmdldCgmMSwgOnByb2R1Y3RfdHlwZV9uYW1lKSwgJk1hcC5kZWxldGUoJjEsIDpwcm9kdWN0X3R5cGVfbmFtZSkp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHJvZHVjdHMg</text>
+        <text>drop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lX2l0ZW1cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmbW9kdWxlIE1hbm5hLlJhdGVjYXJkQ2hhbm5lbCBkbwogIEBtb2R1bGVkb2MgZmFsc2UKCiAgdXNlIEVjdG8uU2NoZW1hCiAgaW1wb3J0IEVjdG8uQ2hhbmdlc2V0CgogIHNjaGVtYSAicmF0ZWNhcmRfY2hhbm5lbCIgZG8KICAgIGZpZWxkIDpwcm9kdWN0X3R5cGVfaWQsIDppbnRlZ2VyCiAgICBmaWVsZCA6cHJvZHVjdF90eXBlX25hbWUsIDpzdHJpbmcKICAgIGZpZWxkIDpjaGFubmVsX2lkLCA6c3RyaW5nCiAgICBmaWVsZCA6Y2hhbm5lbF9uYW1lLCA6c3RyaW5nCiAgICBmaWVsZCA6Y2hhbm5lbF9ncm91cCwgOmludGVnZXIKCiAgICB0aW1lc3RhbXBzKCkKICBlbmQKZW5kCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">RW51bS5ncm91cF9ieSgmTWFwLmdldCgmMSwgOnByb2R1Y3RfdHlwZV9uYW1lKSwgJk1hcC5kZWxldGUoJjEsIDpwcm9kdWN0X3R5cGVfbmFtZSkp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
