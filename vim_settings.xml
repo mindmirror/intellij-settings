@@ -1272,12 +1272,12 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1521179376065">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1521188832422">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="28" column="62" />
-        <mark key="]" line="29" column="42" />
-        <mark key="^" line="29" column="42" />
-        <mark key="." line="29" column="42" />
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="29" />
+        <mark key="^" line="39" column="29" />
+        <mark key="." line="39" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706023050_create_category.exs" timestamp="1499308686826">
         <mark key="[" line="9" column="0" />
@@ -1455,7 +1455,8 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" timestamp="1521187328750">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" timestamp="1521188639974">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="60" />
         <mark key="]" line="9" column="55" />
         <mark key="." line="9" column="55" />
@@ -2311,8 +2312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
-      <jump line="116" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
       <jump line="92" column="27" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
       <jump line="94" column="60" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/user.ex" />
       <jump line="40" column="16" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
@@ -2411,6 +2410,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
       <jump line="42" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
       <jump line="30" column="2" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2423,7 +2424,7 @@
         <text>head_key</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW5lX2l0ZW1cPg==</text>
+        <text encoding="base64">XDxkZWZtb2R1bGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">RW51bS5ncm91cF9ieSgmTWFwLmdldCgmMSwgOnByb2R1Y3RfdHlwZV9uYW1lKSwgJk1hcC5kZWxldGUoJjEsIDpwcm9kdWN0X3R5cGVfbmFtZSkp</text>
@@ -2465,17 +2466,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaW5lX2l0ZW1cPg==</last-search>
+      <last-search encoding="base64">XDxkZWZtb2R1bGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW5lX2l0ZW1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZtb2R1bGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZHZlcnRpc2VyQ29udG9ybGxlclw+</entry>
         <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxsb2FkX2NhdGVnb3JpZXNcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVfZmllbGRzXD4=</entry>
@@ -2495,6 +2495,7 @@
         <entry encoding="base64">XDxuZWVkX2FjdGl2YXRpb25cPg==</entry>
         <entry encoding="base64">XDxBZEZvcm1hdFw+</entry>
         <entry encoding="base64">XDxsaW5lX2l0ZW1cPg==</entry>
+        <entry encoding="base64">XDxkZWZtb2R1bGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
