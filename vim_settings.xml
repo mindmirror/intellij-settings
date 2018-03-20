@@ -158,11 +158,11 @@
         <mark key="." line="21" column="74" />
         <mark key="^" line="21" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/order/show.html.eex" timestamp="1521533492880">
-        <mark key="[" line="55" column="10" />
-        <mark key="]" line="55" column="10" />
-        <mark key="^" line="55" column="30" />
-        <mark key="." line="55" column="10" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/order/show.html.eex" timestamp="1521535480009">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="51" column="29" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/server1/main.go" timestamp="1480910639076">
         <mark key="[" line="15" column="39" />
@@ -2421,8 +2421,8 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MannaWeb.ViewHelpers.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPCU9IEBvcmRlci5vcmRlcl9tYWtlci5mdWxsbmFtZSAlPiwmbmJzcDsK</text>
       </register>
       <register name="-" type="4">
         <text>MannaWeb.ViewHelpers.</text>
@@ -2434,22 +2434,22 @@
         <text encoding="base64">ICBkZWYgbGlzdF9wcm9kdWN0X2l0ZW1fbmFtZXNfYW5kX2lkcygpIGRvCiAgICBSZXBvLmFsbCgKICAgICAgZnJvbSgKICAgICAgICByIGluIFJhdGVjYXJkUmF0ZSwKICAgICAgICB3aGVyZTogci5pc19hcmNoaXZlZCA9PSBmYWxzZSwKICAgICAgICBzZWxlY3Q6IHtyLnByb2R1Y3RfaXRlbV9uYW1lLCByLnByb2R1Y3RfaXRlbV9pZH0KICAgICAgKQogICAgKQogIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPCU9IEBvcmRlci5vcmRlcl9tYWtlci5mdWxsbmFtZSAlPiwmbmJzcDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1c2UgVGltZXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1c2UgVGltZXgKCiAgZGVmIGZvcm1hdF9kYXRldGltZShkdCkgZG8KICAgIGRhdGV0aW1lID0gVGltZXguVGltZXpvbmUuY29udmVydChkdCwgIkFzaWEvSG9uZ19Lb25nIikKICAgIFRpbWV4LmZvcm1hdCEoZGF0ZXRpbWUsICJ7WVlZWX0tezBNfS17MER9IHtoMjR9OnttfSIpCiAgZW5kCg==</text>
+        <text encoding="base64">ICB1c2UgVGltZXgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgTnVtYmVyCg==</text>
+        <text encoding="base64">ICB1c2UgVGltZXgKCiAgZGVmIGZvcm1hdF9kYXRldGltZShkdCkgZG8KICAgIGRhdGV0aW1lID0gVGltZXguVGltZXpvbmUuY29udmVydChkdCwgIkFzaWEvSG9uZ19Lb25nIikKICAgIFRpbWV4LmZvcm1hdCEoZGF0ZXRpbWUsICJ7WVlZWX0tezBNfS17MER9IHtoMjR9OnttfSIpCiAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHw+IFJlcG8ucHJlbG9hZCgpCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgTnVtYmVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHwK</text>
+        <text encoding="base64">ICAgIHw+IFJlcG8ucHJlbG9hZCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2457,13 +2457,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIHwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoZmlyc3QoaXRlbV9saXN0KSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QoaXRlbV9saXN0KQo=</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QoZmlyc3QoaXRlbV9saXN0KSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
