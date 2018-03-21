@@ -1299,12 +1299,12 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/js/app.js" timestamp="1521605815478">
-        <mark key="'" line="102" column="91" />
-        <mark key="[" line="48" column="58" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/assets/js/app.js" timestamp="1521606147695">
+        <mark key="'" line="101" column="91" />
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="22" />
+        <mark key="." line="68" column="22" />
+        <mark key="^" line="68" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/line_item/line_item.eex" timestamp="1520419612372">
         <mark key="[" line="0" column="12" />
@@ -2424,10 +2424,10 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$('#line_item_rate')</text>
+        <text>$channel_selection.</text>
       </register>
       <register name="-" type="4">
-        <text>$('#line_item_rate')</text>
+        <text>$channel_selection.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lX2l0ZW1fYWRmb3JtYXRfbmFtZVw+</text>
@@ -2436,22 +2436,22 @@
         <text encoding="base64">RW51bS5tYXAocHJvZHVjdF9tYXBbbGluZV9pdGVtLnByb2R1Y3RfdHlwZV9uYW1lXVtsaW5lX2l0ZW0ucHVibGlzaGVyX25hbWVdLCBmbiB7aywgdn0gLT4ge2ssIGt9IGVuZCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgJGNoYW5uZWxfc2VsZWN0aW9uID0gJCgnI2xpbmVfaXRlbV9wdWJsaXNoZXJfbmFtZScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0ICRsaW5lX2l0ZW1fYWRfZm9ybWF0X25hbWUgPSAkKCcjbGluZV9pdGVtX2FkXycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGV0ICRsaW5lX2l0ZW1fYWRfZm9ybWF0X25hbWUgPSAkKCcjbGluZV9pdGVtX2FkXycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QocHJvZHVjdF9tYXApCiAgICBJTy5pbnNwZWN0KHByb2R1Y3RfbWFwW2xpbmVfaXRlbS5wcm9kdWN0X3R5cGVfbmFtZV0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHVibGlzaGVyX25hbWVzOiBwdWJsaXNoZXJfbmFtZXMsCg==</text>
+        <text encoding="base64">ICAgIElPLmluc3BlY3QocHJvZHVjdF9tYXApCiAgICBJTy5pbnNwZWN0KHByb2R1Y3RfbWFwW2xpbmVfaXRlbS5wcm9kdWN0X3R5cGVfbmFtZV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1Ymxpc2hlcl9uYW1lcyA9IEVudW0ubWFwKHByb2R1Y3RfbWFwW2xpbmVfaXRlbS5wcm9kdWN0X3R5cGVfbmFtZV0sICZ7JjEsICYxfSkK</text>
+        <text encoding="base64">ICAgICAgcHVibGlzaGVyX25hbWVzOiBwdWJsaXNoZXJfbmFtZXMsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2459,13 +2459,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1Ymxpc2hlcl9uYW1lcyA9IHByb2R1Y3RfbWFwW10K</text>
+        <text encoding="base64">ICAgIHB1Ymxpc2hlcl9uYW1lcyA9IEVudW0ubWFwKHByb2R1Y3RfbWFwW2xpbmVfaXRlbS5wcm9kdWN0X3R5cGVfbmFtZV0sICZ7JjEsICYxfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1Ymxpc2hlcl9uYW1lcyA9IHByb2R1Y3RfbWFwW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudF91c2VyOiBjdXJyZW50X3VzZXIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
