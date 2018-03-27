@@ -257,6 +257,12 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/index.html.eex" timestamp="1522117116201">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20171226124632_create_ad_placement.exs" timestamp="1521087255375">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="44" />
