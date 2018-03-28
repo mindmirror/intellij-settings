@@ -928,12 +928,12 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1522205718276">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" timestamp="1522207494671">
         <mark key="'" line="25" column="4" />
-        <mark key="[" line="12" column="126" />
-        <mark key="]" line="12" column="126" />
-        <mark key="." line="12" column="126" />
-        <mark key="^" line="12" column="128" />
+        <mark key="[" line="176" column="17" />
+        <mark key="]" line="176" column="32" />
+        <mark key="." line="176" column="32" />
+        <mark key="^" line="176" column="32" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/regional_weather.go" timestamp="1485312479795">
         <mark key="'" line="31" column="0" />
@@ -1338,7 +1338,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" timestamp="1522206259641">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" timestamp="1522207093328">
         <mark key="'" line="199" column="56" />
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -2411,11 +2411,11 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtLSBwbC5uYW1lIE5PVCBJTiAoCiAgICAgICAgLS0gQXZvaWQgc3ViIGFkIHBsYWNlbWVudHMgdG8gZGVkdXBsaWNhdGUgcmF0ZSBjYXJkIG1hdHJpeAogICAgICAgIC0tICdSTyBFbnRlcnRhaW5tZW50JywgJ1JPIExpZmVzdHlsZScsICdSTyBGaW5hbmNlJywgJ1JPIFByb3BlcnR5JywKICAgICAgICAtLSdSTyBGb29kIChDb29raW5nICYgUmVjaXBlcyknLCAnUk8gRm9vZCAoRWF0aW5nIE91dCknLCAnUk8gTmV3cyAoSEspJykKICAgICAgICAtLSBBTkQK</text>
+      <register name="&quot;" type="4">
+        <text>p.AdFormat__r.Name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p.AdFormat__r.Name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaVw+</text>
