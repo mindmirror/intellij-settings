@@ -1220,12 +1220,12 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/line_item/new.html.eex" timestamp="1521549773984">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/line_item/new.html.eex" timestamp="1522232336875">
         <mark key="'" line="51" column="6" />
-        <mark key="[" line="78" column="6" />
-        <mark key="]" line="78" column="6" />
-        <mark key="." line="78" column="6" />
-        <mark key="^" line="78" column="6" />
+        <mark key="[" line="82" column="52" />
+        <mark key="]" line="82" column="57" />
+        <mark key="." line="82" column="57" />
+        <mark key="^" line="82" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-hello/src/main.go" timestamp="1460619678768">
         <mark key="[" line="3" column="0" />
@@ -1537,6 +1537,12 @@
         <mark key="]" line="6" column="2" />
         <mark key="^" line="9" column="8" />
         <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/line_item/edit.html.eex" timestamp="1522232247102">
+        <mark key="[" line="82" column="52" />
+        <mark key="]" line="82" column="73" />
+        <mark key="." line="82" column="73" />
+        <mark key="^" line="82" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/changelog.com/config/dev.exs" timestamp="1517823688528">
         <mark key="[" line="39" column="28" />
@@ -2459,10 +2465,10 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, :product_item</text>
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>, :product_item</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>product_item</text>
@@ -2503,7 +2509,7 @@
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -2513,7 +2519,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2548,8 +2554,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>wf</entry>
-        <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
