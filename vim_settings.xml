@@ -1303,11 +1303,11 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1522826201071">
-        <mark key="[" line="45" column="35" />
-        <mark key="]" line="46" column="22" />
-        <mark key="." line="46" column="22" />
-        <mark key="^" line="46" column="22" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1522828601493">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="22" />
+        <mark key="." line="54" column="22" />
+        <mark key="^" line="54" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706023050_create_category.exs" timestamp="1499308686826">
         <mark key="[" line="9" column="0" />
@@ -2464,11 +2464,11 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcigKICAgICAgY29ubiwKICAgICAgIm5ldy5odG1sIiwKICAgICkK</text>
+      <register name="&quot;" type="4">
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>product_item</text>
