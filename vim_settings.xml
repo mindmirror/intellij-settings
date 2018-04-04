@@ -47,11 +47,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/view_helpers.ex" timestamp="1522836321193">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="22" column="18" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/view_helpers.ex" timestamp="1522837890873">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/priv/repo/seeds.exs" timestamp="1504767886645">
         <mark key="'" line="16" column="91" />
@@ -2467,10 +2467,10 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>warning</text>
+        <text>primary</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>primary</text>
       </register>
       <register name="/" type="4">
         <text>product_item</text>
