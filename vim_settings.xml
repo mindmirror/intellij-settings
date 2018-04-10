@@ -1040,12 +1040,12 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523345412249">
-        <mark key="'" line="112" column="8" />
-        <mark key="[" line="72" column="47" />
-        <mark key="]" line="72" column="70" />
-        <mark key="." line="72" column="70" />
-        <mark key="^" line="72" column="70" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523350178193">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="61" />
+        <mark key="]" line="72" column="7" />
+        <mark key="." line="72" column="7" />
+        <mark key="^" line="72" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -2361,11 +2361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
       <jump line="42" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
       <jump line="30" column="2" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
@@ -2461,40 +2456,45 @@
       <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/view_helpers.ex" />
       <jump line="112" column="8" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" />
+      <jump line="135" column="58" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="5" column="21" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="81" column="18" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="99" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>primary</text>
+        <text>redirect(to: order_path(conn, :index))</text>
       </register>
       <register name="-" type="4">
-        <text>primary</text>
+        <text>redirect(to: order_path(conn, :index))</text>
       </register>
       <register name="/" type="4">
-        <text>product_item</text>
+        <text>put_status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIElPLnB1dHMoIlxuIikK</text>
+        <text encoding="base64">ICAgICAgICBjb25uCiAgICAgICAgfD4gcHV0X3N0YXR1cyg6bm90X2ZvdW5kKQogICAgICAgIHw+IHJlbmRlcihNYW5uYVdlYi5FcnJvclZpZXcsICJlbnRyeV9ub3RfZm91bmQuaHRtbCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBNYW5uYS5FY3RvRW51bXMK</text>
+        <text encoding="base64">ICAgICAgICAgIHw+IGhhbHQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcigKICAgICAgY29ubiwKICAgICAgIm5ldy5odG1sIiwKICAgICkK</text>
+        <text encoding="base64">CiAgZGVmcCB1c2VyX2JlbG9uZ3NfdG9fYWdlbmN5PyglVWVzcnt9ID0gdXNlciwgJUFnZW5jeXt9ID0gYWdlbmN5KSBkbwogICAgdXNlci5hZ2VuY3lfaWQgPT0gYWdlbmN5LmlkCiAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudF91c2VyOiBjdXJyZW50X3VzZXIsCiAgICAgIHByb2R1Y3RfdHlwZXM6IHByb2R1Y3RfdHlwZXMsCiAgICAgIHByb2R1Y3RfbWFwOiBwcm9kdWN0X21hcCwKICAgICAgY2hhbmdlc2V0OiBjaGFuZ2VzZXQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QocGFyYW1zKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsaW5lX2l0ZW1zID0gT3JkZXJzLmxpc3RfbGluZV9pdGVtc19mcm9tX29yZGVyKGlkKQogICAgICAgIHJlbmRlcihjb25uLCAic2hvdy5odG1sIiwgb3JkZXI6IG9yZGVyLCBsaW5lX2l0ZW1zOiBsaW5lX2l0ZW1zLCBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlcikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyX2JlbG9uZ3NfdG9fYWdlbmN5PyhjdXJyZW50X3VzZXIsIGRkKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsaW5lX2l0ZW1fcHJvZHVjdF9pdGVtX2lkID0gcHJvZHVjdF9pdGVtLnByb2R1Y3RfaXRlbV9pZDsKICBsaW5lX2l0ZW1fcHJvZHVjdF9pdGVtX25hbWUgPSBwcm9kdWN0X2l0ZW0ucHJvZHVjdF9pdGVtX25hbWU7CiAgbGluZV9pdGVtX3Byb2R1Y3RfaXRlbV9yYXRlID0gcHJvZHVjdF9pdGVtLnJhdGU7CgogICRsaW5lX2l0ZW1fcHJvZHVjdF9pdGVtX2lkLnZhbChsaW5lX2l0ZW1fcHJvZHVjdF9pdGVtX2lkKTsKICAkbGluZV9pdGVtX3Byb2R1Y3RfaXRlbV9uYW1lLnZhbChsaW5lX2l0ZW1fcHJvZHVjdF9pdGVtX25hbWUpOwogICRsaW5lX2l0ZW1fcHJvZHVjdF9pdGVtX3JhdGUudmFsKGxpbmVfaXRlbV9wcm9kdWN0X2l0ZW1fcmF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGxpbmVfaXRlbXMgPSBPcmRlcnMubGlzdF9saW5lX2l0ZW1zX2Zyb21fb3JkZXIoaWQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2502,30 +2502,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbGlhcyBNYW5uYS5Qcm9kdWN0cy5Qcm9kdWN0VHlwZQo=</text>
+        <text encoding="base64">ICAgIG9yZGVyID0gT3JkZXJzLmdldF9vcmRlcihpZCkKICAgIGlmIG9yZGVyID09IG5pbCBkbwogICAgICBjb25uCiAgICAgIHw+IHB1dF9zdGF0dXMoOm5vdF9mb3VuZCkKICAgICAgfD4gcmVuZGVyKE1hbm5hV2ViLkVycm9yVmlldywgImVudHJ5X25vdF9mb3VuZC5odG1sIikKICAgIGVuZAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgbGlzdF9yYXRlY2FyZF9pdGVtX25hbWVzX2FuZF9pZHMoKSBkbwogICAgUmVwby5hbGwoCiAgICAgIGZyb20oCiAgICAgICAgciBpbiBSYXRlY2FyZFJhdGUsCiAgICAgICAgd2hlcmU6IHIuaXNfYXJjaGl2ZWQgPT0gZmFsc2UsCiAgICAgICAgc2VsZWN0OiB7ci5wcm9kdWN0X2l0ZW1fbmFtZSwgci5wcm9kdWN0X2l0ZW1faWR9CiAgICAgICkKICAgICkKICBlbmQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHw+IFJlcG8ucHJlbG9hZChbOm9yZGVyLCA6cHJvZHVjdF9pdGVtXSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBNYW5uYS5FY3RvRW51bXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>product_item</last-search>
+      <last-search>put_status</last-search>
       <last-offset />
-      <last-pattern>product_item</last-pattern>
+      <last-pattern>put_status</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZEZvcm1hdFw+</entry>
         <entry encoding="base64">XDxsaW5lX2l0ZW1cPg==</entry>
         <entry encoding="base64">XDxkZWZtb2R1bGVcPg==</entry>
         <entry encoding="base64">XDxsaW5lX2l0ZW1fYWRmb3JtYXRfbmFtZVw+</entry>
@@ -2545,6 +2544,7 @@
         <entry>publisher_sfid</entry>
         <entry encoding="base64">XDxwcm9kdWN0X3R5cGVfbmFtZVw+</entry>
         <entry>product_item</entry>
+        <entry>put_status</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
