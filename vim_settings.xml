@@ -667,8 +667,8 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1521086140091">
-        <mark key="'" line="120" column="6" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1523345425234">
+        <mark key="'" line="60" column="0" />
         <mark key="[" line="123" column="27" />
         <mark key="]" line="123" column="56" />
         <mark key="." line="123" column="56" />
@@ -1040,8 +1040,8 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1522313403147">
-        <mark key="'" line="79" column="6" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523345412249">
+        <mark key="'" line="112" column="8" />
         <mark key="[" line="72" column="47" />
         <mark key="]" line="72" column="70" />
         <mark key="." line="72" column="70" />
@@ -2361,8 +2361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
-      <jump line="26" column="19" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/products/products.ex" />
@@ -2461,6 +2459,8 @@
       <jump line="47" column="30" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/user_controller.ex" />
       <jump line="27" column="20" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/view_helpers.ex" />
+      <jump line="112" column="8" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
