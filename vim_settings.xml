@@ -1040,11 +1040,11 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523355449292">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="3" />
-        <mark key="." line="150" column="3" />
-        <mark key="^" line="150" column="3" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523356585076">
+        <mark key="[" line="177" column="33" />
+        <mark key="]" line="177" column="33" />
+        <mark key="^" line="123" column="51" />
+        <mark key="." line="177" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -2465,11 +2465,11 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChjdXJyZW50X3VzZXIuaXNfYWRtaW4gYW5kIGdldF9zZXNzaW9uKGNvbm4sIDppc19hZG1pbl9zZXNzaW9uKSkgb3IKICAgICAgICAgKHVzZXJfYWdlbmN5ICE9IG5pbCBhbmQgdXNlcl9hZ2VuY3kuYWdlbmN5X2lkID09IG9yZGVyLmFnZW5jeV9pZCkgZG8K</text>
+      <register name="&quot;" type="4">
+        <text>current_</text>
       </register>
       <register name="-" type="4">
-        <text>Orders.get_order(id)</text>
+        <text>current_</text>
       </register>
       <register name="/" type="4">
         <text>Accounts</text>
