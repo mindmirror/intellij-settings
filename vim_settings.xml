@@ -667,7 +667,7 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1523345425234">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/authorize.ex" timestamp="1523350874807">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="123" column="27" />
         <mark key="]" line="123" column="56" />
@@ -1040,12 +1040,12 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523350178193">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523350994914">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="61" />
-        <mark key="]" line="72" column="7" />
-        <mark key="." line="72" column="7" />
-        <mark key="^" line="72" column="7" />
+        <mark key="[" line="75" column="144" />
+        <mark key="]" line="75" column="144" />
+        <mark key="." line="75" column="144" />
+        <mark key="^" line="75" column="144" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -2467,10 +2467,10 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>redirect(to: order_path(conn, :index))</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>redirect(to: order_path(conn, :index))</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>put_status</text>
