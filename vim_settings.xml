@@ -27,6 +27,12 @@
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/agency/index.html.eex" timestamp="1523430560281">
+        <mark key="[" line="19" column="76" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/controllers/auth_controller.ex" timestamp="1503632277868">
         <mark key="'" line="48" column="6" />
         <mark key="[" line="57" column="26" />
@@ -124,17 +130,12 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180203055731_create_ratecard_publisher_table.exs" timestamp="1522224915311">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" timestamp="1522312700883">
-        <mark key="'" line="39" column="23" />
-        <mark key="[" line="43" column="34" />
-        <mark key="]" line="43" column="40" />
-        <mark key="." line="43" column="40" />
-        <mark key="^" line="43" column="40" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/user/edit.html.eex" timestamp="1523430485879">
+        <mark key="'" line="40" column="23" />
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="61" />
+        <mark key="." line="35" column="61" />
+        <mark key="^" line="35" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/go-project/go-package/src/shopping/pricecheck.go" timestamp="1460622036902">
         <mark key="[" line="10" column="5" />
@@ -608,12 +609,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/index.html.eex" timestamp="1519720998226">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/index.html.eex" timestamp="1523430597795">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="21" column="92" />
-        <mark key="^" line="21" column="92" />
+        <mark key="[" line="21" column="76" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/agent/edit.html.eex" timestamp="1520491021836">
         <mark key="[" line="12" column="28" />
@@ -725,6 +726,12 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/advertiser/show.html.eex" timestamp="1523430609145">
+        <mark key="[" line="14" column="76" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180124040608_create_order_table.exs" timestamp="1522835856029">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="62" />
@@ -737,6 +744,12 @@
         <mark key="]" line="7" column="44" />
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/agency/show.html.eex" timestamp="1523430577130">
+        <mark key="[" line="10" column="76" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/main/main.go" timestamp="1460690515714">
         <mark key="[" line="5" column="1" />
@@ -787,11 +800,6 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/order_view.ex" timestamp="1521533362753">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/echo2/main.go" timestamp="1480662997491">
         <mark key="'" line="5" column="7" />
@@ -895,11 +903,6 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20180203060130_create_ratecard_ad_format_table.exs" timestamp="1522224911695">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.secret.exs" timestamp="1504151283846">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
@@ -972,11 +975,6 @@
         <mark key="]" line="31" column="16" />
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/brunch-config.js" timestamp="1521014518729">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Pixels/manna/lib/manna/orders/orders.ex" timestamp="1514189919385">
         <mark key="'" line="4" column="0" />
@@ -1166,6 +1164,12 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="66" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/order/new.html.eex" timestamp="1523430531018">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="40" />
+        <mark key="^" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/login.gtpl" timestamp="1466411429418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1304,11 +1308,12 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1523428873508">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1523430633857">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="65" />
+        <mark key="." line="23" column="65" />
+        <mark key="^" line="23" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706023050_create_category.exs" timestamp="1499308686826">
         <mark key="[" line="9" column="0" />
@@ -2268,6 +2273,12 @@
         <mark key="]" line="6" column="79" />
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/order/edit.html.eex" timestamp="1523430519347">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="40" />
+        <mark key="^" line="27" column="40" />
+        <mark key="." line="27" column="40" />
       </file>
       <file name="$USER_HOME$/golang/src/pixels/weather-go/hkoweather/weather_xml.go" timestamp="1485252579975">
         <mark key="'" line="117" column="0" />
