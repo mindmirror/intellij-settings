@@ -1308,12 +1308,12 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1523430633857">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="65" />
-        <mark key="." line="23" column="65" />
-        <mark key="^" line="23" column="65" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" timestamp="1523431978560">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="107" column="5" />
+        <mark key="]" line="106" column="9" />
+        <mark key="." line="106" column="9" />
+        <mark key="^" line="106" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/rumbl/priv/repo/migrations/20170706023050_create_category.exs" timestamp="1499308686826">
         <mark key="[" line="9" column="0" />
@@ -1908,6 +1908,12 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/manna_web_controller_helper.ex" timestamp="1523431786221">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="25" />
@@ -2378,8 +2384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/view_helpers.ex" />
-      <jump line="63" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="94" column="26" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="127" column="25" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
@@ -2478,16 +2482,18 @@
       <jump line="12" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/controller_helper.ex" />
       <jump line="27" column="6" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
+      <jump line="107" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
+      <jump line="112" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhc2UgY3VycmVudF91c2VyLnJvbGUubmFtZSBkbwogICAgICAiT3JkZXIgTWFrZXIiIC0+CiAgICAgICAgdXNlcl9hZ2VuY3kgPSBBZHZlcnRpc2Vycy5nZXRfdXNlcl9hZ2VuY3koY3VycmVudF91c2VyLmlkKQogICAgICAgIG9yZGVycyA9IE9yZGVycy5saXN0X29yZGVyc19mcm9tX2FnZW5jeSh1c2VyX2FnZW5jeS5hZ2VuY3lfaWQpCiAgICAgICAgcmVuZGVyKGNvbm4sICJpbmRleC5odG1sIiwgb3JkZXJzOiBvcmRlcnMpCgogICAgICBfIC0+CiAgICBlbmQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bGluZV9pdGVtIA==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">bGluZV9pdGVtIA==</text>
       </register>
       <register name="/" type="4">
         <text>Accounts</text>
@@ -2496,22 +2502,22 @@
         <text encoding="base64">ICAgICAgICB1c2VyX2FnZW5jeSA9IEFkdmVydGlzZXJzLmdldF91c2VyX2FnZW5jeShjdXJyZW50X3VzZXIuaWQpCiAgICAgICAgb3JkZXJzID0gT3JkZXJzLmxpc3Rfb3JkZXJzX2Zyb21fYWdlbmN5KHVzZXJfYWdlbmN5LmFnZW5jeV9pZCkKICAgICAgICByZW5kZXIoY29ubiwgImluZGV4Lmh0bWwiLCBvcmRlcnM6IG9yZGVycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgY3VycmVudF91c2VyLnJvbGUubmFtZSBkbwogICAgICAiT3JkZXIgTWFrZXIiIC0+CiAgICAgICAgdXNlcl9hZ2VuY3kgPSBBZHZlcnRpc2Vycy5nZXRfdXNlcl9hZ2VuY3koY3VycmVudF91c2VyLmlkKQogICAgICAgIG9yZGVycyA9IE9yZGVycy5saXN0X29yZGVyc19mcm9tX2FnZW5jeSh1c2VyX2FnZW5jeS5hZ2VuY3lfaWQpCiAgICAgICAgcmVuZGVyKGNvbm4sICJpbmRleC5odG1sIiwgb3JkZXJzOiBvcmRlcnMpCgogICAgICBfIC0+CiAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIEZvciAiQWRtaW4iIGFuZCAiT3JkZXIgVGFrZXIiIHJvbGUsIHNob3cgYWxsIG9yZGVycwogICAgICAgIG9yZGVycyA9IE9yZGVycy5saXN0X2FsbF9vcmRlcnMoKQogICAgICAgIHJlbmRlcihjb25uLCAiaW5kZXguaHRtbCIsIG9yZGVyczogb3JkZXJzKQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgT3JkZXJzLmdldF9saW5lX2l0ZW0oaWQpIGRvCiAgICAgIG5pbCAtPgogICAgICAgIGNvbm4KICAgICAgICB8PiBwdXRfc3RhdHVzKDpub3RfZm91bmQpCiAgICAgICAgfD4gcmVuZGVyKE1hbm5hV2ViLkVycm9yVmlldywgImVudHJ5X25vdF9mb3VuZC5odG1sIikKCiAgICAgIGxpbmVfaXRlbSAtPgogICAgICAgIHJlbmRlcihjb25uLCAic2hvdy5odG1sIiwgbGluZV9pdGVtOiBsaW5lX2l0ZW0sIGN1cnJlbnRfdXNlcjogY3VycmVudF91c2VyKQogICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgY3VycmVudF91c2VyLnJvbGUubmFtZSBkbwogICAgICAiT3JkZXIgTWFrZXIiIC0+CiAgICAgICAgdXNlcl9hZ2VuY3kgPSBBZHZlcnRpc2Vycy5nZXRfdXNlcl9hZ2VuY3koY3VycmVudF91c2VyLmlkKQogICAgICAgIG9yZGVycyA9IE9yZGVycy5saXN0X29yZGVyc19mcm9tX2FnZW5jeSh1c2VyX2FnZW5jeS5hZ2VuY3lfaWQpCiAgICAgICAgcmVuZGVyKGNvbm4sICJpbmRleC5odG1sIiwgb3JkZXJzOiBvcmRlcnMpCgogICAgICBfIC0+CiAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhc2UgY3VycmVudF91c2VyLnJvbGUubmFtZSBkbwogICAgICAiT3JkZXIgTWFrZXIiIC0+CiAgICAgICAgdXNlcl9hZ2VuY3kgPSBBZHZlcnRpc2Vycy5nZXRfdXNlcl9hZ2VuY3koY3VycmVudF91c2VyLmlkKQogICAgICAgIGxpbmVfaXRlbXMgPSBPcmRlcnMubGlzdF9saW5lX2l0ZW1zX2Zyb21fYWdlbmN5KHVzZXJfYWdlbmN5LmFnZW5jeV9pZCkKICAgICAgICByZW5kZXIoY29ubiwgImluZGV4Lmh0bWwiLCBsaW5lX2l0ZW1zOiBsaW5lX2l0ZW1zKQoKICAgICAgXyAtPgogICAgICAgICMgRm9yICJBZG1pbiIgYW5kICJPcmRlciBUYWtlciIgcm9sZSwgc2hvdyBhbGwgbGluZSBpdGVtcwogICAgICAgIGxpbmVfaXRlbXMgPSBPcmRlcnMubGlzdF9hbGxfbGluZV9pdGVtcygpCiAgICAgICAgcmVuZGVyKGNvbm4sICJpbmRleC5odG1sIiwgbGluZV9pdGVtczogbGluZV9pdGVtcykKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIEZvciAiQWRtaW4iIGFuZCAiT3JkZXIgVGFrZXIiIHJvbGUsIHNob3cgYWxsIG9yZGVycwogICAgICAgIG9yZGVycyA9IE9yZGVycy5saXN0X2FsbF9vcmRlcnMoKQogICAgICAgIHJlbmRlcihjb25uLCAiaW5kZXguaHRtbCIsIG9yZGVyczogb3JkZXJzKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2519,13 +2525,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJTy5pbnNwZWN0KGxpbmVfaXRlbXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElPLnB1dHMgIlJvbGUgbmFtZTogI3tjdXJyZW50X3VzZXIucm9sZS5uYW1lfSIK</text>
+        <text encoding="base64">ICAgIGNhc2UgY3VycmVudF91c2VyLnJvbGUubmFtZSBkbwogICAgICAiT3JkZXIgTWFrZXIiIC0+CiAgICAgICAgdXNlcl9hZ2VuY3kgPSBBZHZlcnRpc2Vycy5nZXRfdXNlcl9hZ2VuY3koY3VycmVudF91c2VyLmlkKQogICAgICAgIGxpbmVfaXRlbXMgPSBPcmRlcnMubGlzdF9saW5lX2l0ZW1zX2Zyb21fYWdlbmN5KHVzZXJfYWdlbmN5LmFnZW5jeV9pZCkKICAgICAgICByZW5kZXIoY29ubiwgImluZGV4Lmh0bWwiLCBsaW5lX2l0ZW1zOiBsaW5lX2l0ZW1zKQoKICAgICAgXyAtPgogICAgICAgICMgRm9yICJBZG1pbiIgYW5kICJPcmRlciBUYWtlciIgcm9sZSwgc2hvdyBhbGwgbGluZSBpdGVtcwogICAgICAgIGxpbmVfaXRlbXMgPSBPcmRlcnMubGlzdF9hbGxfbGluZV9pdGVtcygpCiAgICAgICAgcmVuZGVyKGNvbm4sICJpbmRleC5odG1sIiwgbGluZV9pdGVtczogbGluZV9pdGVtcykKICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbGlhcyBNYW5uYS5BY2NvdW50cy5Vc2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
