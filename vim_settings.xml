@@ -187,6 +187,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/error_view.ex" timestamp="1520842887682">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.exs" timestamp="1504080081096">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="20" />
@@ -977,6 +983,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/assets/css/phoenix.css" timestamp="1520855155438">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input.go" timestamp="1466411191079">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="0" column="8" />
@@ -1026,11 +1038,11 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523526433774">
-        <mark key="[" line="193" column="14" />
-        <mark key="]" line="193" column="26" />
-        <mark key="^" line="193" column="26" />
-        <mark key="." line="193" column="26" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523527657178">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -1270,6 +1282,12 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/line_item/show.html.eex" timestamp="1522231119175">
+        <mark key="'" line="47" column="19" />
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1509455101682">
         <mark key="[" line="22" column="26" />
         <mark key="]" line="22" column="33" />
@@ -1315,6 +1333,12 @@
         <mark key="]" line="23" column="34" />
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/assets/js/app.js" timestamp="1522295641004">
+        <mark key="'" line="93" column="29" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/line_item/line_item.eex" timestamp="1520419612372">
         <mark key="[" line="0" column="12" />
@@ -1673,6 +1697,12 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" timestamp="1521099868488">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/server2/main.go" timestamp="1480911910444">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="25" column="1" />
@@ -1765,6 +1795,12 @@
         <mark key="]" line="7" column="46" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/products/ratecard_ad_format.ex" timestamp="1521100656121">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna/ecto_enums.ex" timestamp="1523519974280">
         <mark key="[" line="4" column="87" />
@@ -2321,12 +2357,12 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/orders.ex" timestamp="1523506755343">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="52" column="19" />
-        <mark key="." line="52" column="19" />
-        <mark key="^" line="52" column="19" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/orders.ex" timestamp="1523527746234">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="75" column="10" />
+        <mark key="]" line="75" column="10" />
+        <mark key="." line="75" column="10" />
+        <mark key="^" line="75" column="10" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/programming-phoenix/rumbl/mix.exs" timestamp="1498272172497">
         <mark key="[" line="21" column="44" />
@@ -2348,15 +2384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="138" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="142" column="18" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="146" column="18" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_salesforce_data.ex" />
-      <jump line="45" column="30" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" />
-      <jump line="54" column="24" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" />
-      <jump line="28" column="63" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" />
-      <jump line="47" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" />
-      <jump line="122" column="50" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" />
       <jump line="156" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" />
       <jump line="183" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" />
       <jump line="216" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/mix/tasks/import_ratecard_data.ex" />
@@ -2448,16 +2475,25 @@
       <jump line="146" column="9" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="136" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="144" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="263" column="5" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="255" column="6" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="260" column="10" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="266" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="270" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="275" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="278" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="282" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="142" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICJkcmFmdCIgLT4KICAgICAgICAgICAgT3JkZXJzLnN3aXRjaF9vcmRlcl9zdGF0dXMob3JkZXIsIDpkcmFmdCkK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lX2l0ZW1cPg==</text>
@@ -2466,22 +2502,22 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyKAogICAgICAgICAgICAgIGNvbm4sCiAgICAgICAgICAgICAgImVkaXQuaHRtbCIsCiAgICAgICAgICAgICAgb3JkZXI6IG9yZGVyLAogICAgICAgICAgICAgIHVzZXJfYWdlbmN5OiB1c2VyX2FnZW5jeSwKICAgICAgICAgICAgICBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlciwKICAgICAgICAgICAgICBjaGFuZ2VzZXQ6IGNoYW5nZXNldAogICAgICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJkcmFmdCIgLT4KICAgICAgICAgICAgT3JkZXJzLnN3aXRjaF9vcmRlcl9zdGF0dXMob3JkZXIsIDpkcmFmdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICMgRE8gbm90aGluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICBjdXJyZW50X3VzZXIucm9sZS5uYW1lID09ICJBZG1pbiIgYW5kIGdldF9zZXNzaW9uKGNvbm4sIDppc19hZG1pbl9zZXNzaW9uKSAtPgogICAgICAgICAgICByZW5kZXIoCiAgICAgICAgICAgICAgY29ubiwKICAgICAgICAgICAgICAiZWRpdC5odG1sIiwKICAgICAgICAgICAgICBvcmRlcjogb3JkZXIsCiAgICAgICAgICAgICAgdXNlcl9hZ2VuY3k6IHVzZXJfYWdlbmN5LAogICAgICAgICAgICAgIGN1cnJlbnRfdXNlcjogY3VycmVudF91c2VyLAogICAgICAgICAgICAgIGNoYW5nZXNldDogY2hhbmdlc2V0CiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">CiAgICAgICAgY29uZCBkbwogICAgICAgICAgb3JkZXIub3JkZXJfc3RhdHVzID09IDpkcmFmdCBhbmQgY3VycmVudF91c2VyLnJvbGUubmFtZSA9PSAiT3JkZXIgTWFrZXIiIC0+CgogICAgICAgICAgb3JkZXIub3JkZXJfc3RhdHVzID09IDpwcm9jZXNzaW5nIGFuZAogICAgICAgICAgICAgIChjdXJyZW50X3VzZXIucm9sZS5uYW1lID09ICJPcmRlciBUYWtlciIgb3IKICAgICAgICAgICAgICAgICAoY3VycmVudF91c2VyLnJvbGUubmFtZSA9PSAiQWRtaW4iIGFuZCBnZXRfc2Vzc2lvbihjb25uLCA6aXNfYWRtaW5fc2Vzc2lvbikpKSAtPgogICAgICAgICAgICByZW5kZXIoCiAgICAgICAgICAgICAgY29ubiwKICAgICAgICAgICAgICAiZWRpdC5odG1sIiwKICAgICAgICAgICAgICBvcmRlcjogb3JkZXIsCiAgICAgICAgICAgICAgdXNlcl9hZ2VuY3k6IHVzZXJfYWdlbmN5LAogICAgICAgICAgICAgIGN1cnJlbnRfdXNlcjogY3VycmVudF91c2VyLAogICAgICAgICAgICAgIGNoYW5nZXNldDogY2hhbmdlc2V0CiAgICAgICAgICAgICkKCiAgICAgICAgICB0cnVlIC0+CiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlc2V0ID0gT3JkZXIuY2hhbmdlc2V0KG9yZGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubgogICAgICAgICAgICB8PiBwdXRfZmxhc2goCiAgICAgICAgICAgICAgOmVycm9yLAogICAgICAgICAgICAgICJUaGUgb3JkZXIgc3RhdHVzIGlzIGluIFwiI3tBdG9tLnRvX3N0cmluZyhvcmRlci5vcmRlcl9zdGF0dXMpfVwiLiBUaGUgZWRpdGluZyBmdW5jdGlvbiBpcyBsb2NrZWQuIgogICAgICAgICAgICApCiAgICAgICAgICAgIHw+IHJlZGlyZWN0KHRvOiBvcmRlcl9wYXRoKGNvbm4sIDpzaG93LCBvcmRlcikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuZ2VzZXQgPSBPcmRlci5jaGFuZ2VzZXQob3JkZXIpCgogICAgICAgIHJlbmRlcigKICAgICAgICAgIGNvbm4sCiAgICAgICAgICAiZWRpdC5odG1sIiwKICAgICAgICAgIG9yZGVyOiBvcmRlciwKICAgICAgICAgIHVzZXJfYWdlbmN5OiB1c2VyX2FnZW5jeSwKICAgICAgICAgIGN1cnJlbnRfdXNlcjogY3VycmVudF91c2VyLAogICAgICAgICAgY2hhbmdlc2V0OiBjaGFuZ2VzZXQKICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuZ2VzZXQgPSBFY3RvLkNoYW5nZXNldC5jaGFuZ2Uob3JkZXIsIG9yZGVyX3N0YXR1czogOnN1Ym1pdHRlZCkKICAgICAgICBNYW5uYS5SZXBvLnVwZGF0ZShjaGFuZ2VzZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyKAogICAgICAgICAgICAgIGNvbm4sCiAgICAgICAgICAgICAgImVkaXQuaHRtbCIsCiAgICAgICAgICAgICAgb3JkZXI6IG9yZGVyLAogICAgICAgICAgICAgIHVzZXJfYWdlbmN5OiB1c2VyX2FnZW5jeSwKICAgICAgICAgICAgICBjdXJyZW50X3VzZXI6IGN1cnJlbnRfdXNlciwKICAgICAgICAgICAgICBjaGFuZ2VzZXQ6IGNoYW5nZXNldAogICAgICAgICAgICApCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2489,13 +2525,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcnMuc3dpdGNoX29yZGVyX3N0YXR1cyhvcmRlciwgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkZWYgaXNfb3JkZXJfZWRpdGFibGU/KG9yZGVyX3N0YXR1cywgcm9sZSkgZG8KICAgIGNvbmQgZG8KICAgICAgcm9sZS5uYW1lID09ICJPcmRlciBNYWtlciIgLT4KICAgICAgY2FzZSBvcmRlcl9zdGF0dXMgZG8KICAgICAgICA6ZHJhZnQgLT4KICAgICAgICAgIHRydWUKCiAgICAgICAgdHJ1ZSAtPgogICAgICAgICAgZmFsc2UKICAgICAgZW5kCgogICAgICByb2xlLm5hbWUgPT0gIk9yZGVyIFRha2VyIiBvciByb2xlLm5hbWUgPT0gIkFkbWluIiAtPgogICAgICAgIGNhc2Ugb3JkZXJfc3RhdHVzIGRvCiAgICAgICAgICA6ZHJhZnQgLT4KICAgICAgICAgICAgdHJ1ZQoKICAgICAgICAgIDpwcm9jZXNzaW5nIC0+CiAgICAgICAgICAgIHRydWUKCiAgICAgICAgICB0cnVlIC0+CiAgICAgICAgICAgIGZhbHNlCiAgICAgICAgZW5kCgogICAgICBfIC0+CiAgICAgICAgIGZhbHNlCiAgICBlbmQKICBlbmQKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElPLmluc3BlY3QocGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICA6c3VibWl0dGVkIC0+CiAgICAgICAgICBmYWxzZQogICAgICAgIDpjYW5jZWxsZWQgLT4KICAgICAgICAgIGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
