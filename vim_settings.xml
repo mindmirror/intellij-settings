@@ -1026,12 +1026,12 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523611437060">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523612832430">
         <mark key="'" line="168" column="56" />
-        <mark key="[" line="169" column="49" />
-        <mark key="]" line="169" column="76" />
-        <mark key="." line="169" column="76" />
-        <mark key="^" line="169" column="76" />
+        <mark key="[" line="172" column="57" />
+        <mark key="]" line="173" column="51" />
+        <mark key="." line="173" column="51" />
+        <mark key="^" line="173" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -1961,12 +1961,12 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" timestamp="1523611699306">
-        <mark key="'" line="6" column="57" />
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="31" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" timestamp="1523612813844">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="25" column="81" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170806065515_add_roles_table.exs" timestamp="1512545204840">
         <mark key="[" line="4" column="31" />
@@ -2357,11 +2357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="8" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
-      <jump line="193" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
-      <jump line="197" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
-      <jump line="199" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
-      <jump line="211" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="239" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="44" column="8" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
@@ -2453,10 +2448,15 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/message.ex" />
       <jump line="8" column="18" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
       <jump line="47" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/message.ex" />
       <jump line="5" column="57" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
       <jump line="168" column="56" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
