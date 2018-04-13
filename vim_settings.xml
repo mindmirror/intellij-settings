@@ -187,12 +187,6 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/views/error_view.ex" timestamp="1520842887682">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/config/dev.exs" timestamp="1504080081096">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="20" />
@@ -983,12 +977,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/css/phoenix.css" timestamp="1520855155438">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/golang/src/simple-web-server/form-input.go" timestamp="1466411191079">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="0" column="8" />
@@ -1038,12 +1026,12 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523602716578">
-        <mark key="'" line="200" column="46" />
-        <mark key="[" line="237" column="18" />
-        <mark key="]" line="237" column="46" />
-        <mark key="." line="237" column="46" />
-        <mark key="^" line="237" column="46" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523611437060">
+        <mark key="'" line="168" column="56" />
+        <mark key="[" line="169" column="49" />
+        <mark key="]" line="169" column="76" />
+        <mark key="." line="169" column="76" />
+        <mark key="^" line="169" column="76" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -1288,12 +1276,6 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/line_item/show.html.eex" timestamp="1522231119175">
-        <mark key="'" line="47" column="19" />
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="32" />
-        <mark key="." line="47" column="32" />
-      </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/app.html.eex" timestamp="1509455101682">
         <mark key="[" line="22" column="26" />
         <mark key="]" line="22" column="33" />
@@ -1335,12 +1317,6 @@
         <mark key="]" line="23" column="34" />
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/assets/js/app.js" timestamp="1522295641004">
-        <mark key="'" line="93" column="29" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/line_item/line_item.eex" timestamp="1520419612372">
         <mark key="[" line="0" column="12" />
@@ -1699,12 +1675,6 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/role.ex" timestamp="1521099868488">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/golang/src/gopl/ch01/server2/main.go" timestamp="1480911910444">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="25" column="1" />
@@ -1797,12 +1767,6 @@
         <mark key="]" line="7" column="46" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/products/ratecard_ad_format.ex" timestamp="1521100656121">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna/ecto_enums.ex" timestamp="1523519974280">
         <mark key="[" line="4" column="87" />
@@ -1997,11 +1961,12 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" timestamp="1523609239873">
-        <mark key="'" line="5" column="57" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" timestamp="1523611699306">
+        <mark key="'" line="6" column="57" />
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170806065515_add_roles_table.exs" timestamp="1512545204840">
         <mark key="[" line="4" column="31" />
@@ -2392,7 +2357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/manna_web_controller_helper.ex" />
       <jump line="188" column="8" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="193" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="197" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
@@ -2492,16 +2456,17 @@
       <jump line="7" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
       <jump line="47" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/manna/accounts/message.ex" />
       <jump line="5" column="57" filename="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" />
+      <jump line="168" column="56" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>submit_order</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>is_archvied</text>
@@ -2510,22 +2475,22 @@
         <text encoding="base64">ICAgIG5ld19lbWFpbCgpCiAgICB8PiB0byhhZGRyZXNzKQogICAgfD4gZnJvbSh7Ik1BTk5BIiwgIm1hbm5hQHBpeGVscy5hc2lhIn0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGlhcyBNYW5uYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHw+IHRleHRfYm9keSgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcnMuZGVsZXRlX2xpbmVfaXRlbShsaW5lX2l0ZW0pCgogICAgICAgIGNvbm4KICAgICAgICB8PiBwdXRfZmxhc2goOmluZm8sICJMaW5lIGl0ZW0gZGVsZXRlZCBzdWNjZXNzZnVsbHkuIikKICAgICAgICB8PiByZWRpcmVjdCh0bzogbGluZV9pdGVtX3BhdGgoY29ubiwgOmluZGV4KSkK</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcnMuZGVsZXRlX2xpbmVfaXRlbShsaW5lX2l0ZW0pCgogICAgICAgIGNvbm4KICAgICAgICB8PiBwdXRfZmxhc2goOmluZm8sICJMaW5lIGl0ZW0gZGVsZXRlZCBzdWNjZXNzZnVsbHkuIikKICAgICAgICB8PiByZWRpcmVjdCh0bzogbGluZV9pdGVtX3BhdGgoY29ubiwgOmluZGV4KSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2533,13 +2498,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIE9yZGVycy51cGRhdGVfbGluZV9pdGVtKGxpbmVfaXRlbSwgbGluZV9pdGVtX3BhcmFtcykgZG8KICAgICAgICAgIHs6b2ssIGxpbmVfaXRlbX0gLT4KICAgICAgICAgICAgY29ubgogICAgICAgICAgICB8PiBwdXRfZmxhc2goOmluZm8sICJMaW5lIGl0ZW0gdXBkYXRlZCBzdWNjZXNzZnVsbHkuIikKICAgICAgICAgICAgfD4gcmVkaXJlY3QodG86IGxpbmVfaXRlbV9wYXRoKGNvbm4sIDpzaG93LCBsaW5lX2l0ZW0pKQoKICAgICAgICAgIHs6ZXJyb3IsIGNoYW5nZXNldH0gLT4KICAgICAgICAgICAgbGluZV9pdGVtID0gT3JkZXJzLmdldF9saW5lX2l0ZW0oaWQpCiAgICAgICAgICAgIHByb2R1Y3RfbWFwID0gUHJvZHVjdHMuZ2V0X3Byb2R1Y3RfbWFwKCkKCiAgICAgICAgICAgIHByb2R1Y3RfdHlwZXMgPSBQcm9kdWN0cy5saXN0X3Byb2R1Y3RfdHlwZXMoKQoKICAgICAgICAgICAgcHJvZHVjdF90eXBlcyA9CiAgICAgICAgICAgICAgaWYgRW51bS5tZW1iZXI/KHByb2R1Y3RfdHlwZXMsIGxpbmVfaXRlbS5wcm9kdWN0X3R5cGVfbmFtZSksCiAgICAgICAgICAgICAgICBkbzogcHJvZHVjdF90eXBlcywKICAgICAgICAgICAgICAgIGVsc2U6IFt7bGluZV9pdGVtLnByb2R1Y3RfdHlwZV9uYW1lLCBsaW5lX2l0ZW0ucHJvZHVjdF90eXBlX25hbWV9XQoKICAgICAgICAgICAgcHVibGlzaGVyX25hbWVzID0KICAgICAgICAgICAgICBpZiBwcm9kdWN0X21hcFtsaW5lX2l0ZW0ucHJvZHVjdF90eXBlX25hbWVdID09IG5pbCBkbwogICAgICAgICAgICAgICAgW3tsaW5lX2l0ZW0ucHVibGlzaGVyX25hbWUsIGxpbmVfaXRlbS5wdWJsaXNoZXJfbmFtZX1dCiAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgRW51bS5tYXAocHJvZHVjdF9tYXBbbGluZV9pdGVtLnByb2R1Y3RfdHlwZV9uYW1lXSwgZm4ge2ssIF92fSAtPiB7aywga30gZW5kKQogICAgICAgICAgICAgIGVuZAoKICAgICAgICAgICAgYWRfZm9ybWF0X25hbWVzID0KICAgICAgICAgICAgICBpZiBwcm9kdWN0X21hcFtsaW5lX2l0ZW0ucHJvZHVjdF90eXBlX25hbWVdW2xpbmVfaXRlbS5wdWJsaXNoZXJfbmFtZV0gPT0gbmlsIGRvCiAgICAgICAgICAgICAgICBbe2xpbmVfaXRlbS5hZF9mb3JtYXRfbmFtZSwgbGluZV9pdGVtLmFkX2Zvcm1hdF9uYW1lfV0KICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICBFbnVtLm1hcCgKICAgICAgICAgICAgICAgICAgcHJvZHVjdF9tYXBbbGluZV9pdGVtLnByb2R1Y3RfdHlwZV9uYW1lXVtsaW5lX2l0ZW0ucHVibGlzaGVyX25hbWVdLAogICAgICAgICAgICAgICAgICBmbiB7aywgX3Z9IC0+CiAgICAgICAgICAgICAgICAgICAge2ssIGt9CiAgICAgICAgICAgICAgICAgIGVuZAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgIGVuZAoKICAgICAgICAgICAgcmVuZGVyKAogICAgICAgICAgICAgIGNvbm4sCiAgICAgICAgICAgICAgImVkaXQuaHRtbCIsCiAgICAgICAgICAgICAgbGluZV9pdGVtOiBsaW5lX2l0ZW0sCiAgICAgICAgICAgICAgcHJvZHVjdF90eXBlczogcHJvZHVjdF90eXBlcywKICAgICAgICAgICAgICBwdWJsaXNoZXJfbmFtZXM6IHB1Ymxpc2hlcl9uYW1lcywKICAgICAgICAgICAgICBwcm9kdWN0X21hcDogcHJvZHVjdF9tYXAsCiAgICAgICAgICAgICAgYWRfZm9ybWF0X25hbWVzOiBhZF9mb3JtYXRfbmFtZXMsCiAgICAgICAgICAgICAgY3VycmVudF91c2VyOiBjdXJyZW50X3VzZXIsCiAgICAgICAgICAgICAgY2hhbmdlc2V0OiBjaGFuZ2VzZXQKICAgICAgICAgICAgKQogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIE9yZGVycy51cGRhdGVfbGluZV9pdGVtKGxpbmVfaXRlbSwgbGluZV9pdGVtX3BhcmFtcykgZG8KICAgICAgICAgIHs6b2ssIGxpbmVfaXRlbX0gLT4KICAgICAgICAgICAgY29ubgogICAgICAgICAgICB8PiBwdXRfZmxhc2goOmluZm8sICJMaW5lIGl0ZW0gdXBkYXRlZCBzdWNjZXNzZnVsbHkuIikKICAgICAgICAgICAgfD4gcmVkaXJlY3QodG86IGxpbmVfaXRlbV9wYXRoKGNvbm4sIDpzaG93LCBsaW5lX2l0ZW0pKQoKICAgICAgICAgIHs6ZXJyb3IsIGNoYW5nZXNldH0gLT4KICAgICAgICAgICAgbGluZV9pdGVtID0gT3JkZXJzLmdldF9saW5lX2l0ZW0oaWQpCiAgICAgICAgICAgIHByb2R1Y3RfbWFwID0gUHJvZHVjdHMuZ2V0X3Byb2R1Y3RfbWFwKCkKCiAgICAgICAgICAgIHByb2R1Y3RfdHlwZXMgPSBQcm9kdWN0cy5saXN0X3Byb2R1Y3RfdHlwZXMoKQoKICAgICAgICAgICAgcHJvZHVjdF90eXBlcyA9CiAgICAgICAgICAgICAgaWYgRW51bS5tZW1iZXI/KHByb2R1Y3RfdHlwZXMsIGxpbmVfaXRlbS5wcm9kdWN0X3R5cGVfbmFtZSksCiAgICAgICAgICAgICAgICBkbzogcHJvZHVjdF90eXBlcywKICAgICAgICAgICAgICAgIGVsc2U6IFt7bGluZV9pdGVtLnByb2R1Y3RfdHlwZV9uYW1lLCBsaW5lX2l0ZW0ucHJvZHVjdF90eXBlX25hbWV9XQoKICAgICAgICAgICAgcHVibGlzaGVyX25hbWVzID0KICAgICAgICAgICAgICBpZiBwcm9kdWN0X21hcFtsaW5lX2l0ZW0ucHJvZHVjdF90eXBlX25hbWVdID09IG5pbCBkbwogICAgICAgICAgICAgICAgW3tsaW5lX2l0ZW0ucHVibGlzaGVyX25hbWUsIGxpbmVfaXRlbS5wdWJsaXNoZXJfbmFtZX1dCiAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgRW51bS5tYXAocHJvZHVjdF9tYXBbbGluZV9pdGVtLnByb2R1Y3RfdHlwZV9uYW1lXSwgZm4ge2ssIF92fSAtPiB7aywga30gZW5kKQogICAgICAgICAgICAgIGVuZAoKICAgICAgICAgICAgYWRfZm9ybWF0X25hbWVzID0KICAgICAgICAgICAgICBpZiBwcm9kdWN0X21hcFtsaW5lX2l0ZW0ucHJvZHVjdF90eXBlX25hbWVdW2xpbmVfaXRlbS5wdWJsaXNoZXJfbmFtZV0gPT0gbmlsIGRvCiAgICAgICAgICAgICAgICBbe2xpbmVfaXRlbS5hZF9mb3JtYXRfbmFtZSwgbGluZV9pdGVtLmFkX2Zvcm1hdF9uYW1lfV0KICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICBFbnVtLm1hcCgKICAgICAgICAgICAgICAgICAgcHJvZHVjdF9tYXBbbGluZV9pdGVtLnByb2R1Y3RfdHlwZV9uYW1lXVtsaW5lX2l0ZW0ucHVibGlzaGVyX25hbWVdLAogICAgICAgICAgICAgICAgICBmbiB7aywgX3Z9IC0+CiAgICAgICAgICAgICAgICAgICAge2ssIGt9CiAgICAgICAgICAgICAgICAgIGVuZAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgIGVuZAoKICAgICAgICAgICAgcmVuZGVyKAogICAgICAgICAgICAgIGNvbm4sCiAgICAgICAgICAgICAgImVkaXQuaHRtbCIsCiAgICAgICAgICAgICAgbGluZV9pdGVtOiBsaW5lX2l0ZW0sCiAgICAgICAgICAgICAgcHJvZHVjdF90eXBlczogcHJvZHVjdF90eXBlcywKICAgICAgICAgICAgICBwdWJsaXNoZXJfbmFtZXM6IHB1Ymxpc2hlcl9uYW1lcywKICAgICAgICAgICAgICBwcm9kdWN0X21hcDogcHJvZHVjdF9tYXAsCiAgICAgICAgICAgICAgYWRfZm9ybWF0X25hbWVzOiBhZF9mb3JtYXRfbmFtZXMsCiAgICAgICAgICAgICAgY3VycmVudF91c2VyOiBjdXJyZW50X3VzZXIsCiAgICAgICAgICAgICAgY2hhbmdlc2V0OiBjaGFuZ2VzZXQKICAgICAgICAgICAgKQogICAgICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
