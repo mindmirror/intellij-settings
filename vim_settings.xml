@@ -1961,12 +1961,12 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" timestamp="1523607352016">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" timestamp="1523608107035">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="1" column="0" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="4" column="6" />
         <mark key="^" line="0" column="22" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170806065515_add_roles_table.exs" timestamp="1512545204840">
         <mark key="[" line="4" column="31" />
@@ -2462,11 +2462,11 @@
       <register name="a" type="4">
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>submit_order</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>submit_order</text>
       </register>
       <register name="/" type="4">
         <text>is_archvied</text>
