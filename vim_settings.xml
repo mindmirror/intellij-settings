@@ -1226,12 +1226,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/email.html.eex" timestamp="1523948173231">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/email.html.eex" timestamp="1523951095534">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="16" column="5" />
-        <mark key="^" line="16" column="5" />
+        <mark key="[" line="10" column="54" />
+        <mark key="]" line="10" column="65" />
+        <mark key="." line="10" column="65" />
+        <mark key="^" line="10" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/admin/layout/admin.html.eex" timestamp="1520850586178">
         <mark key="[" line="24" column="15" />
@@ -1640,12 +1640,12 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/email.ex" timestamp="1523949818799">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/email.ex" timestamp="1523951827199">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="41" />
-        <mark key="^" line="15" column="41" />
-        <mark key="." line="15" column="41" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/golang/src/shopping/main/main.go" timestamp="1460690515714">
         <mark key="[" line="5" column="1" />
@@ -1747,12 +1747,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523612832430">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" timestamp="1523951308386">
         <mark key="'" line="168" column="56" />
-        <mark key="[" line="172" column="57" />
-        <mark key="]" line="173" column="51" />
-        <mark key="." line="173" column="51" />
-        <mark key="^" line="173" column="51" />
+        <mark key="[" line="170" column="60" />
+        <mark key="]" line="170" column="65" />
+        <mark key="." line="170" column="65" />
+        <mark key="^" line="170" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/elixir/phoenix-guide/hello_phoenix/web/router.ex" timestamp="1497193308199">
         <mark key="'" line="10" column="0" />
@@ -2116,6 +2116,12 @@
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/email/notify_order_submission.html.eex" timestamp="1523950843902">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/aims/campaign-express/web/views/admin/user_view.ex" timestamp="1500892023130">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="25" />
@@ -2134,11 +2140,11 @@
         <mark key="." line="15" column="75" />
         <mark key="^" line="15" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" timestamp="1523949716562">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna/orders/notification.ex" timestamp="1523950945268">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="26" column="28" />
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="51" />
         <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/aims/manna/priv/repo/migrations/20170806065515_add_roles_table.exs" timestamp="1512545204840">
@@ -2343,12 +2349,12 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/mix.exs" timestamp="1523520225498">
+      <file name="$USER_HOME$/Projects/aims/manna/mix.exs" timestamp="1523951469827">
         <mark key="'" line="29" column="16" />
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="35" />
-        <mark key="^" line="9" column="35" />
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+        <mark key="^" line="72" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/elixir/hello/web/router.ex" timestamp="1496887369843">
         <mark key="'" line="21" column="0" />
@@ -2484,10 +2490,10 @@
         <text>Repo.insert!(product_type, on_conflict: [set: [sf_id: p[:Id]]])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>get_</text>
+        <text>to_text(email.html_body)</text>
       </register>
       <register name="-" type="4">
-        <text>get_</text>
+        <text>to_text(email.html_body)</text>
       </register>
       <register name="/" type="4">
         <text>is_archvied</text>
@@ -2496,22 +2502,22 @@
         <text>&quot;Order #{order.id} submitted&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHw+IHRvKGFkZHJlc3MpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGlhcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHw+IHRvKGFkZHJlc3MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9tYWluPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPG1haW4gcm9sZT0ibWFpbiI+Cg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgPC9tYWluPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2519,13 +2525,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbGlhcyBNYW5uYQo=</text>
+        <text encoding="base64">ICAgICAgPG1haW4gcm9sZT0ibWFpbiI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHw+IHRleHRfYm9keSgpCg==</text>
+        <text encoding="base64">ICBAbW9kdWxlZG9jIGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGlhcyBNYW5uYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
