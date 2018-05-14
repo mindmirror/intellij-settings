@@ -1137,8 +1137,8 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1517453011440">
-        <mark key="'" line="45" column="9" />
+      <file name="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" timestamp="1526276955581">
+        <mark key="'" line="42" column="7" />
         <mark key="[" line="52" column="48" />
         <mark key="]" line="52" column="49" />
         <mark key="." line="52" column="49" />
@@ -1726,7 +1726,6 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/deps/premailex/lib/premailex/html_inline_styles.ex" timestamp="1523961462961" />
       <file name="$USER_HOME$/golang/src/gopl/ch04/issueshtml/main.go" timestamp="1484014525836">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="28" column="0" />
@@ -2436,8 +2435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
-      <jump line="46" column="10" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/line_item_controller.ex" />
@@ -2536,6 +2533,8 @@
       <jump line="6" column="19" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/controllers/order_controller.ex" />
       <jump line="21" column="7" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/email.ex" />
       <jump line="13" column="4" filename="$USER_HOME$/Projects/aims/manna/lib/manna_web/email.ex" />
+      <jump line="49" column="15" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
+      <jump line="42" column="7" filename="$USER_HOME$/Projects/aims/campaign-express/lib/mix/tasks/extract_campaign.ex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2548,7 +2547,7 @@
         <text>order_submission_email</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlX2VtYWlsXD4=</text>
+        <text encoding="base64">XDxnZXRfZmlsdGVyZWRfY2FtcGFpZ25zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3JkZXIKICAgICAgICAgICAgfD4gRW1haWwuZ2VuZXJhdGVfb3JkZXJfbm90aWZpY2F0aW9uX2VtYWlsKCkKICAgICAgICAgICAgfD4gTWFpbGVyLmRlbGl2ZXJfbGF0ZXIoKQo=</text>
@@ -2590,18 +2589,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlX2VtYWlsXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRfZmlsdGVyZWRfY2FtcGFpZ25zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlX2VtYWlsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfZmlsdGVyZWRfY2FtcGFpZ25zXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBvcnRfYWRfZm9ybWF0XD4=</entry>
-        <entry encoding="base64">XDxwcm9kdWN0X2l0ZW1zXD4=</entry>
         <entry encoding="base64">XDxwbFw+</entry>
         <entry encoding="base64">XDxwaVw+</entry>
         <entry encoding="base64">XDxwdWJsaXNoZXJfc2ZpZF9tYXBcPg==</entry>
@@ -2620,6 +2617,8 @@
         <entry encoding="base64">XDxwYXJzZV9zZWxlY3RvcnNfcnVsZXNcPg==</entry>
         <entry>Mailer</entry>
         <entry encoding="base64">XDxiYXNlX2VtYWlsXD4=</entry>
+        <entry encoding="base64">XDxVbmlmaWVkQ2FtcGFpZ25cPg==</entry>
+        <entry encoding="base64">XDxnZXRfZmlsdGVyZWRfY2FtcGFpZ25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
