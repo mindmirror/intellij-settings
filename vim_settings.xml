@@ -1250,7 +1250,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/email.html.eex" timestamp="1523954029604">
+      <file name="$USER_HOME$/Projects/aims/manna/lib/manna_web/templates/layout/email.html.eex" timestamp="1529647308512">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="48" />
         <mark key="]" line="10" column="46" />
@@ -2595,7 +2595,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBZHZlcnRpc2Vyc1w+</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
